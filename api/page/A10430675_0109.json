@@ -1,0 +1,22 @@
+{
+	"anumber": "A10430675",
+	"id": "A10430675_0109",
+	"page_index": 109,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10430675_0109/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "University of Minnesota Graduate School Minneapolis 14 May 2 25, 1948"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1948]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "UNIVERSITY OF MINNESOTA agoo / 33210 GRADUATE SCHOOL MINNEAPOLIS 14 OFFICE OF THE DEAN May 25, 1948 Mr. C. C. Davis Immigration and Naturalization Service Post Office Building Chicago, 7, Illinois Dear Mr. Davis: 8 Mr. Maoling Liu is registered in the Graduate School of this University for major work in Electrical Engineering with the intention of earning a Master of Science degree. During the present quarter Mr. Liu is carrying six credits of graduate work and is working on his thesis. Both his major adviser and the graduate school feel that this is the equivalent of a full program of study. Sincerely yours, Margaret margaret L. Davis h. Davis Assistant to the Dean MLD:aw C: Mr. Moore"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A34261850",
+	"id": "A34261850_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34261850_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "RESIDENT ALIEN, A-021712"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/3/2023 RESIDENT ALIEN U.S Department of Justice -Immig ration and Naturalization Service ALFARO VDA DE GOMEZ,MARIA TRIN 021712 61850 SYS SAL O limited nE ALIEN LEGISTRATION RECEIPT CARD in smit PREMIUMENTO 34261850 11 23 533 542 23159 2543 74202 75317 76212 30744 092972 582 051 01416 4993333"
+}

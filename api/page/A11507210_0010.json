@@ -1,0 +1,28 @@
+{
+	"anumber": "A11507210",
+	"id": "A11507210_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11507210_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "RUDLOF'S TRANSLATION SERVICE, 1293"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Australia", "Slovakia"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1931, 1904, 1958]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "RUDLOF'S TRANSLATION SERVICE 77 King Street Sydney Translation from the Slovak N.S.W. Australia Phone: BX 4067 (Original bearing One Crown 5. - .. Duty Stamp) Crowns 3.-- Stamp Duty paid. Land: Slovakia Entered in Journal under No 1293 District ---- (Coat of Arms) BIRTH CERTIFICATE Consecutive No. 1009 Date of Entry (Day, Month, Year) 7th June,1904 Date of Birth (Day, Month, Year) 3rd June, 1904 (The Third Day of June (One Thousand Nine Hundred and Four) Name, Sex, Religion of Child Ludovit, male, Roman Catholic First Name and Name, MARIA SANITRIK Occupation (profession) Domestic and Residence of Parents: 8 Panenska, BRATISLAVA Religion ) Roman Catholic ) of Parent Age ) 24 years old Birthplace, if the mother has not given birth to the child in her residence Remarks preceding the ) \"Signatures\" signatures- ) Signatures ) Additional Entries, Corrections I hereby certify that this Extract is in full conformity with the Entry in the Birth Register kept in the BRATISLAVA Registry. BRATISLAVA, 30th April, 1931. The Registrar: (Seal): The State Registry (Signature illegible) in Bratislava. THIS is the annexure marked \"A\" referred to in Statutory Declaration made by Ernest N. Rudlow before me the 19th May, 1958. R.4.Prown J.P."
+}

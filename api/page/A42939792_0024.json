@@ -1,0 +1,25 @@
+{
+	"anumber": "A42939792",
+	"id": "A42939792_0024",
+	"page_index": 24,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42939792_0024/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF BIRTH, FORM No. 9"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1907, 1990, 2023, 2001]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/14/2023 OP 14322/90 Government of Goa Directorate of Planning, Statistics and Evaluation FORM No. 9 (See Rule 9) issued under section 12 of the Registration CERTIFICATE OF BIRTH of Births and Deaths issued under section 17 Act, 1969. of birth which is in the register for Produced Good Veler the original This is to certify that the following information has been taken from record Taluka Side of of District SPUF of State of Goa. (local area) Name Abel Jolce two Redade Sex wall n Date of Birth 10-9-1907 (sevice / Registration No. 54 Name Place of of Birth Father Dedro Velve Cailaus - Date of Registration 12/11/2001 Si Core Permanent address of Father/Mother U.clea. Name of Mother Heegeline Dorerado - Nationality of Father Nationality of Mother Name Name of Grandfather (father's side) Josecining S.Cer of Grandmother Signature of (father's issuing authority side) Josefer Eurcride the CIVIL REGISTRAR Chief Registrar SALCER Seal (Facsimile signature) Date Talse have Govt. Ptg. Press, Panaji-Goa - 865/1,00,000 - 1/1990"
+}

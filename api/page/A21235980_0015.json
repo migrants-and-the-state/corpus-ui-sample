@@ -1,0 +1,25 @@
+{
+	"anumber": "A21235980",
+	"id": "A21235980_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21235980_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IMMIGRATION AND NATURALIZATION SERVICE"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Form 1 - 181b (Rev. 4-1-77)Y Screened by NARA, 9/21/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE A- 21 235 980 Date: TRAN, Mau Ngoc Thi I8449 Collins St # 19 Tarzana. CA 91356 The application for adjustment of status to that of a permanent resident filed by the above named has been granted. Sincerely yours, District Director ATTORNEY (Page 5)"
+}

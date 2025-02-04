@@ -1,0 +1,22 @@
+{
+	"anumber": "A34733884",
+	"id": "A34733884_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34733884_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PERMIT TO REENTER THE UNITED STATES, I-1297"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "by INANA, 020Z0 UNITED STATES OF AMERICA DEPARTMENT OF JUSTICE Immigration and Naturalization Service SEE PERMIT TO REENTER THE UNITED STATES . Pursuant to the provisions of Section 223 of the Immigration and Nationality If THIS DOCUMENT IS FOUND PLEASE Act, this permit is issued to the person RETURN a TO: named herein, an alien previously law- AND NATURALIZATION fully admitted to the United States for DEPARTMENT OF JUSTICE permanent residence, to reenter the United States as a special immigrant 425 I STREET N.W if otherwise admissible. WASHINGTON D.C. 20535 the period to Natural- permit may THIS IS NOT A UNITED STATES PASSPORT 1"
+}

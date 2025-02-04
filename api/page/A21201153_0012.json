@@ -1,0 +1,25 @@
+{
+	"anumber": "A21201153",
+	"id": "A21201153_0012",
+	"page_index": 12,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21201153_0012/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEparTure RecorD, 4.94 (Rev. 1-67) (Parole Edition)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA 9/21/2023 IMPORTANT NOTICE IIIIIII Your parole into the United States does not con- stitute an admission under the terms of the Immigration and Nationality Act. You must ob- serve the conditions of the parole and failure to comply with any of those conditions may result in the revocation of your parole If, for any rea- son, you do not proceed to the address shown on the face of this form, or if after arrival, you change your address, you must immediately report to the nearest office of the Immigration and Naturalization Service. You must also report to the nearest office of the Immigration and Naturalization Service if your status is not other- wise changed or if you do not leave the United States before the termination date shown. PON DEPARTURE FROM THE UNITED STATES By*sea or air surrender this permit to trans- portation dine Over Canadian border, surrend r this permit to Canadian Immigration Officer Mexicon por er, surrender this permit to United States Immigration Officer. DEPARTURE RECORD Port: Date: Carrier: To: (Country of disembarkation) UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service Form Approved Budget Bureau No. 43-R311.7 ARRIVAL- DEPARTURE RECORD FORM -94 (Rev. -1-67 (Parole Edition)"
+}

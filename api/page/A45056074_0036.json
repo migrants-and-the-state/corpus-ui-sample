@@ -1,0 +1,22 @@
+{
+	"anumber": "A45056074",
+	"id": "A45056074_0036",
+	"page_index": 36,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A45056074_0036/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Record of IBIS Query ( (ROIQ), A045 056 074"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2005, 1914, 2023, 2002]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 Record of IBIS Query (ROIQ) A-Number or Receipt Number: A045 056 074 Form Type: N400 Batch No. NAME (person/business) DOB Number/Date IBIS OK IBIS DNR IBIS Ref. MEDINA RIVERA, ABELINA 2/25/1914 SEP OP492005 CATEGORY M F A P B D 2nd Check Resolution Memorandum completed 3rd Check MEDINA, ABELINA 2/25/1914 SEP Rap 2005 CATEGORY M F X x A P B D 2nd Check Resolution Memorandum completed 3rd Check 3 Rivera , Abelina 2-25-1914 $19-905 CATEGORY M F x A P B D 2nd Check Resolution Memorandum completed 3rd Check CATEGORY M F A P B D 2nd Check Resolution Memorandum completed 3rd Check CATEGORY M F A P B D 2nd Check Resolution Memorandum completed 3rd Check A-Applicant P-Petitioner M-Male IBIS OK-No match for search criteria listed B-Beneficiary D-Derivative/ F- Female IBIS DNR-Match exists but does not relate to queried subject Household Member IBIS REF-Case referred for resolution of positive result(s) Immigration and Naturalization Service Appendix K IBIS SOP November 21, 2002 Page 162"
+}

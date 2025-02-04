@@ -1,0 +1,25 @@
+{
+	"anumber": "A92050561",
+	"id": "A92050561_0047",
+	"page_index": 47,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A92050561_0047/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Notice of Naturalization Oath Ceremony, Form N-445"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2005, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 Department of Homeland Security OMB No . 1615-0054; Expires 10/31/05 U.S. Citizenship and Immigration Services Form N-445, Notice of Naturalization Oath Ceremony A# A092050561 WSC* 001248750 May 06, 2005 Date APPLICANT COPY MARIA LEONOR AYALA BARAHONA 19071 SLOVER AVE BLOOMINGTON CA 92316 You are hereby notified to appear for a Naturalization Oath Ceremony on: No Thursday, May 26 2005 at: US DISTRICT COURT CENTRAL DISTRICT FAIRPLEX BUILDING 4 POMONA, CA 91768 LOS ANGELES COUNTY FAIRUROUNDS, HALL, * 8:00 AM Please report promptly at You must bring the following with you: This letter, WITH ALL THE QUESTIONS ON PAGE 2 ANSWERED. TYPE OR PRINT ANSWERS IN BLACK INK. Permanent Resident Card. Reentry Permit or Refugee Travel Document. Any Immigration documents you may have. If the naturalization application is on behalf of your child (children), bring your child (children). Other. Proper attire should be worn. If you cannot come to this ceremony, return this notice immediately and state why you cannot appear. In such case, you will be sent another notice of ceremony at a later date. You must appear at an oath ceremony to complete the naturalization process. Form N-445 (Rev. 09/11/03)N"
+}

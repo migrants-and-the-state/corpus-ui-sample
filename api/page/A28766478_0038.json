@@ -1,0 +1,39 @@
+{
+	"anumber": "A28766478",
+	"id": "A28766478_0038",
+	"page_index": 38,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28766478_0038/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325A"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1983, 1929, 2107, 1908]
+		},
+		"g325a": {
+			"occupation": {
+				"occupation_llm_v1": "['n.a']"
+			},
+			"reason": {
+				"reason_llm_v1": "NATURALIZATION"
+			},
+			"nationality": {
+				"nationality_llm_v1": "Nicaragua"
+			}
+		}
+	},
+	"is_g325a": true,
+	"is_cert_naturalization": false,
+	"full_text": "U.S. Department of Justice ScreeFORMIGAB2501/2023 OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION Approval expires 4-30-85 (Family name) (First name) MAURA (Middle name) MALE BIRTHDATE (Mo.-Day-Yr.) NATIONALITY FILE NUMBER SilvA ANdREA PAS to RA FEMALE Nov. 30-1908 NICARAGUANA ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. MAURA S de Rocha MANAGUA Nic. (If any) FAMILY NAME Jose Luis SiluA FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE FATHER MOTHER (Maiden name) JeRoNiMA SiluA NICARAGUA PASS A wAy HUSBAND (If none, SO state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE CARlos Rocha CARlos NiCARAgUA Sep 4.1929 DiRiAMbA FORMER HUSBANDS OR WIVES (if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE N/A APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 2107. S. Horwood St LA CA USA DEC 83 PRESENT TIME DIRIAMBA NICARAGUA DIRIAMBA CARAZO NICARAGUA LFF Dec 13 1983 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR DiRiAMBA DIRIAMBA CARRZO NICARAGUA BORN 12-13 1983 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME N/A Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): X Maurasi Rocha 8 - IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS, WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) Form G-325A (Rev. 10-1-82) (1) IDENT."
+}

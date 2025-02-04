@@ -1,0 +1,22 @@
+{
+	"anumber": "A72044315",
+	"id": "A72044315_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A72044315_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 8/11/2023, JDP/lp"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992, 1993, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/11/2023 Jorge D. Paex M. D. GENERAL PRACTICE WESTCHESTER POINT PLAZA MEDICAL CENTER Tel.: (305) 267-5281 8362 S.W. 8th STREET MIAMI, FL 33144 Fax: (305) 267-7239 January 7, 1993 U.S. Department of Justice Immigration and Naturalization Service Re: George Heraux Dob: 6-06-07 To whom it may concern: The patient George Heraux of 85 years of age, was seen in my office on November 17, 1992 for a medical examination for Immigration and Naturalization Services. Upon receiving his tests, Mr Heraux was informed that his VDRL results were reactive. Patient was referred to the Department of Health and Rehabilitative Services for a further evaluation of his condition. Mr Heraux was treated for his condition at the health department. A summary report of his treatment is attached for your convenience. If you should have any further questions, please contact the Department of Health and Rehabilitative Services at 1350 N.W. 14 Street Miami, Florida 33125. JORGE Sincerely, D PAEZ M D JDP/1p"
+}

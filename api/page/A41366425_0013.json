@@ -1,0 +1,22 @@
+{
+	"anumber": "A41366425",
+	"id": "A41366425_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41366425_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Matriculation Examination"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1954, 1939]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "original seen and returned. true and correct COPY Certified a g road a 4/2/17 1ve. Contact Represents planjah MATRICULATION EXAMINATION This is to certify That Gurcharan Singh Roll No. , 61613 . son of Shri Inder Singh and of the Pothobar Sayyad Khalsa National High School, has passed the Ludhiana Matriculation Examination of this University. held in March, 1954 in five subjects obtaining 554 marks in the First Division. Date of Birth Third June, One Thousand Nine Hundred and Thirty-rine 3.6.1939 ). Solan (Simla Hills), May 15, 1954. Registrar"
+}

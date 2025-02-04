@@ -1,0 +1,25 @@
+{
+	"anumber": "A90405034",
+	"id": "A90405034_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90405034_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PAGE 2: TO BE COMPLETED BY DESIGNATED CIVIL SURGEON"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1996]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "PAGE 2: TO BE COMPLETED BY DESIGNATED CIVIL SURGEON Please type or print legibly / certify that on July 22, 1996 (insert date) / examined: Maria Bertha Lacayo A 090405034 Name Alien Registration Number 03/28/07 11560 S. W. 92nd Street, Miami, Florida 33176 Date of birth Address / examined specifically for the condition listed below. My examination revealed: No apparent developmental disability, physical disability or mental impairment condition, or The conditions listed below were found: Developmental disability Physical disability Mental impairment condition Mental Retardation Legally Blind Aphasia Autism Deaf Altztheimer's Disease Cerebral Palsy Paralysis Other: Loss of Memory Lack of Coordination Other: Multiple Sclerosis Depresion Polio Other: REMARKS: Patient is not able to take the Citezenship exam due to her conditions. Please see letter from her personal physician stating her conditions. APPLICANT CERTIFICATION SIGNATURE & DATE I certify that the information in this form refers to me. Bertho a Lacays CIVIL SURGEON CERTIFICATION NAME TITLE, SIGNATURE & DATE / certify that I have been designated by the Immigration & Naturalization Service to conduct medical Rigoberto Fernandez Raya, M.D. Surgeon 07/22/96 examinations of aliens. ADDRESS 3796 West Flagler Street, Miami, Florida 33134 PAGE 2"
+}

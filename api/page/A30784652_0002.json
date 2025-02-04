@@ -1,0 +1,22 @@
+{
+	"anumber": "A30784652",
+	"id": "A30784652_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30784652_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Austria"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1908]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "1. Name (Last in CAPS) First Middle 2. No. VIOLIN, WILHELMINE A 30 784 652 3. Name Under Which Admitted, Record Created or Aliases Sndx. Code 4. City and Country of Birth 5. Date Month Day Year of AUSTRIA Birth 4 11 1908 6. Place of Entry 7. Date Month Day Year of - Entry - 8. Appl. Form No. or Reason 9. Date Appl. Received 10. Date of Request for Request I-407 5-1-81 MLL 11. Receiving FCO Symbol 12. Forwarding FCO Symbol 13. LOS SFR 6/26/81 Date of Transfer 14. REMARKS: 4-15-81 No Record Just Record Just System (Date) (Date) No Record , (FCO) (Date) Form G-360 B (Rev. 1-1-81)N ROUTE SLIP"
+}

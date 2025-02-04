@@ -1,0 +1,22 @@
+{
+	"anumber": "A21772021",
+	"id": "A21772021_0042",
+	"page_index": 42,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21772021_0042/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CORRESPONDENCE CONTROL CARD, FORM G-617"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1982]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/1/2023 CONTROL NO. OFFICE SINGH, Piar B J Req: Bhagwan Singh Chawla DUE DATE FOR REPLY E C G100 11/24/82 T CORRESPONDENCE FROM AND DESCRIPTION ASSIGNED (DATE) (TO) 10/27/82 EXTENDED TO (DATE) G-657: orig. doc. TRANSFERRED (DATE) (TO) DATED FILE NUMBERS TRANSFERRED (DATE) (TO) A21 772 021 DATE OF INTERIM REPLY REPORT REQUESTED FROM (OFFICE) (DATE REPORT DUE) DATE OF REPLY FILE NUMBERS WORK FOLDER G NOV - 4 1982 FORM G-617 CORRESPONDENCE CONTROL CARD REV. 8-12-76 N"
+}

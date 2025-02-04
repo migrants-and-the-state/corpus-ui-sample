@@ -1,0 +1,22 @@
+{
+	"anumber": "A12296289",
+	"id": "A12296289_0019",
+	"page_index": 19,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12296289_0019/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Old Colony Shoe Company, JFA/PL"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961, 1953]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "THE Kinetic SHOE BY OLD Old Colony Shoe Company COLONY 84 EAST RAILROAD AVENUE, BROCKTON 64, MASSACHUSETTS Manufacturers of NEW YORK SALES OFFICE MEN'S FINE WELTS 921-25 MARBRIDGE BLDG. FEBRUARY 15, 1961 To WHOM IT MAY CONCERN: THIS LETTER IS WRITTEN TO STATE THAT MR. VYTAWTAS THOMASHAITIS, 537 SUMMER STREET, BROCKTON, MASS. is STEADILY EMPLOYED AT THE OLD COLONY SHOE COMPANY, HAVING BEGUN HIS EMPLOYMENT NOVEMBER 30, 1953. HIS JOB CONSISTS OF CUTTING AND CASING INNERSOLES AND OUTERSOLES. STATE OF WAGES WILL AVERAGE $70.60 PER WEEK. HIS POSITION IS PERMANENT. VERY TRULY YOURS, OLD COLONY SHOE COMPANY J.F. AHEARN JFA/PL"
+}

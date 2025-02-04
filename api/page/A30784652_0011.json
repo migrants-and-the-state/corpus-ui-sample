@@ -1,0 +1,25 @@
+{
+	"anumber": "A30784652",
+	"id": "A30784652_0011",
+	"page_index": 11,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30784652_0011/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "feminin"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ACTE DE NAISSANCE, 70 02 345"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1950, 1936]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "70 02 343 Mariée à Vienne (Autriche) le I5 novem- ACTE DE NAISSANCE bre 1936 avec SCHWALB Ernert, divorcée par Jugement du Tribunal de Première Instance de Casablanca (Maroc) rendu M BAUER Wilhelmine de le I8 février 1950 féminin Sexe Vienne (Autriche) Lieu Père : Léopold onze avril mil neuf cent huit SOU Date 29 JANVIER I970 (Naturalisation) PICK Hedwig Mère : Français par décret du 9, couturière Profession 31, rue St-Guillaume, Paris (7ène) Adresse . : 9067 X 53 ORIGINAL AND Dossier N° COMPARE Cluman Signature et Cachet de l'Officier d'Etat-Civil"
+}

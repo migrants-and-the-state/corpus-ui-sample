@@ -1,0 +1,25 @@
+{
+	"anumber": "A20865114",
+	"id": "A20865114_0066",
+	"page_index": 66,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20865114_0066/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DECLARATION OF CONDITIONAL ENTRANT AT TIME OF ARRIVAL, Form I-592 ( (Rev. 12-1-65)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE File: DECLARATION OF CONDITIONAL ENTRANT AT TIME OF ARRIVAL I understand that I have been approved for conditional entry into the United States under the provisions of Section 203(a) (7) of the Immigration and Nationality Act. I have again reviewed the statements made by me to United States Immigration Officers in connection with my application for such conditional entry and they are true and correct in every respect. I make this declaration after I have been informed that evidence of any misstatement or nondisclosure of any fact about which I have been questioned may be sufficient to cause termination of my conditional entry and my return to and may warrant a finding that I have procured my con- ditional entry into the United States by fraud. X sunh Subscribed and sworn to before me on 8-23-78 NYC JFK Immigrant Inspector Form I-592 (Rev. 12-1-65) GPO 898-406"
+}

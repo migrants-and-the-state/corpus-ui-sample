@@ -1,0 +1,25 @@
+{
+	"anumber": "A28740267",
+	"id": "A28740267_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28740267_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INDEX CARD, G-361(5-15-83)Y"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. Screened by NARA, 7/28/2023 SOLIS-ROMERO, Marcelino A28-740-267 Alias P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY,YR OF BIRTH COUNTRY OF BIRTH SYS 01/31/84 EWI 04/26/05 Nicaragua ype of Action: Name of Sponsor: I-589 09/21/87 Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, State, and Zip Code) CO Date FCO Date FCO Date CO Date FCO Date FCO Date TRIPLICATE FORM G-361 (5-15-83)Y INDEX CARD"
+}

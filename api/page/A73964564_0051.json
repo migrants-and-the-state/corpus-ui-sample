@@ -1,0 +1,22 @@
+{
+	"anumber": "A73964564",
+	"id": "A73964564_0051",
+	"page_index": 51,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A73964564_0051/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEPARTMENT OF JUSTICE APPLICATION FOR ADJUSTMENT OF STATUS TO THAT OF PERMANENT RESIDENT FILED BY THE ABOVE NAMED INDIVIDUAL HAS BEEN COMPLETED."
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 DEPARTMENT OF JUSTICE 280 S. FIRST STREET SAN JOSE, CALIFORNIA 95113 JOSEFA M ROMANO Date: 363 AVENIDA MANZANOS A: 73 964 56 SAN JOSE, CA 95123 Approval Date: Adj. Class: IRO THE PROCESSING OF THE APPLICATION FOR ADJUSTMENT OF STATUS TO THAT OF PERMANENT RESIDENT FILED BY THE ABOVE NAMED INDIVIDUAL HAS BEEN COMPLETED. SINCERELY YOURS THOMAS J. SCHILTGEN District Director"
+}

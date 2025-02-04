@@ -1,0 +1,25 @@
+{
+	"anumber": "A42210183",
+	"id": "A42210183_0069",
+	"page_index": 69,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42210183_0069/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificato Penale-Penal Certificate, 4 4 4"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Somalia"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1990, 1913]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "FORZE DI POLIZIA DELLA SOMALIA THE SOMALI POLICE FORCE DEPT. INVESTICATIVE CRIMINALE CRIMINAL INVESTIGATION DEPT. SEZIONE CASELARIO GIUDIZIARIO CRIMINAL RECORDS OFFICE MOGADISCIO MOGADISHU - 4 SET. 1990 Date Certificato Penale-Penal Certificate FADUMO ADEN WARSAME Il nome di in the Name at ADEN WARSAME DUHEI ADED Di / fu e di / fu 1913 GALKAIO Nato di (di anni) a Born On at Force MUDUG SOMALIA Regione e Provencia Stato Region Or Country Inves State Depart SOMALI Nazionalita Nationality Si certifica che agli Atti di questo Cassellario giudiziario risulta che l'intressato: It is hereby certified that following is recorded in the Criminal Records Office against the above person: Subject has no previous convictions held in this office against her. N I L Firma Uffociate I/c C.R.O. Force SOL. MASUD MURSAL DIRIE OFFICER I.OF CRIMINAL Nome e grado RECORDS OFFICE. MOGADISHU. Signature Officer I.G R. O. Name and Rank"
+}

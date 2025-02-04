@@ -1,0 +1,22 @@
+{
+	"anumber": "A19675264",
+	"id": "A19675264_0012",
+	"page_index": 12,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19675264_0012/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Great Western Savings and Loan Association, FCG 3022 (R1/70)1"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1971, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 GW GREAT WESTERN SAVINGS AND LOAN ASSOCIATION May 26, 1971 TO WHOM IT MAY CONCERN: We hereby certify that : Dr. Arvind Phatak and Mrs. Rhoda E. Phatak 6602 N. 13th St. Philadelphia, PA 19126 own / s the following savings account/s at our Association. Account No. Date Opened Present Balance 8-273571-0 9/26/69 $1,238.58 GREAT WESTERN SAVINGS AND LOAN ASSOCIATION John By MANAGER Hill FCG 3022 (R1 /7011"
+}

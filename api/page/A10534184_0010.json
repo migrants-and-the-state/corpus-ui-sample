@@ -1,0 +1,19 @@
+{
+	"anumber": "A10534184",
+	"id": "A10534184_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10534184_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CIMCARD IMMIGRATION NATURALIZATION SERVICE 03/05/93 COMMAND: CENTRAL INDEX SYSTEM - ARR/BC CARD DISPLAY (CARD) 15:03:10 #: 010534184 NAME: DE LA HOYA VICENTE DOB: 051212 CARD NAME: DE LA HOYA-SANCHEZ, VICENTE CARD DOB: 051212 ELP 01M COB: MEXIC SEX: M 010534184 21 62 215 285 00000 2399 31405 87512 64212 00000 081855 582 192 08000 0000000 MOTHER'S NAME: CONSTANZA FATHER'S NAME: ENRIQUE PLACE OF BIRTH: VILLA IGNACIO RAMI RES AT APPL: VILLA IGNACIO RAMI CONSUL/INS OFC: JUAREZ ORIGINAL DESTINATION: X CLEAR EXIT PF4 DISPLAY MENU PF5 HELP PF6 MAIN MENU PF7 CARD HISTORY"
+}

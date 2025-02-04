@@ -1,0 +1,25 @@
+{
+	"anumber": "A72851592",
+	"id": "A72851592_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A72851592_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "LIBERTY EQUALITY FRATERNITY, NARA-8/11/2023"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Haiti"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1994, 2023, 1933]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "& Screened by NARA, 8/11/2023 LIBERTY EQUALITY FRATERNITY REPUBLIC OF HAITI EXTRACT FROM THE REGISTERS OF BIRTH CERTIFICATES OF THE COMMUNE OF PORT-AU-PRINCE KEPT IN OFFICE OF THE NATIONAL AR- CHIVES OF THE REPUBLIC. 1. NAME: LUCIEN First Middle Last 2. PLACE OF BIRTH 3rd SECTION OF PORT-DE-PAIX (City or Town) (State or Province) (Country) 3. DATE OF BIRTH JUNE 4th 1933 (Month) (Day) (Year) 4. FATHER'S NAME UNKNOWN (First) (Middle) (Last) 5. MOTHER'S NAME ISEMENTE JONASSAINT (First) (Middle) (last) 6. CERTIFICATE ISSUED: (Date) AUGUST 31st 1933 (Month) (Day) (Year) (PLACE) PORT-DE-PAIX HAITI (City or Town) (State Or Province) (Country) (Magistrate) ELIE LEGROS (full Name ) 7. CERTIFICATE FOUND: Volume H Folio 51520 Page No : 8. MARGINAL NOTES: WITNESSES: AMEDE JONASSAINT AND ODNEY OSBORN I. SEBLINE AZUPHARS Certify that this is a correct translation of this document in french and that i am competent to do so. ACKNOWLEDGE BEFORE ME THIS 07th DAY OF APRiL 1994 seal Jean R prassaint NOTARY PUBLIC OF STATE OF FL. AT LARGE STATE OF FLORID MY COMMISSIONS EXPIRE We APRIL BONDE OBLIC STATE of EXPIRES: 1207"
+}

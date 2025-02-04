@@ -1,0 +1,19 @@
+{
+	"anumber": "A19320867",
+	"id": "A19320867_0168",
+	"page_index": 168,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19320867_0168/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "HOUSE OF REPRESENTATIVES, U.S."
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "HOUSE OF REPRESENTATIVES, U.S. WASHINGTON, D. C. emu December 3 , 19.73 , Hon. James F. Greene Commissioner Immigration and Naturalization Service Washington, D. C, The attached communication is sub- mitted for your consideration, and to ask that the request made therein be complied with, if possible. If you will advise me of your action in this matter and have the letter returned to me with y our reply will appreciate it. C0703.540 Very truly yours, W/ Samuel S. Stratton, M.C. New York, 28th District."
+}

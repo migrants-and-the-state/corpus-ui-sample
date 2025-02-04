@@ -1,0 +1,25 @@
+{
+	"anumber": "A11638538",
+	"id": "A11638538_0027",
+	"page_index": 27,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11638538_0027/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, NE-277 10-57(10)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1960]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/31/2023 NE-277 UNITED STATES DEPARTMENT OF JUSTICE 10-57(10) IMMIGRATION AND NATURALIZATION SERVICE PLEASE REFER TO THIS FILE NUMBER 70 Columbus Avenue blend 33, Nacto A 11 638 538 20 West Broadway New York 7, N.Y. Kenneth E. Bruce, Esq. April 7, 1960 101 West 125th St. New York, N.Y. Dear Mr. Bruce: RE: WHITFIELD HUGH EVAN CAIN Permanent residence was granted to above named subject. Subject will receive Alien Registration Card in about ten days. mu Very truly yours, Chief"
+}

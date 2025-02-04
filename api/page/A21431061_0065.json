@@ -1,0 +1,25 @@
+{
+	"anumber": "A21431061",
+	"id": "A21431061_0065",
+	"page_index": 65,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21431061_0065/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CHRONOLOGICAL RECORD OF MEDICAL CARE, 600"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1971, 2023, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 HEALTH RECORD CHRONOLOGICAL RECORD OF MEDICAL CARE DATE SYMPTOMS, DIAGNOSIS, TREATMENT, TREATING ORGANIZATION (Sign each entry) USAF HOSPITAL CLARK, APO SF 96432 EVACUEE VISA PHYSICAL History: General Health: Good Poor Major Complaints: Specify: Physical: BP P Head: Normal Abnormal Eyes: Normal Abnormal Ears: Normal Abnormal Nose: Normal Abnormal Throat: Normal Abnormal Neck : Normal Abnormal Chest: Normal Abnormal Heart: Normal Abnormal ABD: Normal Abnormal Back: Normal Abnormal Skin: Normal Abnormal Extremities: Normal Abnormal PATIENT'S IDENTIFICATION (Use this Space for Mechanical Imprint) PATIENT'S NAME (Last, First, Middle initial) SEX BUI QUANCT NGA M YEAR OF BIRTH RELATIONSHIP TO SPONSOR COMPONENT/STATUS DEPART/SERVICE 1915 FATHER IN LAW SPONSOR'S NAME RANK/GRADE PHILIP W. JOHNSON CIVILIAN SSAN OR IDENTIFICATION NO. ORGANIZATION CHRONOLOGICAL RECORD OF MEDICAL CARE Standard Form 600 September 1971 General Services Administration and Interagency Comm. on Medical Records FPMR 101-11.809-3 600-104"
+}

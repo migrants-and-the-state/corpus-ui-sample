@@ -1,0 +1,22 @@
+{
+	"anumber": "A40280965",
+	"id": "A40280965_0026",
+	"page_index": 26,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40280965_0026/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Family Composition of Immigrant Visa Applicant, GIV-24 ( (REV. 6/85)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1908, 1942, 1958, 1910, 1945, 2023, 1944]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/27/2023 iIF Hi FAMILY COMPOSITION OF IMMIGRANT VISA APPLICANT 16 1. MY NAME IS DATE OF BIRTH PLACE OF BIRTH 1910.2.2. ii CURRENT RESIDENCE OCCUPATION ill 2. MY SPOUSE'S NAME 4 1944.12.8 DATE OF BIRTH PLACE OF BIRTH 1908.5.1 it is CURRENT RESIDENCE OCCUPATION 3. MY FATHER'S NAME it 11K is Ho (1945) DATE OF BIRTH PLACE OF BIRTH itil 4. MY MOTHER'S NAME it it (19407) DATE OF BIRTH PLACE OF BIRTH 5. MY SPOUSE'S FATHER'S NAME (1942) DATE OF BIRTH PLACE OF BIRTH Ii is 6. MY SPOUSE'S MOTHER'S NAME EV (1958) DATE OF BIRTH PLACE OF BIRTH IVER GIV-24 (REV. 6/85) 1 )"
+}

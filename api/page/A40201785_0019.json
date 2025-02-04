@@ -1,0 +1,22 @@
+{
+	"anumber": "A40201785",
+	"id": "A40201785_0019",
+	"page_index": 19,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40201785_0019/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INSTITUTO DR RADIOLÓGIA, 662740"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1998]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "INSTITUTO DR RADIOLOGLA DH. ROBERTO CALDEMON FRANTE HOGPITAL al. RETIRO DR. CEBAR A. ARMAN BARMIO INOLONIA MANAGUA. TELS RESIDENCEA 666005. OFICINA 62740. 243- Pedro Antonio Caceres R. Torax, Febrero 24 de 1998. Dr. E. del Carmen. Rediografia del torax muestra que no hay infil- traciones pulmonares y que embos pulmones son sanos. Corazón, mediastino diefragma y esqueleto torexico vi- sitle son radiogréficsmente normales. CONCLUSION: Tbrax radiogréficamente normal. Atto y Ss."
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A44606320",
+	"id": "A44606320_0084",
+	"page_index": 84,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44606320_0084/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CENTRAL PATHOLOGY LABORATORY, Cpl-148"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 C P CENTRAL PATHOLOGY LABORATORY L A California Corporation 1041 FOURTH STREET / SANTA ROSA, CA 95405 Imam, Mahmoodmian A15424 PATIENT SFIA/Smookler 3-17-77 TELEPHONE PHYSICIAN (707) 546-3733 RPR: Non-Reactive Blood Group: Type-RH-D: OM hr'c: Mono Test: Antibody Screen: CRP: Saline: RA Test: Coombs: ASO Titer: Albumin: Normal: Less than 200 1U/ml Units \"State law requires that the woman tested be informed as to the rhesus (Rh) typing test results.\" DATE 3-18-7714 SEROLOGY TECHNOLOGIST DIRECTOR: DAVID T. CLARY, M.D. CPL-148"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A29152365",
+	"id": "A29152365_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29152365_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DATA COLLECTION FOR ALIEN DOCUMENTATION, IDENTIFICATION & TELECOMMUNICATION SYSTEM (ADIT, Form I-43 (ADIT"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "El Salvador"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/12/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATICN SERVICE Processing Sheet Application or Petition Form No. File No. DATA COLLECTION FOR ALIEN DOCUMENTATION, IDENTIFICATION & TELECOMMUNICATION SYSTEM (ADIT) Please print or type information requested below: COMPLETE NAME BARRIENTOS DE MENENDEZ LUCILA DEL TRANSITO COMPLETE MAILING ADDRESS (Include Zip Code) 3148 LETICIA DR. HACIENDA HTS. CALIF. 91745 MOTHER'S FIRST NAME REFUGIO FATHER'S FIRST NAME NONE CITY/TOWN/VILLAGE OF BIRTH IZALCO CITY OF RESIDENCE WHEN APPLYING FOR A VISA OR IMMIGRANT STATUS LOS ANGELES CITY OF DESTINATION AT TIME OF ORIGINAL ADMISSION LOS ANGELES LOCATION OF CONSULATE WEERE IMMIGRANT VISA OBTAINED (OR IMMIGRATION OFFICE WHERE ADJUSTED) LOS ANGELES DATE OF BIRTH 08-07-13 PORT OF ENTRY WELEN ADMITTED AS IMMIGRANT OR OFFICE WEERE ADJUSTED TO LAWFUL PERMANENT RESIDENT LOS ANGELES SYMBOL ADMITTED UNDER (CLASSIFICATION) DATE ADMITTED OR ADJUSTED TO LAWFUL PERMANENT RESIDENT COUNTRY OF BIRTH EL SALVADOR CARD NUMBER TRANSACTION NUMBER This form Ay be overprinted or stamped to abov instructions, items requested, items received, or other pertinent date which my facilitate processing. Keep this show on top of all material in film until initial decinios in ands Form I-463 (ADIT) (Rev. 11-1-T0)"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A40427106",
+	"id": "A40427106_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40427106_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "femenino"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ENFERMEDADES PULMONARES R RAYos X, 19268"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/6/2023 DR. FEDERICO BALTODANO M. ENFERMEDADES PULMONARES RAYOS X Nombre TERESA PACHECO Referido por el Dr. a. EVA M. DE GOMEZ Fecha DICIEMBRE 7, 1987. Edad 80 AÑOS. Sexo FEMENINO. Dirección SAN PEDRO SULA, CORTES. Tipo de Examen RADIOGRAFIA DEL TORAX, No 19268. PASAPORTE No 237583. RESULTADO: ESTRUCTURA OSEA NORMAL. PLEURAS. SE OBSERVA PEQUEÑA CAMARA ENQUISTADA DE PNEUMOTORAS A NIVEL DE LA CUARTA COSTILLA ANTERIOR Y OCTAVA COSTILLA ANTERIOR DEL MISMO LADO DERECHO. PULMONES SE OBSER VAN RASTROS FIBROSOS Y LESIONES DE ASPECTO RESIDUAL PRINCIPALMENTE EN LA MITAD INFERIOR DEL CAMPO PULMONAR DERECHO . CORAZON Y GRANDES VASOS NORMALES. IMPRESION: NO HAY PATOLOGIA PULMONAR ACTIVA. Dr."
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0167",
+	"page_index": 167,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0167/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "OFFICE MEMORANDUM"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961, 2023, 1982]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 OFFICE MEMORANDUM UNITED STATES GOVERNMENT TO : Supervisory Deportation Officer, New York. FROM : F. J. Noble, Officer in Charge, Hong Kong. SUBJECT: MAR Doo aka MAR Au Sang A10 294 862; your memorandum of April 4, 1961. The Department of Immigration Hong Kong, B. C. C., is now prepared to favorably consider (or reconsider) requests for entry of seaman deportees who held Hong Kong Seaman's Discharge Books and were engaged at Hong Kong, providing they have no criminal record. PRP Reapply to the British Visa Office with evidence of service as a Hong Kong seaman, such as a photostat of 1982 the pertinent pages of the Discharge Book. Make a positive statement whether or not the deserter has a criminal record in the United States. Case is closed at Hong Kong. Joy"
+}

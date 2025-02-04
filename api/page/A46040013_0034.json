@@ -1,0 +1,16 @@
+{
+	"anumber": "A46040013",
+	"id": "A46040013_0034",
+	"page_index": 34,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A46040013_0034/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/15/2023 NCXDTL1 IMMIGRATION AND NATURALIZATION SERVICE 09/28/2004 FBI NAME CHECK RESPONSE 13:22:55 SEARCH CRITERIA: CIDN : A046040013 ORI: USINSHQOZ A-NUMBER : 046040013 NAME (L/F) : ESCOBAR CASIMIRA DATE OF BIRTH : 03/11/1911 NC REQUEST SENT: 02/24/2004 PLACE OF BIRTH : ELSA FBI RESPONSE INFORMATION FBI RESPONSE DESC : NO RECORD DATE PROCESSED BY FBI: 03/09/2004 DATE/TIME LOADED AT INS: 03/09/2004 19:41:01 FBI NAME: ESCOBAR, CASIMIRA FBI DATE OF BIRTH: 03/11/1911 PF6 PF8 PRIOR SCREEN LOGOFF"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A28707386",
+	"id": "A28707386_0092",
+	"page_index": 92,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28707386_0092/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Always Mail or Bring This Book with You When Making Payments or Purchases, A 93380"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/18/2023 20 20 2 PATIENT 164. BAL DATE 30 a BY DUE OR THIS 13 1001 .00. OF DAYS BRIND 10 MANITO Lt7 LINE 32 PLINT WHILM MARIE 3 AIDNO 8 20 ALWAYS MAIL OR BRING THIS BOOK WITH YOU WHEN MAKING PAYMENTS OR PURCHASES ACCT# A 93380 OLD BAL: 500.00- INV# 126292 CHARGE: 1, 442. 20 03/31/83 BALANCE: 942.20 14AP83 93380 942.20 PY 03189 100.00 839 842.20 14MY83 93380 842.20 PY 03 C4 100.00 104 742.20 14JN83 93380 742.20 PY 03 AI 10.0 252 642.20 5JL33 9338C 642.20 PY 03.A3 100.00 496 542.80 12AG83 93380 542.20 PT 03 A3 100.00 240 442.20 13SE83 93300 442.20 PY 43 AS 100.00 818 342.20 AVOID ADDITIONAL CHARGES BY MAKING PAYMENT WITHIN 10 DAYS OF DUE DATE."
+}

@@ -1,0 +1,19 @@
+{
+	"anumber": "A90405034",
+	"id": "A90405034_0057",
+	"page_index": 57,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90405034_0057/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CONSULAB Page: 1 1400 N.W. 12th AV MIAMI FLORIDA 33136-9986 CEDARS MEDICAL CENTER LACAYO, GASTON MD ACCOUNT NUM AGE SEX LAB NO. 8370 W. FLAGLER STREET 7000 82 F F435830 SUITE 242 MIAMI, FLORIDA I.D. DATE RECEIVED 12-MAY-89 PATIENT REFERRING PHYSICIAN DATE OF REPORT LACAYO, MARIA B LACAYO, GASTON MD 13-MAY-89 COL 12-MAY-1989 17:37 TEST NAME RESULTS NORMAL ABNORMAL NORMAL VALUE RANGE UNITS FINAL HIV SCREEN NEGATIVE f NEGATIVE CONSULAB TEL. NO. 325-5190 FL NO. 800000113 MEDICARE NO. 98201 MEDICARE NO. 10-0009 LACAYO, MARIA B FINAL REPORT"
+}

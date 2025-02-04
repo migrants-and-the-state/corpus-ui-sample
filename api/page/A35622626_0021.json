@@ -1,0 +1,22 @@
+{
+	"anumber": "A35622626",
+	"id": "A35622626_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A35622626_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Bank of America Letter to American Consulate Mexico City,, Form Number: 12316 Washington Boulevard - Los Angeles, California 90066."
+		},
+		"years": {
+			"ms_years_nlp_v1": [1978, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "creened by NARA, 5/10/202 B BANK OF AMERICA WASHINGTON-CENTINELLA OFFICE February 22, 1978 American Consulate Mexico City Gentlemen: Our customer, Roberto B Valle, has asked us to give you the folloring information regarding his account here with our office. Roberto B Valle has maintained his account with our office since 1976. The present balance in his savings account is $1080.64, as of todays date. Sincerely, G Angie Picchi P.p Manager AP/SW BANK OF AMERICA NATIONAL TRUST AND SAVINGS ASSOCIATION 12316 WASHINGTON BOULEVARD . LOS ANGELES, CALIFORNIA 90066"
+}

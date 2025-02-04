@@ -1,0 +1,25 @@
+{
+	"anumber": "A17212360",
+	"id": "A17212360_0060",
+	"page_index": 60,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17212360_0060/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service Officer's Review and Action Sheet, 1-40"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "LLB 3/23 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service Officer's Review and Action Sheet Form No. 1-140 File No 017168103 The following documents or actions are required before decision may be made in this case: Officer's Jhong youk Requested Received Date Document or Action Required Initials (Check) (Check) 3/4 Signature & Jurat PP & 1-94 FEE 3rd Pref. ES 575A Item 13 Docs. 6th Pref. ES 575 A&B BES Certification G-601 Rec / 17 / 67 Trans. In. G-361 G-180 ATTORNEY cc atty DECISION: (Approved) (Denied) atty is REMARKS: (If denied, state reasons) family lawyed mG28 For the District Director: APR 2 1 1967 Two Date of Decision Signature of Officer Keep this sheet on top of all material in file until initial decision is made Form I-468 (Rev. 5-10-60) FPI-LPC-9-66-34M-2777"
+}

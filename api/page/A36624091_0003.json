@@ -1,0 +1,22 @@
+{
+	"anumber": "A36624091",
+	"id": "A36624091_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A36624091_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ESPINOSA de HICUERA, TRANQUETELLA, G-361"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. Screened by NARA, 7/20/2023 A22 390 339 Alias ESPINOZA de HIGUERA, TRANQUELINA P.O.E DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH UNK UNK UNK 7-6-14 UNK Type of Action: TO BONDS Name of Sponsor: Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, State, and Zip Code) FCO Date FCO LOS Date 10-15-76 GWBT FCO Date Acession No. Box No. Form G-361 (Rev. 4-1-76) N INDEX CARD Triplicate"
+}

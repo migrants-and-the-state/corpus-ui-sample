@@ -1,0 +1,16 @@
+{
+	"anumber": "A90417818",
+	"id": "A90417818_0035",
+	"page_index": 35,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90417818_0035/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 CIXFBIY IMMIGRATION AND NATURALIZATION SERVICE 04/03/98 FBI BILLING - QUERY ENTRY 13:55:45 * A-NUMBER : 090417818 * LAST NAME : FIRST NAME : * PCN : 000000000000 * ORI : FBI STATUS : INS LOAD DATE: 00/00/00 MM/DD/YY * A-NUMBER, NAME, PCN, OR ORI MUST BE SPECIFIED. OTHER FIELDS ARE OPTIONAL. IF MULTIPLE FIELDS ARE ENTERED, FIRST FIELD WILL BE USED AS THE PRIMARY SEARCH CRITERIA AND OTHER FIELDS WILL BE USED AS SECONDARY CRITERIA CLEAR EXIT NO DATA RECEIVED FROM FBI FOR REQUESTED A-NUMBER"
+}

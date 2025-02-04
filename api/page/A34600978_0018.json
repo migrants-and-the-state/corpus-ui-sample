@@ -1,0 +1,25 @@
+{
+	"anumber": "A34600978",
+	"id": "A34600978_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34600978_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "WHOLESAle Nurseries Incorporated, W&W WHOLESALE NURSERIES INCORPORATED"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 2023, 1975]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/10/2023 W&W WHOLESALE NURSERIES INCORPORATED . January 3, 1975 VIM HONORABLE AMERICAN CONSUL Mexico, D.F., Mexico. Dear Sir: At the request of Jose Negrete, SS FOIA (b)(6) we hereby inform you that he has been in the employment of the undersigned since the year 1966, his present classification GARDEN WORLD being Landscaper. His salary at the present time is NURSERY $120.00 for a 40-hour week, plus $3.83 per hour for over- VALLEY time, and his employment is of a permanent nature. LANDSCAPE MAINTENANCE Yours very truly, UNION W W INC. LANDSCAPE LANDSCAPE By & Scott WHOLESADE Jacoby NURSERY, Manager January - DESIGN INSTALLATION CONSTRUCTION SPRINKLERS NURSERY COMMERCIAL MAINTENANCE 9820 TOPANGA CANYON BLVD. CHATSWORTH CALIFORNIA 91311 (213) 341-0060"
+}

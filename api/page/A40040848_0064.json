@@ -1,0 +1,25 @@
+{
+	"anumber": "A40040848",
+	"id": "A40040848_0064",
+	"page_index": 64,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40040848_0064/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 9/25/2023, FOIA ( (b)(6)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1971, 1987, 1969, 2023, 1983, 1978, 1965]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/25/2023 Page 4 22. Has any person listed on this form previously applied for a visa or United States passport to go to the United States? Give details. CHIANG, Shi-ying (B-2 Visa granted on Apr. 18, 1983) SHEN, Chung-teh (F-1 Visa granted in Aug. 1965, Dec. 1969, Aug. 1971; and Immigrant Visa in Feb. 1978) FOIA (b)(6) 23. Have you provided the Chinese characters for every Chinese name and place on this form? Yes 24. If someone completed this form for you or assisted you to complete this form, give that person's name and address. FOIA (b) (6) FOIA (b)(6) 25. Your Signature: Withen Date form Completed: 3 rd March 1987 NOTE: IF NOT SIGNED AND DATED, THIS FORM WILL NOT BE ACCEPTED. HNK-2 12-78"
+}

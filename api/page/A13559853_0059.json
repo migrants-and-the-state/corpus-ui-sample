@@ -1,0 +1,25 @@
+{
+	"anumber": "A13559853",
+	"id": "A13559853_0059",
+	"page_index": 59,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13559853_0059/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/24023, A13559853 RAI-C"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1963]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 April 10, 1963 A 13 559 853 RAI-C Mr. Wong Man Get 5958 Franklin Avenue Los Angeles, California Dear Mr. Get: Your letter of March 2, 1963 advises that your green alien registration card for perma- nent residence in the United States has not as yet been received by you. Since you were not admitted to the United States as a permanent resident, but as a Parolee, you are not eligible to receive an alien regis- tration card. Form I-94. entry permit issued you by this Service at the time of your admission to the United States will show the status at the time of your admission. After you have resided in the United States for two years as a refugee you may be eligible to adjust your status to that of a permanent resident. Very truly yours. Per George K. Rosenberg District Director for"
+}

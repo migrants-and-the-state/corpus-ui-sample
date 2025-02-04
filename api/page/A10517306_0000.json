@@ -1,0 +1,42 @@
+{
+	"anumber": "A10517306",
+	"id": "A10517306_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10517306_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "The United States of America, 9352568"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1971, 1907, 2023]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "N.A"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "married"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1971.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "Castle Court, Boston, Mass. 02118"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "Screened by NARA28125/2023 Square TO BE FORWARDED TO No. 9352568 IMMIGRATION AND NATURALIZATION SERVICE 0 a Pelilion No. 378393 AlienRegistration No 306 10 517 DUPLICATE Personal description of holderas, of date of naturalization. Date of birth Feb. 24, 1907 male complexion, medium coloropowes brown color of hair grey height 5 feel see inches; ; weight 130 pounds; visible distinctive marks none Maritalstatus married Country of formernationality China I certify that the description, above given istrueandMhalthephotographaffived hereto is a likeness of me. Tak / Choonp see Complete and true signature of holder) UNITED STATES OF AMERICA SS: DISTRICT OF MASSACHUSETTS Beit known, that al a termofthe District Court of The United States held pursuant, to law al Boston on April 12, 1971 the Gourthaving foundshal Tak Cheong Lee then residing at 10-C Castle Court, Boston, Mass. 02118 inlands loreside permanently in the United States when sorequired by the Naturalization, Laws of he United. States), had in her respects, complied with the applicable provisions of such naturalization laws, and was entitled to be Seal admilled locitisenships thereuponordered that such person be and (s)hewas admilled as a citizen of the United States of America. Indestignonywhere of thesealofthe courtis hereunto affixed this 12th day of April Seventy-one in the year of our. Lord nineleen hundred and . RUSSELL H. PECK IT IS PUNISHABLE BY U. S. LAW TO COPY, Clerk of the U.S. District Court. PRINT OR PHOTOGRAPH THIS CERTIFICATE. By San Jeanner Deputy Clerk."
+}

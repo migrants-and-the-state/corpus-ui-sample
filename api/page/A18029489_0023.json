@@ -1,0 +1,22 @@
+{
+	"anumber": "A18029489",
+	"id": "A18029489_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A18029489_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Panjab University Intermediate (Science Faculty) Examination 1952"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1952]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "7 MARKS OBTAINED 340 ROLL No. 16254 Panjah University INTERMEDIATE (SCIENCE FACULTY) EXAMINATION 1952 . This is to certify That Yash Pal Royd, No. 50.dj.489 , son of Shri V.S. Pahwa , and of the Panjab University (Camp) College, New Delhi passed the Intermediate Examination of this University, held in April ,1952 , and was placed in the Second Division. Passed also in Hindi Additional Optional Subject Solan (Simla Hills) Registrar June 7, 1952."
+}

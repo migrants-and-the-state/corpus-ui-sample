@@ -1,0 +1,19 @@
+{
+	"anumber": "A21773532",
+	"id": "A21773532_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21773532_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "HIP CENTR IZED LABORATORY SERVICES FINAL REPORT PAGE R=PoRT DATE: 12 MAR 1976 SOUTHERN BRONX MEDICAL CENTER SPECIMEN LAB. NO. 12/X1/827 PATIENT ID NO. F 16 MAR 13 MA 2:52 PATIENT: PARVAH DEVI SHUKLA AGE 70 SEX F PHYSICIAN: JJOSEPH CHART NO. SPECIMEN COLLECTED: 12 MAR 1976 SPECIMEN RECEIVED: 12 MAR 1976 S. GLASBERG M.D. PATHOLOGIST OTHER RESULTS: V M VDRL NON REACTIVE H. I. P. SOUTHERN MEDICAL GROUP 326-8 EAST 149th STREET BRONX, N. Y. 10451 585-6100 or"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A10430675",
+	"id": "A10430675_0044",
+	"page_index": 44,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10430675_0044/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Department of Justice, A 6 699 884"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1954]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "File no. A 16 699 884 630 Lincoln St. n.E. Minneapolis, Minn gan. 2. 1954 U.S. Department of Justice Immigration & Naturalization Service 4-15 1014 new Post Office Building St. Paul /, Minn. gentlemen I wish to report that I still live at the above address and am employed as an instructor in the Electrical Engineering Department of the University of Minnesota yours truly Mailing Lu & for in"
+}

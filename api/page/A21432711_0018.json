@@ -1,0 +1,25 @@
+{
+	"anumber": "A21432711",
+	"id": "A21432711_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21432711_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-485c"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1978]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet Application or Petition Form No. I-4850 File No. 421 432 7111 Not Required Incomplete Complete 1. Form I-4850 2. ADIT Data Sheet (I-4850 P. 3) 3. Supplemental Sheet (I-4850 P. 5) 4. Form G-325A 5. Fingerprints 6. Police Clearance 7. Form I-181 8. Form G-601 Required Not Required 9. Medical Not Required Needs ADIT Type 10. Photos Lost Submitted 11. Form I-94 AUG 5 1978 COMMENTS Interview Date Review file 7 fw Officer's Initials This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which may facilitate processing. Keep this sheet on top of all material in file until initial decision le made Form I-468 (Rev. 11-1-70)"
+}

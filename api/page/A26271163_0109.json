@@ -1,0 +1,16 @@
+{
+	"anumber": "A26271163",
+	"id": "A26271163_0109",
+	"page_index": 109,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26271163_0109/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 NCXDTL1 IMMIGRATION AND NATURALIZATION SERVICE 09/23/2013 FBI NAME CHECK RESPONSE 09:49:38 SEARCH CRITERIA: CIDN : A026271163 ORI: USINSHQOZ A-NUMBER : 026271163 NAME (L/F) : SANCHEZAREAS MARGARITA DATE OF BIRTH : 11/08/1910 NC REQUEST SENT: 07/02/2013 PLACE OF BIRTH : NIC FBI RESPONSE INFORMATION FBI RESPONSE DESC : NO RECORD DATE PROCESSED BY FBI: 07/06/2013 DATE/TIME LOADED AT INS: 07/09/2013 13:41:28 FBI NAME: SANCHEZAREAS, MARGARITA FBI DATE OF BIRTH: 11/08/1910 PF6 PF8 PRIOR SCREEN LOGOFF"
+}

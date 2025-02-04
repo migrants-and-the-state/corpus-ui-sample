@@ -1,0 +1,25 @@
+{
+	"anumber": "A46187299",
+	"id": "A46187299_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A46187299_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CONSULATE GENERAL OF PAKISTAN, CONSUL"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Pakistan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1940, 1983, 1947]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 CONSULATE GENERAL OF PAKISTAN 12 EAST 65TH STREET NEW YORK. N. Y. 10021 (212) 879.5800 April 20, 1983. TO WHOM IT MAY CONCERN: This is to certify that from the evidence produced before this Consulate General, it has been established that Mr. Abdur Rab Khan son of Mr. Abdul Manan Khan (Father) & Qimat Jan Khan, was born on 9th March, 1940, (Mother) at Swat, Pakistan. 2. This is further to certify that birth records prior to 1947 (when Indian Sub-Continent became Independent) are not traceable. Thank (Iqbal Ahmad Khan) CONSUL PAKISTAN CENED, PAKISTAN PAKISTAN WASHING COMPANY General DESCRIPTION * New York OE SPECIAL SPECIAL ADHESIVE ADMESIVE 20R APR 20 1983 SPECIAL ADHESIVE DEAR SIR OR MADAM ABEGTO STAT THAT MYFATHER MR ABDULMANAN NOT KHAN AVILIABLE WAS 1947 wieH BIRTH RECORD ARE FROM CONSULAT- THERE FORE OF PAKISTAN AND AFFIDAVIT VERY MUCH FOR yours BORN BEFOR IAM SUBMITTING ALETTER KIND GENERAL CONSIDRITION THANK you YOURS SCINCERLY AderRah Khan"
+}

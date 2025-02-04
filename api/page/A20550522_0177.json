@@ -1,0 +1,25 @@
+{
+	"anumber": "A20550522",
+	"id": "A20550522_0177",
+	"page_index": 177,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20550522_0177/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "APPLICATION FOR PERMANENT RESIDENT FILED, I-485F (Rev. 11-1-73)N REPORT OF ACTION—N/I"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Pakistan", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "2. My name is (Last in capital Screened by:NARA.7/18/2023 (Middle Name) SNDX CODE GULRAJANI, Hiranand Tolaram 4. I reside in the United States at: (c/o) (No. and Street) (Apt. No.) (City) (State) (ZIP Code) 738 So. Beacon Ave., L. A., California 6. My alien registration number 7. I am a citizen of (Country) 8. Date of Birth is A20 550 522 India 7-13-13 9. Place of Birth (City or Town) (County, Province, or State) (Country) Hydrebad Sindh, 2 Sindh, Pakistan 10. Name as appears on nonimmigrant document (Form I-94) HIRANANI GULRA JAN / I last arrived in the United States at the port of (City and State) on (Month) (Day) (Year) NEW tufic 10-3-73 as a (visitor, student, crewman, parolee, etc.) my I-94 permit number is 2+1 001237 X APPLICATION FOR PERMANENT RESIDENT FILED Form I-485F (Rev. 11-1-73)N REPORT OF ACTION-N/I 9-2-73 1"
+}

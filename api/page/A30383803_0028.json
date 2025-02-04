@@ -1,0 +1,25 @@
+{
+	"anumber": "A30383803",
+	"id": "A30383803_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30383803_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Form 1842 - Certificate of Entry and Exit for Immigrants, DSP-70"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1970, 2023, 1916]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/24/2023 SI USTED o SU CONYUGE ESTAN AHORA, o HAN ESTADO EN LOS ESTADOS UNIDOS, INDIQUE: yo ni el hemos estado en Los Estados Unidos. Dónde obtuvo la visa Solicitante Fecha en que se concedió la visa (mes, año) Cónyuge SENALE EL TIPO DE VISA UTILIZADA PARA DICHA ENTRADA: Inmigrante Oficial o empleado del Gobierno o de una organizacion internacional Programa de Intercambio Cultural (Exchange Visitor) Otro tipo de no-inmigrante. Especifique. 17. SI USTED O SU CONYUGE HAN VIVIDO ANTERIORMENTE EN LOS ESTADOS UNIDOS, INDIQUE: No Fecha de admisión Fecha de salida Razón por la cual interrumpió su residencia. 18. ENUMERE A CONTINUACION POR ORDEN DE FECHAS, TODOS LOS LUGARES DONDE USTED, SU CONYUGE Y SUS HIJOS MENCIONADOS EN EL INCISO 15, HAN VIVIDO DESDE QUE CUMPLIERON LOS 16 AÑOS. Fecha Nombre de pila Ciudad, Estado o Provincia, País Ocupación De A (Mes, año) (Mes, año) Maria Jesús Trujillo Vda. de Rios Purísima de Bustos, Gto. El Hogar Abril de 1916 a 1970. 19. INDIQUE SI HAN SIDO MIEMBROS O AFILIADOS DE ALGUNA ORGANIZACION EN CADA UNO DE LOS PAISES MENCIONADOS EN EL INCISO 18: CULTURAL, SOCIAL, OBRERA o POLITICA. Fecha ORGANIZACION DE A Ninguna CERTIFICO QUE LA INFORMACION PROPORCIONADA ES COMPLETA Y CORRECTA. Abril 29 de 1970 (Fecha) (Firma) DIRECCION ACTUAL NOTA: SI ALGUN ESPACIO ES INSUFICIENTE PARA CONTESTAR DEBIDAMENTE CUALQUIER PREGUNTA, LA INFORMACION ADICIONAL SE PUEDE INCLUIR EN UNA HOJA POR SEPARADO Y ADJUNTARLA A ESTA FORMA. DSP-70 Rev. 8 66"
+}

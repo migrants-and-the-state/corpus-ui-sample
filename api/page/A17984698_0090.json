@@ -1,0 +1,25 @@
+{
+	"anumber": "A17984698",
+	"id": "A17984698_0090",
+	"page_index": 90,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17984698_0090/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Banco de Londres y México, S.A., Ref. 921/FJBR/sdz."
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1968, 1864]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/21/2023 Banro de Londres B Méxiro S.A. INSTITUCION DE DEPOSITO, FIDUCIARIA Y DE AHORRO ESTABLECIDO EN 1864 (MIEMBRO DE LA ASOCIACION DE BANQUEROS DE MEXICO) OFICINA CENTRAL Reg. Fed. de Hda, ESQ BOLIVAR Y 16 DE SEPTIEMBRE MEXICO D. F BLM-890701-058 MORELOS Y REFORMA Mexicali, B. C. Marzo 12 de 1968 Ref. 921/FJBR/sdz. SUB-GERENCIA CONSULADO AMERICANO, Tijuana, B.C. Muy señores nuestros: A petición de nuestro cliente RAMON WONG SONG, tenemos a bien informarles que desde hace algún tiempo- mantiene cuentas con nosotros con saldos a la fecha de $50,000.00 Sín más por el momento y esperando que es ta carta le sirva a nuestro cliente, quedamos de ustedes como sus Afmos., Attos., y Ss. Ss. BANCO DE LONDRES Y MEXICO, S.A. SUC. MEXICALI, B.C. MAS DE UN SIGLO DE SERVIR A MEXICO"
+}

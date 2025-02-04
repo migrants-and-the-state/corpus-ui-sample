@@ -1,0 +1,25 @@
+{
+	"anumber": "A21519707",
+	"id": "A21519707_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21519707_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, M-89"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 ROGING UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service File No: Date: 5/13/75 us HUY C Robles ACTION ROUTING AND TRANSMITTAL SLIP sive , 02 92807 (Name, office symbol or location) INITIALS CIRCULATE D that we may act upon or Y in this letter and any DIRAI, DATE COORDINATION 2 INITIALS FILE u/a DATE INFORMATION 3 INITIALS NOTE AND RETURN sim Ca 92807 DATE PER CON VERSATION 4 INITIALS SEE ME -Nam DATE SIGNATURE REMARKS Please search/unite deuce files. concerning this matter was DEC FROM SPECIAL rded: OPTI M-89 AUGI Uird Norm PI-LPC-3-69-18C PDS.-4404 -101 GSA"
+}

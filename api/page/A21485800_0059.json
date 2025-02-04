@@ -1,0 +1,22 @@
+{
+	"anumber": "A21485800",
+	"id": "A21485800_0059",
+	"page_index": 59,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21485800_0059/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IMMIGRATION AND NATURALIZATION SERVICE, FOIA ( (b)(6)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1975]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/31/2023 IMMIGRATION AND NATUR: IZATION SERVICE '75 DEC 8 PM 3:01 ATLANTA GEORGIA 4024 Cedar Gate Road Huntsville, Alabama 35810 December 4, 1975 Mr. Fred P. McCleskey/Immigration Officer United Stated Department of Justice Immigration and Naturalization Service 1280 W. Peachtree Street, N.W. Atlanta, Georgia 30309 Dear Mr. McCleskey: I had applied for U.S. immigration visas for both my parents Mr. C. S. Pinjani and Mrs. S. B. Pinjani on October 16, 1975. Since then, the check for the amount of $20 that I had sent along with the application was processed by your office on October 20. Please find enclosed a copy of the letter that I had sent you on October 16 along with my application. I would appreciate it very much if you will kindly let me know the status of my petition for my parents (beneficiaries) and also if I need to provide you with any additional information. Thank you and I hope to hear from you soon. Sincerely, MotiPaya Moti Pinjani, DVM, Ph.D. FOIA (b)(6) Associate Professor dd Enclosure"
+}

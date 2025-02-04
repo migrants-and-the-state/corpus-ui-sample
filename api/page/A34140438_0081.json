@@ -1,0 +1,22 @@
+{
+	"anumber": "A34140438",
+	"id": "A34140438_0081",
+	"page_index": 81,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34140438_0081/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Bank of America National Savings Association, 9222-8101"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1973, 1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Cable Address - BANKAMERICA Bank of America NATIONAL TRUST AND SAVINGS ASSOCIATION BLYTHE BRANCH . 350 EAST HOBSON WAY . BLYTHE, CALIFORNIA 92225 December 11, 1973 Mrs. Patricia P. L. Yee P.O. Box 737 Parker, Arizona 85334 Dear Mrs. Yee: According to our records you have maintained a savings account with this bank since 1967. At the present time there is a balance in excess of $30,000. This account has always been handled in a very satisfactory manner. Very truly yours, A. . Gleeson Manager 922-8101 FJG:jp"
+}

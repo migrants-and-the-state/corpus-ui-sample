@@ -1,0 +1,22 @@
+{
+	"anumber": "A20211280",
+	"id": "A20211280_0063",
+	"page_index": 63,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20211280_0063/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IMMIGRATION AND NATURALIZATION SERVICE, HUNTLEY 2-9871"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 WELLINGTON Y. KWAN ATTORNEY AND COUNSELOR AT LAW WELLINGTON Y. KWAN 1200 WILSHIRE BOULEVARD SUITE 300 PETER S.P. CHAN LOS ANGELES, CALIFORNIA 90017 HUNTLEY 2-9871 9/75 IMMIGRATION AND NATURALIZATION SERVICE 300 North Los Angeles Street Los Angeles, California 90012 ATTENTION: Travel Control Re: CHENG, Ching- Hsiang Dear Sir: A 20 211 280 Please be advised of the current address of the above named as of is: 1405 Rosehill Drive Riverside, Ca. 92507 Very truly yours, Wellington y Kwn/Ewd WELLINGTON Y. KWAN WYK:ed"
+}

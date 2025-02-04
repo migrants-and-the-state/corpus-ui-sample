@@ -1,0 +1,22 @@
+{
+	"anumber": "A21534625",
+	"id": "A21534625_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21534625_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "TWENTY NAYE PAISE, 20nP"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/11/2023 BOMBAY STATE 20nP the CG CITRA THU THRT TH LOVE TWENTY NAYE PAISE 21. MI. 216. 2.124:- air tha \"4\" it is an offence to make a false affidavit. Date September 1967. Shibrap I know the deponent. Solemnly affirmed and signed before me by Shri Maganlal Dhanabhai of Village Dhandod-Lumbha, Taluka Bardoli, District Surat, who is identified to me by Shri Sannukhram Girjashanker Vyas of Bardoli, whom I persona- -11y know. rober 249(6) (R.R.VOHRA) Taluka Magistrate BARDOLI."
+}

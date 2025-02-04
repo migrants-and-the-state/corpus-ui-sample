@@ -1,0 +1,22 @@
+{
+	"anumber": "A42848739",
+	"id": "A42848739_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42848739_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificat de notaire"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1983]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/27/2023 Je, soussigné, Me. VILLARD TANIS, Notaire au Cap-Haitien, sous- gné, patente au No. 33311-K, identifié et imposé aux Nos. 70-AA et 5151 pour l'exercice en cours, certifie que cet acte est au- thentique et est l'expression de la verité. Can-Haitien 2 Juillet 1983 TANIS me NOTAIRE CAP"
+}

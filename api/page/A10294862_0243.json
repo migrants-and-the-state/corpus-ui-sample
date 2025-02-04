@@ -1,0 +1,25 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0243",
+	"page_index": 243,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0243/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "FOR the arrest of an alien, Form I-200"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1956, 2023, 1997, 1955]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 Form I-200 UNITED STATES DEPARTMENT OF JUST IMMIGRATION AND NATURALIZATION SERVICE (Rev. 1-12-56) WARRANT FOR ARREST OF ALIEN United States of America DEPARTMENT OF JUSTICE I IMMIGRATION AND NATURALIZATION SERVICE New York, N. Y. No. A10 294 862 To any officer in the service of the United States Immigration and Naturalization Service WHEREAS, from evidence submitted to me, it appears that the alien MAD 000 also Imove as MAD AD SAMO who entered this country at the Boston, Mass. on 30th day of is within 1955 the United States in violation of the immigration laws thereof, and is therefore liable to being taken into custody as authorized by section 242 of the Immigration and Nationality Act. NOW, THEREFORE, by virtue of the power and authority vested in me by the immigration laws of the United States and the regulations issued pursuant thereto, I hereby command you to take the above named alien into custody for proceedings thereafter in accordance with the applicable pro- visions of the immigration laws and regulations. The expenses of detention hereunder, if necessary, are authorized payable from the appropriation \"Salaries and Expenses, Immigration and Naturalization Service, 1997: For so doing, this shall be your sufficient warrant. Witness my hand and seal this 25th day of September 1956 District Memotor"
+}

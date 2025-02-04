@@ -1,0 +1,25 @@
+{
+	"anumber": "A39228199",
+	"id": "A39228199_0007",
+	"page_index": 7,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A39228199_0007/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Translation of Extract of Household Registration"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Taiwan", "China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1949, 1984, 1971, 1937, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Sreened by NARA, 9/25/2023 TRANSLATION OF EXRACT OF HOUSEHOLD REGISTRATION This to is certify that Liu, Shi-Yun ), 1st son, was born on October 21, , 1937, in China. He was graduated from National Taiwan University majoring in History. His father is Liu, Chi ( X ) S and his mother is Qian, Shu- Jun ). He moved to No5 Lane 22, Wen-Chou St., Taipei, Taiwan, from Guangzhou, China, on September 28, 1949. On December 9, 1971, he was reported to have moved from Taiwan to the U.S.A. # (5R) Na 9232 A 9 B COUNCIL FOR NORTH AMERICAN AFFAIRS, OFFICE IN LOS ANGELES COORDINATION This is FL liberal translation of NORTH AMERICA the attached document in Chinese, Date of issue: JUL 9 1984 By anthorization, if LOS ANGELES Mark K. Y. Hais Secretary"
+}

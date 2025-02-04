@@ -1,0 +1,25 @@
+{
+	"anumber": "A90414760",
+	"id": "A90414760_0083",
+	"page_index": 83,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90414760_0083/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/13/2023, -3-"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1979]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 -3- (c) If you did not apply for a U.S. visa, explain why not. n/a 9. (a) What was your last address in your home country or country of nationality? call4 - 14 Ave S.E. # 1402 Managua Nicaragua (b) Why did you leave your home country or country of nationality? Political reasons (c) How did you travel from your home country or country of nationality? Plane (d) Where were you going? Miami Florida (e) Date of departure. Sept 29,1979 10. (a) After leaving your home country, did you travel through or reside in any other country before entering the United States? If yes, identify each country, length of stay, purpose of of stay, address, and reasons for leaving. n/a"
+}

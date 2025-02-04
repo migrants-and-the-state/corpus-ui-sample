@@ -1,0 +1,25 @@
+{
+	"anumber": "A21203763",
+	"id": "A21203763_0060",
+	"page_index": 60,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203763_0060/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States Department of Justice - Immigration and Naturalization Service, I-485-c"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Cambodia", "Vietnam", "United States", "Laos"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1978]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/21/2023 UNITED STATES DEPARTMENT OF JUSTIC IMMIGRATION AND NATURALIZATION SERVICE Officer C RATINUXY Processing Sheet Date Application or JAN 9.8 1978 Petition Form No. I-485-C File No. A-21-203 763 NAME. Family name (in caps) followed by given name and middle name THIEU BANH DOB: Same as I-94 Change verified by Affidavit or B/C ENTRY: Paroled as Refugee Admitted as NIV on or before 3/31/75 PRESENCE: Meets 2-year physical presence requirement (needs not be continuous) MEDICAL: Not required (Paroled through Refugee camp) Must be obtained G-325-A and fingerprints (not required if under 14) LOCAL POLICE CHECKS: Must be obtained from each location of residence in the U.S. of 6 months or more (not required if under 14) PHOTOS: ADIT PROCESSING CARD: Supplemental Sheet: CLASSIFICATION: (circle one) IC6 Native or Citizen of Vietnam, Laos, or Cambodia IC7 Non-native or non-citizen of above countries but who is the spouse or child of above. (This class must also meet the entry and 2-year physical presence requirements.) IC8 Previously adjusted native or citizen of Vietnam, Laos, or Cambodia who is applying for rollback date of permanent residence IC9 Previously adjusted applicant who is neither a native or citizen of Vietnam, Laos, or Cambodia, but who is the spouse or child of Indochina refugee and is applying for a rollback date of permanent residence. Form I-181 G-601 OK ta Grant Except for 1. FILE REVIEW 2. 3. This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which may facilitate processing. Keep this sheet on top of all material in file until initial decision is made Form I-468 (Rev. 11-1-70)"
+}

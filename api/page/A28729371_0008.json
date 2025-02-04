@@ -1,0 +1,22 @@
+{
+	"anumber": "A28729371",
+	"id": "A28729371_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28729371_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Angel T. Ponce, M.D.D., ATPR/gz"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 ANGEL T. PONCE, M.D. AMERICAN BOARD OF INTERNAL MEDICINE INTERNAL MEDICINE ONCOLOGY Paramount Medical Building Pacific Medical Center 16660 Paramount Blvd. 5900 Pacific Blvd. Suite 204 Suite 202 Paramount, CA 90723 Huntington Park, CA 90255 (213) 408-6981 (213) 585-2641 August 17, 1988 TO WHOM IT MAY CONCERN Dr. Ponce has been taking care on Mrs. FRANCISCA SANCHES, since July, 1988 with diagnosis of Colon Carcinom. Mrs. Sanchez has been receiving chemotherapy and her last treatment was on August 17, 1988. In view of her condition is imposible for Mrs. Sanchez to stay long period of time out of bed. We will appreciate your attention in this matter regarding Mrs. Sanchez. Any question concerning Mrs. Sanchez, please do not hesitate to call me at my office. Sincerely, Angel T. Ponce Ravelo, M.D. Internal Medicine - Oncology ATPR/gz"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A41623672",
+	"id": "A41623672_0036",
+	"page_index": 36,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41623672_0036/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IMMIGRATION AND NATURALIZATION SERVICE, CIMIDN 08/29/96"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/5/2023 CIMIDN IMMIGRATION AND NATURALIZATION SERVICE 08/29/96 COMMAND: CENTRAL INDEX SYSTEM - ID # SEARCH/DISPLAY 16:22:24 ID # (A/AA/C/DA/DL) A41623672 A#: 041623672 DOB: 121410 (FB/FP/I/PP/SS/TD) LAST: SANTOS V DE CUBIAS FIRST: OLAYA NATZ DATE: MIDDLE: MERCEDES COURT: ALIASES: LOCATION: SEX: POE: LOS COB: ELSAL DOE: 061787 FCO: LOS COA: IR5 COC: FATHER: UNKNOWN PFCO: SFCO: DFO: 061787 BIN: MOTHER: TERESA SSN: CONSOLIDATED A-NOS --OTHER INFORMATION-- I-94 ADM # : CARD-X PASSPORT # : FBI # : DRIVER LIC: FINGER CD# : OVER-KEY ID NUMBER TO DISPLAY NEW PERSON. PRESS ENTER. CLEAR EXIT PF3 REFRESH PF4 RETURN PF5 HELP PF6 MAIN MENU PF8 VIEW HISTORY PF10 REQUIRES A SPECIAL SECURITY CLASS. PF9 EAD PF10 NAILS"
+}

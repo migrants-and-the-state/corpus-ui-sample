@@ -1,0 +1,25 @@
+{
+	"anumber": "A12250430",
+	"id": "A12250430_0172",
+	"page_index": 172,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12250430_0172/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF IDENTITY UNDER RULES RELATING TO CHINESE RESIDENTS, 67098"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 no. 67098 DUPLICATE THE ONITING AMURICA CERTIFICATE OF IDENTITY UNDER RULES RELATING TO CHINESE RESIDENTS This is lo certify that the Chinese hason named and described on the reverse side hereof has been regularly admitted to the United States, as of the stalus indicated, whereof satisfactory proof has been submitted This certificate is not transferable, and is granted solely for the identification and protection of said Chinesesperson solong the his alatus remains unchanged; Aoinsure the attainment of which object we description of sixid person is written on the reverse side hereof and his photographic STATES Airceness is attached, with his name, written partly across, and the official seal of the United Stitles Immigration officer signing this certificate, impressed partly over pard photograph 101"
+}

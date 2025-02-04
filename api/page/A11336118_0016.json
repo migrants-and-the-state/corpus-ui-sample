@@ -1,0 +1,39 @@
+{
+	"anumber": "A11336118",
+	"id": "A11336118_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11336118_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A ( (Rev. 10-1-82)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988, 1875, 1883]
+		},
+		"g325a": {
+			"occupation": {
+				"occupation_llm_v1": "['n.a']"
+			},
+			"reason": {
+				"reason_llm_v1": "NATURALIZATION"
+			},
+			"nationality": {
+				"nationality_llm_v1": "Mexican"
+			}
+		}
+	},
+	"is_g325a": true,
+	"is_cert_naturalization": false,
+	"full_text": "U.S. Department of Justice Scree 0/2023 OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION Approval expires 4-30-85 (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER Gomez Josefina FEMALE 04/18/15 Mexican A 11 336 118 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Barrio Chacon. Josefina Chihuahua. Mexico (If any) 520/348/477B FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. Barrio. Francisco. ? / 1875 Satebo. Mexico Deceased FATHER MOTHER (Maiden name) Chacon. Rosa Maria ?/1883. Guadalupe. Mexico. Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) Chihuahua WIFE Gomez. Esteban 11/14/13 10-16-37 Mexico Mexico FORMER HUSBANDS OR WIVES( (if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE None APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1030 S. Bronson Ave. L.A. California U.S.A. June 87 PRESENT TIME 8866 Alcott St. # 15 L.A. California U.S.A. June 76 June 87 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR None APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR None PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): Jusefina Bassis d Gomes 10/5/87 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS WRITE YOUR NAME IN YOUR NATIVE ALPHABET'IN THIS SPACE Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Allen registration number) GOMEZ. JOSEFINA A11-336-118 LOS CIT - 480 APR 5 1988 (date) Form G-325 A (Rev. 10-1-82) (1) IDENT."
+}

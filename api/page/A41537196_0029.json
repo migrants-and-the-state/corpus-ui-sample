@@ -1,0 +1,28 @@
+{
+	"anumber": "A41537196",
+	"id": "A41537196_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41537196_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF DEATH, 10"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/31/2023 CERTIFICATE OF DEATH (Under Section 12/17 of the registration of Births & Deaths Acts 1969 ) Form No : 10 GOVERNMENT OF GUJARAT DEPARTMENT OF PUBLIC HEALTH This is to certify that the following information has been taken from the original record of Death which is in the registar for BILIMORA of Taluka Gandevi of District VALSAD of Gujarat State. 1. Name: Taraben 2.SEX (M/F) : Female 3. Date of Death : 6-1-82 :4. Serial No. of Registration : 9 5. Place of Death : 6. Date of Registration : 7-1-82 Limdachawk. Bilimora. 7. Name of Father/Mother/ : Mohanlal Desai. Husband : Note: - In the Death Certificate Reason of Death written in the Register will not be published (Act / (1) B ) Sd/- Signature of Issuing Authority. K. Patels Registrar (Birth-Death) NOTARIAL NOTARIAL Bilimora-Nagarpalika. True translation of the Death Certificate issued in Piltre DURENDRAKUMAR Notary, Gujarati by the Registrar (Birth-Death) Bilimora-Nagarpailka. Dispaty (Vaload District 28-03-89 * Serial No. 2815 D K. Patel Advocate STATE OF Date 25 MAR 1989 Notary Valsad District 12. . Girdhar Chamber\" Behind Civil Court, VALSAD ( Guiarat ) India"
+}

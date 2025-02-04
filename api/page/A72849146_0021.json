@@ -1,0 +1,19 @@
+{
+	"anumber": "A72849146",
+	"id": "A72849146_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A72849146_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Passport, N 12386"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Le Ministère de l'Intérieur Republique d Haiti et de La Défense Nationale de la République d'Haiti Passeport Certifie et Atteste que le titulaire de ce passeport M. ROSEME GIROLIA est Citoyen Haitien et Prie les Autorites Constituées des Puissances Amies de lui prêter aide et protection. UK E7 LE 5 and No. 72386/1 Surnature Autorisee vet Cachet transcription Ce passeport contient 32 pages 1"
+}

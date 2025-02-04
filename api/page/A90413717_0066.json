@@ -1,0 +1,25 @@
+{
+	"anumber": "A90413717",
+	"id": "A90413717_0066",
+	"page_index": 66,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90413717_0066/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, N400 application for Melida Amaya Chavez"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1999]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/17/2023 OF USA UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE 77 S.E. 5th Street, 2nd Floor/NATZ Miami, Florida 33131 Memorandum Date: November 17, 1999 Subject: N400 application for Melida Amaya Chavez To: File A 90413717 From: Nilda Wells, SDAO dweees - Today, applicant appeared for preliminary interview with DAO Dennis Smyth. An N648 was filed on her behalf which was not accepted because it was not completed properly. During the preliminary interview it was found out that the applicant was \"unaware\" of her surroundings. Applicant is unable to take the oath of allegiance to the United States pursuant to 8 CFR 337.1(c)."
+}

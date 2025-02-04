@@ -1,0 +1,22 @@
+{
+	"anumber": "A43195714",
+	"id": "A43195714_0049",
+	"page_index": 49,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43195714_0049/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "LABORATORIO CLINICO PATOLOGICO 'ALVAREZ ALEMAN'"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1912, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/13/2023 LABORATORIO CLINICO PATOLOGICO \"ALVAREZ ALEMAN EDIFICIO CLINICAS MEDICAS 25 AVENIDA NORTE 640 DR. MAX BLOCH, D. M. DR. GUILLERMO SANCHO C., D. M. DR. MAURICIO E. PONCE, D. M. CARMEN B. DE COLBURN. T. M. (A.S.C.P.) Dr. San Salvador, 16 de SEPT I EMBRE de 19 91 Paciente MANUEL ANTONIO JOVEL EXAMEN DE SANGRE. ANTICUERPOS HIV : NEGATIVO (ELISA) V.D.R.L. (Cardiolipina) : No REACTIVO Cuantitativo: Anticuerpos Fluorescentes para Treponema, Absorbidos (FAT-ab): LUGAR DE NACIMIENTO : SAN RAFAEL OBRAJUELO, LA PAR FECHA DE NACIMIENTO : 7 JUNIO 1912 No. PASAPORTE : 0573267 De Ud. Attos y S.S., DR. MAURICIO E. PONCE"
+}

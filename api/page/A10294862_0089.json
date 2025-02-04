@@ -1,0 +1,25 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0089",
+	"page_index": 89,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0089/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IDENTIFICATION DIVISION, POLICE DEPARTMENT, BOSTON, MASS., Form 1499"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1908]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 IDENTIFICATION DIVISION, POLICE DEPARTMENT, BOSTON, MASS. NON-CRIMINAL FINGERPRINT CARD FORWARDED FOR PERSONAL IDENTIFICATION PURPOSES ONLY Name MAR Doo Height 5' 4\" Build SLIM Address 215 HARRISONAVE:, BOSTON MASS Weight 125 lbs Comp. MED. Place of birth CHINA Eyes BROWN Hair BLACK Date of birth JULY 15, 1908 Scars and marks Nationality CHINESE Remarks: Address of nearest relative or person to be notified BIK SIM MA YEE, daughter PASTE PHOTOGRAPH HERE Form1499"
+}

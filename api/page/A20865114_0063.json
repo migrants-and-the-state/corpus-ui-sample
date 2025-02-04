@@ -1,0 +1,28 @@
+{
+	"anumber": "A20865114",
+	"id": "A20865114_0063",
+	"page_index": 63,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20865114_0063/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "REPORT of Conditional Entry Under Section 2(7) of the Immigration and Nationality Act, as Amended., FORM I-593 ( (REV. 5–1–73) N"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["France", "United States", "Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1915, 2023, 1978, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 UN ED STATES DEPARTMENT OF JUST' 1 CADJ-2 IMMIGINTANTION AND NATURALIZATION SEh . ICE REPORT OF CONDITIONAL ENTRY UNDER SECTION 203(a) (7) OF THE IMMIGRATION AND NATIONALITY ACT, AS AMENDED. It has been established that the applicant fled from: a Communist or Communist-dominated X country or area a country within the general area of the Middle East and is unable or unwilling to return to such country or area on account of race, religion or political opinion. File No. In re: HOANG, Thi Oanh A20 865 114 Country of asylum and period of residence City and country prior to flight Sex Male France Dec. 1976 - July 1978 Vung Tau, Vietnam Female Marital Status Date of birth Country of birth Nationality Married Divorced Single Widowed in 1915 Vietnam Vietnamese Facts re persecution Cannot return to Communist Vietnam because of her previous close contacts with the west. Not considered resettled because: Has no permission to reside permanently in any free country. Usual occupation Accompanied by Saleswoman FOIA (b)(6) United States sponsor name and address City of destination in United States Immigr. & Citizenship Dept of the Cath. Welfare Bureau, 1400 W. 9th St., Los Angeles, Calif. 90015 Los Angeles, Calif. FORM 1-593 (REV. 5-1-73) N"
+}

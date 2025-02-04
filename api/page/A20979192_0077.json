@@ -1,0 +1,25 @@
+{
+	"anumber": "A20979192",
+	"id": "A20979192_0077",
+	"page_index": 77,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20979192_0077/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "REQUEST FOR VERIFICATION OF RECORD, Form I-423"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1975, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/27/2023 File REQUEST FOR VERIFICATION OF RECORD ARRIVAL DEPARTURE A20 979 192 TO FROM District Director DITRA/LOS 249 ELP El Paso, Texas VERIFICATION CENTER 5/75 It is requested that a search and verification of the record be made on the person named below: 1. FAMILY NAME (Capital Letters) FIRST NAME MIDDLE NAME 2. Nationality PALOS, Bruno Ornelas Mexico 3. Birthplace 4. Birthdate Teocaltiche, Jalisco, Mexico 10-6-14 5. Port 6. Date EL PASO, TEXAS 1915 7. Name of vessel or other transportation 8 Class (if known) passenger crew 9. Name and address of person to whom destined (arrivals only) 10. Remarks: Father: Feliciano PALOS born in Mexico Mother: Felicitas ORNELAS 11. Title and signature of requesting official: Date MIKE TERLE, IES DITRA/249 nt 5-12-75 nt REPORT OF SEARCH VERIFIED AS CHECK ABOVE VERIFIED AS CHANGED UNABLE TO VERIFY ON BASIS OF ABOVE NO RECORD THIS LOCATION Inable to verify FILE Searched by (Signature and Title) Date JUN 5 1975 j. Form I-423 UNITED STATES DEPARTMENT OF JUSTICE (Rev. 10-1-69) IMMIGRATION AND NATURALIZATION SERVICE"
+}

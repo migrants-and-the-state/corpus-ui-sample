@@ -1,0 +1,22 @@
+{
+	"anumber": "A10430675",
+	"id": "A10430675_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10430675_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, FILE: A 10 430 675"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1958]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "RECEIVED I & N SERVICE ST. PAUL, MINN. 806 LINDEN ST. APT. A 1958 AUG 20 AM11: 40 PULLMAN, WASH. aug. 18, 1958. FILE: A 10 430 675 u.s. Department of justice Immigration and Naturalization Service 1014 new Past office Building St. Paul 1, minn gentlemen I wish to notify you that last week I moved from 1326-2ND - ST., Brookings, So. Dak to 806 Linden st. Apt. A., Pullman, Washington It will be three years by Sept. 7, this year since I changed my status from a visitor to a non-quota immigrant. It is my understanding that I shall be able to apply for citizenship by then I would appreciate it very much if you will furnish me the information concerning the procedure I should take inorder to apply for citizenship. Very truly yours, mailing Lin MAOLING Liu"
+}

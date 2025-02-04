@@ -1,0 +1,25 @@
+{
+	"anumber": "A19581639",
+	"id": "A19581639_0037",
+	"page_index": 37,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19581639_0037/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA 7/13/2023, 4-1-76"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) Screened SFIRSTE by NARA (MIDDLE) 7/13/2023 SNDX CODE NO. GATHA, Dhankunvar Mohanlal A24 216 295 Alias P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH NYC 12/2/78 B-2 1897 India Type of Action: Name of Sponsor: I-539 denial Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, State, and Zip Code) FCO Date FCO Date FCO Date SFR 1/22/80 lw Acession No. Box No. Form , 4-1-76) N INDEX CARD Triplicate"
+}

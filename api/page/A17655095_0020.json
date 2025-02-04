@@ -1,0 +1,19 @@
+{
+	"anumber": "A17655095",
+	"id": "A17655095_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17655095_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1967, 1959]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "March 20, 1967. Real Estate Owner: Mrs. Eleanor Klein Situated at 855-857 Alexis Nihon Blvd., City of St. Laurent, Quebec. Purchased September 1, 1959, for the sum of $40,000.00. First Mortgage $21,800.00 from National Life Assurance Co. of Canada. Balance of Purchase Price Paid in Cash. First Mortgage has been reduced by Monthly Payments. See letter from National Life Assurance CO. of Canada dated February 28, 1967. Todays or Current Value of Property is $50,000.00 Eleanor Illein Mrs."
+}

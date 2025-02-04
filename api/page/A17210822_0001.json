@@ -1,0 +1,22 @@
+{
+	"anumber": "A17210822",
+	"id": "A17210822_0001",
+	"page_index": 1,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17210822_0001/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/6/2023 NAME (Exactly as it appears on the Nonimmigrant Document) FILE NO. meyer OTHER NAMES OR ALIASES EsTheR NATIONALITY (As on N/I Document ENDER DATE OF ADMISSION CLASS 7-5-66 Br ADATE OF BIRTH DATE OF REPORT REPORTING OFFICE India DOC 19-85- 12.28.67 Lis DATE TO WHICH ADMITTED OR PREVIOUSLY EXTENDED: HOCKET J-1 VISITOR (Current Program No. & Institution) EXTENSION STAY GRANTED EXTENSION OF DENIED TO: (date) CONTROL BOND POSTED APPLICANT FOR OSC ISSUED EXTENSION SECTION 245 V/D GRANTED w/o CHANGE STATUS ISSUANCE OF OSC STATUS ADJUSTED TO THAT OF PERMANENT RESIDENT ON: (date) Og OF NONIMMIGRANT #263 I-530 (Rev. 11-15-64) REPORT OF ACTION_NONIMMIGRANT UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A21773532",
+	"id": "A21773532_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21773532_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Relative Petition Card, Form I-130-A ( (REV 6-1-73) Y"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1974]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Name (Last, in CAPS) (Middle) Alien Registration Number SHUKCA PARVATi (First) DEVi A21-773-532 Other names used; (including maiden name If married woman) SNDX Code INdiA Place of birth ( Country) Date of birth (Month, day, year) 8-21-1905 Petitioner's name (Last, in CAPS) SHasHe (First) KANS (Middle) Petitioner's phone SAUKLA DATE AND ACTION ON VP SECTION DATE PETITION FILED (spouse DATE 201 (b) child) 21 Wd 21 NOC 14.61 OF 201 (b) (Parent) ACTION 203 (a) (1) DD FING 203 (a) (2) DISTRICT 203 (a) (4) DEC 181974 Relative Petition Card Sent to Consul at 203 (a) (5) Form I-130-A 1974 JUN 1974 (REV 6-1-73) Y"
+}

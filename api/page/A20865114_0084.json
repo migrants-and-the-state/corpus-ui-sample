@@ -1,0 +1,22 @@
+{
+	"anumber": "A20865114",
+	"id": "A20865114_0084",
+	"page_index": 84,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20865114_0084/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "RADIOGRAPHIE PULMONAIRE, 2, RUE ALPHONSE-FOCHIER 69002 LYON"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 DOCTEUR LOUIS F. PERRIN 2. RUE ALPHONSE-FOCHIER PROFESSEUR AGRÉGÉ A LA FACULTÉ 69002 LYON TÉL. (78) 37-27-01 RADIOGRAPHIE PULMONAIRE de Madame HOANG Thi Panh ( N° INS File A20.865.II4 ) Radiographie pulmonaire du I2 Juin I978 : cicatrices calcifiées anciennes du sommet droit. Calcification apicale gauche. Aspect de guérison parfaite. le I2 Juin I978 law Ram Docteur L.F. PERRIN PROFESSEUR AGREGE 2, Rue Authense Fachier C3002 LYUN TSL 37-27-01"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A17181791",
+	"id": "A17181791_0152",
+	"page_index": 152,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17181791_0152/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "LEAR SIEGLER, INC., 3171 SOUTH BUNDY DRIVE - SANTA MONICA, CALIFORNIA 90446 • EXMONT I-0666"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Taiwan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1969, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/21/2023 LEAR SIEGLER, INC. 3171 SOUTH BUNDY DRIVE . SANTA MONICA, CALIFORNIA 90406 EXMONT 1-0666 PHILIP S. FOGG CHAIRMAN OF THE EXECUTIVE COMMITTEE April 25, 1969 Mr. Philip Smith U. S. Immigration & Naturalization Service 300 N. Los Angeles Street Los Angeles, California Re: Betty Pei-ing Mao Dear Mr. Smith: Just a note to let you know that we are working diligently on completing the papers for Mrs. Mao for clearance with the California Employment Agency. We have been delayed somewhat because of a new law which requires US to get a statement from one of Mrs. Mao's employers in Taiwan. This is not easy but I think [ am on the track of such a person. I do hope that this delay will not interfere with our final hearing and, hopefully, clearance for Mrs. Mao who is an exceedingly fine person and a lady whom we would like very much to keep in our permanent employ. Sincerely, Philip S. Fogg PSF/lc Home address 720 S San Rafael Gue Pasadema Culay 91105"
+}

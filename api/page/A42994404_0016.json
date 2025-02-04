@@ -1,0 +1,22 @@
+{
+	"anumber": "A42994404",
+	"id": "A42994404_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42994404_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED BANK LTD. UBL, GRAMS : UNICITY"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/27/2023 UNITED GRAMS : UNICITY PHONES : 224031 BANK 224073 LTD. UBL DATED: 06.07.91. P. O. BOX NO. 5221 CITY BRANCH 1. I. CHUNDRIGAR ROAD KARACHI TO WHOME IT MAY CONCERN. We certify that M/S: Pakistan Welding Elect- rodes (Pvt) Limited are montaining their A/C with us satisfactorily, we further certify that as per our record Mr. Nooruddin M. Tapal is Chief Executive of the said firm. BANK LTD. (UMANAGER ) Assth. discount"
+}

@@ -1,0 +1,16 @@
+{
+	"anumber": "A44601460",
+	"id": "A44601460_0026",
+	"page_index": 26,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44601460_0026/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "FOIA (b)(6) DEPOSIT SYSTEM ACCOUNT INQUIRY TRIAL BALANCE ACCOUNT FOIA (b)(6) INQUIRY : 202 SEARCH AUTH : o FOIA (b)(6) 3270 PASSTHRU EMULATION 11:33 07/10/95 DEPOSIT SYSTEM ACCOUNT INQUIRY ACCOUNT STATUS ACCOUNT : FOIA (b)(6) INQUIRY: 200 SEARCH: AUTH: 0 FOIA (b)(6)"
+}

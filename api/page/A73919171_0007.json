@@ -1,0 +1,22 @@
+{
+	"anumber": "A73919171",
+	"id": "A73919171_0007",
+	"page_index": 7,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A73919171_0007/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "SUMMARY TRANSLATION OF A BIRTH CERTIFICATE IN SPANISH – TO ENGLISH, NARA-1023546897"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1906, 1907, 2023, 1971]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/7/2023 SUMMARY TRANSLATION OF A BIRTH CERTIFICATE IN SPANISH - TO ENGLISH COUNTRY OF EL SALVADOR OFFICE OF THE CIVIL REGISTRY San Vicente, E1 Salvador YEAR OF 1907 BIRTH REGISTRY BOOK NUMBER Year of 1907 BIRTH REGISTRY BOOK PAGE NUMBER 1 NAME OF CHILD BORN Sabina De Mercedes DATE OF BIRTH December 30, 1906 PLACE OF BIRTH Canton Llanos de Achichlco, San vicente, E1 Salvador NATIONLAITY Salvadoran NAME OF FATHER NOT MENTIONED NAME OF MOTHER Antonia Romero This is a certified copy taken from the original birth certificate as issued by the Municipal Office of the Civil Registry in the Municipality of Alcaldia, San Vicente on February 25, 1971. Signed (Illegible) Chief - Offoce of Civil Registry I, Jose Robles, Jr., hereby certify that the foregoing is an accurate summary translation taken from the original certified copy of the birth certificate in Spanish and I further certify that I am competent to translate from Spanish to English. HRL Date: 12-3-94 Jose Robles, Jr. Director - Dept. Immigration Services Friendly House, Inc. Immigration Dept. 802 S. 1st Ave. P.O. Box 3695 Phx., AZ 85030 (602) 257-1870 FAX 254-3135"
+}

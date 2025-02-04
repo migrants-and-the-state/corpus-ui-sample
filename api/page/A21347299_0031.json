@@ -1,0 +1,22 @@
+{
+	"anumber": "A21347299",
+	"id": "A21347299_0031",
+	"page_index": 31,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21347299_0031/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Khan truòng của Quoc Gia"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/29/2023 khan truong cua Quoc Gia. Ban CO thyoc loai nao trong cac loai tren day khong? CO I khong (Neu tra 1di co, xin giai thich o' mat sau) Ngoai ra, toi cung chua bao gio ra lenh, tro giup hoac tham gia duoi mot hinh thuc nao khac vao viec hanh ha bât cu' mot ngudi nao vi ly do chung toc, ton giao hoac chanh kien. Toi hieu tat CE nhung dieu tren day da xin va duoc cung cap Dan dich hoac duoc giai thich ve moi dieu toi chua thau hieu. Chu ky day du va dich thuc cua Ung Vien Ung Vien CO ten tren day da trinh dien va tuyen the trude mat toi tai Ngay (Ngay, thang, nam) Ten, ho Thong dich vien (viet bang chu in hoa) Chu ky cua Thong Dich Vien Chu ky va Chuc Vu cua Vien Chuc"
+}

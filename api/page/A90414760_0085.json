@@ -1,0 +1,22 @@
+{
+	"anumber": "A90414760",
+	"id": "A90414760_0085",
+	"page_index": 85,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90414760_0085/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/13/2023, -5-"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 -5- 14. Have you been recognized as a refugee by any other country or by the United Nations High Commissioner for Refugees? Be specific. no 15. (a) If you have ever belonged to any organization(s) which are considered hostile to the interests of your home country or country of nationality, are you still an active member of such organization(s)? ? no (b) What are/were your specific responsabilities and title, purpose of the organization(s) and dates of your membership? n/a 16. Explain specifically what are the racial, religious, ethnic or political grounds which you feel would result in you persecution. Politival reasons"
+}

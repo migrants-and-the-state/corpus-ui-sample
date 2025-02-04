@@ -1,0 +1,25 @@
+{
+	"anumber": "A28417099",
+	"id": "A28417099_0044",
+	"page_index": 44,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28417099_0044/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Memorandum, A2 417 099"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/7/2023 Memorandum Subject Date FONSECA, Terencio July 15,1987 A28 417 099 To Department of State From James W. Pomeroy Bureau of Human Rights District Director and Humanitarian Affairs Newark, N.J. 07102 Washington, DC 20520 This office has under consideration a request for asylum filed by (Same as above) born 10/15/06 and a native and citizen of Nicaragua 04/23/87 The subject entered the U.S. on as a Refugee On 06/29/87 the subject filed for asylum on the following basis: Political Opinion. The subject has been interviewed, before a decision as to further action in this case is made, your views with respect to the merits of this subject's claim would be appreciated. Bwlrs,"
+}

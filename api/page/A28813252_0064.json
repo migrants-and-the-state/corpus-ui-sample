@@ -1,0 +1,22 @@
+{
+	"anumber": "A28813252",
+	"id": "A28813252_0064",
+	"page_index": 64,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28813252_0064/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Record of IBIS Query ( (ROIQ), A2 813 252"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 Record of IBIS Query (ROIQ) A-Number or Receipt Number: A28 813 252 jv 11/5/07 # Last Name, First Name DOB NO DNR RELATES Resolution Memo MATCH Completed? 1 Cevallos, Maria 10/22/12 K/1/1/01 2nd Check A P B D 3rd Check 2 Cevallos Rodriguez, Maria 10/22/12 11/7/01 KR 2nd Check A P B D 3rd Check 3 Cevallos S-Rodriguez / Maria 10/21/12 PK11-807 2nd Check A P B D 3rd Check 2nd Check A P B D 3rd Check 2nd Check A P B D 3rd Check 2nd Check A P B D 3rd Check Properly annotate IBIS results on the ROIQ: NO MATCH - No information found in IBIS * Include the date of query in the the appropriate box (NO MATCH, DNR or RELATES). DNR - Information found in IBIS but does not relate to the subject *Include the initials or identifying number of the USCIS personnel conducting RELATES - Information found in IBIS that relates to the subject, case referred for the query in the same box as the date. resolution If the hit was a RELATES and a resolution memo was completed, check the Resolution Memo Completed Box in the last column. A = Applicant P = Petitioner B - Beneficiary D - Derivative/Household Member"
+}

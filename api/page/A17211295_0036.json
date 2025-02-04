@@ -1,0 +1,22 @@
+{
+	"anumber": "A17211295",
+	"id": "A17211295_0036",
+	"page_index": 36,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17211295_0036/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INDEX CARD, G-361 (Rev.7-1-60)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Name (Last, in CAPS) (First) Screened by NARA.7K1012023 (Middle) No. PANCHAL, Dayaram Ranchhooji A-17 211 295 Alias Sndx Code Entered: (Mo.) (Day) (Year) (Port) (Class) Born: (Country) (Mo.) (Day) (Year) India 05-05-09 Type of Action: Name of Sponsor: VP LOS 10-13-67 Panchal, Jay Dayaram Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Naturalized: (Mo.) (Day) (Year) (Court No.) (Court Location) (Certificate No.) FCO Date FCO Date FCO Date LOS 12-08-67 cb Accession No. Box No. Form G-361 (Rev.7-1-60) INDEX CARD Triplicate"
+}

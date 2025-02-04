@@ -1,0 +1,25 @@
+{
+	"anumber": "A13580960",
+	"id": "A13580960_0005",
+	"page_index": 5,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13580960_0005/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/18/2023, G-361 (Rev. 7-1-60) U.S.G.P.O.-626209"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Haiti"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Name (Last, in CAPS) (First) (Middle) No. LAUTURE, Genia A13 580 960 Alias Sndx Code Entered: (Mo.) (Day) (Year) (Port) (Class) Born: (Country) (Mo.) (Day) (Year) 10/17/63 LIQ 0-1 Haiti 5/23/09 Type of Action: Name of Sponsor: Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Naturalized: (Mo.) (Day) (Year) (Court No.) (Court Location) (Certificate No.) FCO Date FCO Date FCO Date LOS 11/20/63 bh FCO Date FCO Date FCO Date CORRECTED INDEX CARD Form G-361 (Rev. 7-1-60) U.S.G.P.O.-626209 INDEX CARD Triplicate"
+}

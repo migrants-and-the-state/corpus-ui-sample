@@ -1,0 +1,19 @@
+{
+	"anumber": "A71807945",
+	"id": "A71807945_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71807945_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/21/2023 U.S Justice-Immigration and RESIDENT Department of ALIEN MURILLO DE GUIFARRO, NAME EFIGENIA Naturalization Service 07 1413 DOB A071807945 ALIEN NUMBER 03 18.03 CARD EXPIRES Etegen mulls ALIEN REGISTRATION RECEIPT CARD PERSON IDENTIFIED BY THIS CARD IS ENTITLED TO RESIDE PERMANENTLY AND WORK IN THE U.S IRO LOS 921117 578 3068458077 A1USA071807945<01<9303 <<<<<<<< 1307142 F0303181 <<<<<<ECB6C4651 MURILL D<<DE<GUIFARRO< <<EFIGENIA<"
+}

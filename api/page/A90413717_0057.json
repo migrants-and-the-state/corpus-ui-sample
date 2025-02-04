@@ -1,0 +1,22 @@
+{
+	"anumber": "A90413717",
+	"id": "A90413717_0057",
+	"page_index": 57,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90413717_0057/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INTERVIEWING FILE QUALITY REVIEW, 90 43 717"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/17/2023 need unaward INTERVIEWING FILE QUALITY REVIEW memo A number: 90 4/3 717 CLERK REVIEW Clerk's Initials N-400 RELATES TO A-FILE FBIQUERY PRINTOUT UNDER N-650A Mg no FBIQUERY RELATES TO A-FILE My CHECK CONTROL # ON N-650A Mol VALID PRINTS my PHOTOS ON TOP OF N-400 STAMP (VOTERS ON N-400) a CIS PRINTOUT 9101 FOR 90 MILLION CASES T-FILES my CIS PRINTOUT 9101 CIS PRINTOUT 9504 CIS RELATES TO A-FILE my OFFICER COMPLETION DAO'S Initials C-4 ADJUDICATION DONE (GRANT) C-4 ADJUDICATION DONE (CONTINUED) C-4 ADJUDICATION DONE (DENIAL) go C-4 ADJUDICATION DONE (NO-SHOW) C-4 ADJUDICATION NOT DONE (C-4 DOWN) C-4 REVERIFICATION COMPLETE C-4 REVERIFICATION NOT DONE (C-4 DOWN) RNACS (NOT COMPUTER ENTRY REQUIRED) TIME 10:50 GRANTED - WAITING HERE GRANTED - MAIL OUT OTHER"
+}

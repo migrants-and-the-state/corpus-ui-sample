@@ -1,0 +1,28 @@
+{
+	"anumber": "A12288810",
+	"id": "A12288810_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12288810_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IMMIGRANT VISA AND ALIEN REGISTRATION, FS-511"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "M FS-511 (7-15-58) UNITED STATES OF AMERICA IMMIGRANT VISA AND ALIEN REGISTRATION 1- 871119 OF: (Family name) (First name) (Middle name) KILKELLY IMM. Mary Josephine nee Lally PORT OF B05-020 mi & MASSRRICE ACTION OF SPECIAL INQUIRY OFFICER SEPIOTTED The immigrant herein was (admitted) (excluded) I certify that the immigrant named herein arrived in the United States at this port on the and taken under RAA 55 Symbol (Name of vessel or flight No. of aircraft) on Section of the Immigration and (Day) (Month) (Year) admitted Nationality Act. and was inspected by me and for further detained inquiry by special inquiry officer under Symbol X Special Inquiry Officer. Section of the Immigration and ACTION ON APPEAL ADMITTED Nationality Act EXCLUDED Immigrant Inspector. DATE This visa is issued under Section 221 of the Immigra- tion and Nationality Act, and upon the basis of the AMERICAN EMBASSY facts stated in the application. IMMIGRANT CLASSIFICATION AT DUBLIN, IRELAND NONQUOTA (Symbol) QUOTA (Symbol) X aeea J ,Fowler VISA PETITION NO., IF ANY NONE of the United States of America, IMMIGRANT VISA NO. QUOTA Alts F. Fowler 1720 IRISH Vice Consul. ISSUED ON American (Day) (Month) (Year) 14 AUGUST 1961 of THE VALIDITY OF THIS VISA EXPIRES MIDNIGHT AT THE END OF (Dcy) (Month) (Year) 13 DECEMBER 1961 NATIONALITY (If stateless, so state, and give previous nationality) IRISH PASSPORT NO. E 225717 OR OTHER TRAVEL DOCUMENTS (Describe) Irish Passport UNITED STATE Service No. 5785 ISSUED 21 TO Mary Josephine Kilkelly nee Lelly Tariff Item No. Fee Paid $20 Local Cy equiv. $7.40 BY Irish PP.Office, Dublin, Ireland ON June 13, 1961 STATISTICS EXPIRES June 13, 1966 16-74687-1 U.S. GOVERNMENT PRINTING OFFICE"
+}

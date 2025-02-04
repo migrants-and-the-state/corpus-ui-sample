@@ -1,0 +1,25 @@
+{
+	"anumber": "A90414760",
+	"id": "A90414760_0082",
+	"page_index": 82,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90414760_0082/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/13/2023, -2-"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1918, 1912, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 -2- 4. What is your religion, if any? Catholic 5. What languages can you speak, read, and write? spanish 6. (a) What schools or universities have you attended? Please show dates of attendance and degrees earned. 1912 - 1918 ST. Teres School Nicaragua (b) What specific skills do you have? n/a (c) Your former occupation(s)/employment, and reasons for leaving. n/a 7. Who issued your travel document (s) ? Be specific. Republic of Nicaragua 8. (a) If you have a visa issued by an American Consul, what is the number of the visa? 053324 (b) Why did you obtain a U.S. visa? to leave my country"
+}

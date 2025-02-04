@@ -1,0 +1,22 @@
+{
+	"anumber": "A34733884",
+	"id": "A34733884_0064",
+	"page_index": 64,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34733884_0064/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IBM Personnel Certification Letter, PO Box 11 Langstone Road Havant Hampshire England PO9 1RQ"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1975]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/18/2023 IBM PO Box 11 Langstone Road Havant Hampshire England OP Internal Systems PO9 1RQ Telephone: Havant 6363 World Trade (STD Code 070 12) Telex: 86274 (Inbusmac Havant) Telegrams: Inbusinf Portsmouth Telex 27 March 1975 TO WHOM IT MAY CONCERN This is to certify that Mr. RANJIT SITLANI is a permanent, full-time employee of the IBM Corporation, U.S.A. He is currently on assignment from the U.S.A. to IBM Information Services Limited, Havant, England. His current monthly income is U.S. $2615.00 (two thousand six hundred and fifteen dollars). Dirend DOROTHY FRENCH Personnel Officer. Registered in London: No. 791289 Registered Office: 389 Chiswick High Road London W4 4AL"
+}

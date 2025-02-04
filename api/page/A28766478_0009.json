@@ -1,0 +1,25 @@
+{
+	"anumber": "A28766478",
+	"id": "A28766478_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28766478_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 Form I - 181b (Rev. 3-1-83) N UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE REFER TO THIS FILE NO. we A29 766 478 Date: Andrea Pastora SILVA DE ROCHA 238 South Reno Street, #2 Los Angeles, California 90057 The processing of the application for adjustment of status to that of permanent resident filed by the above named individual has been completed. A request has been forwarded for the allocation of a visa number. Sincerely yours, District Director ATTORNEY"
+}

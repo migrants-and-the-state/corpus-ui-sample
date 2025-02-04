@@ -1,0 +1,28 @@
+{
+	"anumber": "A46184983",
+	"id": "A46184983_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A46184983_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Visa Applicant’s Documentation of Immunization, SUPPLEMENTAL FORM TO OF-157"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Pakistan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 2023, 1997]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/5/2023 SUPPLEMENTAL FORM TO OF-157 Visa Applicant's Documentation of Immunization To be completed by panel physician only I. Applicant Identifying Information Mr . SIDDIQUE Siraj ul Abidin Date of Birth Aug. 3, 1914 (Family) (Personal) (Middle) (Month, Day, Year) Male Female Passport # B 939532 Country PAKISTAN 2. Immunization Record Vaccine History Transferred from a Written Record Vaccine Completed Waiver(s) to be Requested Given series or Fully immune Blanket (Check if YES or write date Not Medically Appropriate of lab test if immune) Vaccine Date Rec'd Date Rec'd Date Rec'd Date Rec'd Date given Not Contra- Vaccine - Insufficient Not fall Mo/Day/Yr Mo/Day/Yr Mo/Day/Yr Mo/Day/Yr by appropriate indication unavailable time interval (flu) Panel Phy. age in country season Mo/Day/Yr //////// DT/DTP Td 8.11.97 //////// Polio (OPV/IPV) //////// Measles //////// (or MR or MMR) Mumps //////// (or MMR) IIIIIIII Rubevia (or MR or MMR) //////// Hib Hepatitis B IIIIIIII Varicella IIIIIIII Pneumococcal 8.11.97 //////// Influenza 3. Results Applicant may be eligible for blanket waiver(s) as indicated above. Applicant will request an individual waiver based on religious or moral convictions. Vaccine history complete for each vaccine, all requirements met. Applicant does not meet immunization requirements. 4. Panel Physician's Identifying Information Panel Physician's Name DR. ABDUL MAJEED Date Aug. 11, 1997 (print or type) Panel Physician's Signature Andwry"
+}

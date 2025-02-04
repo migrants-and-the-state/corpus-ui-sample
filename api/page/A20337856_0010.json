@@ -1,0 +1,19 @@
+{
+	"anumber": "A20337856",
+	"id": "A20337856_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20337856_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/18/2023 this is is certify the ADVANI, RUKMANI DEVI REGISTRATION NUMBER A20 337 856 OF BIRTH I SEX 01/15/07 F has been dufy registered according to law and was admitted to the United States as as immigrant at 45 PORT I MO.-DAY YR. OF ENTRY SFR 05/09/77 I certify that I have compared this with its original and it is a true and complete copy. Name: Eric G. Hoffman, Attorney at Law 170 Columbus Avenue, San Francisco, CA 94133 Admitted to Practice in the State of California Signed; Date: JUL 22 1992"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A17200810",
+	"id": "A17200810_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17200810_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/6/2023"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1969, 1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Surendrakumar Parbhubhai Patel 17302 Elsinore Circle Huntington Beach, California U.S.A. 18 April 1967 Whom It May Concern, I, the undersigned Mr. Surendrakumar Parbhubhai Patel hereby solemnly clare that I undertake to bear the responsibility and all the expenses that ay be incurred during the stay in the U.S.A. of my mother Mrs. Dahiben AKA Laxmiben) Parbhubhai Patel of Viraval, Dt. Bulsar, Gujarat, India. I am a citizen of the U.S.A. and would like to call my mother to stay with me. A letter of my present employer and a certificate of my financial standing are enclosed. I also have a brother, Mr. Maganbhai Parbhubhai Patel residing at 18925 Napa Street, Northridge, California. He is a permanent resident of the U.S.A. and has declared his intention to become a citizen. He also shares the responsibility to support our mother. A letter of his present employer and a certificate of his financial standing are herewith enclosed. Yours very truly Surendrakumar Parbhuthai Patel Surendrakumar Parbhubhai Patel STATE OF CALIFORNIA COUNTY OF LOS ANGELES April 19, 1967 ELOISE H. DONNELL Notary Public - California PRINCIPAL OFFICE IN Notary LOS ANGELES COUNTY My Commission Expires January 20, 1969"
+}

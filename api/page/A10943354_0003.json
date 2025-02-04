@@ -1,0 +1,22 @@
+{
+	"anumber": "A10943354",
+	"id": "A10943354_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10943354_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Title of the image, Naturalization Application, Form number"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Copied at the National Archives at Kansas City (18) Fill in this block only if citizenship is claimed through a stepfather. (a) The full name of my stepfather is (b) He was born at on (City) (State or country) (Month) (Day) (Year) and now resides at and is now a citizen of (City) (State or country) ; he acquired United States citizenship through birth; naturalization; on in the Court (Month) (Day) (Year) (Name of court) of at (City or town) (State) Certificate of Naturalization No. (c) He and my mother were married on at (Month) (Day) (Year) (City) (State or country) (d) Before marrying my mother, he was married times, as follows: Date married Date marriage ended Name of wife How marriage ended (Death or divorce) (19) Fill in this block only if you are or were a married woman. I have been married times, as follows: Date married Date marriage ended Name of husband Citizenship of husband How marriage ended (Death or divorce) (20) Fill in this block only if you claim citizenship through a husband. (a) The name of my citizen husband is/was (Give full and complete name) (b) He was born at on (City) (State or country) (Month) (Day) (Year) and now resides at (City) (State or country) (c) He became à U. S. citizen through birth; naturalization; on (Month) (Day) (Year) in the Court of at (Name of court) (City or town) (State) Certificate of Naturalization No. (d) Before my marriage to him he was married times as follows: Date married Date marriage ended Name of wife How marriage ended (Death or divorce) (21) Fill in this block if any member of your immediate family has submitted or is submitting a similar application to this office. Name of relative Relationship When application submitted Certificate No. or File No. if known (22) I HAVE NOT heretofore filed an application for a certificate of citizenship (Have) (Have not) on , 19 , at (SIGN HERE) Jacoh (Signature of applicant or parent or guardian) (3)"
+}

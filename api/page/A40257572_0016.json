@@ -1,0 +1,28 @@
+{
+	"anumber": "A40257572",
+	"id": "A40257572_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40257572_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "KAOHSIUNG MUNICIPAL POLICE HEADQUARTERS, 66528"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Taiwan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1949, 2023, 1915, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/4/2023 KAOHSIUNG MUNICIPAL POLICE HEADQUARTERS KAOHSIUNG ,TAIWAN REPUBLIC OF CHINA Date: October 9, 1986 No. 66528 TO WHOM IT MAY CONCERN: This is to certify that Chi Chou Ching-ying (makes female), a Chinese national, born on March 28, 1915 in Fengyang Hsien, Anhwei Province, resided in Taiwan area for a period from May 3, 1949 to October 9, 1986. We have found no criminal record in our police files concerning the aforesaid individual during her residence in this area. Liao Chao-shiang Liao Chao-shiang diai Commissioner Kaohsiung Municipal Police Hqs 75.4.10 1 x 2 x 100"
+}

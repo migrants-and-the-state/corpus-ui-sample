@@ -1,0 +1,25 @@
+{
+	"anumber": "A26271163",
+	"id": "A26271163_0123",
+	"page_index": 123,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26271163_0123/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "NBC N400 PRINTS, UNITED STATES CITIZENSHIP AND IMMIGRATION SERVICES"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1910, 2011, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 NBC N400 PRINTS 3/1/2011 10:57 UNITED STATES CITIZENSHIP AND IMMIGRATION SERVICES FBI FINGERPRINT RESPONSE A-NUMBER : 026271163 NAME : DATE OF BIRTH : FBI RESPONSE INFORMATION FBI RESPONSE DESC NO DATA DATE PROCESSED BY FBI: Control Num: over 75 yrs old FBI NAME CHECK RESPONSE A-NUMBER : 026271163 NAME : SANCHEZ,MARGARITA DATE OF BIRTH : 11/8/1910 FBI RESPONSE INFORMATION FBI RESPONSE DESC NO RECORD DATE PROCESSED BY FBI: 1/27/2011 MR heal MAR 22 2011 FILE NUMBER: A026271163 RP LOCATION: IV0207"
+}

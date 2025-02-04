@@ -1,0 +1,25 @@
+{
+	"anumber": "A17655095",
+	"id": "A17655095_0001",
+	"page_index": 1,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17655095_0001/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Title of the image, Re: Alien Registration, Form number only in double quotes, A17 655 095"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "RECEIVED 92 NOV 16 AM 8:05 INS, CLEVELAND, OR Eleanor Klein 58 S. Stanwood Road, Columbus, Ohio 43209 November 11, 1992 District Director, United States Department of Justice, 1240 East 9th Street Room 1917 Cleveland, Ohio 44199 Re: Alien Registration A17 655 095 When crossing the boarder during the summer, I was instructed to obtain a new card, I have proceded to fill out the application, and get the correct photo however I am 88 years old and not able to go to an INS office in Cincinnati or Cleveland without a great deal of effort and would like to know if I could meet with an INS officer in Columbus, I do know that they come down here once a month for several days. Please let me know as soon as possible, or call my daughter, Beatrice Binsky at 614-444-5533 during working hours. Yours truly, Eleanor Klein . Eleanor Klein"
+}

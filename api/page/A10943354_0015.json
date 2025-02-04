@@ -1,0 +1,25 @@
+{
+	"anumber": "A10943354",
+	"id": "A10943354_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10943354_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "METROPOLITAN LIFE INSURANCE COMPANY, O1530 S. ( (11-56)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Russia"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 1957, 1884]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Copied at the National Archives at Kansas City METROPOLITAN LIFE INSURANCE COMPANY ONE MADISON AVENUE, NEW YORK 10, N. Y. ORDINARY DEPARTMENT P LB District Debit Date MERCER, N. J. AUGUST 16, 1957 TO WHOM IT MAY CONCERN: The information stated herein has been copied from the records for insurance on the life of the person named below. NAME OF THE PERSON SERIAL NUMBER OF THE DATE ON WHICH THE POLICY POLICY ISSUED WAS ISSUED JACOB LAVINE 1 501 691A JANUARY 13, 1914 PLACE OF BIRTH AS APPEARING ON THE RECORDS DATE OF BIRTH AS APPEARING ON THE RECORDS FOR THE POLICY FOR THE POLICY LEELA, RUSSIA DECEMBER 20, 1884 J. S. Burke Third Vice-President Mr. Jacob Lavine c/o Dr. Samuel H. Lavine 1125 South Clinton Avenue Trenton, New Jersey Ym Q1530 S. (11-56) PRINTED IN U.S.A."
+}

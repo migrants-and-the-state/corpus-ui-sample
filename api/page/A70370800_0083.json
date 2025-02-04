@@ -1,0 +1,22 @@
+{
+	"anumber": "A70370800",
+	"id": "A70370800_0083",
+	"page_index": 83,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A70370800_0083/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "HEALTH EVALUATION, HCR/FORM/DMV/1"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/21/2023 HCR/FORM/DMV/1 (page 2) - 2 - 5. HEALTH EVALUATION: 5.1 EXAMINATION FINDINGS: After the Surgery he is Sheeth Vital parameters 5.2 DIAGNOSIS: -Status post-Resection of a hives cuftand Challenghists - Oldage . 6. RECOMMENDED TREATMENT/MANAGEMENT PLAN: 6.1 WITH ACCESS TO CURRENT SERVICES: SEE PAGE 3 7.1 X 6.2 WITH ACCESS TO SERVICES IN A COUNTRY OF RESETTLEMENT: or SEE THE SAME AS For 6.1"
+}

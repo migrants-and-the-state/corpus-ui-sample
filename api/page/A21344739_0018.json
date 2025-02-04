@@ -1,0 +1,19 @@
+{
+	"anumber": "A21344739",
+	"id": "A21344739_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21344739_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 : RESIDENT ALIEN Justice ALTER REGISTRATION RECEIPT CARD NGUYEN THAN THI PERSON IDENTIFIED BY HIS CARD 10 ENTITLED TO RESULT PERMANENTLY 21344739 11 24 032 152 57477 102115 8632 37110 57321 12315 50747 RADITY A23344739 W 060175 266 025 14250 5496422 LOS ICE Elian"
+}

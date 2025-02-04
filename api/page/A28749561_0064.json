@@ -1,0 +1,25 @@
+{
+	"anumber": "A28749561",
+	"id": "A28749561_0064",
+	"page_index": 64,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28749561_0064/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "FINAL DISPOSITION REPORT, FBI-84 (Rev. 5-14-80"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/27/2023 -84 (Rev. 5-14-80) FINAL DISPOSITION REPORT Leave Blank Note: This vital report must be prepared on each individual whose arrest fingerprints have been forwarded to the FBI Identification Division without final disposition noted thereon. If no final disposition is available to arresting agency, also obtain subject's right four finger impressions on this form, complete left side and forward the form when case referred to prosecutor and/or courts. Agency on notice as to final disposition should complete this form and submit to: Director, FBI, Washington, D.C. 20537, Attention: Identification Division. (See instuctions on reverse side) FBI No. Final Disposition & Date (If convicted or subject pleaded guilty to lesser charge, include this modification with dispostion.) Name on Fingerprint Card Submitted to FBI Last First Middle MAGANA - torres, Efrain Date of Birth 7-25-1915 MALE Sex Henry Fingerprint Classification From FBI 1-B Response State Bureau No. (SID) Social Security No. (SOC) This Form Submitted By: (Name, Title, Agency, ORI No., City & State) Contributor of Fingerprints (Include complete name and location of agency, together with ORI number.) Signature Date Title Arrest No. (OCA) Date Arrested or Received COURT ORDERED EXPUNGEMENT: A28749561 03/23/87 Return Arrest Fingerprint Card to Contributing Agency; Certified or Authenticated Copy of Court Order Attached. Offenses Charged at Arrest Right Four Fingers Taken Simultaneously dep proc If additional space is needed, check and continue on reverse side of this form."
+}

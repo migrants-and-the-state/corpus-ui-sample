@@ -1,0 +1,22 @@
+{
+	"anumber": "A90409169",
+	"id": "A90409169_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90409169_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Routing and Transmittal Slip, 5041-102"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1983]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/7/2023 DF RO 4 ING AND TRANSMITTAL SLIP 11-29-84 TO: (Name, office symbol, room number, Initials Date building, Agency/Post) 1. 2. Mr. Rowland 3. DD P 4. 5. Action File Note and Return Approval For Clearance Per Conversation As Requested For Correction Prepare Reply Circulate For Your Information See Me Comment Investigate Signature Coordination Justify REMARKS This is an I-130 case that also proper to place the denied by SRC. It is beneficiary under D/C However, please note her date of birth DO NOT use this form as a RECORD of approvals, concurrences, disposals, clearances, and similar actions FROM: (Name, org. symbol, Agency/Post) Room No.-Bldg. Salar Phone No. 5041-102 OPTIONAL FORM 41 (Rev. 7-76) Prescribed by GSA GPO: 1983 o - 381-529 (232) FPMR (41 CFR) 101-11.206"
+}

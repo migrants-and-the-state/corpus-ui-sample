@@ -1,0 +1,25 @@
+{
+	"anumber": "A34140438",
+	"id": "A34140438_0068",
+	"page_index": 68,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34140438_0068/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 9/22/2023, HNK-2"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Taiwan", "China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 1946, 1969, 1973, 2023, 1957]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 22. Has any person listed on this form previously applied for a visa or United States passport to go to the United States? Give details. TENG Pik-ling applied in 1966 and approved in 1966 in Taiwan WONG Kwong-ha applied in 1969 and approved in 1969 in H.K. ( tourist visa) 23. Three References in Hong Kong Not Related to you: Name Address Occupation TANG Kwok-ying 306 B1. 14 Wong Tai Sin R/E Kowloon care-taker TANG Yuet-man 103 Block 7 Wong Tai Sin R/E Kowloon clerk WONG Lung 405 Block 5 Lok Fu Estate, Kowloon teacher 24. China Residence and Visits Date First Came to Hong Kong 1946 Have you ever had an exit permit from Mainland China? no If so, to whom was it issued? Where was it issued? When? Reason for issuance: Where is the permit now? 25. Since your first arrival in Hong Kong, have you ever returned to Mainland China ? no If so, when (list each occasion giving date, time spent and reason for visit)? 26. If you left China after 1957, what was the name of your commune? 27. Have you provided the Chinese characters for every Chinese name and place on this form? yes 28. If someone completed this form for you or assisted you to complete this form, give that person's name and address. Christine Leung ( caseworker ) International Rescue Committee 29. Your Signature: X Tary man Date form Completed: Oct. 19,1973 NOTE: IF NOT SIGNED AND DATED, THIS FORM WILL NOT BE ACCEPTED. HNK-2 9-9-70"
+}

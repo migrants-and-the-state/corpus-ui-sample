@@ -1,0 +1,22 @@
+{
+	"anumber": "A40427106",
+	"id": "A40427106_0017",
+	"page_index": 17,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40427106_0017/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 6/6/2023"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/6/2023 AUBUR RPORATION 14344 LaGrange Road, Orland Park, Illinois 60462 / 312-349-7676 7649 S. Racine Avenue, Chicago, Illinois 60620 / 312-483-7676 3rd December, 1987 TO WHOM IT MAY CONCERN Samuel Pacheco has been employed by the Auburn Corporation for seven(7) year and makes $11.00 per hour. He installs storm windows, replacement windows and doors. RI Lardeen Subscribed and sworn to before me Auburn Corporation. min 3 Day of DECEMBER 19 82 at Chicago, County of Cook, State of Illinois. Egides Infary NOTARY PUBLIC STATE OF ILLINOIS- MY COMMISSION EXP. DGC. 30,1988 ISSUED THRU ILL. NOTARY ASSOC."
+}

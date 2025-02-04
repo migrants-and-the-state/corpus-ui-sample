@@ -1,0 +1,19 @@
+{
+	"anumber": "A28621564",
+	"id": "A28621564_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28621564_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA 7/28/2023 RESIDENT ALIEN U.S Department of Justice - Immigration and Naturalization Service ROMAN AVELLAN, JOSE ANTONIO NAME 1709 DOB A028621564 100 ALIEN NUMBER 05 16.01 CARD EXPIRES NATURAL ALIEN REGISTRATION RECEIPT CARD PERSON IDENTIFIED BY THIS CARD IS ENTITLED TO RESIDE PERMANENTLY AND WORKIN THE U.S AS6 MIA 891129 579 1127452012 A1USA028621564<01<9105<<<<<<<< 0910178M0105167<<<<<<0E20D10E0 ROMAN<AVELLAN<<JOSE<ANTONIO<<<"
+}

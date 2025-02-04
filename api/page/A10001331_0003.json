@@ -1,0 +1,39 @@
+{
+	"anumber": "A10001331",
+	"id": "A10001331_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10001331_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "The United States of America, 8050754"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Russia", "United States"]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "fair"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Married"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1961.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "22 Forest Dr, Albany, New York"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "Copied at the National Archives at Kansas City CA DUPLICATE TO BE FORWARDED TO No. 8050754 IMMIGRATION AND NATURALIZATION SERVICE Petition No. 17603 Personal description, of holderas, of dateofnaturalization: Date of birth April 23, 1878 sex M ; complexion fair colorsheyes grey color of hair grey height 5 feet 7 inches; weight Marital,status 163 pounds; married visible edistindive/marks wart corner former pationalist left eye ta te less formerly Russia I certify that the description above givenis, New and that hereto, is a likeness of me. here sign Wladmies Fedoworth Love Complete and true signature of holder) State of New York County of Albany } SS: Beik known, that lakatermofthe Supreme Court of New York, Albany County held/pursuantly, lawal Albany, New York on June 15, 1961 the Counthavingfoundshal Wladimir Fedorovich Livin then/residing at 22 Forest Dr Albany New York intends loveside permanenMlyn the United States when sorequired by the Naturalizeation Laws ofthe United States), had in all other respects complied with the applicable provisions of such mahiralization, laws, and was entilled to be Seal admilled socilizenship thereupon ordered that such person be and(s)hewas admilled as a cilizen the United States of America. Investimony the courtis hereunto, afficed this 15th day of June in the year of our Lord nineleen hundred and Sixty-one and of our Independence, the onehundred and Eighty-fifth Dineaded L. Linch Insaviolation of the U.S.Code land Clerk of the Supreme Court. punishable as such) to copy print, photograph, or otherwise illegally use this certificate. By Francle Deputy Clerk. BUREAU ENGRAVING AND PRINTING,LITE"
+}

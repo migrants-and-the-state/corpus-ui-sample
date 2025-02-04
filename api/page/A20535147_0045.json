@@ -1,0 +1,25 @@
+{
+	"anumber": "A20535147",
+	"id": "A20535147_0045",
+	"page_index": 45,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20535147_0045/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Consulate General of the Republic of China, Yokohama, Japan, SG-3922"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Japan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1972, 1947]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CONSULATE GENERAL OF THE REPUBLIC OF CHINA YOKOHAMA. JAPAN SG- 3922 September 27, 1972 TO WHOM IT MAY CONCERN: This is to certify that Mr. YING, Kuo-han (11g ), Chinese national and holder of Chinese passport No. (59) 081544 YOK, was legally married to Mrs. YING, Chang Kwei Yen , Chinese national and holder of Chinese passport No. (59) 2081545 YOK, on August 6, 1947 in Shanghai, China. Live Gilbert M. Pan . Vice Consul A COMMUNITY CLUIN x SERVICES OF THE 10"
+}

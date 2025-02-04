@@ -1,0 +1,25 @@
+{
+	"anumber": "A41366069",
+	"id": "A41366069_0025",
+	"page_index": 25,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41366069_0025/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Marriage Certificate"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2006, 1988, 2023, 1935]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 CHINDIA 1Re BCR STRIT ADD the ONERUPEE ON 44 PRUPEE (2) 2. That Hardit Singh Jawandha Was married on July 24, 1935 to Kartar Kour Chahl, daughter of Harnem Singh Chahl, at Guerdi, District Bhatinda, India. 3. That Hardit Singh Jawandha is related to me, he is my brother. Deponent, Dated: 4.4.1988, (Joginder Singh Jawandha) Certified thefthen of \"avitwas raed (Conta. 3 ) over & or $25.00 the declarent ATTESTED who 2006/04 it to No correct PREM NATH SETH 4-4-88 Advents a Fictary Public App by Cantab Govt. LAMANDA"
+}

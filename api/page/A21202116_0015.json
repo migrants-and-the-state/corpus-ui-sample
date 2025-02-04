@@ -1,0 +1,22 @@
+{
+	"anumber": "A21202116",
+	"id": "A21202116_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21202116_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "City of Lafayette Police Department Letterhead, POLICE DEPARTMENT CITY HALL"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1978]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 POLICE DEPARTMENT Telephone 317 Area 742-4045 CITY HALL 20 North 6th St. CITY OF IAFAYETTE DEPARTMENT OF POLICE LAFAYETTE, INDIANA 47901 DATE: May 20, 1978 REFERENCE: TRAN, Chinh Van DATE OF BIRTH: 7-14-15 PLACE OF RESIDENCY: 1106 Ferry St. LENGTH OF RESIDENCY: 7months TO WHOM IT MAY CONCERN: This is to certify that the above named subject who lived in Lafayette, Indiana has NO ARREST RECORD OF ANY KIND WITH THIS DEPARTMENT. Nadina Straws Nadina Straws Records Clerk COM/REC SECTION LAFAYETTE CITY POLICE DEPT. LAFAYETTE, IND."
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A21202116",
+	"id": "A21202116_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21202116_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CORRECTED INDEX CARD, G-361 (Rev. 4-1-76) N"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. Screened by NARA, 7/28/2023 TRAN CHINH VAN T-650 A21 202 116 Alias P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH HMM 062775 ICE 071415 VIETNAM Type of Action Street Address (City, State, and-Zip Code) 85 83 83.0035 Name of Sponsor INDO - CHINESE ADJ. Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) FCO Date FCO Date FCO Date HMM 122978 IS Acession No. Box No. 4/6 CORRECTED INDEX CARD Form G-361 (Rev. 4-1-76) N INDEX CARD Triplicate"
+}

@@ -1,0 +1,28 @@
+{
+	"anumber": "A21432711",
+	"id": "A21432711_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21432711_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CCity of Good Neighbors"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1975, 2023, 1927, 1978]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 To OF CITY OF HAWTHORNE 4440 WEST 126TH STREET LOW HAWTHORNE, CALIFORNIA 90250 POLICE DEPARTMENT INCORPORATED 1927 675-4446 678-7706 May 9, 1978 TO WHOM IT MAY CONCERN: RE: NGOC-MINH THI NGUYEN (female) DOB: 1-9-25 A thorough search of the files of the Hawthorne Police Department reveals no criminal record with regard to the above named subject. She states that she has resided at 12700 Cranbrook Ave. Apt A Hawthorne, CA 90250 since July 1975 until the present time. The Hawthorne Police Department certifies that the above infor- mation is accurate as of the date of this letter and is being released only for the purpose of assisting the subject of the record in gaining entry into the United States or a foreign nation. HAWTHORNE POLICE DEPARTMENT COLMAN E. YOUNG, CHIEF OF POLICE By CEY:rc \"City of Good Neighbors\""
+}

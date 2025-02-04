@@ -1,0 +1,25 @@
+{
+	"anumber": "A14366479",
+	"id": "A14366479_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14366479_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Zane School of Languages Translation Department, N-201"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1897, 1899, 1968, 1896, 1901, 1878, 1965]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. No. in Family name Age family First name Father's name Male sex 307 \" Karan, Schmuilo At Jan. 1, 1901 Slutsk Father of Wife of 38 S. Karan, Schmuilo, his son, Aaron S. Hannah divorced Isser 3 Sept.4,1899 Karan Malika, Oct. 1, 1896 in Slutsk died 2nd wife Mar. 25, 1878 Chia married Isserovna 27 May 21, 1897 nee Kniger in Slutsk This certifies that the family records submitted by Schmuilo Aronovich Karan on Nov. 30th to the Bureau is hereby declared correct. by the same and is certified correct by the Grassofsky Municipal Bureau for Urban Civilian Affairs, Slutsk District, by signature and official seal. Nov. 30, 1901 by Chief of Bureau Schmartzbort Seal This is to certify that this translation from Russian to English is a true and accurate rendition of the original to the best of our knowledge and ability. Sworn and Subscribed to Zane School of Languages before me this 23rd Translation Department day of August 1965 193 Maplewood Avenue Maplewood, New Jersey Ruth H. Aelen I. Jellenan RUTH H. SAPP NOTARY PUBLIC OF NEW JERSEY My Commission Expires Jan. 10, 1968"
+}

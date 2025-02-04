@@ -1,0 +1,22 @@
+{
+	"anumber": "A12250430",
+	"id": "A12250430_0132",
+	"page_index": 132,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12250430_0132/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "COAST GUARD, File 7402/99"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1932]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 COAST GUARD Office of Inspector in Charge. Port of San Fedro, Calif. October 22, 1932 IMMIG., Angel Island, San Francisco, Calif. PLEASE FORWARD DIRECT YOUR FILE TWO FIVE FOUR TWO ONE SUB THRN HYPHIN SEVENTMENT R3 WONG SICK HONG AND ANY OTHER DIRECTLY RELATED FILES FOR USE APPLICATION WONG GUOK or BRAZIN Attest: W. A. Byasie Inspector in Charge. high Fiel 7402/99 W. A. Brazie Inspector in One go hbh ce to DD/LA. file number unknown. (App. son of US Cits.)"
+}

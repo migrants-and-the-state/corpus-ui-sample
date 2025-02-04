@@ -1,0 +1,22 @@
+{
+	"anumber": "A28601314",
+	"id": "A28601314_0004",
+	"page_index": 4,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28601314_0004/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Servicio de Inmigración y Naturalización, 195160397"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Número de salida Screened by NARA, 6/6/2023 195160391.00 the s #AMORATION - NOL 2F Servicio de Inmigración y Naturalización MAY 3 1 1987 I-94 Registro de salida B-r ADMITTED (CLASS) UNTIL NOV 30,1987 14. Apellido Pena 15. Primer nombre 16. Fecha de nac. (día/mes/ano) Aurelio 10504.07 17. Ciudadama Hondurers Vea el reverso STAPLE HERE"
+}

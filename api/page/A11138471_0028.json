@@ -1,0 +1,25 @@
+{
+	"anumber": "A11138471",
+	"id": "A11138471_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11138471_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "EXTRACT ENTRY OF BIRTH, under the 37th Sect. of 17 and 18 Vict. Cap. 80., No."
+		},
+		"years": {
+			"ms_years_nlp_v1": [1880, 1905]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "EXTRACT ENTRY OF BIRTH, under the 37th Sect. of 17 and 18 Vict. Cap. 80. Name, Surname, and Rank or Profession of Father. Signature and Qualification of Informent, No. Name and Surname. When and Where Born. Sex. Name, and Maiden Surname of Mother. and Residence, if ons of the Hottee in When and Where Registered, which the Birth occurred, and Signature of Registrar. Date and Place of Marriage. Florence 1905 F James Patterson (Signed) 190 S Patterson November James Patterson December 12d. 70 Thirtieth Father At Kintone Baphian by our the 5h. 30 m. A M Elizabeth Patterson (present) (Signed) Rea Flamma 0-Damcan M.S. Mennie John formack Minicita of thinker Bringh Farm Registrar. December Hyper Kintore 1880 December 18th Inverurie Extracted from the Register Book of Births, for the District of Kintore , in the bounty of Aberdeen 12th December John botmach , this day of 1905 Registrar."
+}

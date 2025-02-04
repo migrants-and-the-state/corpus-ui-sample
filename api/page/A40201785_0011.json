@@ -1,0 +1,22 @@
+{
+	"anumber": "A40201785",
+	"id": "A40201785_0011",
+	"page_index": 11,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40201785_0011/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1987, 2023, 1991, 1977, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/15/2023 SUMMARY TRANSLATION OF THE BIRTH CERTIFICATE INFANT'S FULL NAME : PEDRO ANTONIO CACERES ROJAS SEX : MALE DATE OF BIRTH : JUNE 13, 1915 PLACE OF BIRTH : MANAGUA, NICARAGUA FATHER'S NAME : PASTOR CACERES AGE MOTHER'S NAME : VICENTA ROJAS AGE : DECLARANT'S NAME : DATE OF DECLARATION : SEPTEMBER 29, 1977 I Certify that the above is an accurate translation of the relevant information contained in the attached document. I am conversant in both English and Spanish. STATE OF CALIFORNIA Byanne COUNTY OF LOS ANGELES ON MAY 2 6 1987 Before the undersigned, a Notary Public for the STATE OF CALIFOR- se name is subscribed B. NAHUE Known to me to be the person who NIA Personally appeared ecuted the same to the within instrument, and acknowledged that he ex- Odilin halme Smith SEAL OF OFFICIAL SEAL ODILIA NAHUE SMITH NOTARY PUBLIC - CALIFORNIA LOS MIGSLES COUNTY My comm. expires FLO 1, 1991"
+}

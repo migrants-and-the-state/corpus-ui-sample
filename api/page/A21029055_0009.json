@@ -1,0 +1,25 @@
+{
+	"anumber": "A21029055",
+	"id": "A21029055_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21029055_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "A Nonimmigrant Alien Who Accepts Unauthorized Employment Is Subject to Deportation, I-94"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1975]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "BHAGAT CHHANGOMAL Middle G. B-230 Family Name (Capital Letters) First Name Initial Country of Citizenship Passport or Alien Registration Number Permit Number INDIA K702222 032 02 52 254. PARKVIEW DRIVE. ROCHESTER United States Address (Number, Street, City and State) NY. 14025 * Airline and Flight No. or Vessel of Arrival * Passenger Boarded et AIR-INDIA 101. BEOBAY 69B. Number, Street, GOPAL City, MANSION (State) Country LORIVER.ROAD Province and of Permanent Residence Day and Year of Birth SRAVBOMBAY-50 Month, City, 12.10. Province (State) country of Birth APR 14 1975 PADABAN and BAKISTAN ADMITTED Visa Issued at (If no visa, insert ticket number) Back BOMBAY STAP E Month, Day and Year Visa Issued HER 3.7.1975 MAY 31,1975 FORM I-94 -"
+}

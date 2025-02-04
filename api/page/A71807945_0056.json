@@ -1,0 +1,25 @@
+{
+	"anumber": "A71807945",
+	"id": "A71807945_0056",
+	"page_index": 56,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71807945_0056/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Translation of 'Birth Certificate', 14"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Honduras"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992, 2023, 1978, 1913]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/21/2023 TRANSLATION OF \"BIRTH CERTIFICATE\" NAME: Efigenia de Jesus Murillo (First) (Middle) (Last) BIRTHPLACE: Salama Olancho Honduras (City or Town) (State or Province) (Country) DATE: July 14 1913 (Month) (Day) (Year) FATHER'S NAME: Zacaria NMN Murillo (First) (Middle) (Last) MOTHER'S NAME: Efigenia NMN Obando (First) (Middle) (Last) CERTIFICATE ISSUED DATA: December 16 1978 (Month) (Day) (Year) PLACE: Salama Olancho Honduras (City or Town) (State or Province) (Country) MAGISTRATE: Francisco Ramos Torres (Full Name) CERTIFICATE FOUND: Archive or Register: Salama Page 129 No. 1881427 NOTATIONS OF IMPORTANCE: CERTIFICATION OF TRANSLATOR'S COMPETENCE I, Patricia Todd ,hereby certify that the above is an accurate translation of the original \"birth certificate\" in Spanish , and that I am competent in both English and Spanish to render such translation. DATE Jan. / 28 / 1992 Patricia a.Vodd (Signature of translator) AGENCY: International Institute of Los Angeles 435 So. Boyle Ave., Los Angeles, CA 90033 PHONE: (213) 264-6217 INTERNATIONAL INSTITUTE OF Los ANGELES 14701 FRIAR ST. VAN NUYS, CA 91411 Rev. 3/87 dop"
+}

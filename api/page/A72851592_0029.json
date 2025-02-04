@@ -1,0 +1,22 @@
+{
+	"anumber": "A72851592",
+	"id": "A72851592_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A72851592_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 8/11/2023, SIGNALEMENT DU TITULAIRE"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1907, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "SIGNALEMENT DU TITULAIRE NOM ET PRENOM ETATCIVIL JONASSAINT, ADRESSE Ismenie Calibataire DATE DE NAISSANCE 05-02-1907 Ave. Christophe#9 LIEU,DE NAISSANCE RESIDENCE Port-de-Paix P-au-Poc SIGNES PARTICULIERS TAILLE Neant 1m52 OBSERVATIONS POIDS 2 97ths CHEVEUX Blancs DELIVRE LE YEUX 16-07-1986 Noirs A Lau Poe DATE D'EXPIRATION JONASSAINT. ISMANIE 15-07-1991 SIGNATURE DU TITULAIRE SIGNALEMENT DE SA FEMME NOM ET PRENOM NOM DE JEUNE FILLE DATE DE NAISSANCE ADRESSE LIEU DE NAISSANCE RESIDENCE SIGNES PARTICULIERS TAILLE OBSERVATIONS POIDS PHOTO DE SA FEMME 3 CHEVEUX DELIVRE LE YEUX A DATE D'EXPIRATION SIGNATURE DE SA FEMME"
+}

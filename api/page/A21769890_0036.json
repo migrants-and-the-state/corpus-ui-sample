@@ -1,0 +1,22 @@
+{
+	"anumber": "A21769890",
+	"id": "A21769890_0036",
+	"page_index": 36,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21769890_0036/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "NATIONAL BANK OF WESTCHESTER"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1974]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/1/2023 NBW A LINCOLN FIRST BANK November 22, 1974 TO WHOM IT MAY CONCERN: Re: Dr. M. Trivedi Savings Account #34-400309-0 This will confirm that the above account has a balance of $3,222.34 as of this date. Very truly yours, Joyan Joseph DeQuarto De Junests Assistant Manager JD/1sm NATIONAL BANK OF WESTCHESTER o 45 MARKET STREET o POUGHKEEPSIE, NEW YORK 12601 o (914) 471-8350"
+}

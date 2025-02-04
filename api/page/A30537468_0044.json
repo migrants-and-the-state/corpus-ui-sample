@@ -1,0 +1,22 @@
+{
+	"anumber": "A30537468",
+	"id": "A30537468_0044",
+	"page_index": 44,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30537468_0044/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Job Offer Letter for Raul Derat, GS/sa"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Mr. Gustavo Soto 2018 West 253 Place Lomita, California 90717 Counsel Lista de Correao Tijuana, Mexico Dear Sir: This is to inform you that I have a job for Raul Derat in my restaurant at 2018 West 253 Place, Lomita, California. I promise that when he comes to Los Angeles that he will have steady work always. My business phone is 325-7295 or 325-7296. or 3269709 Yours very truly, Gustaro Loto y. GUSTAVO SOTO TR GS/sa"
+}

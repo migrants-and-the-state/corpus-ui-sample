@@ -1,0 +1,19 @@
+{
+	"anumber": "A12491240",
+	"id": "A12491240_0045",
+	"page_index": 45,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12491240_0045/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Rangel Mendez, Desiderio Angel W 9-26-05 66\" Rangel,D. 213 1-A 312 REF 20 M 1 R III 12 Ref T L 1 R OII R #A12 491 240 USINS Miami Fla 9-15-61 A search of the fingerprints on the above individual has failed to disclose prior arrest data. JOHN EDGAR HOOVER DIRECTOR FEDERAL BUREAU OF INVESTIGATION * U. S. GOVERNMENT PRINTING OFFICE: 1960 J 575186"
+}

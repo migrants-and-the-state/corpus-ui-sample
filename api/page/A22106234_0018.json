@@ -1,0 +1,22 @@
+{
+	"anumber": "A22106234",
+	"id": "A22106234_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22106234_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Great American Federal Savings and Loan Association, 73658"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1975, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/31/2023 GREAT AMERICAN FEDERAL SAVINGS AND LOAN ASSOCIATION 300 East Eighth Avenue Formerly Homestead, Pennsylvania 15120 First Federal of Homestead 412/461-8433 March 29, 1976 To Whom It May Concern: This is to certify that Silas Masih of 1567 Cathell Road, Pittsburgh, PA 15236 is our customer since September 12, 1975. Mr. Silas Masih has a savings account number 73658 and the balance of this account is $4,661.71. He originally opened the account with $350.00. Very truly yours, Lacky Hunker Kathy Hruska Savings Department KH/t jk"
+}

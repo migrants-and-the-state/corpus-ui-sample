@@ -1,0 +1,22 @@
+{
+	"anumber": "A28601314",
+	"id": "A28601314_0005",
+	"page_index": 5,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28601314_0005/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Aviso, NARA, 6/6/2023"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988, 2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Aviso - Si la persona que no es inmigrante acenta empleo sin autorización está sujeta a deportación. Screened by NARA, 6/6/2023 Nota importante - Retenga Ud. este permiso que debe presentar al salir de E.U. Al no hacerlo prolongaria su entrada a E.U. en el futuro. UD. está autorizado a quedarse en E.U. solamente hasta la fecha indicada en esta planilla. Al pasar la fecha indicada sin el permiso de las autoridades de Inmigración seria violar la ley. Entréguele este permiso al salir de E.U. - A la linea de transportación, yá sea por mar o por aire; - al oficial canadiense, al cruzar la frontera canadiense; - al oficial estadounidense, al cruzar la frontera mejicana. Estudiantes que planean volver a entar a los E.U. con plazo de 30 días para asistir a la misma escuela, léan \"Liegada y salida\" en página 2, Formulario I-20 antes de entregar este permiso. Record of Changes E/S GRANTED to MAY 29,1988 ON NOV 24 1987 BTN to Port: Departure Record Date: Carrier: Flight #/Ship Name:"
+}

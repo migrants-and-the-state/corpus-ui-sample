@@ -1,0 +1,25 @@
+{
+	"anumber": "A27851175",
+	"id": "A27851175_0026",
+	"page_index": 26,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A27851175_0026/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DISEASE AND DISABILITY FORM, V-14548"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 390 COUNTRY/ PROGRAM DISEASE AND DISABILITY FORM ODP C M No. V-14548 Name LU CAM TIEU Age/Sex 71/M History: - HT for 2 years unequtarly treated, last medication few day ago - Asymptomatic - of exection Physical Examination P 98 BP 120/80 sternal border, extended to apcx (greate III /VI 1 Heart CVex = systolic milimien heard as 3 ICS at left sounds normal - vision 20/70 ou urine Prot-1+ Sugar ney PH =5 other ang Diagnosis/Prognosis: - Mitral sknosis ? - Mo HT Recommendations for Follow-up : No Referral required Refer to Out / Patient/ Depart. Camp Hospital Specialist Special Clinic Action required: Consultation Specialist report Urgent treatment Follow up procedure needed after departure ( During stay RPC or Third Country ): General Pract Specialist Hospital Procedure required: None Consultation Elective Surgery Sub acute Surg Within ( Time Frame ) : One Week One Month 6 Month Longer Booking Information: No Special Requirem. 3 Seats Stretcher Wheel Chair Escort : No Escort Required Nurse Doctor Both Other Other special requirements: Place/ Date 13 FEB 87 Doctor's Signature M"
+}

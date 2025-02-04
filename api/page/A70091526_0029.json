@@ -1,0 +1,19 @@
+{
+	"anumber": "A70091526",
+	"id": "A70091526_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A70091526_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1990, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Numero de salida Screened by NARA, 6/7/2023 254465018.02 U.S IMMIGRATION LOS 305 Servicio de Inmigración SEP 100 1/8/1990 y Naturalización party I-94 Registro de salida ADMITTED UNTIL (class) 14. (Leananda),Reiva Apellido Primer nombre 16. Fecha de nac. (día/mes/ano) 15. Leonarda Ciudadania 17. Nicaraquemise Vea el reverso STAPLE HERE"
+}

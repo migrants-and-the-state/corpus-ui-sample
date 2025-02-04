@@ -1,0 +1,22 @@
+{
+	"anumber": "A21347299",
+	"id": "A21347299_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21347299_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 8/29/2023, G-361 (Rev. 10-70) N"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/29/2023 NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. HOANIG VAN PHUNO H-520 A21 347 299 Alios P.O.E. DATE OF ENTRY TYPE ADM. MD. DAY-YR, OF BIRTH COUNTRY OF BIRTH 5/9/75 V-2 2/2/15 Viet Nac Type of Action: Name of Sponsor: REFUGSE-PENDLETON Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, Statement nd Zip 85 Code) 8.2 0023 FCO Date PCO Date FCO SND-F 5/9/75 23 74706 Date: Mccssion No. Box No. Form G-361 (Rev. 10-1-70) N INDEX CARD (jwc) Triplicate"
+}

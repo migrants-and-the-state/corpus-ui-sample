@@ -1,0 +1,22 @@
+{
+	"anumber": "A10430675",
+	"id": "A10430675_0096",
+	"page_index": 96,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10430675_0096/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNIVERSITY OF MINNESOTA GRADUATE SCHOOL, 33210"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1949, 1947]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "UNIVERSITY OF MINNESOTA GRADUATE SCHOOL 33210 MINNEAPOLIS 14 OFFICE OF THE DEAN July 14, 1949 of 1-7 Mr. Rex Griffin Immigration and Naturalization Service New Post Office Building St. Paul, Minnesota Dear Mr. Griffin: Mr. Maoling Liu has been continuously registered in the Graduate School of the University of Minnesota since the fall quarter of 1947 working toward the degree Master of Science in Electrical Engineering. Mr. Liu has been making satisfactory progress toward a graduate degree. Sincerely yours, Margaret L. Davis Assistant to the Dean MLD:aw CC: Mr. Moore IMM. JUL & NAT. 15 SERVICE 1949 ST. PAUL"
+}

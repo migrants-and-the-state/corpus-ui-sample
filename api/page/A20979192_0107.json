@@ -1,0 +1,25 @@
+{
+	"anumber": "A20979192",
+	"id": "A20979192_0107",
+	"page_index": 107,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20979192_0107/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "APPLICATION FOR A SOCIAL SECURITY NUMBER, 5-74"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "ID CN Screened by NARA, 4/27/2023 APPLICATION FOR A SOCIAL SECURITY NUMBER DO NOT WRITE IN THE ABOVE SPACE See Instructions on Back. Print in Black or Dark Blue In or Use Typewriter. Print FULL NAME (First Name) (Middle Name or Initial - if none, draw line ) (Last Name) 1 YOU WILL USE IN WORK OR BUSINESS Print FULL YOUR (Month) (Day) (Year) 2 NAME GIVEN 6 DATE OF YOU AT BIRTH BIRTH PLACE (City) (County if known) (State) YOUR PRESENT AGE 3 OF 7 (Age on last birthday) BIRTH MOTHER'S FULL NAME AT HER BIRTH (Her maiden name) YOUR SEX 4 8 MALE FEMALE FATHER'S FULL NAME (Regardless of whether living or dead) YOUR COLOR OR RACE 5 WHITE NEGRO OTHER HAVE YOU EVER BEFORE APPLIED FOR DON'T (If \"YES\" Print STATE in which you applied and DATE you applied and SOCIAL SECURITY NUMBER if known) 10 OR HAD A UNITED STATES SOCIAL NO KNOW YES SECURITY, RAILROAD, OR TAX ACCOUNT NUMBER? YOUR (Number and Street, Apt. No., P.O. Box, or Rural Route) (City) (State) (Zip Code) MAILING ADDRESS TODAY'S DATE NOTICE: Whoever, with intent to falsify his or someone else's true identity, willfully furnishes or causes to be 12 fürnished false information in applying for a social security number, is subject to a fine of not more than $1,000 or imprisonment for up to 1 year, or both. TELEPHONE NUMBER 14 Sign YOUR NAME HERE (Do Not Print) 13 TREASURY DEPARTMENT Internal Revenue Service RESCREEN ASSIGN DUP ISSUED Return completed application to nearest FORM SS-5 (5.74) SOCIAL SECURITY ADMINISTRATION OFFICE"
+}

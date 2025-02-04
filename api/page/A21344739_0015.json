@@ -1,0 +1,25 @@
+{
+	"anumber": "A21344739",
+	"id": "A21344739_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21344739_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1995, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 it No. 21987926 Personal description of holder INS.Registration. No. A21 344 739 as of date of naturalization: I certify that the description given is true. and that the photograph affixed's Date of birth OCTOBER 21, 1915 hereto is (I likeness of me. Sex: FEMALE (dain ngwyn Height: 5 feel 02 inches Complete and true signature of holder) Maritalstatus: MARRIED Be it known that pursuant to an application filed with the Attorney General Country of former nationality: al:LOS ANGELES, CA VIETNAM The Attorney General having found that: THAN THI NGUYEN then residing in the United States, intends to reside in the United States when so required by the Naturalization Laws of the United States, and had in all other respects complied with the applicable provisions of such naturalization laws and was entitled to be admitted to citizenship such person having taken the oath of allegiance in a ceremony conducted by the U.S. DISTRICT COURT FOR THE CENTRAL DIST. OF CALIFORNIA at:LOS ANGELES, CA on: MARCH 17TH, 1995 that such person is admitted as a citizen of the United States of America. IT IS PUNISHABLE BY U. S. LAW TO COPY. Davis necesser PRINT OR PHOTOGRAPH THIS CERTIFICATE. WITHOUT LAWFUL AUTHORITY. Commissioner of Immigration and Naturalization FORM N.550 REV. 6.91"
+}

@@ -1,0 +1,28 @@
+{
+	"anumber": "A17210822",
+	"id": "A17210822_0011",
+	"page_index": 11,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17210822_0011/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CEDARS-SINAI MEDICAL CENTER, Our No. 124401"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 1970, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/6/2023 C $ S done CEDARS-SINAL MEDICAL CENTER 9 Reply to: Cedars of Lebanon Hospital Division Box 54265 Los Angeles, California 90054 April 22, 1970 U.S. Department of Justice Immigration E Naturalization Service 300 North Los Angeles Street Los Angeles, California 90012 RE: MEYER, Esther Our No. 124401 Gentlemen: This is to verify that the above-named patient is under our medical care at the present time. She was first seen here on July 13, 1966, and has been under my care since that date. This patient has a chronic cardiac condition, which definitely pre- vents her from traveling. There has been no improvement in her con- dition, and some decompensation continues. She is quite elderly, being 83 years of age, and since we at the Clinic provide her medical care, and her son, Joseph Meyer, provides for her other needs, we respectfully request that she be allowed to remain in the United States. Should you require any further information, please do not hesitate to call upon us. Sincerely yours, mechael Krave MD Michael Krane, M. D. Cedars of Lebanon Division V 4833 FOUNTAIN AVENUE . LOS ANGELES CALIFORNIA 90054 TELEPHONE 213 662.9111"
+}

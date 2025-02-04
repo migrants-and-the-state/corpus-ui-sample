@@ -1,0 +1,22 @@
+{
+	"anumber": "A22428908",
+	"id": "A22428908_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22428908_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CONSULATE GENERAL OF THE UNITED STATES OF AMERICA, I-352"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico", "United States"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CONSULATE GENERAL OF THE UNITED STATES OF AMERICA GUADALAJARA, JALISCO, MEXICO Mariano Dallegos Roduguez In connection with your application for a remimmigrant visitor visa, I wish to inform you that the Consulate General will reconsider your application as soon as we receive notification that a $ 2,500 Public charge Maintenance of Status d bond has been posted with the Immigration and Naturalization Service, The application to file a bond shuld be submitted on form I -352 which may be obtained at any office of the Immigration and Naturalization Service in the United States. If your sponsor is to file the application, you should forward this letter to him together with your full name, date and place of birth and anticipated date and means of arrival in the United States. Sincerely yours, David CRandolph American Consul David E. Randolph Vice Consul of the United States of America"
+}

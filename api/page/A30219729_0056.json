@@ -1,0 +1,19 @@
+{
+	"anumber": "A30219729",
+	"id": "A30219729_0056",
+	"page_index": 56,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30219729_0056/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Interpretation and Stenography Certification Form"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "I hereby certify I have truly and correctly interpreted the questions and answers in the above statement in the Spanish language. Raymond I Reave I certify the above to be a true and correct transcript of the record of testimony on the above case as taken by me from my shorthand notes. June Josephine Tabor, Stenographer I"
+}

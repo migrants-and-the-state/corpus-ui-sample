@@ -1,0 +1,22 @@
+{
+	"anumber": "A44182040",
+	"id": "A44182040_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44182040_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "TORAX, 149470"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/15/2023 DR. VICTOR M. ES JIVEL D RUBEN DARDANO RADIOLOGOS CALLE ARCE No. 954 Y 25a. AV. NORTE No. 640 TELEFONOS NUMEROS: 25-0277, 25-6412, 71-1276, 71-5285 Número 149470 Fecha San Salvador Marzo 15/93 Nombre Camila del Carmen Avila V de Barrera. Examen Radiológico Torax. Enviado por el Doctor Emb Americana Pasp 0952089 TORAX Esqueleto Hay cambios osteoartriticos del hombro derecho. Diafragmas Hay elevacion del diafragma izquierdo. Angulos Costofrénicos libres Aorta normal. Corazón normal. Pulmones Sin particularidad. CONCLUSION VICARES 10E. 2-93 5 VICTOR M. ESQUIVEL MEDICO - RADIOLOGO"
+}

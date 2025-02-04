@@ -1,0 +1,22 @@
+{
+	"anumber": "A41448302",
+	"id": "A41448302_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41448302_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IMMUNOLOGIA, 0324451"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/18/2023 PASAPORTE No. 0324351 Sept. 27/88 Sr. Manuel de Jesús Rivas FECHA PACIENTE MEDICO VDRL : REACTIVA ANTISTREPTOLISINA ANTIGENOS FEBRILES CON SUERO SIN DILUIR: 1 Dil. (WELCH - STUART) GRUPO SANGUINEO LATEX R.A. TIFICO o - RH- TIFICO H ANTICUERPOS Rh PROTEINA SALINAS \"C\" ALBUMINAS PARATIFICO A - REACTIVA COOMB'S ANTICUERPOS PARATIFICO B - DIRECTO INDIRECTO HETEROFILOS BRUCELLA ABORTUS- PRUEBA DE MONO TEST EMBARAZO PROTEUS OX19- No. UN-21435 Laboratorios Clinicos \"Barrientos\" CONDOMINIO PLAZA REAL CALLE DANIEL HERNANDEZ AV. UNIVERSITARIA Y Relánde Marrientes 21 A.N. CALLE ARCE 1-8 SANTA TECLA EDIF. 804 TELS. 21-6932-22-7984 TEL.: 28-2183 MEDICO - CIRUJANO TELS. 26-5497 sm"
+}

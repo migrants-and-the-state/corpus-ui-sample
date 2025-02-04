@@ -1,0 +1,22 @@
+{
+	"anumber": "A20968145",
+	"id": "A20968145_0067",
+	"page_index": 67,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20968145_0067/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CALTECH EMPLOYEES FEDERAL CREDIT UNION LETTER, 49789-0"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1979]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CALTECH EMPLOYEES FL: RAL CREDIT UNION 4800 OAK GROVE DR. * PASADENA, CALIFORNIA 91103 February 6g 1979 To Whom it may concern: Chander K. Narang #59789-0 as of this date has a balance of $15,006.60 in his account. (Savings) Sincerely B. it Gauth B.H. Garrick Clerk-Teller American Original Bombay seed or Consulate And General Consular Officer TELEPHONE 3543200"
+}

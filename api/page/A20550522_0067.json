@@ -1,0 +1,22 @@
+{
+	"anumber": "A20550522",
+	"id": "A20550522_0067",
+	"page_index": 67,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20550522_0067/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 7/18/2023, I-72"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1975, 1974]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/18/2023 BERNARD COOPER ATTORNEY AT LAW 311 SOUTH SPRING STREET - SUITE 1106 LOS ANGELES, CALIFORNIA 90013 (213) 688-7400 . 688-7401 August 21, 1975 Immigration and Naturalization Service 300 N. Los Angeles Street Los Angeles, California 90012 Re: Hiranand Tolaram all File #A20 550 522 FOIA (b)(6) Gentlemen: Enclosed please find additional documents which you requested on your Form I-72 dated December 16, 1974. I believe you will find that the total investment that we can document is now over $10,000.00. In addition to this, there is $2,000.00 which was used as working capital. This represents a total investment of $12,154.00. I trust that this will enable you to complete the application now. Thank you for your cooperation. Very truly yours, mm Com BERNARD COOPER BC:1j encls."
+}

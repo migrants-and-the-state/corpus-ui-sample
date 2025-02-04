@@ -1,0 +1,28 @@
+{
+	"anumber": "A12495368",
+	"id": "A12495368_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12495368_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Alien Registration Form, SE-180"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Cuba"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST) (FIRST) (MIDDLE) FILMS NU. Diaz Barcenas, Maria Ana A-12-495-368 Date & Place of Birth Present Address Foreign Address 12-26-03 73 NW 27 st. San Ramon H 141 Cuba MIA Have Place of Entry Date Manner MIA OCT 1 0 1961 PAH Nationality V/D to Deferred Inspection Paroled to Cuba Ind Occupation in Cuba Foreign Military Service & Rank Visa Type Place of Issue Date of Issue Valid to Limited or Unlimite Tassport No. Date Issued Validity Date Birth Certificate 14549 6-1-62 Marital Status Name & Address of Spouse Buenarenture Cunill Cuba Reasona Claimed for Being Unable to Return to Country of Nationality SE-180 Rev. 12-16-60 (50)"
+}

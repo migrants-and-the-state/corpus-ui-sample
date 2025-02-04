@@ -1,0 +1,19 @@
+{
+	"anumber": "A21549557",
+	"id": "A21549557_0001",
+	"page_index": 1,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21549557_0001/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Investigations Control Card, G-600A ( (Rev. 9–1–69)"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "FILE NO. TROV A21 549 557 AREA G- 23 Line No. PILLAI, g Chidambara J. C 504/ABSC NAME (Last, (IN CAPS), First, Middle) Investigation Warranted ASSIGNED TO Date Assigned Classification approved by jes Call-Up Received 7/10/79 (Date) Investigations Control Card Form G-600A (Rev. 9-1-69) Work Copy"
+}

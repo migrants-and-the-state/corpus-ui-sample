@@ -1,0 +1,22 @@
+{
+	"anumber": "A41804438",
+	"id": "A41804438_0034",
+	"page_index": 34,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41804438_0034/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Form Type: F130, LIN-93-022-51302"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2025]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Sere by NARA, 9/27/2025 11/02/92 LIN-93-022-51302 LJH001 LIN# A# FORM TYPE: Fi30 APPROVAL PHRASE: CLASSIFICATION: VALIDITY PERIOD (I-129's, I-539'S, I-506'S, I-102'S) : FROM TO SPECIAL INSTRUCTIONS: Send Cable Create File Prepare I-797 for H or L 245 Adjustment Multiple Bene# Return Origs I-94's I-20A/B IAP66 I-551/151 Copy of I-131 to FBI Copy I-506 for file; orig. to London, KY CASE IN THE LAN: LAN NAME: TYPE OF ACTION (Circle one of the following) : DENIAL OTHER (If other, specify type of action) : APPEALS (Senior I.E.'s handle) Prepare ROP to AAU BIA case Prepare ROP for T. Smith x TRANSFER OUT with the following paragraph(s) : 130R9A Joginder Singh uppal 130R11A Dhian Singh uppal and Former wife 136 DDM Examiner's Initials Date NOV q 2 Clerk's Initials Date"
+}

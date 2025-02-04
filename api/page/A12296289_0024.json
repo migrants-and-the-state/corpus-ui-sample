@@ -1,0 +1,25 @@
+{
+	"anumber": "A12296289",
+	"id": "A12296289_0024",
+	"page_index": 24,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12296289_0024/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Polska Rzeczpospolita Ludowa, Nr 65 poz. 392"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1878]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "28.2.52.343.237/52 65 poz 392) estall nestepo POLSKA RZECZPOSPOLITA LUDOWA Powiat Województwo URZAD STANU CYWILNEGO W foolsi Nr 36641 4/52 dods , dnia 81v 195.2r, Odpis zupelny aktu urodzenia I. DANE DOTYCZACE DZIECKA: Lubert 1. Nazwisko 2. Imie (imiona) Genometa xenska 3. Plec 4. Data urodzenia pistuasty muaya tysege deinvisest ermantigo Holm 5. Miejsce urodzenia II. DANE DOTYCZACE RODZICÓW: Oiciec Lubert - Lubert Matka 1. Nazwisko 2. Imie Hololf - Julianna - 3. Nazwisko ro- dowe matki XXXXXXXXXXXXXXXX shink - Gicholinna 4. Zawód 5. Data lub rok urodzenia 1878 rolen - 1878 rokn - 6. Mieisce uro- Stebulissle Dubinki- dzenia 7. Mieisce za- Stebulisski Stebulisslin mieszkania W chwili urodzenia dziecka"
+}

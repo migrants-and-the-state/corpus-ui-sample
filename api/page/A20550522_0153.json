@@ -1,0 +1,25 @@
+{
+	"anumber": "A20550522",
+	"id": "A20550522_0153",
+	"page_index": 153,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20550522_0153/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Form G-325 A Continued, G-325"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Malaysia", "India", "Singapore", "Ghana"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/18/2023 Form G-325 A Continued Applicant's Residence street and number city province country from to Accra, Ghana Sept 71 Oct 71 2391 East St. Poona, Maharastra India July 71 Sep 71 Malysia, Singapore Hong KongMay 71 July 71 2391 East St. Poona, Maharastra India Aug 70 May 71 Hong KongMay 70 Aug 70 Fort Lauderdale Miami, Florida U. S. A. Mar 70 May 70 Hong Kong Nov. 69 Mar 70 2391 East St. Poona, Maharastra India Oct. 69 Nov. 69 Malysia, Singapore Hong Kong Aug 69 Oct 69 2391 East St. Poona, Maharastra India June 68 Aug 69"
+}

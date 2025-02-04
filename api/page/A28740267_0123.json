@@ -1,0 +1,22 @@
+{
+	"anumber": "A28740267",
+	"id": "A28740267_0123",
+	"page_index": 123,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28740267_0123/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, I-589"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service Processing Sheet for Form I-589 NAME Marceline SOLIS-Romero DATE FILED 92187 FILE No. A 28-740-267 TRANSFERED OUT / / RIDING W/PRINCIPAL A FORM I-589 Incomplete A A ITEMS # : , I A A DOCUMENTS HEEDED/REQUESTED DOCUMENTS PROCESSED M/C D/D G 325-A / / B/C TRANSLA F P / / G325-A F P I..94 / / PASSPORT WORK AUTHORIZATION REQUESTED. DENIED / / GRANTED / / ADJUDICATION CASE COMPLETED / / INTERVIEWING OFFICER startel ATTY/REP Interview scheduled / / RE-SCHEDULED / / NOTES: ADDITIONAL DOCUMENTS REQUESTED 1 2 3 EVALUATION YES YES CREDIBLE MERITORIOUS UNDETERMINED NO NO FAV LETTER TO DOS / / DOS RESPONSE / / UNEAV INTENT TO DENY / / DENIED / / GRANTED / /"
+}

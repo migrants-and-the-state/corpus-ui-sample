@@ -1,0 +1,25 @@
+{
+	"anumber": "A41804438",
+	"id": "A41804438_0087",
+	"page_index": 87,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41804438_0087/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Affidavit of Sardar Kartaar Singh"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Pakistan", "India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1906, 1909]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 912772023 3RS50P SINDIAGE UNIT LOO TRUC GRIA THREE RUPEES FIFTY PAISE MONT Agra Distric I NOTARIAL TOTAR Affidavit of Sardar Kartar Singh s/o Sardar Dewan gra MOVE Singh 9 sister's son of Major (Dr.)Dhian Singh Newric Z s/o Late Sardar Bheja Singh r/o 3/85, Vibhav Nagar, RUPEE ONE NOTARIAL OTAR Agra ( U.P.)India. EVIGNIE MOH Agra I, the above named deponent do hereby Distric I OSPE TOTAR solemnly affirm and declare on oath as under:- 1. That Mrs. Sant Kaur was born on Ist. October 1909 No 42/01/85 at KOHAT ( now in Pakistan). Specimen 2. That the names of the mother and father of Mrs. Sant 31.8.85 Kaur are Mrs. Bhagwanti and Sardar Kishan Singh. SECURITY Agra District 3. That my uncle Major Dr. Dhian Singh s/o Late Sardar Bheja Singh was born on 13th Jan. 1906 at Village Daultala District Rawalpindi (now in Pakistan). Karyas singh"
+}

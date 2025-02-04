@@ -1,0 +1,22 @@
+{
+	"anumber": "A12482893",
+	"id": "A12482893_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12482893_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Extrait conformé au registre des actes de l'état civil tenu durant l'année mil neuf cent trente-deux, dans la paroisse routhène de St-Michel de MONTREAL, P. Q., et déposé aux Archives de cette Cour à Montréal, suivant la loi."
+		},
+		"years": {
+			"ms_years_nlp_v1": [1932]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "extrait conforme au registre des actes de l'état civil tenu durant l'année mil neuf cent trente-deux, dans la paroisse ruthene de St-Michel de MONTREAL, P. Q., 8M2 et déposé aux Archives de cette Cour à Montréal, suivant la loi. MONTREAL, P.Q., le 8 novembre, 19 61, Collationné: AD PL P.Lalime D.-Protonotaire, Cour Supérieure. 1932 de & 23 Peter de Anno la"
+}

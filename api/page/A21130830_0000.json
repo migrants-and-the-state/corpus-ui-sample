@@ -1,0 +1,22 @@
+{
+	"anumber": "A21130830",
+	"id": "A21130830_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21130830_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Cuba"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1904]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. GUERRA vda de Fuentes, Maria A21 130 830 Alias CR: FUENTES, P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH MIA 6/8/73 Parolee 05/01/1904 CUBA Type of Action: Name of Sponsor: I-485A Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, State, and Zip Code) FCO Date FCO Date FCO Date Acession No. Box No. MIA 3/24/78 bah Form G-361 (Rev. 4-1-76) N INDEX CARD Triplicate"
+}

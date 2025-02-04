@@ -1,0 +1,25 @@
+{
+	"anumber": "A28688810",
+	"id": "A28688810_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28688810_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "REQUEST FOR ASYLUM IN THE UNITED STATES, I-589"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Rotunda Plaza 18962 South Dixie Highway Miami, FL 33157 TERMINATION DUE TO LACK OF PROSECUTION AR#: 28 688 810 FEB 11 1989 DATE: NAME: Tenesa ORozco Action on Form I-589 (REQUEST FOR ASYLUM IN THE UNITED STATES) is hereby terminated due to lack of prosecution pursant to 01 103.2. Dair PERRY RIVKIND District Director"
+}

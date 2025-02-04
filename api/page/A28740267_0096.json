@@ -1,0 +1,28 @@
+{
+	"anumber": "A28740267",
+	"id": "A28740267_0096",
+	"page_index": 96,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28740267_0096/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "SUMMARY TRANSLATION OF A: BIRTH REGISTRATION ( (BIRTH CERTIFICATE )"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1905, 1990, 2023, 1983]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 SUMMARY TRANSLATION OF A: BIRTH REGISTRATION ( BIRTH CERTIFICATE ) REGISTRATION DATA: Certificate No: 2347094 No: 121094 ; Official Seal: OFFICE OF THE CIVIL REGISTRY, MANAGUA, NICARAGUA Book No: Volume: I Page: 338 Year : 1905 Registration No: 640 1. -NAME OF CHILD: MARCELINO First Name Middle Name SOLIS Last Names 2. - SEX: MALE DATE OF BIRTH: April 26, 1905 3. - PLACE OF BIRTH: MANAGUA, NICARAGUA City Country 4. -MOTHER OF CHILD: MAXIMA SOLIS First Name Middle Name Maiden Name Occupation: Hosuewife Native of MANAGUA, NICARAGUA Nationality: NICARAGUA 5. -FATHER OF CHILD; Unknown First Name Middle Name Last Name Occupation: XXXXXXXXXXXXXXXXX Native of: XXXXXXXXXXXXXXXXXXXXX Nationality: 6. -RECORDS SHOWS THAT THE CHILD IS HER SON 7. - -REGISTRATION DATA: a. - Office of the: CIVIL REGISTYR, MANAGUA, NICARAGUA b.-Date of Document: April 26, 1983 c.-City and Country: MANAGUA, NICARAGUA d.-Signature is: Ilegible Title: CHIEF OF THE CIVIL REGISTRY e.-Official Seal of: CIVIL REGISTRY, MANAGUA, NICARAGUA \"Alway Aura Garcia Certifies: Competency to: translate from Spanish to English and English to Spanish and that the above Tropalation of the attached Document OFFICIAL SEAL AURALILA GARCIA Notary Public-California SAN FRANCISCO COUNTY My Comm. Exp. July 6, 1990 870 Market St. # 1272, San Frencisco, CA 94102 820 Lincoln centre Dr. aunnu"
+}

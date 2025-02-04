@@ -1,0 +1,25 @@
+{
+	"anumber": "A17202075",
+	"id": "A17202075_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17202075_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/11/2023, 1108 Via Nogales PALOS VERDES ESTATES CALIF. 90274, DEpt. of IMMIGRATION & NAT. U.S. Dept. of Justice Los ANGELES, CALIF., FOIA (b)(6)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Iran", "United States", "India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1970, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/11/2023 1108 VIA NOGALES PALOS VERDES ESTATES DEPT OF IMMIGRATION & NAT. CALIF. 90274 OCTOBER 7, 1970 U.S. DEPT. OF JUSTICE Los ANGELES, CALIF. Dear Sir, This letter is a request to extend the visa of my mother. in law Mrs. P.K. Franjee a Citizen of India who is currently my guest Mrs. Iramjee came to the U.S. at our request to help my wife ( her daughter) Mrs. Bapsy Iran, with the delivery of our third child who was born in lensance Calif on FOIA (b)(6) We dearly value her help and comfort and it is our desire to have her stay with us until the end of the current school year which is the last week of June 1970 at which time my wife will accompany her back to India In requesting this visa extension we ask that you consider the following: 1. Mrs. tranject is 73 years old and has impaired sight in one eye It is not recommended that she travel 12000 wiles alone Accordingly my wife will a accompany her on the return journey 2. Mrs transice has the rest of her family in India and the has no intention of indifinitely prolonging her stay in the United states 3. Mrs. Iramju has visited the U.S. on several ocassions has adhered strictly to U.S. Immigration rules"
+}

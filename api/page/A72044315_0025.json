@@ -1,0 +1,22 @@
+{
+	"anumber": "A72044315",
+	"id": "A72044315_0025",
+	"page_index": 25,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A72044315_0025/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificat Prenuptial, 3845"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/11/2023 REPUBLIQUE D'HAITI Institut du Bien Etre Social et de Recherches No. 3845 CERTIFICAT PRENUPTIAL Nous médecin Greger Jean-louis de l'IBESR certifions que M \" Heerry A De Delva Demeurant a Port all Prince domicilié à Part all Prince a été examiné en vue du mariage. En foi de quoi, le présent Certificat lui est délivré pour servir et valoir ce que de droit. Fait à Part all Princese 24 Arile STATEMENT 1 Signature Q CET IBESR."
+}

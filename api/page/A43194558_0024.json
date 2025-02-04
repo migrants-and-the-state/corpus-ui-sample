@@ -1,0 +1,25 @@
+{
+	"anumber": "A43194558",
+	"id": "A43194558_0024",
+	"page_index": 24,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43194558_0024/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Naturalization Test, Standard Form 6"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2007, 2023, 2025]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/13/2023 U.S. Naturalization Test U.S. History and Government Questions Standard Form 6 Applicant's name: Julio Cosar Zepeda friends A-number: 43 194 558 pass: fail: Date: AUG 0 7 2007 correct incorrect 1. 4. What color are the stars on our flag? [White] 2. 64. What special group advises the President? [The Cabinet] 3. 16. Who becomes our President if the President dies? [The Vice President] 4. 20. What are the three branches of our government? [Executive, Judicial, and Legislative] 5. 25. How many Senators are there in Congress? [100] 6. 29. For how long do we elect each member of the House of Representatives? [2 years] 7. 35. What is the Bill of Rights? [The first 10 amendments to the Constitution; Other valid responses: answer may explain that it is the portion of the Constitution whereby freedom of speech and other invaluable rights are guaranteed.] 8. 39. Who is the Chief Justice of the Supreme Court? [John G. Roberts, Jr.* *] X 9. 50. Why did the Pilgrims come to America? [To gain religious freedom] 10. 70. What were the 13 original states of the United States called before they were states? [Colonies] 8/11/2025 Total correct answers: 8"
+}

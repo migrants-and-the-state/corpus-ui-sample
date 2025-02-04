@@ -1,0 +1,22 @@
+{
+	"anumber": "A43061226",
+	"id": "A43061226_0017",
+	"page_index": 17,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43061226_0017/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 8/15/2023, BCID 8372 ( (Rev. 1/91)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1991]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/15/2023 EAL OF DANIEL E. LUNGREN State of California Attorney General DEPARTMENT OF JUSTICE CALIFORNIA P.O. BOX 903417 SACRAMENTO, CA 94203-4170 September 12, 1991 Nagarbhai B. Patel 19 Stanley Road Wellingborough, Northants England NN8 1DY the SECTION ENGLAND Dear Mr. Patel: This is a response to your request for a criminal record check as provided by California Penal Code Section 11105(c)(8). A search of your fingerprints reveals no criminal history record in the files of this Bureau. If you have any further questions, please contact the supervisor of the Record Review Unit at the above address or call (916) 739-5140. Sincerely, DANIEL E. LUNGREN Attorney General Hell E. Hutehison NELL E. HUTCHISON, Manager Record Control Section Bureau of Criminal Identification saa BCID 8372 (Rev. 1/91)"
+}

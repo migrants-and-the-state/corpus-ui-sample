@@ -1,0 +1,22 @@
+{
+	"anumber": "A46187299",
+	"id": "A46187299_0052",
+	"page_index": 52,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A46187299_0052/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "AZIZ NURSING HOME, 413913 413914"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1997]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 Tele.: 413913 413914 AZIZ NURSING HOME SAIDPUR ROAD, RAWALPINDI. October 20, 1997 MR ABDUL, MANAN KHAN CHEST X-RAY REPORT Calcified nodes in both hila. Bronchiectasis changes seen in both lung fields. Cardiac shadow is within normal limits. Clean DR AHMED RAZA JAN"
+}

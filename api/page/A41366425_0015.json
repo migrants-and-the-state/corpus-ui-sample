@@ -1,0 +1,22 @@
+{
+	"anumber": "A41366425",
+	"id": "A41366425_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41366425_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "The Matriculation and School Leaving Certificate Examination, 618, 8476"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 2023, 1930]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/27/2023 618 8476. The University of the Panjah SECURITY BH CORPORATION THE PANJAB The Matriculation and School Leaving Certificate Examination SESSION 1930 this 16 to certify that Indar Singh Jolly son of S. Cara Singh and a student of the I.B.N. High School, Amritsar passed in the Second Division, the Matriculation and School Leaving Certificate Examination of the Panjab University held in March, 1930. Passed also in One Additional Subject. Date of Birth 7th November, 1914. (Seventh November, One Thousand Senate hall, Nine Hundred and Fourteen) LaBore: RÉGISTRAR, The 1st August, 1930. University of the Panjab. A"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A41803955",
+	"id": "A41803955_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41803955_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/24/2023 ATTACHMENT 1 I-72 (I-130) In the event any of the requested documents are unavailable, you must submit a certification from local authorities that no record of the event exists in their official records along with secondary evidence in the form of church, school, or legal records, records of judicial proceedings, or orther documentary evidence. Written statements sworn to or affirmed by at least two persons who were living at the time, and who have personal knowledge, of the events you are trying to prove, for example, the date and place of birth, marriage or death may also be submitted. The persons making the affidavits may be relatives and need not be citizens of the United States. Each affidavit should contain the following information regarding the person making the affidavit; His/he full name and address; DATE AND PLACE OF BIRTH; relationship to you, if any; full information concerning the event; and complete details concerning how he/she acquired knowledge of the event. SWORN STATEMENTS FROM IMMEDIATE RELATIVES ARE NOT ACCEPTABLE."
+}

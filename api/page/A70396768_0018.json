@@ -1,0 +1,28 @@
+{
+	"anumber": "A70396768",
+	"id": "A70396768_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A70396768_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "THE MOMBASA HOSPITAL, M.H.2"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Kenya"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/20/2023 HOUR THE MOMBASA HOSPITAL P.O BOX 90294, MOMBASA, KENYA. TELEPHONE: 312191/312099 S PATIENT CARE DEPARTMENT OF RADIOLOGY Ref. No: Date: 19-7-93 Name: Osman - 396 768 Sex: M Age: A O.P./Ward: OP - Reg. No: Referred by Dr./Mr. Motus Examination/s: Chest RADIOLOGIST'S REPORT The heart shadow shows minimal left ventricular enlargement and slight unfolding of the aorta. C.T.R. -0.52:1 The rib cage show no skeletal pathology. The scoliosis of the thoracic spine is most likely positional. The lung fields show streaky markings and blunting of the costophrenic angles left more than right side The left outer hemidiaphragm also show minimal early tenting. Features suggest past/chronic left lung inflammatory process. D.D. - Left lung pleurisy - Chronic bronchitis - P.T.B. to be excluded. Review of film 30 JUL ME FOR DR <MACHI M.H.2 Radiologist"
+}

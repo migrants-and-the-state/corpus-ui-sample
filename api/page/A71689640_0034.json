@@ -1,0 +1,25 @@
+{
+	"anumber": "A71689640",
+	"id": "A71689640_0034",
+	"page_index": 34,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71689640_0034/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Personal History, K. 689 640"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1985, 1925, 1929, 1906, 1931, 2023, 1940, 1965]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/21/2023 This page is to be completed both K. 684 640 front and back for each person age 17 and older. Personal History Interviewer: PAGE Min OF Principal applicant Name DALMAR ABDURAHMAN Sex(M/F) Birthdate Birthplace M 1-1-1906 JARRIBAN Relationship to PA OCCUPATIONS, WORK HISTORY AND EDUCATION: 1931 1940 Nurse OFFicer Location Mogodishio 1940 1965 Garawe Hospital Garawe 1965 1985 Bussinesman Mopodisho SECONDARY REASONS FOR LEAVING SCHOOL: SCHOOL 1925 PRIMARY 1929 SCHOOL Completed Primary Certificate LANGUAGE ABILITY Fluent Good Fair Poor OTHER Fluent Good Fair Poor ENGLISH ITALIAN FRENCH SOMAL, FOR WOMEN Are you pregnant? Yes No If pregnant, what month do you think the baby will be born? ETHNIC/RELIGION Muslim Danod / MATERTEN ORGANIZATIONS NO HARD LABOUR NO IMPRISONMENT NO ESCAPE ATTEMPT NO MUL st"
+}

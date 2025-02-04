@@ -1,0 +1,22 @@
+{
+	"anumber": "A29338682",
+	"id": "A29338682_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29338682_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 8/4/2023, VERiFication of deposit"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/4/2023 VERIFICATION OF DEPOSIT FROM: DADE COUNTY EMPLOYEES CREDIT UNION 1611 NW 12 Avenue Miami, Florida 33136 Regarding: Member Name: Lady Joseph Account Number: 50673007 Address: 1351 NW 173 Terr City Miami Zip 33169 Type of Account: Savings Checking Current Balance: $1442.67 $985.52 Date Opened : 28 Sep 83 Sep 86 Loans Outstanding Loan Balance Date of Loan Original Amount Installments Security CREDIT DATE This was Electric information UNION EMPLOYEE requested SIGNATURE by:) TITLE Br. Manager 05 DEc 88 Lady Signature Jaugh NOTARY PUBLIC, STATE OF FLORIDA. MY COMMISSION EXPIRES: JAN. 31. 1992. BONDED THRU NOTARY PUBLIC UNDERWRITERS Seggi Boldin"
+}

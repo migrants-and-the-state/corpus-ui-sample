@@ -1,0 +1,25 @@
+{
+	"anumber": "A29030253",
+	"id": "A29030253_0040",
+	"page_index": 40,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29030253_0040/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 922/2023, AR-11 ( (Rev. 3–21–79)N"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1907, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 922/2023 NAME (Last in CAPS) (First) (Middle) I AM IN THE UNITED STATES AS: MEHTA Visitor Permanent Resident CHHIBBER SATPARKASH RAI Student Other (Specify) COUNTRY OF DATE OF BIRTH COPY NUMBER FROM ALIEN CARD CITIZENSHIP INDIA 05-08-1907 A29 030 253 PRESENT ADDRESS (Street or rural route) (City or Post Office) (State) (ZIP Code) 85, FLORENDIN DRIVE HENRIETTA N.Y 14467 (IF ABOVE ADDRESS IS TEMPORARY) I expect to remain there years months LAST ADDRESS (Street or rural route) (City or Post Office) (State) (ZIP Code) 67 Brightwood lane Rochester NY 14623 I WORK FOR OR ATTEND SCHOOL AT: (Employer's Name or Name of School) (Street Address or rural route) (City or Post Office) (State) (ZIP Code) PORT OF ENTRY INTO U.S. DATE OF ENTRY INTO U.S. IF NOT A PERMANENT 04-07-89 RESIDENT, MY STAY IN THE U.S. EXPIRES ON: Sat. SIGNATURE Parkash Raichhubber DATE (Date) AR-11 (Rev. 3-21-79)N OMB Appvd. No. 43-R0038"
+}

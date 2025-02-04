@@ -1,0 +1,22 @@
+{
+	"anumber": "A34038282",
+	"id": "A34038282_0084",
+	"page_index": 84,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34038282_0084/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States Department of Justice, Immigration and Naturalization Service, I-356"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "ITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet Application or Petition Form No. I-356 File No. Date Documents Needed Yes No 1. Letter from employer Subject ( ) other () (Check) Length of employment 2. Income Tax Returns 19- Gross No. deps. Income Tax Returns 19- Gross No. dens. 3. Letter from bank Savings balance 4. Health Insurance 5. Letter from Welfare Public Charge none If P/C - Amount of indebtedness incurred. Recommendation Cancel Breach - Continue Officer Wayne Daniel Bond wild no plc This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which may facilitate processing. Keep this sheet on top of all material in file until initial decision is made Form I-468 (Rev. 11-1-70)"
+}

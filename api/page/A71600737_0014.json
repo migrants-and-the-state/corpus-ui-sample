@@ -1,0 +1,22 @@
+{
+	"anumber": "A71600737",
+	"id": "A71600737_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71600737_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Servicio de Inmigración y Naturalización, I-94"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Número de salida Screened by NARA, 7/20/2023 415252631 02 Servicio de Inmigración 160 105 2414 y Naturalización I-94 SEP 15 iggi Registro de salida B 2 ADMITTED (class UNTIL 14. Apellido MAR 14 1992 DIAZ 15. Primer nombre 16. Fecha de nac. (día/mes/ano) MANU EL 09/01/10 17. Ciudadanía HONDUREN O, Vea el reverso STAPLE HERE"
+}

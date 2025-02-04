@@ -1,0 +1,19 @@
+{
+	"anumber": "A90414760",
+	"id": "A90414760_0131",
+	"page_index": 131,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90414760_0131/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "photograph"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Sereoned NARA 7/12/2023 EMPLOYMENT AUTHORIZATION U.S. DEPARTMENT OF JUSTICE Immigration and Naturalizatio 90414760 A BOLANOS, ELIDA Name Signature blida Bolanos 06/09/87 09/19/06 579 Issue Date DOB COB 12/09/87 EXPIRES X BEARER ENTITLED TO RE SIDE AND WORK IN U.S. UNTIL CARD EXPIRES NOT ELIGIBLE S FOR FEDERALLY FUNDED ASSISTANCE PROGRAMS EXCEPT AS PROVIDED BY W 99-603-SEC 245A"
+}

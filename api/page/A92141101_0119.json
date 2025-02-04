@@ -1,0 +1,19 @@
+{
+	"anumber": "A92141101",
+	"id": "A92141101_0119",
+	"page_index": 119,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A92141101_0119/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CALIFORNIA IDENTIFICATION CARD NOT A LICENSE ISSUED FOR IDENTIFICATION EXPIRES ON H7353342 BIRTHDAY IN Felicita Ordonez 1987 6219 S Main St # Los Angeles Cal 90003 SEX HAIR EYES HEIGHT WEIGHT F. Blk Blk 5-2 135 DATE OF BIRTH 02-21-14 SENIOR CITIZEN OTHER. THIS CARD IS NOT A LICENSE TO DRIVE ADDRESS Jelicito Orderes 04-25-77 Lsh dm DO NOT LAMINATE"
+}

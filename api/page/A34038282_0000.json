@@ -1,0 +1,42 @@
+{
+	"anumber": "A34038282",
+	"id": "A34038282_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34038282_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "The United States of America, 11 902882"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1985, 1913]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "fair"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Single"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1985.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "P.O. Box 312, Ignacio, Colorado 81137"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "THE TO BE FORWARDED TO No. 11902882 IMMIGRATION AND NATURALIZATION SERVICE CATE Pelilion No. 511 DUPLICATE AlienRegistration No. A34-038-282 Personal description of holderas of Date of birth June 25, 1913 sex Male complexion Fair colorobeyes Hazel color of hair Black height 6 feet 3 inches; weight 170 pounds; visible distendive marks Mole on chin; scar from medical surgery on right Maritalstatus Single Country of formernationality. Mexico I certify that the description above given is hue, and that thepholograph efficed hereto is a likeness of me. Juan Rain Sanches ( Complete and true signature of holder) STATE OF COLORADO COUNTY OF LA PLATA } SS: Beitknown that at term of the District La Plata County, , Colorado, Court of heldpursuanttolowal Durango, Colorado, on October 7, 1985, Juan Quintana Sanchez, the Court havingfour then residing at P. O. Box 312, Ignacio, Colorado 81137, intends loreside permanently in the United. States when sorequired by the Naturalization Laws of the United. States), had in all other respects, complied with the applicable provisions of such naturalization laws, and was entitled tobe Seal admitted to citizenships thereupon ordered that such person be and(s)hewas admitted as a citizen of the United States of America, In destimony whereof thesealofthe, courtis hereunto,affaced this 7th day of October in the year ofour. Lord mineteen, hundred and eighty-five. Dorathy Culp Clerk of the District Court. IT IS PUNISHABLE BY U. S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE. By Deputy Clerk. EJSIVCE"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A11979216",
+	"id": "A11979216_0042",
+	"page_index": 42,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11979216_0042/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. DEPARTMENT OF JUSTICE IMMIGRATION & NATURALIZATION SERVICE, FOIA ( (b)(6)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1960]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/29/2023 U. S. DEPARTMENT OF JUSTICE IMMIGRATION & NATURALIZATION SERVICE 510 SOUTH VERMONT AVENUE LOS ANGELES 5, CALIFORNIA 510 South Vermont Avenue FOIA (b)(6) A-11 979 2 216 June 2, 1960 FOIA (b)(6) American Embassy Consular Section Managua, Nicaguara Central America Re: Delia Isabel DELGADO-A-11 979 216 Milagros Jerez-DELGADO-A FOIA (b)(6) Maria Jerez-DELGADO-A-FOIA (b)(6) Gentlemen: This is to inform you \"Bond That Alien Shall Not Become A Public Charge\" in the sum of $1,000.00 has been posted with this Service for subject aliens stated to be applicants for Immigration visas at your office. The aliens reside in Manague, Nicaragua and the address is given as Del Cine Dario, Cuadro Y Media Al Sur # 805, Managua, Nicoragua. The bond was posted by Emanuel Braude, President, Public Charge Assurance Company of 356 South Broadway, Los Angeles 13, California. Sincerely Ermett D. Kelliher WHIHH w Assistant District Director Travel Control Branch wr KAE"
+}

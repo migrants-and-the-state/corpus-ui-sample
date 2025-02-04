@@ -1,0 +1,22 @@
+{
+	"anumber": "A72044315",
+	"id": "A72044315_0046",
+	"page_index": 46,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A72044315_0046/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 8/11/2023, Mitsubishi International Corporation"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992, 2023, 1963]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/11/2023 Mitsubishi International Corporation LOS ANGELES BRANCH, 333 SOUTH HOPE STREET, SUITE 2500, LOS ANGELES, CALIFORNIA 90071 TELEPHONE (213) 687-2800 CABLE ADDRESS MITSUBISHI LOS ANGELES TELEX NO. (WU) 67-4331 67-3139 (RCA) 21-5741 FAX NO. (213) 687-2992/687-2993 HEAD OFFICE 520 MADISON AVENUE, NEW YORK, NEW YORK 10022 May 13, 1992 To Whom It May Concern: This will verify that Ms. Elizabeth Delva has been a full-time employee of Mitsubishi International Corporation since December 16, 1963. She currently holds the position of Sales Manager in our Metal Division. If you should have any questions, please contact us. Sincerely, Kazuo The Usui Can Deputy General Manager and Manager, General Affairs Div. KU:ekk"
+}

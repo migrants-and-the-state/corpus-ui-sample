@@ -1,0 +1,25 @@
+{
+	"anumber": "A20865114",
+	"id": "A20865114_0033",
+	"page_index": 33,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20865114_0033/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 8/17/2023, FORM I-94"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 Family Name (Capital Letters) First Nome Middle Initial HOANG Thi Oanh H-520 Country of Cilizenship Passport or Alien Registration Number Permit Number Vietnam 218 85 53 United Stoles Address (Number, Street, City and State) Immigr. & Citizenship Dept of the Cath. Welfare Bureau, 1400 W 9th St .,Los Angeles Calif. 90015 Airline and Flight No. or Vessel of Arrival Passenger Boarded of SON 541 Brussels Number, Street, City, Province (State) and Country of Permanent Residence Month, Day and Year of Birth RELEASE in K 1915 City, Province (State) and Country of Birth Kien An, Qui Nhon, Vietnam Visa Issued of A20 865 114 Month, Day and Year Visa Issued NYC 8-23-281115 FORM I-94"
+}

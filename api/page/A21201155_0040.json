@@ -1,0 +1,25 @@
+{
+	"anumber": "A21201155",
+	"id": "A21201155_0040",
+	"page_index": 40,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21201155_0040/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "City of Huntington Beach, 586-40-8672"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/21/2023 City of Huntington Beach P.O. BOX 70 CALIFORNIA 92648 4 POLICE TELEPHONE 536-5311 EARLE ROBITAILLE CHIEF OF POLICE DATE: 08-22-78 RE: Name LE, Thi Chi Address 6562 Farinella Drive Huntington Beach, California Sex F Race o Ht 5'4 Wt 98 Hair blk Eyesbrn Date of birth 01-13-19 Place of birth Viet Nam Dr. Lic. # None Soc. Sec. # 586-40-8672 TO WHOM IT MAY CONCERN: This is to certify that a check of the records of the Huntington Beach Police Department reveals no wants or warrants on the above subject. The subjects arrest record information is as follows; = No record of arrests. Arrest date Offense Disposition 1. 2. 3. 4. Very truly yours, EARLE W. ROBITAILLE Chief of Police James Glore JAMES GLORE Records Bureau Supervisor Address all communications to the Chief of Police"
+}

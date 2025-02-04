@@ -1,0 +1,25 @@
+{
+	"anumber": "A40040849",
+	"id": "A40040849_0036",
+	"page_index": 36,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40040849_0036/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Title of the image, Immigration Form, Form number, NARA, 9/25/2023"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1929, 2023, 1926, 1983, 1932, 1920, 1939]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/25/2023 Page 2 10a. IF YOU OR YOUR SPOUSE ARE NOW, OR HAVE BEEN, IN THE UNITED STATES, STATE: APPLICANT WHERE WAS VISA OBTAINED WHEN WAS VISA GRANTED (Month, Year) SPOUSE Hong Kong April 1983 CHECK TYPE OF VISA USED FOR SUCH ENTRY: Immigrant Government or international organization official or employee Exchange Visitor Other nonimmigrant Specify B-2 IF YOU OR YOUR SPOUSE PREVIOUSLY LIVED IN THE UNITED STATES, STATE: DATE ADMITTED DATE DEPARTED REASON FOR DISCONTINUING RESIDENCE N/A N/A N/A 11. Your Education (All schools) Including Part-time Name of School School Address Dates Attended: From To Chuen Yung Primary School Jiangyin, Jiangsu, China Sep. 1920 Jul. 1926 Jiangyin Middle School Jiangyin, Jiangsu, China Sep. 1926 Jul. 1929 Tsuen Song College Soochow, Jiangsu, China Sep. 1929 Jul. 1932 12. Your Employment Name of Firm Address of Firm Type of Work From To Cheongjing, Jiangyin, Factory (year/month) (year/month) Daifoo Silkworm Factory Jiangsu, China Inspector 33/1 38/12 13. List all organizations you are now or have been a member of or affiliated with since your sixteenth birthday (Include professional, vocational, social and political organizations) Type of membership and Name and address Dates (From-To) office held, if any N/A 14. Have you ever been in the military services? No 15. Are you: (1) Never Married, (2) Married, (3) Divorced, (4) Separated, (5) Widowed? 15a. Date and place of marriage February 15, 1939 Shanghai, Jiangsu, China 15b. Type of Ceremony (Chinese, Western, etc.) Chinese 15c. If married more than once, list the previous spouse(s), their present address (or place of death), cause and date of termination of marriage: N/A 16. Who is going to USA with you? My husband 17. Purpose of travel to the United States Immigration"
+}

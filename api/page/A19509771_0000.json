@@ -1,0 +1,22 @@
+{
+	"anumber": "A19509771",
+	"id": "A19509771_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19509771_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CORRECTED INDEX CARD, G-361 (Rev. 10-1-70)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) Screened (FJRST) by NO. TRIVEDI, Mohanla? T-613 A19 509 771 Alias P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH NYC 06/08/72 3-2(NP-1) 11/17/06 INDIA Type of Action: Name of Sponsor: Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul ate CORRECTED INDEX CARD Street Address (City, State, and Zip Code) 132-65 POPLE AVENUE, QUEENS N.Y. FCO Date FCO Date FCO Date NYC 06/20/72mt Acession No. Box No. Form G-361 (Rev. 10-1-70) N INDEX CARD Triplicate"
+}

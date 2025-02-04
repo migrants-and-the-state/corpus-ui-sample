@@ -1,0 +1,25 @@
+{
+	"anumber": "A22099370",
+	"id": "A22099370_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22099370_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 2/10/2023 initial, I-94"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam", "Singapore", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 3599]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Family Name (Capital Letters) Screenediby NARA, 2/10/2023 Initial NGUYEN THI BA LAM 282 Country of Citizensh Passport or Alien Registration Number Permit Number VIETNAM 042 32 09 A22_099 370 United States Address (Number, Street, City and State) Airline and Flight No. or Vessel of Arrival Passenger Boarded at CHARTER FLIGHT SINGAPORE Number, Street, City, Province (State) and Country of Permanent Residence VIETNAM Month, Day and Year of Birth PAROLED PURSUANT TO SEC.212(d)(5) 1898 OF THE I & N ACT TO: (7) City, Province (State) and Country of Birth PURPOSE: HA TINH, VIETNAM Visa Issued at VISAS FALCON CLEARED (Port) (Date) (Officer) Month, Day and Year Visa Issued SEPT. 26/3599 FORM I-94"
+}

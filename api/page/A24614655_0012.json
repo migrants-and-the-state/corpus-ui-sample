@@ -1,0 +1,25 @@
+{
+	"anumber": "A24614655",
+	"id": "A24614655_0012",
+	"page_index": 12,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A24614655_0012/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Immigration Form, GPO 894-566"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Italy"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1981]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "15. Huke A , , H , B A COCTOHO , a Take H MeCTO . ( Bbl He HH B , HH B Kako) the b Kakou 16. A He 3a . ( Bac Koraa 60 B , yka ary, MECTO. 06BHHeHNA H ) 17. R He B IIITaTax . ( Bbi B CIIIA, yka H H : , , , MOPAK H T. n.) Homep 18. y MeHA B IIITaTax : Het aapec 19. 3a MeHA : ( HMR H aapec Bauero B IIITaTax ) XUAC He Jul 27 Doncuar , , , , MHOHO , , , H3BECTHO, H , ( ) ( ) MHOIO HJ1H no , H MHOHO, MOHM H : X Dorickas H Rome, Italy AUG 03 1981 Subscribed and sworn to before me by the above-named registrant at on (month) (day) (year) Sw Smoke (Signature and title of officer) INTERVIEW APPROVED DATE DATE AT (Immigration Officer) (Officer in Charge) 6bitb , H 3arpahm9HbIM 6I HMMHRPALIHH H IIITaTOB . Koraa Bamero HMEHH B peraHHOM Bbi bHbe . 1. - per H B . pe6ehka B Bo3pacte MeHee - H3 HJH . 2. - I-591, B IIITaTax , PAM pa3peweH , HO B MOMEHT ee He . GPO 894-566"
+}

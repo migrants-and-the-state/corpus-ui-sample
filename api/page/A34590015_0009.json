@@ -1,0 +1,22 @@
+{
+	"anumber": "A34590015",
+	"id": "A34590015_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34590015_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DECLARATION OF WITNESSES WHEN SOMEONE MAKES A MARK AS THEIR SIGNATURE, NARA-0123465789"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 DECLARATION OF WITNESSES WHEN SOMEONE MAKES A MARK AS THEIR SIGNATURE INSTRUCTIONS TO WITNESSES: California Code of Civil Procedure § 17 provides that \"signature or subscription includes mark, when the person cannot write, his name being written near it by a person who writes his own name as a witness: provided, that when a signature is by mark it must, in order that the same may be acknowledged or may serve as the signature to any sworn statement, be witnessed by two persons who must subscribe their own names as witness thereto.\" If a person makes their mark on a document, one witness must write the person's name on the document next to the mark and then write his or her own name with the word \"witness\" next to it. Then this witness and a second witness must both sign this form and attach it to the document. PROOF OF SUBSCRIBING WITNESS # 1 I witnessed (name of applicant) Rocha Isabel cazares make his mark on the following document: N-648 , which is attached to this declaration. I declare under penalty of perjury that the foregoing is true and correct and that this declaration was executed on (date): 10/20/99 at (place): Oxnard , California. 3 Type or print witness' name and address: Rosa E cervants 3139 so c.st (Signature of witness) Ornard Calit 93033 PROOF OF SUBSCRIBING WITNESS # 2 I witnessed (name of applicant) Rocha Isabel cazures make his mark on the following document: N-Co48 , which is attached to this declaration. I declare under penalty of perjury that the foregoing is true and correct and that this declaration was executed on (date): 10/20/99 at (place): exnard , California. Type or print witness' name and address: (Signature of witness) Production SALIDA DEL SOL MED. CENTER, INC. Richard Nguyen, MD Ba X Nguyen, MD 210 No Bonita Ave 815 Cooper Rd Oxnard CA 93030"
+}

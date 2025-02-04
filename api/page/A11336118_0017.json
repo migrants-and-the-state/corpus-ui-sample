@@ -1,0 +1,22 @@
+{
+	"anumber": "A11336118",
+	"id": "A11336118_0017",
+	"page_index": 17,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11336118_0017/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/10/2023 WORK SHEET FOR I-90 CASES (IN CAPS) (LAST NAME FIRST) (PRINT) Isve NAME: GomEZ , JOSEFINA BARRIO - REGISTRATION NUMBER: All 336 118 mail DATE OF BIRTH: (DIGITS) 04-18-15 T-151 SEX: MALE FEMALE ) NATIONALITY CODE: 82 PORT OF ENTRY: ELP DATE OF ENTRY: (DIGITS) 07-15-57 NEEDS PHOTOS: 7/28/76 NEEDS FINGERPRINTS:"
+}

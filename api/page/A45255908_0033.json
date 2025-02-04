@@ -1,0 +1,28 @@
+{
+	"anumber": "A45255908",
+	"id": "A45255908_0033",
+	"page_index": 33,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A45255908_0033/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate of Death, Form No.10"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989, 2023, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/15/2023 LAR'S Form No. 10 ( See rule 4 ) (NATH MAL SHARMA Actorate JAIPUR (Roinstaan) Cdvt. . of Uttar Predesh (INDIA) Birth & death Death Health Deptt. Issued under clause 12 and Certificate of Death clause 17of Registration Act, 1969 Certified that the following information has been kaken from the original record of death which is as per the register of Municipal Corporation Bareilly, Tehsil Bareilly Distt. Bareilly, State Uttar Pradesh. Name : Smt. Omvati Nationality : Indian Sex : Female 78 years Permanent Address : Date of death : 15.4.1989 Registration No:: 815/89 Place of death: Keharwan, Bareilly Date of Registration : Father/Mother/Husband's Name: Mr. Mahesh Swarup sd/- Seal City Health Officer Municipal Corporation Dated : 25-4-89 Bareilly. Not a :-In case of death, the redsons of death, as entered in the register will not be disclosed Prohibitive subclause 17(1) P.A.U.P. A. P. Health-2-4-86-(71)-1986-1,00,000 Books U.P. (state) This is to certify that the above is the exact and true translation from the original Hindi text into English and that I am competent to make this translation as Notary under the Notary Act. NOTARY PUBLIC JAIPUR Original Seen and (HATH MAL SHARMA Compared: nisher Advance IMIPUR American Enbassy (INDIA) (Consular Section). New Delhi (India) Attested submin m Executi Stille electricity Engliser"
+}

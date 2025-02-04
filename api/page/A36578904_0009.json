@@ -1,0 +1,22 @@
+{
+	"anumber": "A36578904",
+	"id": "A36578904_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A36578904_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "SCREENED BY NARA, 5/5/2023, SCREENED BY NARA"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/5/2023 ######## sacaday compulsada de su original y para los - us os que de parte interesada convengan expido- la presente en la Estacion de Camacho del Mu-- nicipio de Mazapil Estado de Zacatecas a los - treinta días del mes de Diciembre de mil nove- cientos sesenta y uno. DEL REGISTED ONLY Agente del Registro Civil Isabel langily Isabel Gonzalez Uribe. MPIO, DE MAZAPIL"
+}

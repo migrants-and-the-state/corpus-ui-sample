@@ -1,0 +1,22 @@
+{
+	"anumber": "A29152365",
+	"id": "A29152365_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29152365_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "NOTICE OF REVOCATION"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989, 2023, 1996]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/12/2023 U.S. Department of Justice Immigration and Naturalization Service California Service Center P.O. Box 10130 Laguna Niguel, CA 92607-0130 ANA ELIZABETH MONTOYA 3148 LETICIA DR. HACIENDA HGTS., , CA. 91745 NOTICE OF REVOCATION DATE: MAR 26 1996 FILE: WAC9602650450 IN RE: Form I-130 filed for LUCILA DEL TRANSITO MENENDEZ Dear Petitioner: This notice is in reference to the Form I-130, Petition for Alien Relative, that was filed by the petitioner pursuant to section 201 (b) of the Immigration and Nationality Act (Act), as amended. The Service approved the petition on June 16, 1989. The petition has been returned to this office by the American Consulate or Embassy to which it was forwarded with a notice that the beneficiary failed to apply for an immigrant visa within one year of the receipt of notification that a visa number was available. Accordingly, the petition is automatically revoked as of the date of approval in accordance with section 203 (g) of the Act and Title 22, Code of Federal Regulations, part 42.83 (a) All Service action in this matter is terminated as of the date of this notice. Sincerely, Joseph L. Thomas Director CSC/6455/JLT"
+}

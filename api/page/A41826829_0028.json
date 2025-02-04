@@ -1,0 +1,25 @@
+{
+	"anumber": "A41826829",
+	"id": "A41826829_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41826829_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "AFFIDAVIT OF SUPPORT, NARA-1023465"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988, 2023, 1982]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/18/2023 AFFIDAVIT OF SUPPORT PETRA D. HERNANDEZ, presently residing at 7272 - 9th Street, Buena Park, California 90621, after first being duly sworn, depose and say: 1. That I am a citizen of the United States of America and that I am executing this affidavit on behalf of my mother, CRECENCIA GONZALEZ BONILLA. 2. That I declare my willingness and financial ability to contribute to the support of CRECENCIA GONZALEZ BONILLA. 3. That I have resided in the United States of America for my entire life and that I am presently residing and buying my home at address indicated above. 4. That I have been employed with the Emerald Hotel, 1717 W. Anaheim Street, Anaheim, California since 1982 and that I am considered a permanent employee. 5. That I have a savings account with Great Western Savings Bank, 8020 Stanton Ave, Buena Park, California. Further affiant sayeth naught. PETRA D. HERNANDEZ (Daughter) Affiant Subscribed and sworn to before me this 87 EAL 20 day of May, OFFICIAL SEAL 119 I LOUIS QUIROGA Laui PUBLIC Notary Public-California ORANGE COUNTY NOTARY in and for the State of California My Comm. Exp. Oct. 31, 1988"
+}

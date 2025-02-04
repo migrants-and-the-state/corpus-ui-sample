@@ -1,0 +1,22 @@
+{
+	"anumber": "A36155773",
+	"id": "A36155773_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A36155773_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Consulate General of the Republic of China"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1941, 1914, 2023, 1909, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/25/2023 CONSULATE GENERAL OF THE REPUBLIC OF CHINA 3660 WILSHIRE BOULEVARD SUITE 1050 LOS ANGELES. CALIFORNIA 90010 TEL. (213) 389-12151 389-1216 To Whom It May Concern: This is to certify that according to documentary evidence in Chinese presented to this Consulate General, Intang Tsai, born at Hsinchu, Taiwan, China on November 4, 1909, and Szemei Huang Tsai, born at Taoyuan, Taiwan, China on February 16, 1914, are the parents of Bill Shihing Tsai, born at Hsinchu, Taiwan, China on March 13, 1941. Given on this 5th day of March, 1976. Chen Min-chung Consul OF THE to LOS AVRELES 3199 3.00"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A14635169",
+	"id": "A14635169_0019",
+	"page_index": 19,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14635169_0019/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "FOR THE UNITED STATES DISTRICT COURT, N-2 1 (92"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/20/2023 OF THE Us6. United States District Court DIST OF CITIZEN APPLICANT INFORMATION FOR THE UNITED STATES DISTRICT COURT PRINT clearly the requested information below. INSTRUCTIONS: 1. This form is to be completed by each applicant for citizenship on the day of final examination and given to the INS Examiner. 2. The INS Examiner will check whether the applicant is a Grant or Denial; date and sign the form; and, place the form in the designated location for pick-up by the United States District Court. Name as it appears on Alien Registration Card (Green Card): 500 KING CHOW (First) (Middle) (Last) Name you would like to be on Naturalization Certificate: SOO KING WONG (First) (Middle) (Last) Alien Registration (Green Card) Number: A 24635169 Date of Birth: 03,05 (Month) (Day) (Year) FOR OFFICIAL USE ONLY Granted Denied Date: 02/22/93 INS Examiner's Signature min Won U.S Government Printing Office: 1992 779-380/60011 N-21 (1/92)"
+}

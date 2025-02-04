@@ -1,0 +1,22 @@
+{
+	"anumber": "A41366069",
+	"id": "A41366069_0047",
+	"page_index": 47,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41366069_0047/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DR. VED PRAKASH X-RAY CLINIC, 4-085418"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "DR. VED PRAKASH X-RAY CLINIC DR. G.S. GARKAL 48-HANUMAN ROAD, NEW DELHI-110001 M.B.B.S., D.M.R.D., TELEPHONE : 311000 M.D., (Radio Diagnosis) 9th May, 1988 MR. HARDIT SINGH JAWANDHA. Passport No.c-085418 (Ref. by Dr.R .Khosla) This is to certify that I have examined today the chest of Mr. Hardit Singh Jawandha by roentgenological means and who has been identified by his passport No . c-085418 and who has signed this form in my presence. I do not find evidence of any lesion of the parenchyma of either lung. The hila, the pleura, the costophrenic angles, the diaphragms and the cardiac shadow are all normal. Conclusion. Chest is Normal. specimen signature Gs haskel DR .G.S. GARKAL Hardit Singh"
+}

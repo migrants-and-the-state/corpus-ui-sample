@@ -1,0 +1,28 @@
+{
+	"anumber": "A21637344",
+	"id": "A21637344_0035",
+	"page_index": 35,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21637344_0035/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "h"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PERSONAL DESCRIPTION FORM"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1907]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "PERSONAL DESCRIPTION2FORM (Type or print) DARK Date of birth 2 Nov. 1907 ; place of birth India ; sex M ; complexion Brown color of eyes Black ; color of hair height 125 pounds; visible distinctive marks Scalman grey 5 feet 41/2 inches; weight ; marital status Lidnord country of nationality Indian ( Asian) INdiA (If change of name requested) change to: No please from ALWAYS GIVE YOUR ALIEN REGISTRATION NUMBER WHEN COMMUNICATING WITH THIS SERVICE"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A10430675",
+	"id": "A10430675_0038",
+	"page_index": 38,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10430675_0038/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Quarterly Report Reminder, A 6 699 884"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1955]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "A 6 699 884 March 30, 1955 Maoling Idu 630 Lincoln Street N. E. 4-55 Minneapolis 13, Minn. Madam: Your quarterly report which was due in this office during the first week of this month has not been received here to date. Please submit same by return mail. Please submit timely reports in the future. Very truly yours, J. D Perfetto Acting Officer in Charge gjm Apm"
+}

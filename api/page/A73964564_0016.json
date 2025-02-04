@@ -1,0 +1,25 @@
+{
+	"anumber": "A73964564",
+	"id": "A73964564_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A73964564_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Information About Your Children, N-4"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 Part 9. Information About Your Children Write your INS \"A\"- number here: A 0 7 3 9 6 4 5 6 A. How many sons and daughters have you had? For more information on which sons and daughters 1 you should include and how to complete this section, see the Instructions. B. Provide the following information about all of your sons and daughters. If you need more space, use a separate sheet of paper. Full Name of Date of Birth INS \"A\"- number Current Address Son or Daughter (Month/Day/Year) (if child has one) Country of Birth (Street, City, State & Country) FOIA (b)(6) A A A A A A A Part 10. Additional Questions Please answer questions 1 through 14. If you answer \"Yes\" to any of these questions, include a written explanation with this form. Your written explanation should (1) explain why your answer was \"Yes,\" and (2) provide any additional information that helps to explain your answer. A. General Questions 1. Have you EVER claimed to be a U.S. citizen (in writing or any other way)? Yes No 2. Have you EVER registered to vote in any Federal, state, or local election in the United States? Yes No 3. Have you EVER voted in any Federal, state, or local election in the United States? Yes No 4. Since becoming a Lawful Permanent Resident, have you EVER failed to file a required Federal, state, or local tax return? Yes No 5. Do you owe any Federal, state, or local taxes that are overdue? Yes No 6. Do you have any title of nobility in any foreign country? Yes No 7. Have you ever been declared legally incompetent or been confined to a mental institution within the last 5 years? Yes No Form N-400 (Rev. 05/31/01)N Page 6"
+}

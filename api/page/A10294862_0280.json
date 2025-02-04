@@ -1,0 +1,25 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0280",
+	"page_index": 280,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0280/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "REQUEST FOR VERIFICATION OF DEPARTURE"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1956, 2023, 1908]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 03 3-1441 Rev. 11-15-55 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service 70 Columbus Avenue New York 23, N. Y. File No.: A10 090 G-JG Date : March 29, 1956 TO : Asst. Commissioner Administrative Branch-Central Office AttP Records Admin. Section, N.I. Control Unit FROM : W.T. Flagg, District Chief of Investigation New York 23, N.Y. SUBJECT : REQUEST FOR VERIFICATION 0th DEPARTURE It is requested that a search be made for a record of the departure of the person named below, indicate discrepancies, if any. NAME: Doh Sang Moh (s 2073674) Port of Departure: unknown Date of Departure: unknown Name of Ship (or airline) on which departed: unknown Age at time of departure: July 15, 1908 Nationality: Chinese Birthplace: China et REPORT OF SEARCH (DO NOT DETACH) TO : File No. FROM : Departure verified as requested, with the additional identifying information, if any following It KAPR6 MAIL 1956 LICENSE Unable to verify on basis of above-information. No Record Searcher of departure Date Non-Immigrant Index (SIGNATURE OF VERIFICATION CLERK)"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A21206025",
+	"id": "A21206025_0039",
+	"page_index": 39,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21206025_0039/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "FILE CHARGE COPY, A-21 206 025"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 AME (LAST IN CAPS) (FIRST) (MIDDLE) NO. LE THIN TH A-21 206 025 Alias MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH 0 7/7/1915 Viet Nam Street Address (City, State, and Zip Code) To: (Unit) Type of Action (Form no. or Person) I & NS USE Date:(Mo.) Day Year ONLY I FILE CHARGE COPY Visa Name Slip"
+}

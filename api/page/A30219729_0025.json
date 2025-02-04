@@ -1,0 +1,25 @@
+{
+	"anumber": "A30219729",
+	"id": "A30219729_0025",
+	"page_index": 25,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30219729_0025/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE SOCIAL SECURITY ADMINISTRATION BUREAU OF RETIREMENT AND SURVIVORS INSURANCE, SSA-L761F ( (7-71)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1973]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "HEAD DUCA 5 ATTORN MARATHON DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE SOCIAL SECURITY ADMINISTRATION USA P.O. BOX 1756, BALTIMORE, MARYLAND 21203, U.S.A. BUREAU OF RETIREMENT AND SURVIVORS INSURANCE REFER TO: RSI:IO: PP 464-60-5560 A March 28, 1973 Jose M. Alvarez Calle Cromo No. 262 Norte Cd. Juarez CHIH., MEXICO Your next social security check will be for $169.00 . This covers benefits due through 3/73 and will be sent about 4/3/73 After that, your check for $ 84.50 will be sent to you regularly each month. Please use the enclosed card to notify us promptly of any event which might affect your payments even though the event happens before you receive your next check. The enclosed booklet explains how work and earnings affect benefit payments. If you have any questions about your claim, please get in touch with your social security office or write to us at the above address. Sincerely yours, Daniel J. Rukamp Assistant Director, Operations Division of International Operations Enclosures: SSA-609 SSA-1425F SSA-L761F (7-7 )"
+}

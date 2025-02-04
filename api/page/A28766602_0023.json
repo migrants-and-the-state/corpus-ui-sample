@@ -1,0 +1,25 @@
+{
+	"anumber": "A28766602",
+	"id": "A28766602_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28766602_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "LOS ANGELES COUNTY - OLIVE VIEW MEDICAL CENTER, 1980- 86"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1980, 2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 1980- SECURITY OF LOS LOS ANGELES COUNTY-OLIVE - VIEW MEDICAL CENTER REPLY TO 14445 OLIVE VIEW DR., SYLMAR, CALIFORNIA 91342-1495 RHONE (8T8) 364-4127 7533 VAN NUYS BLVD., VAN NUYS, CALIFORNIA 91405-1990 - PHONE (213) 901-3001 CALIFORNIA DEPARTMENT OF DOUGLAS D. BAGLEY HEALTH SERVICES ADMINISTRATOR June 3, 1987 BRUCE PICKEN. M.D. MEDICAL DIRECTOR DEPARTMENT OF IMMIGRATION AND NATURALIZATION RE: BECERRA, JUANA OV#: 130322-CCP This is to serve as verification that Mrs. Juana Becerra has been a patient at Olive View Medical Center as of March 29, 1980 to present. If we can be of further assistance please feel free to contact us at the above address and or/ telephone number. Sincerely, JESSE W. JACOBS, A.R.T. Medical Records Director bm"
+}

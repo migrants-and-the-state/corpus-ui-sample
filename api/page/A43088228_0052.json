@@ -1,0 +1,25 @@
+{
+	"anumber": "A43088228",
+	"id": "A43088228_0052",
+	"page_index": 52,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43088228_0052/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "madam"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate of No Criminal Conviction"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1991]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/18/2023 Serial No. 040959 ROYAL HONG KONG POLICE HEADQUARTERS, ARSENAL STREET, HONG KONG. POLICY HONG KONG WE Our Ref.: 59801/91 HKID Card No. B891919(A) IT Telephone: 5769750 Air Extension: 25 October 1991 Telex No.: 65367 HX Dear Sir/Madam, CERTIFICATE OF NO CRIMINAL CONVICTION I refer to your request for a Certificate to the effect that you have no criminal conviction in Hong Kong. Please be advised that no criminal convictions recorded against you have been traced in Hong Kong. Yours faithfully, ( Terese FUNG ) for Commissioner of Police To: Madam FONG Mai-ching 1st Floor No 241 Fa Yun St Mongkok Kln III IX PK K THE I # XL THE Pol. 172 (1/91)"
+}

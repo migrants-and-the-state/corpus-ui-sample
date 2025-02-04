@@ -1,0 +1,25 @@
+{
+	"anumber": "A30537468",
+	"id": "A30537468_0045",
+	"page_index": 45,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30537468_0045/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "A search of our fingerprint files discloses no prior record of this person., 0638"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "(Last name) (First name) (Middle name) SEX M D630 DERAT Rail Soto RACE ALIAS HT. (IN.) WEIGHT 5'10 n 190 Storements Cettiersiz DATE OF BIRTH THEER CON GEN TINUANA , MEXICO 8/22/11 DEPARTMENT OF JUSTICE NATIONALITY PLACE OF BIRTH ALIEN MEXICAN Mexico NUMER LEAVE THIS SPACE BLANK HAIR CLASS 0 28- - IMO 15+ Brown L 30U0MI - EYES"
+}

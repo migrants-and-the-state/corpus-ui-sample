@@ -1,0 +1,25 @@
+{
+	"anumber": "A26271163",
+	"id": "A26271163_0074",
+	"page_index": 74,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26271163_0074/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF: DEATH"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1907, 1980, 2011, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 SEAL OF THE REPUBLIC OF NICARAGUA SERIAL \"A\" CITY HALL OF MANAGUA No. 1329440 CERTIFICATE OF: DEATH PRICE: C$35.00 WALTER LENIN FERRETTI MENDEZ Attorney and Registrar of the Civil State For the People of Managua CERTIFY: Under No. 13, Volume II-0139, Folio 7, of the Book of DEATH that conducted this Office in the year 1980, there is a Record that in its conducive parts says: ACT No. 13 NAME: MIGUEL ANTONIO ZELEDON RODRIGUEZ Place and Date of Death: Municipally of Managua, Department of Managua, April 14, 1980 Date of birth: June 23, 1907 FATHER: FRANCISCO RODRIGUEZ MOTHER: MARIANA ZELEDON Observations: NONE Managua, April 13, 2011. BEFORE ME: ILLEGIBLE SIGNATURE ILLEGIBLE SIGNATURE Registrar Secretary Translator's Declaration STATE OF NEW JERSEY COUNTY OF CAMDEN, SS I, Johan Rodriguez, do hereby certify that I am a competent Spanish-English translator, and that I have made the above translation in accordance to its original, as presented to me by the interested individual. It is accurate and true to said original as to the best of my knowledge and belief. Sworn and subscribed to before me this toth day of the month full of the year 2011 Notary Public Johnson Johan Rodriguez WILLIAM FULLER OTARY PUBLIC STATE OF NEW JERSEY MY COMMISSION EXPIRES APRIL"
+}

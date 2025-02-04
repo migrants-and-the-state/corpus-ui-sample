@@ -1,0 +1,19 @@
+{
+	"anumber": "A92360662",
+	"id": "A92360662_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A92360662_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/29/2023 RESIDENT ALIEN U.S Depar tment of Justice Immigration and Naturalization Service MATUS DE HUNTER, MARIA NAME 11.12 14 A092360662 07 06 00 CARD EXPIRES Maria Hunter REGISTRATION RECEIPT CARD PERSON IDENTIFIED BY THIS CARD SENTITLED TO RESIDE PERMANENTLY AND WORK IN THE U.S. TEMPERES ADJ DATE - 120787 W16 LOS 891120 579 0087706048 A1USA092360662<01<9007<<<<<<<< 1411122F0007065 <75D29AC87 MATUS<DE<HUNTER <MARIA <<<<<<<<"
+}

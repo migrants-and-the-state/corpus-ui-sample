@@ -1,0 +1,19 @@
+{
+	"anumber": "A26271163",
+	"id": "A26271163_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26271163_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 UNITED STATES OF AMERICA PERMANENT RESIDENT SANCHEI MARGARITA 08 Nov Surname SANCHEZ Given Name MARGARITA USGIS# Category 626-271-163 IRO Country of Birth Nicaragua Date of Birth Sex 08 NOV 1910 F Card Expires: 11/27/22 Resident Since: 08/16/86 Mararia"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A90413717",
+	"id": "A90413717_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90413717_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ARRIVAL-DEPARTURE RECORD, FORM 1944 REV.03/20"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1980, 2023, 1981, 1982]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARAZ717/2023 INPORTANT NOTICE A NONIMMIGRANT ALIEN WHO ACCEPTS UNAU- THORIZED EMPLOYMENT IS SUBJECT TO DEPORTATION. Retain this permit in your possession except when required to submit same to the Immigra- tion and Naturalization Service. You are permitted to remain in the U.S. for the time indicated. To remain past this period, without permission from immigration authorities, is a violation of law. WHEN YOU LEAVE THE UNITED STATES By sea or air, surrender this permit to transpor- tation line. Over Canadian border, surrender this permit to Canadian Immigration Officer. Over Mexican border, surrender this permit to United States Immigration Officer. To 6/30/80 office RECORD of EXTENSIONS 6/2/80 IT89 Office hug DEP RTURI Port: SEP 2.8 195 Date: MAY 28 1980 AUTHORIZED The Carrier 28 1980 MIA 19 To: EXT TO NOV 28 1981 MIA IFR (Country of disembarkation) SAY 2 8 1982 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service ARRIVAL-DEPARTURE RECORD FORM 1-94 20 1982 EXTended 372 FORM APPROVED OMS NO 43-RO496"
+}

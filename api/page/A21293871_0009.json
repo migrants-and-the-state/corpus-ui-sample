@@ -1,0 +1,22 @@
+{
+	"anumber": "A21293871",
+	"id": "A21293871_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21293871_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INTERFILE TRANSMITTAL WORKSsheet"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/29/2023 INTERFILE TRANSMITAL WORKSHEET DATE: 12/9/99 TO: NAT. ARCHIVE & REC. ADM. FROM: US INS/RECORDS 200 SPACE CENTER DRIVE 300 N. LOS ANGELES ST. LEE'S SUMMIT, MO 64064-1182 LOS ANGELES, CA 90012 A- FILE NUMBER : A- 121-293-871 ACCESSION NUMBER : 085- 90-0001 FRC LOCATION NUMBER : I0614013 AGENCY BOX NUMBER: 0244 NOTE: When forwarding interfiles to the FRC, arrange interfiles sequentially by FRC Location number and thereunder by agency box number. Remarks: RICARDO LOPEZ"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A41804438",
+	"id": "A41804438_0089",
+	"page_index": 89,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41804438_0089/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/27/2023, 1Re"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Pakistan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1927]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/27/2023 1Re SINDIAGE ECO RCR 750 RRL GRId NERUPEE HR-1 ONERUPE® E 12/ 4. That the names of the mother and father of Major Dr. Dhian Singh are Mrs. Budhi and Sardar Bheja Singh. 5. That Mrs. Sant Kaur was married to Major Dr. Dhian Singh on 27th July, 1927 at village Chauntra District Cambellpur ( now in Pakistan) according to Sikh rites. 16.42/D185 Kartar sigh contd 31.8.85 STATES S District Agra SECURITY ART NOT"
+}

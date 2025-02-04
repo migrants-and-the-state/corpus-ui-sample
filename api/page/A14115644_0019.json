@@ -1,0 +1,25 @@
+{
+	"anumber": "A14115644",
+	"id": "A14115644_0019",
+	"page_index": 19,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14115644_0019/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Application or Petition Form No. I-90, United States Department of Justice Immigration and Naturalization Service Processing Sheet"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/29/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet Application or Petition Form No. I-90 File No. unknown DATA COLLECTION FOR ALIEN DOCUMENTATION, IDENTIFICATION & TELECOMMUNICATION SYSTEM (ADIT) Please print or type information requested below: COMPLETE NAME CORRALES - MESA, Luis COMPLETE MAILING ADDRESS 4830 whittier Blvd Los Angeles, CA 90022 MOTHER'S FIRST NAME AngelA MESA FATHER'S FIRST NAME Luis CORRAles CITY/TOWN/VILLAGE OF BIRTH chiHva HUA - MEXiCO CITY OF RESIDENCE WHEN APPLYING FOR A VISA OR IMMIGRANT STATUS JIMENEZ CHIH, MEXICO CITY OF DESTINATION AT TIME OF ORIGINAL ADMISSION E/ PASO tEXAS LOCATION OF CONSULATE WHERE IMMIGRANT CIUDAD JUAREZ, MEX VISA OBTAINED (OR IMMIGRATION OFFICE WHERE ADJUSTED) Et PASO- teAs DATE OF BIRTH 01-11-07 PORT OF ENTRY WHEN ADMITTED AS IMMIGRANT OR OFFICE WHERE ADJUSTED TO LAWFUL PERMANENT RESIDENT E/ PASO - tEXAS SYMBOL ADMITTED UNDER (CLASSIFICATION) DATE ADMITTED OR ADJUSTED TO LAWFUL PERMANENT RESIDENT 12-20-19 This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which may facilitate processing. Keep this sheet on top of all material in file until initial decision is made Form I-468 (ADIT) (Rev. 11-1-70)"
+}

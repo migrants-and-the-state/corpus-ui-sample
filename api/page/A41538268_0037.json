@@ -1,0 +1,19 @@
+{
+	"anumber": "A41538268",
+	"id": "A41538268_0037",
+	"page_index": 37,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41538268_0037/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Virology Report, NARA-01234657"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Telegrams NG' Telephone : 476893 LAB : 479487 LADY WILLINGDON NURSING HOME 21, Pycrofts Garden Road, Madras-600 006. CLINICAL LABORATORY Pathologist : Dr. SOURI SRINIVASAN. M.B., B.S., D.C.P. (Vienna), VIROLOGY Patient's Name Mr. Raman lal Amrit lal Kandakia. Referred by Dr Sripathy Rao. Passport No C..176640 Address Specimen Blood : HTLV III ANTIBODY Ne gat ive. She Pathologist Signature of Lab. Staff Date 2/18/90"
+}

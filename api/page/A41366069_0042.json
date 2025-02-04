@@ -1,0 +1,25 @@
+{
+	"anumber": "A41366069",
+	"id": "A41366069_0042",
+	"page_index": 42,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41366069_0042/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "The Chase Manhattan Bank, N.A., Screened by NARA, 8/17/2023"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988, 2023, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 The Chase Manhattan Bank, N.A. 1 Chase Manhattan Plaza New York, New York 10081 CHASE April 29, 1988 Consul General office of Consulate General of the United States. New Delhi, India. Re: Jagdish S. Sra Jasdeep Bhatia A/C# 998-467047 To Whom It May Concern: The above depositor has requested that we supply you with the following information. Jagdish S. Sra, and Jasdeep Bhatia has maintained a Chase Money Market savings account since April 1986. The balance of this account is $10,194.89. Both Jagdish S. Sra, and Jasdeep Bhatia has always handled their account in a very satisfactory manner. We trust that the above information is satisfactory. Sincerely, Davil Daniel A. G guffy Juffey Second Vice President Plaza Banking office DAJ/rd"
+}

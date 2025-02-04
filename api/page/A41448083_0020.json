@@ -1,0 +1,22 @@
+{
+	"anumber": "A41448083",
+	"id": "A41448083_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41448083_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1991]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/10/2023 to place a bond, if necessary, with the United States Immigration authorities to guarantee that such prospective immigrants will not become a public charge during their stay in the United States. THAT I have previously submitted Affidavit of Support in behalf of NONE I am conscious of the responsibility assumed by this Affidavit of Support and well able and willing to undertake it. Salvador Zelaya Garcia OFFICIAL SEAL Subscribed and sworn to before me ENRIQUE HUIDOBRO NOTARY PUBLIC CALIFORNIA this 29th. day of March 19 88 PRINCIPAL OFFICE IN LOS ANGELES COUNTY Engine Hereble My Commission Expires Jan. 7, 1991 Notary Public in and for said County and State."
+}

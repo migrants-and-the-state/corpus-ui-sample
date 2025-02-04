@@ -1,0 +1,22 @@
+{
+	"anumber": "A40257572",
+	"id": "A40257572_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40257572_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "First Interstate Bank of California Employee Information Systems Letter"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/4/2023 First Interstate Bank I First of California 1200 West 7th Street Interstate Los Angeles, CA 90017 Bank DATE: September 25, 1986 TO: American Institute Tiawan RE: Helen Chin-Fang Chi In response to your request, we are pleased to submit the following information: Dates of Employment: 4-30-81 to present Current/Last Position: Signature Verification Clerk Current/Last Salary: $1068.00 per month Sincerely, Beth a Spusiel Beth A. Sprinkel, Personnel Officer Employee Information Systems 551497994 14403"
+}

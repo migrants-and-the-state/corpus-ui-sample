@@ -1,0 +1,25 @@
+{
+	"anumber": "A41804438",
+	"id": "A41804438_0083",
+	"page_index": 83,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41804438_0083/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "AFFIDAVIT"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Pakistan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1909]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/27/2023 5RS PINDIAS UTT and STORT GORT and FIVE RUPEES FIVE RUPEES _A_FF_I_DA_VIT_ I,Mrs.sant Kaur Uppal w/o Major (Dr.) Dhian Singh Uppal r/o 9,General Carriappa Road, Agra hereby solemnly declare and affirm as under:- 1. That the date of birth of the deponent is 10.1.1909 Tenth.January, One thousand nine hundred and nine). Place of birth- Kohat (N.W.F.P.) Pakistan 2. That Mr Joginder Singh Uppal resident of 815,Kenwood Burbank, California (U.S.A.) is my son. 3 That I am married only to Major (Dr.) Dhian Singh Uppal 00 M.B.E. (Retd.A.M.C.) who is father of Joginder Singh Uppal. Deponent ( Mrs. Sant Kaur Uppal ) No. 07/5/82 9, General Carriappa Road, Agra-282001. Verification swom before Verified that the contents of above affidavit are true me to best of my knowledge and no part of it is false and nothing is concealed. D MOHAN Verified at Agra on 8.4.82 S.TRI x Deponent om mober"
+}

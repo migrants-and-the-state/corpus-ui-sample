@@ -1,0 +1,25 @@
+{
+	"anumber": "A44154337",
+	"id": "A44154337_0068",
+	"page_index": 68,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44154337_0068/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ecord of IBIS Query ( (ROIQ)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2005, 2002, 2023, 2003]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 ecord of IBIS Query (ROIQ) A-Number or Receipt Number: Form Type: 044 154 337 SSC 473034 N400 Batch NAME (person/business) DOB Number/Date IBIS OK IBIS DNR IBIS Ref. No. CATEGORY Vyas, Chhaganlal / 2/6/06 Dec 04 2003 M F 581 A P B D 2nd Check SEP 30 2005 Resolution Memorandum completed 3rd Check 10/31/05 & CATEGORY M F A P B D 2nd Check Resolution Memorandum completed 3rd Check CATEGORY M F A P B D 2nd Check Resolution Memorandum completed 3rd Check CATEGORY M F A P B D 2nd Check Resolution Memorandum completed 3rd Check CATEGORY M F A P B D 2nd Check A-Applicant P-Petitioner M-Male IBIS OK-No match for search criteria listed B-Beneficiary D-Derivative/ F-Female IBIS DNR-Match exists but does not relate to queried subject IBIS REF-Case referred for resolution of positive result(s) Appendix P : Immigration and Naturalization Service IBIS SOP November 21, 2002 Page 1"
+}

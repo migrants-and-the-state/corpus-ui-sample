@@ -1,0 +1,25 @@
+{
+	"anumber": "A17210305",
+	"id": "A17210305_0045",
+	"page_index": 45,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17210305_0045/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, Form 16-232"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1952, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/11/2023 Form 16-232 8-7-1946 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service Los Angeles 13, California File No: 1600-101324 BP R Date: April 18, 1952 Name of Alien Michael osefi Application: Cancellation of Bond A bond in the sum of $ 500. was filed in this case on Jan. 28, 1952 by Joy Lacks . The conditions of the bond have been fulfilled and the obligation is subject to cancellation for the reason checked below: X (a) The alien departed, or was deported, from the United States. (b) The warrant for the arrest or deportation of the alien has been cancelled. (c) The alien complied with an order suspending his deportation. (d) The alien died. (e) The alien was imprisoned. (f) The alien was naturalized as a citizen of the United States. (g) A new bond was furnished to take the place of the existing bond. (h) ORDER: It is ordered that the bond be cancelled. H.R. Sandon H. R. LANDON District Director"
+}

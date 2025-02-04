@@ -1,0 +1,25 @@
+{
+	"anumber": "A26271163",
+	"id": "A26271163_0062",
+	"page_index": 62,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26271163_0062/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Naturalization Test, M-1000S"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 Form M-1000S USCIS Naturalization Test Department of Homeland Security U.S. Citizenship and Immigration Services 65/20 Special Consideration Test-1 A-Number: A2627116 3 Date: 6-22-11 U.S. NATURALIZATION TEST U.S. History and Government (Civics) 65/20 Applicant Test Form 1 FOR OFFICIAL USE ONLY The USCIS Officer will read a civics item orally to the applicant and the applicant will respond orally. The USCIS Officer will write the applicant's answer in the space provided. If an interpreter is used because the applicant qualifies for an exemption from the English requirements, the USCIS Officer will write the applicant's response as stated by the interpreter in the space provided below. Civics Items Correct Incorrect 1. What is the capital of the United States? Answer: GEORGE WASHINGTON 2. When is the last day you can send in federal income tax forms? Answer: DECEMBER *3. Who was the first President? Answer: GEORGE WASHINGTON *4. What is the capital of your state? Answer: \"NEW YORA\" *5. When do we celebrate Independence Day? Answer: 14 JULY *6. What is the name of the President of the United States now? Answer: OSMA OSMAN **7. Name one war fought by the United States in the 1900s. Answer: NO ANSWER 8. What is the economic system in the United States? Answer: GOOD 9. What was one important thing that Abraham Lincoln did? Answer: LIBERTY OF THE COUNTRY ** 10. What is one responsibility that is only for United States citizens? Answer: NO ANSWER Total correct answers: \\ Interpreter Used: No Result: Pass Fail Yes (Language: Seanish ) Form M-1000SC (10/11/10)"
+}

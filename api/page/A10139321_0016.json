@@ -1,0 +1,22 @@
+{
+	"anumber": "A10139321",
+	"id": "A10139321_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10139321_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Department of Education"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1956]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Department of Eduration City of New Hauen 200 ORANGE STREET NEW HAVEN 10, CONNECTICUT July 11, 1956 Mrs. Julius Friedlander 35 Eckert Avenue Newark 12, New Jersey Dear Mrs. Friedlander: Answering your letter of June 28, search has been made for such records we could locate of the several schools you may have attended while residing on Congress Avenue and other streets but without any success in finding one Annie Wiener or Weiner. We hoped that through elimination of one school after another we might find you registered. We cannot do any further searching unless we are given the name of a school, the year you entered, your date of birth and age when you entered. The only other suggestion we can make is that you try the Bureau of Census, Washington, D.C., using the enclosed form. Through it you may secure such information which will be helpful to you for the purpose intended. Yours very truly, Carl W. . Johnson Enumeration Department CWJ:mm"
+}

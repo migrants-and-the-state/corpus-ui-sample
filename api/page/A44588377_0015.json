@@ -1,0 +1,25 @@
+{
+	"anumber": "A44588377",
+	"id": "A44588377_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44588377_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "TEST DE GROSSESSE, 4107039 3 BESSOSS"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Haiti"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/2/2023 13 POPITAL ADVENTISTE Diquini 63 Tél.: 34-0521 Boite Postale 2355 Port-au-Prince Haiti TEST DE GROSSESSE De TBS Rogles Date Si moins de six semaines le test peut donner Résultat Négatif. TEST NORMAL RÉSULTAT Densité 1.015 Protéine Négatif Lame Test (2 min.) Tube Test (2 hres.) *Densité (1.015 ou présence de Proteins peut donner Résultat Invalide. SÉROLOGIE TEST NORMAL RÉSULTAT Agglutinina à froid 0-1:20 ASO Titro 0-166 TU Fébrile Agglutination Widal Typhoïde o (1:80 Typholde H (1:80 Para A (1:80 Para B (1:80 Brucella (1:160 Proteus . Ox2 Proteus - Ox19 (1:160 Proteus - OxK Mononucleose Test Rheumatoid Factor RPR (Syphilis) Nov Reactive Autres Fiche préparée Test demandé par par city M.D Date Spécimen collecté Haure AM P.M. par AM Urgent Date Hre. P.M. Commentaire Aujourd'hui A.M. Date future Hrs. P.M. Résultat complété par need Pré-opératoire 25-3-94 Heure AM. P.M. 1203 GROSSESSE ET SÉROLOGIE"
+}

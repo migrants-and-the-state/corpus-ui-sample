@@ -1,0 +1,22 @@
+{
+	"anumber": "A43273551",
+	"id": "A43273551_0036",
+	"page_index": 36,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43273551_0036/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "OPthalmic Report"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/13/2023 Dr. Pra V. Choksey, MBBS., D.O.M.S., M.S. (OPHTH.) P.O. Box 32633 Nairobi CONSULTA OPHTHALMOLOGIST Roc 1, 1st Floor Tel: 751453, Doctor's Plaza, Aga Khan Hospital 740000 Ext. 469 OPHTHALMIC REPORT Ref: Mr. Warsame Ali Godone The above named had an ophthalmic examination done on 4/5/93. He came with the history of gradual diminution of vision both eyes since 1 year. There was no pain. On examination the visual acuity in both eyes was only perception of light with good projection in all quaderants. He had mature cataracts both eyes. No fundal glow was seen in either eye. He is advised cataract surgery both eyes as soon as possible. Pchoksey Dr. (Mrs) P. Choksey. Dr. Probhe MBRS CONSULT P.O KAIRO"
+}

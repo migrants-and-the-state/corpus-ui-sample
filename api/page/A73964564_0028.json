@@ -1,0 +1,28 @@
+{
+	"anumber": "A73964564",
+	"id": "A73964564_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A73964564_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Fee Waiver Request, N-400 Unit"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2000, 2001, 1991]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "FEE WAIVER REQUEST December 17, 2001 To: US Departmental Justice Immigration and Naturalization Service USINS California Service Center Attention N-400 Unit New with P.O. Box 10400 6 Laguna Miguel, California 92607-0400 From: Josefa Matilde Romano Below is the information and attached is the supporting documentation for consideration of my inability to pay. I am 89 years old women, disable and partially blind. I do not have and never had any kind of income. Currently, I am living at the Empress Convalescent Hospital in San Jose, California since April 2000. I never worked in the United States due to my illness. My daughter had provided me with a roof, food and clothes expenses for the past eight and half years that I lived with her. (A letter of my daughter is attached) I do not owe, posses and control any kind of assets. Medical since 1991 and Medicare 2000 had paid my medical bills. (Letter from social worker is attached. A copy of the Medicare card is also attached. ) Evidence of my disability is attached (letter from my doctor) I never received any kind of supplemental social security nor welfare. I do not owe a bank account. With the above information, please consider my inability to pay the required fee. My dream is to become an American Citizen before I died. I declare under penalty of perjury this information is true and correct. Thank you for your consideration in this matter, Regards, Mathdaroman RESPONSE to this Derial letter"
+}

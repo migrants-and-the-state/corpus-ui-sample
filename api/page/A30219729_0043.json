@@ -1,0 +1,25 @@
+{
+	"anumber": "A30219729",
+	"id": "A30219729_0043",
+	"page_index": 43,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30219729_0043/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Interview with a Jose Maria Alvarez Carrillo, -3-"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1937]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Q. With whom do you live at that address? A. My husband. He is here with me and so is my sister. Q. What is your husband's name and what type of passport does he have? A. Jose Maria Alvarez Carrillo and he has a residence passport. Q. Where does your husband work? A. He is not working now. I told you yesterday he does not have a permanent job. He sometimes goes to California and works there. Q. When was the last time your husband worked anywhere in the United States? A. I don't remember. He was working in the onion harvestawhile back. Q. How long has it been since he worked last in the United States? A. About two weeks ago. Q. Did your husband work daily in El Paso for a period of time? A. Yes. Q. What is the longest period of time your husband has been without work during the past several years? A. He was working for Diggiorgo Farms. Q. When did your husband return from California? A. About three months ago. Q. How long did he work in California? A. Four or five months. Q. Did he work for the Diggiorgo farms all of the four or five months he was in California? A. Yes. Q. Does he expe ct to return to California to work for the Diggiorgo Farms? A. Yes. Q. When? A. He is outside, he can tell you. Q. Do you and your husband own your home in Juarez? A. Yes. Q. How long have you and your husband owned your home in Juarez? A. Since 1937. S L -3-"
+}

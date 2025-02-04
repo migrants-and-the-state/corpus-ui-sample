@@ -1,0 +1,22 @@
+{
+	"anumber": "A31236818",
+	"id": "A31236818_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A31236818_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ENTERPRISE SAVINGS AND LOAN ASSOCIATION, FOIA ( (b)(6)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1970, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/10/2023 G ENTERPRISE SAVINGS AND LOAN ASSOCIATION 1910 WEST ROSECRANS AVENUE COMPTON, CALIFORNIA NE WMARK 8-6126* NE VADA 6-2451 May 1, 1970 American Council of Immigration Gentlemen: FOIA (b)(6) RE: Savings Account FOIA (b)(6) We wish to confirm savings account under the name of FOIA (b)(6) established FOIA (b)(6) Account number as referenced above balance of account is FOIA (b)(6) If you need any further information please contact us. Very touly yours, Merca Hearly Mercedes Hornsby, Vice President MH/nic"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0187",
+	"page_index": 187,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0187/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 9/18/2023, A10 294 862 DDP"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1957]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 A10 294 862 DDP November 18, 1957 Commander Patrick W. Stone British Visa Office 630 Fifth Avenue New York, New York Re: MAR DOO, aka MAR AU SANG Dear Sir: Reference is made to your letter of November 1, 1957, relating to the above named subject. It was the intention of this office to request transit facilities through Hong Kong to China. In this connection there are transmitted herewith, Certificate of Identity, in duplicate, fingerprint chart, copy of Warrant of Deportation., and duplicate form for entry into or transit through Hong Kong. Please be informed that should the subject be refused permission by the Chinese Communist regime to enter China, the Immigration and Naturalization Service will assume responsibility for the re- turn of the individual and acceptance in the United States for his transportation, or for the transportation to any other country will- ing to accept him. Your cooperation in this matter will be appreciated. Very truly yours, MURRAY BORISKIN Acting District Director enclosures AMPr 1V vil 3"
+}

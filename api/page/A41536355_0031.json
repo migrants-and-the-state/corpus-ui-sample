@@ -1,0 +1,25 @@
+{
+	"anumber": "A41536355",
+	"id": "A41536355_0031",
+	"page_index": 31,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41536355_0031/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEatH CERTIFICATE, M-1902/7"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/25/2023 ORIGINAL M-19027/2 DEATH CERTIFICATE -20/21/11 (Birth & Death Registration Act 1959, Section 12/17) QUJARAT GOVERN MENT Form No.10 /Hr PUBLIC HEALTH DEPARTMENT The certification at is hereby islud that the following information has been taken from its original record of death which is in the registor of Tobada Ganderi Taluka, Valsad District of state 1. Name : LILAVATI 2. Sex:- (mgdalFemale) FEMALE CHIMAD AL MAPARA 3 Date of Death :- 13-8-84 Registration No.:- 11 5. Place of Death:- DR. R.C. 6. Date of Registra tion: 29-8-84 MAPARA HOSPITAL SEEDERS T5. INTRA 7. Father's Name - - 8. Mother's Name: - 9. Huaband's Name: CHIMANLAL 10. Deceased's Addr 44:DRA IRA VITHALDAS MAPARA HOSPITAL FEEDER RID BILIMIRA Note Details as admitted withe Register about the canda Hall not [Siction 17(1)4 Date 29-8.84 W a with THEATI BILIMURN TH GANDEVI"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A17984698",
+	"id": "A17984698_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17984698_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ALLEGATIONS ( (Continuation Sheet), A17 984 698 WONG, Ramon Fong Song"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1968]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/21/2023 ALLEGATIONS A17 984 698 (Continuation Sheet) WONG, Ramon Fong Song 4. You were admitted as an immigrant upon presentation of an immigrant visa issued to you by a consular officer of the United States at Tijuana, Baja California, Mexico, on March 25, 1968, as a sixth preference immigrant on the basis of a petition filed in your behalf by Mr. Tong-Hay Loo of 452 Main Street, E1 Centro, California; 5. Since your entry at Calexico, California, on April 2, 1968, you have not been employed by Mr. Tong-Hay Loo as a Chinese cook; 6. In May or June of 1968, you were employed as a cooks helper in the Far East Terrace restaurant located at 4123 Lankershim Boulevard, Los Angeles, without having secured a labor certification for such employment; 7. At the time of your application for the visa and at the time of your admission to the United States, you did not intend in good faith to accept employment with Mr. Loo in the Holly Cafe in E1 Centro, California."
+}

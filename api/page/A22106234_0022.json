@@ -1,0 +1,25 @@
+{
+	"anumber": "A22106234",
+	"id": "A22106234_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22106234_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/31/2023, I-94"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1910, 2023, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/31/2023 Family Name (Capital Letters) MASTH SHRITA ZAHOOR 14.200 First Name Middle Initial Country of Citizenship Passport or Alien Registration Number Permit Number INDIA J598319 038 35 42 * % United DR. States Address MASCH, (Number, 8 Street, BURNING City State) TREE Rd N/40 BOSTON and MASS Airline and Flight No. or Vessel of Arrival * * Passenger Boarded at AI 107 Aie INDIA MADRAS Number, Street, City, Province (State) and Country of Permanent Residence U. JYOTIPUR KENDRA Rd, DIST BILAS S. IMM P Month, Day and Year of Birth New YORK, IMMIGRATION N. Y. 908 FEB 8th 1910 :, City, Province (State) and Country of Birth BISHRAMPUR INDIA DRIVER Visa Issued at (If no visa, insert ticket number) MADRAS STAPLE July17996 UNTU Month, Day and Year Visa Issued FORM HERE FEB 26th 1976 1-94"
+}

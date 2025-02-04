@@ -1,0 +1,22 @@
+{
+	"anumber": "A41804438",
+	"id": "A41804438_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41804438_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Immigrant Petition for Relative, I1300"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/27/2023 I1300 FOIA (b)(6) IMMIGRANT PETITION FOR RELATIVE LIN-93-022-51302 UPPAL, JOGINDER SINGH FOIA (b)(6) November 2, 1992 1 of 1 UPPAL, DHIAN SINGH JOGINDER S. UPPAL 210 CIR AVE #201 FOREST PARK IL 60130 Receipt Notice Amount received: $75.00 None Your application or petition has been received. It usually takes 30 to 60 days from the date of this receipt notice for us to process this type of application or petition. We will send you written notification as soon as a decision is made."
+}

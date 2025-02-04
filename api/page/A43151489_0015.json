@@ -1,0 +1,25 @@
+{
+	"anumber": "A43151489",
+	"id": "A43151489_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43151489_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF BIRTH AND PARENTAGE, NARA-1023465789"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988, 2023, 1934]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/15/2023 CERTIFICATE OF BIRTH AND PARENTAGE This is to certify that Anand Prakash was born of Kasturi Devi (mother) and Kanwal Singh ( father) on January, 15,1934 in our village, Sonta, District Muzaffarnagar, U.P. India. Mrs. Kasturi Devi is the wife of late Shri Kanwal Singh of this village. They have never been divorced or remarried. Mrs. Kasturi Devi and Anand Prakash are real mother and son. min SCRIE INDRA SINGH (STORT to and L PRESIDENT VILLAGE COUNCIL SONTA KAIRANA MUZFFAR NAGAR) I certify that the above Certificate of Birth and Parentage is correct and true. Date: February 12, 1988 Anand Prahash Anand Prakash State of Colorado ) SS County of Jefferson) Sworn and subscribed to before me this 12th day of February, 1988 that the above signature of Anand Prakash is true and correct. Debra Notary J. Blunt Public My commission expires: 2/7/91 1626 Cole Boulevard Golden, Colorado 80401, U.S.A."
+}

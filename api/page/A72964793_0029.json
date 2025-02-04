@@ -1,0 +1,22 @@
+{
+	"anumber": "A72964793",
+	"id": "A72964793_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A72964793_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, A72 964 793"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1993, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/7/2023 U.S. Departr nt of Justice Immigration and Naturalization Service District Director Appraisers Building 630 Sansome Street San Francisco, CA. 94111 To: Memo to A-File June 14, 1993 Re: A72 964 793 Inquiry was made on subject on June 14, 1993 regarding the issuance of alien registration card. Supervisor Charlene at immigration card facility instructed this unit to mail in copy 2 of I-181 so that alien information be keyed into the system. Copy three of I-181 with the I-89 should be mailed in 4 to 6 weeks after copy 2 for production of I-551. Since copy 2 of I-181 is not locateable, copy of copy 2 will be mailed in instead. Copy 3 with I-89 will follow in about 4 to 6 weeks."
+}

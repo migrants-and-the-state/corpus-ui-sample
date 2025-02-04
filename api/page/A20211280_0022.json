@@ -1,0 +1,22 @@
+{
+	"anumber": "A20211280",
+	"id": "A20211280_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20211280_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Bank of America National Bankers Association, Screened by NARA, 7/24023"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1977, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 Cable Address - BANKAMERICA Bank of America NATIONAL DAVIDANE ASSOCIATION MAGNOLIA-TYLER BRANCH . 3887 TYLER STREET RIVERSIDE, CALIFORNIA 92503 February 24, 1977 Mr. J. C. H. Cheng 1405 Rosehill Drive Riverside, Ca. 92507 Dear Mr. J. C. H. Cheng: This is to acknowledge that the balance in your savings account No. 06762-80184 carried at this bank is $10,881.33. Sincerely, M. Ardis Authorized Officer"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A10534406",
+	"id": "A10534406_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10534406_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States of America Non Resident Alien's Border Crossing Identification Card, 697954"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1957]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "UNITED STATES OF AMERICA NON RESIDENT ALIEN'S BORDER CROSSING IDENTIFICATION CARD LDONADO - Maldonado, RUBEN 1 sn ADDR No Cerveceria 1208, Juarez TIME Or ISSUE mexo DATE OF BIRTH 6/28/15 PLACE OF BIRTH Publito de Allende, Mex SEX fem NATIONALITY mex. HEIGHT: FT. 5 IN. 5 WEIGHT 150 LBS. COMP. m/drk HAIR blk EYES brn VISIBLE MARKS OR PECULIARITIES sm. scar under 1/cr. mouth - ACCOMPANIED BY: none VALID FOR ENTRY NOT TO EXCEED 24 HRS. DAYS: CARD VALID TO VALID FOR TRAVEL ONLY TO: el PASO, TEXAS REVALIDATED IMMIGRATION OFFICER AT the TO 22 1957 AT IMMIGRATION OFFICER NOT VALID TO WORK IN U.B No. 697954 No. 697954"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A10534406",
+	"id": "A10534406_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10534406_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Leo's Finer Foods, 1901 Yandell Blvd."
+		},
+		"years": {
+			"ms_years_nlp_v1": [1955]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "LOO'S F ! FOODS 1901 Yandell Blvd. El Paso, Texas 2-19-55 TO WHOM IT MAY CONCERN: This is to certify that the beare Ma. de Jesus Elizalde is employed by us as a server at a salary of $29.00 per week. She has been employed by us for the past 21/2 years and she has proven to be an honest and dependable person, and any favors shown her will be greatly appreciated. Yours Truly Trued Temager Fred Terrazas Leo's Finer Foods El Paso, Texas SUBSCRIBED AND SWORN, to before me, this the 19th. day of February 1955. NOTARY PUBLIC, in and for the State of Texas, County of EL Paso."
+}

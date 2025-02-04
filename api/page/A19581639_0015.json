@@ -1,0 +1,22 @@
+{
+	"anumber": "A19581639",
+	"id": "A19581639_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19581639_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/13/2023, Sac 76/1.2"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1980, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 SAC 76/1.2 650 Capitol Mall, Room 1-060 Sacramento, California 95814 January 21, 1980 Dear Mr. Matsui: Reference is made to your letter of January 17, 1980 regarding Mrs. Dhankuvar Gatha. Records of this office reveal that Mrs. Gatha's stay as a visitor was extended to February 2, 1980. We have no record of her having applied for an extension of stay beyond that date. It may be that she has done so at another office. Should she submit another application to this office, it will of course be given every consideration. Sincerely, Thomas W. Laughlin Officer in Charge Honorable Robert T. Matsui Member of Congress 650 Capitol Mall, Room 8058 Sacramento, California 95814 cc: CO, Congressional Mail Unit SFR, Congressional File SAC, Alpha"
+}

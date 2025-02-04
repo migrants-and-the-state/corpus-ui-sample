@@ -1,0 +1,19 @@
+{
+	"anumber": "A42994404",
+	"id": "A42994404_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42994404_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA 9/27/2023 The Aga Khan University Hospital, Karachi. Stadium Road, P.O. Box 3500, Karachi-74800, Pakistan Cable: Akaproject. Telex: 23667 AKHMC PK Telephone 420051 RADIOLOGY REPORT MR # 14-83-36 DOB: 08/10/02 M NAME: TAPAL, NOORDIN MOOSAJI EXAM DATE: 28/09/91 LOCATION: OSR DOCTOR: S.M. HOSAIN EXAM: STD-CHEST ROUTINE PASSPORT NO. G 096695 The heart is not enlarged. The lungs are clear of disease. The thoracic cage is intact. IMPRESSION Normal heart and lungs. 29/09/91 DR. SHABBIR A. NAEEM PHAS RADIOLOGIST Examination Date Reported Date Examined STD-CHEST ROUTINE 29/09/91 28/09/91 COMPUTER REPORT"
+}

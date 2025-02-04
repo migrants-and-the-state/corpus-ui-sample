@@ -1,0 +1,25 @@
+{
+	"anumber": "A46187299",
+	"id": "A46187299_0053",
+	"page_index": 53,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A46187299_0053/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Human Immune Deficiency Virus Antibody Test ( (AIDS Test), P. 6702"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Pakistan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 P.6707 Patient's Name mrAbdal Manarikhain ARMED FORCES INSTITUTE OF PATHOLOGY M RAWALPINDI, PAKISTAN Sex Age Physician/Surgeon Drahmed RajaJan. Telephone VIR DEPTT. : 561/30678 : 561/34777 Clinical Diagnosis Azig Nursing Home Date 21-10-97 Nature of Specimen Blood. HUMAN IMMUNE DEFICIENCY VIRUS ANTIBODY TEST (AIDS TEST) Anti HIV Antibodies : NEGATIVE (By Genelavia Mixt, Sanofi Pasteurs ELISA) OPINION:- No evidence of HIV infection is found by the method used. Major . 2 - & Nursing Saidpur Road 10 For Com Rewalain TAGHA BABUR HUSSA Major General Commandant MUHAMMAD MUZAFFAR"
+}

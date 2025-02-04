@@ -1,0 +1,22 @@
+{
+	"anumber": "A41623672",
+	"id": "A41623672_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41623672_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Immigration and Naturalization Service FBI Tracking System, FDXFBD"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1999]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/5/2023 FDXFBID IMMIGRATION AND NATURALIZATION SERVICE 1/14/1999 FBI TRACKING SYSTEM 17:22:19 SEARCH CRITERIA ANUM = 041623672 A-NUMBER: 041623672 LAST NAME: SANTOS V DE CUBIAS CIDN: A41623672 FIRST NAME: OLAYA MERCE ORI: CAINSLA00 BIRTH DATE: 00/00/00 FBI STATUS: N PCN: 961355848901 NACS FLAG: RECEIVE DATE: 05/14/96 PROCESS DATE: 00/00/00 INS LOAD DATE: 12/03/96 CONTROL NUMBER: SA3501N PF1 PF2 PF6 PF8 PAGE FORWARD PAGE BACKWARD PRIOR SCREEN LOGOFF 1st waived"
+}

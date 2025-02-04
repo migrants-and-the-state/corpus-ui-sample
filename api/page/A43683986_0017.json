@@ -1,0 +1,22 @@
+{
+	"anumber": "A43683986",
+	"id": "A43683986_0017",
+	"page_index": 17,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43683986_0017/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "pioneer announcements, inc., PRES"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/21/2023 pioneer announcements, inc. p.o. box 904 miami, fl. 33137-0904 (305) 573-7000 6/3/93 DEAR U.S. CONSULATE PORT-AU-PRINCE: To whom it may concern: This is to certify that, Mr. Pierre Toly Alfred has been employed with us since the month of November, 1989. He is as reliable as responsible a worker in the line of his duty. He will be with the company as long as he wanted. For any futher information Please call us on (305) 573-7000 Sincerely yours SCHENKER Name: LEONARD PRES Title"
+}

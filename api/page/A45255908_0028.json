@@ -1,0 +1,16 @@
+{
+	"anumber": "A45255908",
+	"id": "A45255908_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A45255908_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/15/2023 NCIC NAMECHECK Response for the following: NWD956040020 Printed: 4/19/95 CASE NAME LAW ENFORCEMENT Name Submitted Name Returned SENSITIVE DOB Sex SWARUP, MAHESH 3/6/07 M SWARUP, MAHESH 3/6/07 M Sent: 4/18/95 19:11 QH REJECT QH.NAM/SWARUP, MAHESH.SEX/M.D0B/030607.RAC/U.PURN FOR THE FOLLOWING REASON(S) FIELD ERROR DOB END SAXENA, MAHESH SWARUP 3/6/07 M SAXENA, MAHESH SWARUP 3/6/07 M Sent: 4/18/95 19:11 QH REJECT QH.NAM/SAXENA, MAHESH SWARUP.SEX/M.D0B/030607.RAC/U.PURN FOR THE FOLLOWING REASON(S) FIELD ERROR DOB END NO NAME CHECK REQUIRED OVER 80 YRS OLD Page: 197"
+}

@@ -1,0 +1,42 @@
+{
+	"anumber": "A41624049",
+	"id": "A41624049_0025",
+	"page_index": 25,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41624049_0025/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Naturalization Certificate, Form N-550 Rev. 6-91"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "El Salvador"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 2023, 1999]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "N.A"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "MARRIED"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1999.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "POMONA, CA"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "Screened by NARA, 6/2/2023 No. 24836410 Personal description of holder INS RegistrationNo. 4 41 624 049 as of date of naturalization: I certify that the description given is true, and that the photograph affixced Date of birth: MARCH 4, 1914 hereto is a likeness of me. Sex: MALE Height: 5 feel 0 inches Complete and true signature of holder) Marital status: MARRIED Be it known that, pursuant to an application filed with the Attorney General Country of former nationality: at: LOS ANGELES, CA EL SALVADOR The Attorney General having found that: ADRIAN HERRERA-PEREZ then residing in the United States, intends to reside in the United States when so required by the Naturalization Laws of the United States, and had in all other respects complied with the applicable provisions of such naturalization laws and was entitled to be admitted to citizenship, such person having taken the oath of allegiance in a ceremony conducted by the U.S. DISTRICT COURT FOR THE CENTRAL DIST. OF CALIFORNIA at: POMONA, CA on: AUGUST 19, 1999 that such person is admitted as a citizen of the United States of America. IT IS PUNISHABLE BY U. S. LAW TO COPY. PRINT OR PHOTOGRAPH THIS CERTIFICATE Daris missioner WITHOUT LAWFUL AUTHORITY. Commissioner of Immigration and Naturalization FORM N-550 REV. 6-91"
+}

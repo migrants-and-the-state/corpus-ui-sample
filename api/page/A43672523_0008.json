@@ -1,0 +1,25 @@
+{
+	"anumber": "A43672523",
+	"id": "A43672523_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43672523_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Relationship Analysis Report"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Haiti"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/27/2023 RH TYPING BALTIMORE RH TYPING LABORATORY 400 WEST FRANKLIN STREET BALTIMORE, MD 21201 (301) 225-9595 1-800-765-5170 FAX# (301) 383-0938 FED ID# 52-0547422 EST. 1945 11-5-91 12.11 RELATIONSHIP ANALYSIS REPORT Page 1 of 2 Dr. Frederick Russo, Ph.D. Port-Au-Prince, Haiti FOR: The USA Consular Office Re: Kinship Evaluation Petitioner: JEUNE, JULIEN (Passport # FOIA (b)(6)) Receipt Number: HA09421-A Phenotypes determined for the persons listed below are recorded on page 2 of this report. The following data were obtained: The following beneficiary(s) were compared to petitioner JEUNE, JULIEN: Beneficiary 1: SALOME, CLOMISE 96.4% HLA Likelihood of relationship Respectfully submitted, Robert E Working Robert E. Wenk, M.D., Medical Director 3/3"
+}

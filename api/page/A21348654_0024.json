@@ -1,0 +1,22 @@
+{
+	"anumber": "A21348654",
+	"id": "A21348654_0024",
+	"page_index": 24,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21348654_0024/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INDEX CARD, G-361 (Rev. 10-1-70) N"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. NGUYEN HUONG THE N250 A21 348 654 Alias P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH SND ₽ 5/10/75 V-2 ?/?/15 VIETNAM Type of Action: REFUGEE PENDLETON UP- T-6 Name of Spons or: Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City Statu, and Zip Lode - 85 - 82 - 0019 FCO SND ₽ Date 5/10/75 FCO Date FCO Date SER 4/13/15 Acession No. Box No. #37 Form G-361 (Rev. 10-1-70) N INDEX CARD Triplicate"
+}

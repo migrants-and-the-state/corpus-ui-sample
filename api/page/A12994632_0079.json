@@ -1,0 +1,22 @@
+{
+	"anumber": "A12994632",
+	"id": "A12994632_0079",
+	"page_index": 79,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12994632_0079/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA 04/18/2023"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Petn Savings Mr. & Mrs. Harry Wong 3030 Ross Road Palo Alto, California American Consul General American Consulate Subject: Wai-Man Chu Hong Kong, B. C. four children 22 Pok Man St., 4th Fl. Honorable Sir: Kowloon, Hong Kong Transmitting here with seven documents in supporting the application of the Wai-Man Chu family in coming to the United States under President Kennedy's recent emergency powers in authorizing admittance of a number of refugees from Communist China. We appreciate your consideration and assistance. We will co-operate with you in every way we can. Thanking you, we are-- Sincerely yours, Harry Harry Wong Way Katherine Katherine C. Wong chu wong"
+}

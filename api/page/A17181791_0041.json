@@ -1,0 +1,25 @@
+{
+	"anumber": "A17181791",
+	"id": "A17181791_0041",
+	"page_index": 41,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17181791_0041/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "RADIOLOGY"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1970, 2023, 2014]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "W. B. HILL. M. D. Screened by NARA, 9/21/2023 D. A. JOHNSON, M. D. HUNTINGTONMEMORAL HOSPITAL J.S. LANCE, M. D. T.G. ALLEN. M. D. RADIOLOGY 100 CONGRESS.STREET J. P. KASSABIAN, M. D. PASADENA, CALIFORNIA 91105 J. HOLT ROSE. JR., M. D. R. S. HARRISON, M. D. NAME & RM. BETTY PEI-ING MAO, OP X-RAY No. 20106 Age: 56 ADDRESS 720 S. San Rafael, Pasadena DATE July 1, 1970 CITY Born: 10-27-2014 A 17 181 791 TC/245 SID DOCTOR: ROBERT MAYLE, M. D. San Pedro EXAMINATION CHEST, single p.a. RADIOGRAPHIC FINDINGS: The heart and other mediastinal structures appear normal. Both lungs are clear. There is no evidence of intrathoracic disease. d J. STANLEY LANCE, M. D. ORIGINAL 20"
+}

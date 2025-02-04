@@ -1,0 +1,25 @@
+{
+	"anumber": "A21556137",
+	"id": "A21556137_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21556137_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA 7/31/2023, A-21 556 137"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) Screened (FIRST) by NARA (MIDDLE) 7/31/2023 SNOX CODE NO. KAMBOJ, Santosh Kumar A-21 556 137 Alias P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH NYC 7/19/75 2-2 11/22/04 INDIA Type of Action: Name of Sponsor : Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, State, and Zip Code) 12950 MacLay Street, Sylmar, CA 91342 FCO Date FCO Date FCO Date LOS 8/20/77h1 Acession No. Box No. CORRECTED Form G-361 (Rev. 4-1-76) N INDEX CARD Triplicate"
+}

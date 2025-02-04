@@ -1,0 +1,22 @@
+{
+	"anumber": "A10534184",
+	"id": "A10534184_0106",
+	"page_index": 106,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10534184_0106/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "A QUÉN CORRESPENDA."
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 1912, 1913]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "A QUIEN CORRRESPONDA. Por medio de la presente se hace constar, que -- en el archivo deeste lugar, no se encuentra el -- acta de nacimeinto del C.Vicente de la Hoya --- REGISTRO DEL no se en encuentra ennlos años de (1912) lim no-- BE LICENSE DEPARTMENT secientos doce, (1913) mil novecientos trece ni-- (1914) mil novecientos caterce, a solicitud del in teresado se expide el presente en Villa Ignacio WILL Ramirez, Dgo. a los quince dias del mes de Junio -- de mil novecientos cincuenta y cinco. Sufragio Efectivo -No Reelección, El Juez de Registro del Estedo civil Capitan Agnacio Genzalez"
+}

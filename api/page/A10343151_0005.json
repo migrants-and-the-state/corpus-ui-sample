@@ -1,0 +1,25 @@
+{
+	"anumber": "A10343151",
+	"id": "A10343151_0005",
+	"page_index": 5,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10343151_0005/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "frau"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Führungszeugnis, Best.-Nr. 606"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1887]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "will auch diese nur in einem durch Gesetz und Verwaltungsvorschriften be- orreil über den Leumund oder über das Allgemeinverhalten des Inhabers. Das Führungs- oumemaßnahmen nach dem Gesetz zur Befreiung von Nationalsoziallsmus und Militarismus keine Auskunft. Führungszeugnis Herrn mg Frau / Fraulein Else 9 Martha, Johann Schäffer Vor- und Familienname, bei Frauen auch Geburtsname gemeldet in Schwäbisch Hall, Adelheidweg 23, Wohnort, Kreis, Straße und Hausnummer geboren am 12.7.1887 in Berlin Kreis wird zum Zwecke der Vorlage bei dem amerikanischen Generalkonsulat in München *) fire *) Anmerkung: Hält sich der Zeugnisinhaber im Ausland auf, oder kann das Zeugnis mangels ausreichender Unterlagen nur für die Zelt des Aufenthalts im Bezlrk der ausstellenden Behörde erteilt werden, so ist hier einzufügen: \"für die Zeit vom bis \" Ort, Datum, Behörde, Unterschrift, Dienstslegel G Formularverlag Wilhelm Gegenbaur Reutlingen Best.-Nr. 606"
+}

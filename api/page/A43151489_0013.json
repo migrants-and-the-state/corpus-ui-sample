@@ -1,0 +1,25 @@
+{
+	"anumber": "A43151489",
+	"id": "A43151489_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43151489_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "AFFIDAVIT, FOIA (b)(6)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1956, 2023, 1940, 1934]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/15/2023 3 AFFIDAVIT This is to certify that I have known Anand Prakash and Kasturi Devi and their family for the past 32 years or so. I was born on January 15, 1940 in village Kudana, U.P., India and married Anand Prakash on March 7, 1956. From my close relationship with the family as wife of Anand Prakash, I know and certify that he is the real son of Mr. Kanwal Singh and Mrs. Kasturi Devi. The only officially admissible records of his birth are his vernacular final, high school, and intermediate school certificates. From these certificates and from my personal knowledge, I certify that he was born in village Sonta, District Muzaffarnagar, U.P., India, his date of birth is January 15, 1934, and Kasturi Devi is his real mother. I am a permanent resident of the United States (FOIA (b)(6)). chandra Kanti Chandra Kanti 8892 W. Progress Place Littleton, Colorado 80123"
+}

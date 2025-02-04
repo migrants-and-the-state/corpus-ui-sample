@@ -1,0 +1,16 @@
+{
+	"anumber": "A20979192",
+	"id": "A20979192_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20979192_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/27/2023 Earnings are credited to the social security record of Bruno 0. Palos, social security number 556-30-4579, for the period January 1, 1951, through December 31, 1971. Year Amount 1951 $ 3,030.00 1952 3,380.00 1953 3,600.00 1954 3,600.00 1955 3,900.00 1956 3,958.80 1957 4,168.00 1958 4,160.00 1959 4,420.00 1960 4,505.00 1961 4,437.00 1962 4,438.00 1963 4,700.00 1964 4,700.00 1965 4,700.00 1966 4,970.00 1967 3,610.00 1968 5,150.00 1969 5,491.00 1970 5,460.00 1971 5,490.00"
+}

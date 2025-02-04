@@ -1,0 +1,22 @@
+{
+	"anumber": "A13580960",
+	"id": "A13580960_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13580960_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 9/18/2023, HH:pl"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1960, 1963]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 COUNTY OF LOS ANGELES ADDRESS REPLY TO: GENERAL HOSPITAL ADMINISTRATIVE OFFICES LOS ANGELES COUNTY GENERAL HOSPITAL ROBERT J. THOMAS DEPARTMENT OF CHARITIES 1200 NORTH STATE STREET ADMINISTRATOR LOS ANGELES 33 WILLIAM A. BARR CALIFORNIA SUPERINTENDENT OF CHARITIES August 8, 1963 TO WHOM IT MAY CONCERN: This is to certify that Elizabeth Hyppolite has been employed by the Los Angeles County General Hospital since September 12, 1960. She is currently employed as an Assistant Head Nurse. Mrs. Hyppolite is earning $516. per month. Very truly yours, For The Administrator ae Horace Hinkston Personnel Officer, Charities HH:pl"
+}

@@ -1,0 +1,28 @@
+{
+	"anumber": "A21293871",
+	"id": "A21293871_0026",
+	"page_index": 26,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21293871_0026/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "City of Glendale Police Department, P 749 ( (12/77)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1978]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/29/2023 S OF OLIVER City of GLENDALE * CALIFORNIA POLICE DEPARTMENT CALIFOR TELEPHONE AND REFERENCE NO. 186 DATE: February 17, 1978 U.S.C.C. Immigration & Naturalization 1400 9th Street Los Angeles, CA NAME: NGUYEN, Tran Bich ADDRESS: 1802 E. Glenoaks #C, Glendale, Calif. 91206 DOB: 10-10-15 SEX: F HEIGHT: 5'0\" WEIGHT: 105 HAIR: black EYES: brown I certify that any criminal offender record information in my name, or absence thereof, is needed to complete an application to enter the United States or a foreign nation. Tran Signature Rich hgugen Feb.21st 1978 Date The criminal offender record information herein stated, If any, is obtained from local police records only and does not certify the criminal records of any other police agency. The information contained herein is accurate as of the date of this letter. Furthermore, this information is being released only for the purpose of assisting the subject of the record In gaining entry into the United States or a foreign nation. On the basis of information furnished, there is no record of arrest on the above named subject in the files of the Glendale Police Department. carrest L Very truly yours, Duane R. Baker Chief of Police P 749 (12/77)"
+}

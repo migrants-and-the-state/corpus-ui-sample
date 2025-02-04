@@ -1,0 +1,19 @@
+{
+	"anumber": "A58718608",
+	"id": "A58718608_0005",
+	"page_index": 5,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A58718608_0005/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "OF SECURITY STORE Immigrant Data Summar (This is not a visa.) STATE OF Date/Time Prepared: 08-JUN-2007 09:35 05/29/07 A-Number: A58718608 Case ID: PTP2005674119 Family Name: DEMELUS First Name: LESPERANCE ALIAS: Gender: MALE Marital Status: MARRIED City and Country of Birth: ST MICHEL DE L ATTALAYE, HA Birth Date: 04-AUG-1913 City and Country of Last Residence: PORT AU PRINCE, HAT Nationality: HAT Mother's First Name: CHRISTALINE Father's First Name: TIODATE Final Address in the U.S. FOIA (b)(6) Occupation: FARMING/FORESTRY/FISHING Place of Issuance: PORT AU PRINCE Issue Visa Class: IR5 FSC Code: HAT Issue Date: 08-JUN-2007 Visa Expiration Date: 07-DEC-2007 Passport Number: HCP11756 Other Travel Document Info: Issued To: Issued By: Annotation: Photo: Admission Stamp SECURITY ADM! SAND of University JUL 1 6 2007 C Unal Ins. JUL. 23 2007 TX2300048 07/24/2007 SRC-07-228-53857 SRCREW01"
+}

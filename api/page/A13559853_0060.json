@@ -1,0 +1,25 @@
+{
+	"anumber": "A13559853",
+	"id": "A13559853_0060",
+	"page_index": 60,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13559853_0060/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/24/2023, A18 559 853"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1962, 1963]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "by NAME, U Wong Man Get 5958 Franklin Ave. Los Angeles, Cal. March 2, 1963 Immigration Department 510 South Vermont Los Angeles, Cal. Dear sirs : My family and I were in Hawaii on November 16 and our last entry into San Francisco was on November 21, 1962. On the same boat were many of my friends. My friends have already received their green cards for permanent residence in the United States. As yet, I have not received mine. Kindly notify me if you have already mailed it to me, or perhaps it was lost in the mail. Thank you. Sincerely, Wong Man Get A13559853 Oh encl. 10 roz 210 CITIES 2 II no 111 1323 for"
+}

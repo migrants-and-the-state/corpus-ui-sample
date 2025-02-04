@@ -1,0 +1,25 @@
+{
+	"anumber": "A28740267",
+	"id": "A28740267_0051",
+	"page_index": 51,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28740267_0051/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 7/28/2023, Immigration and Naturalization Service"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico", "Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1984]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 STATEMENT U.S urtme... of Justice Immigration and Naturalization Service District Director Appraisers Building 630 Sansome Street San Francisco, CA. 94111 EB 17 1388 SFR632 A28 740 267 (E-24) Asylum Office Bureau of Human Rights and Humanitarian Affairs HA/AS Room 7802 Department of State Washington, D. C. 20520 Dear Sir: RE: Request for Asylum of Marcelino SOLIS-ROMERO, a citizen of Nicaragua Forwarded herewith for your review and advisory opinion is the request for asylum of the above-named individual who claims that he would be persecuted because of political opinion were he to return to Nicaragua. The applicant is widowed eighty-two year-old native and citizen of Nicaragua. He last arrived in this county from Mexico without inspection on January 31, 1984. He claims that because of his public manifestation of opinion against the Sandinistas he would face persecution were he to return to Nicaragua. The applicant's request for asylum is deemed to be of undetermined merit. Sincerely, David N. Ilchert District Director Enclosures: STERKEL 021758 DIEXM DAS"
+}

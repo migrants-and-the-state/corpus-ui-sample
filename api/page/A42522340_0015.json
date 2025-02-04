@@ -1,0 +1,25 @@
+{
+	"anumber": "A42522340",
+	"id": "A42522340_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42522340_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "VIỆT-NAM CỒNG-HÒA, B5912864"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 2/10/2023 VIETNAM CONG-HOA THE CAN-CLUC SO 83512864 Ten adi scalt 2915 Dra cal 60/147. Yon-Da SAIGON Dau V21 rièng: 2460/EN Cao: 1 th 55 Not ruoi chiof CHINH Kg duoi traf. 23 thang 8 ndm1983 Chulky Minh, moti Titi. UBNC Chis Tich THASE hy DO-XIZN-MAU."
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0257",
+	"page_index": 257,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0257/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 9/18/2023, 3-1797(a)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1956, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 3-1797(a) Rev. 12-24-52 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service 70 Columbus Avenue New York 23, N. Y. File No. : A 10 294 862 Date: September 25, 1956 MEMORANDUM FOR FILE SUBJECT: MAR DOO The subject is an alien who was required to register under Section 31(a) of the Alien Registration Act of 1940 or Section 262(a) of the Immigration and Nationality Act. He failed to register as required by law. It has now been determined that the subject's failure to register was not shown to be wilful because he claims he didn't know about it. It appears, therefore, that criminal prosecution under Section 36 (a) of the Alien Registration Act of 1940 or Section 266(a) of the Immigration and Nationality Act 1a not warranted."
+}

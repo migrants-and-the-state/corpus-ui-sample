@@ -1,0 +1,22 @@
+{
+	"anumber": "A40427106",
+	"id": "A40427106_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40427106_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Laboratorios Molina, 2"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/6/2023 Laboratorios Tegucigalpa, D. C., 9 de Diciembre de 198 7 MOLINA Nombre TERESA PACHECO. 5 Calle entre 11 y 12 Ave., Casa No 1141 FRENTE AL HOSPITAL VIERA TELEFONO: 22-2732 Dr. a. EVA M. DE GOMEZ Muestra DE ESPUTO No 2. Cultivo de Fresco: Por Leucocitos Resultado Bacterias Antibiograma: Tricomonas Levaduras Sensible Resistente GRAM: BAAR: NO SE OBSERVO BAAR. KOH: BACTERIOLOGIA JEF# DEL LABORATORIO"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A13559853",
+	"id": "A13559853_0043",
+	"page_index": 43,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13559853_0043/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PERSONAL DESCRIPTION FORM"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 PERSONAL DESCRIPTION FORM (Type or Print) Date of birth Aug 22 1914 ; sex MALE ; complexion MEDIUM , color of eyes BRown ; color of hair Black : (BLACK) \"SCAR height 5 feet 5 inches; weight 130 pounds; visible distinctive marks Left 2nd digit finger ; marital status MARRIED if country of nationality CHINA ; (If change of name requested) change to: nme . ALWAYS GIVE YOUR ALIEN REGISTRATION NUMBER WHEN COMMUNICATING WITH THIS SERVICE"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A57734494",
+	"id": "A57734494_0131",
+	"page_index": 131,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A57734494_0131/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/14/2023, AA070507"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2005]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "DR. J. BONCY Mme M. BONCY M. J. PEREIRA BIOLOGIE CLINIQUE MICROBIOLOGIE BIOCHIMIE PATIENT. BENOIT Palmesois Médecin DR BUTEAU ID. No Code No AA070507 Recherche d'Anticorps ANTI VIH ELISA I NEGATIF ELISA II WESTERN BLOT P.17 P24 P31 P51 P55 P66 P41 GP120 GP160 Absence de Bandes Sérodiagnostic de la syphilis RPR négatif Reçu le 07 MAI 2005 Fait le 07 MA! 2005 Date 07 MAI 2005 Signature N.B. Le Diagnostic de SIDA repose sur des critères stricts. Il ne doit pas être porté sur une sérologie VIH positive. Un résultat négatif n'exclut pas la possibilité d'infection à VIH En cas de Positivité répétée à l'ELISA, une confirmation par d'autres tests biologiques est à faire, (WESTERNBLOT-R.I.P.A)."
+}

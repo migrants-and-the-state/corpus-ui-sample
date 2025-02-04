@@ -1,0 +1,22 @@
+{
+	"anumber": "A28644418",
+	"id": "A28644418_0031",
+	"page_index": 31,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28644418_0031/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 5/19/2023, Toby Lerner Ansin"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/19/2023 TOBY LERNER ANSIN 6810 Rivera Drive Coral Gables, Fl. 33146 September 18, 1986 To whom it may concern: Norma Chirinos has worked as my housekeeper for three years. She earns $240.00 weekly. She is very reliable. Most sincerely, herner Ausin Toby Lerner Ansin"
+}

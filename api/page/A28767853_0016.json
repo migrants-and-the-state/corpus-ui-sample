@@ -1,0 +1,22 @@
+{
+	"anumber": "A28767853",
+	"id": "A28767853_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28767853_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Los Angeles Unified School District"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1975, 1974]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 Los Angeles Unified School District Belvedere Elementary School 1974-1975 CERTIFICATE OF RECOGNITION Presented to FELICITAS DUENAS In appreciation for the outstanding contributions you have made toward improving the relations between schools and the communities they serve. As a result of your efforts, the children of our schools have received an improved educational program, increased their level of attainment and benefited greatly in their pursuit towards excellence. Esther Teacher Dominguez or Coordinator Corinne Brandt Courad Boulum Principal Assistant Principal"
+}

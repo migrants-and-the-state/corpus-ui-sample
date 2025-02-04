@@ -1,0 +1,25 @@
+{
+	"anumber": "A21296599",
+	"id": "A21296599_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21296599_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Application or Petition Form No. VIETNAMESE PROGRAM, A21 296 599"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/18/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet Application or Petition Form No. VIETNAMESE PROGRAM File No. A21 296 599 IMMEDIATE RELATIVE CHECK ONE PREFERENCE 203(a)( ( ) HIGH RISK CATEGORY V-2 DATE DATE DATE FURNISHED RECEIVED PREPARED B/C G-360B 6/17/25 M/C I-94 PAROLE 6/9/75 SND PHOTOS SUPPORT G#325A G-325B G-646 I-130 I-485 BRINTS DATE MAILED G-325A SHEET #1 2 3 4 G-325B PRINTS REMARKS call up 8/27/75 This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which may facilitate processing. Keep this sheet on top of all material in file until initial decision is made Form I-468 (Rev. 11-1-70)"
+}

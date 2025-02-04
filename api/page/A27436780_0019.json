@@ -1,0 +1,22 @@
+{
+	"anumber": "A27436780",
+	"id": "A27436780_0019",
+	"page_index": 19,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A27436780_0019/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Louisiana National Bank Letter, LNB"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1985]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "LNB LOUISIANA NATIONAL BANK POST OFFICE BOX 1511 BATON ROUGE. LA 70821 (504) 389-4011 August 13, 1985 Mr. Mike Liu Pei Jen Liu 8450 Airline Highway Baton Rouge, La. 70815 Dear Mike, As you requested, the following is a list of accounts with our bank and the dates opened: Checking #0362-999, opened 10/31/85, balance $929.58 Checking #2771-004, opened 09/18/81, balance $523.19 Checking #7154-615, opened 09/18/81, balance $9,392.88 Sincerely, Anita Castanola Anita Castaneda Branch Officer Sherwood Forest Office Phone 389-4260"
+}

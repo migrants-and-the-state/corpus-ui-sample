@@ -1,0 +1,25 @@
+{
+	"anumber": "A70370800",
+	"id": "A70370800_0051",
+	"page_index": 51,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A70370800_0051/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Personal History, K. 70570800"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1907, 1990, 1971, 1970, 1960, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/21/2023 This page is to be completed both K. 70370800 front and back for each person age 17 and older. Personal History Interviewer: PAGE H OF Principal applicant Name MOHAMED HAG AHMED Sex(M/F) Birthdate 1907 Birthplace Relationship to PA M OCCUPATIONS, WORK HISTORY AND EDUCATION: 19 Location 1960 1970 HIDE'S DEALER 1971 1990 BARWAKO STORES SECONDARY REASONS FOR LEAVING SCHOOL: SCHOOL 19 PRIMARY SCHOOL NONE LANGUAGE ABILITY Fluent Good Fair Poor OTHER Fluent Good Fair Poor ENGLISH SOMALI FRENCH ARABIC I FOR WOMEN Are you pregnant? Yes No If pregnant, what month do you think the baby will be born? ETHNIC/RELIGION ORGANIZATIONS DARAD DISLAM HARD LABOUR IMPRISONMENT NO ESCAPE ATTEMPT LANGUAGE ABILITY Fluent Good Fair, Poor OTHER Fluent Good Fair Poor ENGLISH FRENCH FOR WOMEN Are you pregnant? Yes No If pregnant, what month do you think the baby will be born? ETHNIC/RELIGION ORGANIZATIONS"
+}

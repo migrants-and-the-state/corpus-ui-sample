@@ -1,0 +1,42 @@
+{
+	"anumber": "A14366479",
+	"id": "A14366479_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14366479_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate of Citizenship, FORM N-560 ( (REV 3-1-61)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Russia"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 1899]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "medium"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Married"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1965.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "330 West Jersey Street, Elizabeth, New Jersey"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "THE No. A-508859 application no. A14 366 479 DUPLICATE Personal description of holderas of date of issuanceofi this certificate; Lear male date of birth September 4, 1899. 00000 country of birth Russia ; complexion mediúm colorofewes brown colorof hair brown ; height 5 feel 8 inches; weight 170 pounds; visible edistindive marks none Maritalstatus married I certify that the description, above givenis brue and that thephotograph, affixed hereto is a likeness of me. Asidor Leonard Karan ( Complete and true signature of holder) Beit known,that ISIDOR LEONARD KARAN , now residing al 330 West Jersey Street, Elizabeth, New Jersey having appliedloshe Commissioner of Immigrationand naturalizationfor acertificateous citizenship Section341 ofthe Immigration andnationality thesalisfuctionofthe Commissioner,19 ofthe United States of America,Became accilizenthereofin September 1, 1914 andismowinthelmited States: dendorLeonard taran nom Therefore insursnance containedin Section 341 of the Immigration and nationality Rol, this certificate soficitizenshipis, issued this 25th Seal day of October instheyearsfour Lordnineleerhundred and sixty-five and/theseal ofthe Department of IT IS A VIOLATION OF THE U. S. CODE (AND PUNISHABLE AS SUCH) TO Reymond 7. Forrell COPY, PRINT. PHOTOGRAPH. OR OTHERWISE ILLEGALLY USE THIS CERTIFICATE. COMMISSIONER OF IMMIGRATION AND NATURALIZATION FORM N-560 (REV 3-1-61) BUREAU OF ENGRAVING AND PRINTING,LITHO."
+}

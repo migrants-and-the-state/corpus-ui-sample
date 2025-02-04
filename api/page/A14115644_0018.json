@@ -1,0 +1,25 @@
+{
+	"anumber": "A14115644",
+	"id": "A14115644_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14115644_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Individual Fee Register Receipt, G-711"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/29/2023 FORM G-711 FILE COPY (7-1-77) Individual Fe3 Register Receipt UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service FEE PAID NUMBER LOS 147614 APPLICANT DATE CURRALES MESA 4/30179 REMITTER - IF OTHER THAN APPLICANT Luis APPLICATION FORM NUMBER (CIRCLE) G-639 I-129 B I-192 I-290 A I-600 N-577 G-641 1-129 F I-193 I-290 B I-601 N-580 G-657 1-130 I-196 I-485 I-612 N-600 I-1Z I-131 I-212 i-506 N-455 I-90 I-140 I-246 I-539 N-470 I-102 1-191 I-256A I-570 N-565 BANK OTHER TRANSIT NO. TYPE OF REMITTANCE PC BC MO IMO O C (CIRCLE) ISSUING SECTION OTHER (ABBR.) INF TC M & F (CIRCLE) REC'D BY (INITIALS) AMOUNT Be $ 10 STAPLE TO TOP RIGHT EDGE OF APPLICATION GPO: 1978-272-136"
+}

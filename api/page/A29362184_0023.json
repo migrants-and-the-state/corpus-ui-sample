@@ -1,0 +1,22 @@
+{
+	"anumber": "A29362184",
+	"id": "A29362184_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29362184_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/28/2023, FOIA ( (b)(6)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 THIS IS AN APPLICATION SUBMITTED ON BEHALF OF MY MOTHER AND FATHER MR. AND MRS. THOMAS SIMON. THE PACKAGE CONTAINS THE FOLLOWING: 1. A SET OF APPLICATION FOR MY MOTHER 2. A SET OF APPLICATION FOR MY FATHER 3. ONE COPY AND ONE ORIGINAL OF MY MOTHER'S BIRTH CERTIFICATE, MY FATHER'S BIRTH CERTIFICATE, AND MY MOTHER AND FATHER'S MARRIAGE CERTIFICATE. 4. AN AFFIDAVIT OF SUPPORT BY MY HUSBAND 5. MY CERTIFICATE OF NATURALIZATION 6. AN ORIGINAL AND A COPY O MY MARRIAGE CERTIFICATE I HOPE THIS IS ALL THE INFORMATION NEEDED TO PROCESS THIS APPLICATION. IF ANY MORE INFORMATION IS NEEDED, I WILL BE HAPPY TO COORPERATE AND MAKE DILLIGENCE TO ANY OF YOUR REQUEST. FOIA (b)(6)"
+}

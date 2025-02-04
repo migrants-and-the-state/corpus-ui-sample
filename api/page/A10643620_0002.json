@@ -1,0 +1,22 @@
+{
+	"anumber": "A10643620",
+	"id": "A10643620_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10643620_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ALIEN REGISTRATION CARD"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "ALIEN REGISTRATION NO.: I AM IN THE UNITED STATES AS: (Check one) (Copy letter and number from registration receipt VISITOR PERMANENT RESIDENT or other alien certification document) STUDENT OTHER NATIONALITY IS Nicaragna (Specify) MY I WAS BORN ON MY NAME IS Conseption IS: (Last) (First) Me (Middle) (Date) arting MY PRESENT ADDRESS 230 So St. (Street address or rural route) (City or Shoo post office) Pro Angeles (State) YRS. (IF ABOVE ADDRESS IS TEMPORARY) I EXPECT TO REMAIN THERE MOS. MY LAST ADDRESS WAS: (Street address or rural route) (City or post office) (State) I WORK FOR OR ATTEND SCHOOL AT (Employer's name or name of school) (Street address) (City or post office) (State) I ENTERED THE UNITED STATES AT for (Port of Angeles into United ON entry States) (Date of entry) (IF NOT A PERMANENT RESIDENT) I WAS ADMITTED TO THE U. S. A. UNTIL OR RECEIVED AN EXTENSION OF STAY UNTIL DATE (SIGNATURE) Conception (Date) Valelez"
+}

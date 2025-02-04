@@ -1,0 +1,25 @@
+{
+	"anumber": "A46040013",
+	"id": "A46040013_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A46040013_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Information for Criminal Records Search, N-400 ( (Rev. 05/31/01)N Page 3"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 2000, 1997, 2003]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/15/2023 Part 5. Information for Criminal Records Search Write your INS \"A\"- number here: A 046040013 Note: The categories below are those required by the FBI. See Instructions for more information. A. Gender B. Height C. Weight Male Female 4 Feet ! Inches 151 Pound D. Race White Asian or Pacific Islander Black American Indian or Alaskan Native Unknown E. Hair color Black Brown Blonde Gray White Red Sandy Bald (No Hair) F. Eye color Brown Blue Green Hazel Gray Black Pink Maroon Other Part 6. Information About Your Residence and Employment A. Where have you lived during the last 5 years? Begin with where you live now and then list every place you lived for the last 5 years. If you need more space, use a separate sheet of paper. Street Number and Name, Apartment Number, City, State, Zip Code and Country Dates (Month/Year) From To Current Home Address - Same as Part 4.A 04/2003 Present 20714 ARCHWOOD AVE / WINNETKA, CA 91306 / USA 11/2000 01/2003 3569 W. CAMINO DE CALIOPE, TUCSON, AZ 85741 USA 10/1997 112000 No others 2 / / B. Where have you worked (or, if you were a student, what schools did you attend) during the last 5 years? Include military service. Begin with your current or latest employer and then list every place you have worked or studied for the last 5 years. If you need more space, use a separate sheet of paper. Employer or Employer or School Address Dates (Month/Year) Your School Name (Street, City and State) From To Occupation N/AFFully Suppoter bg 12/91 present Retired 3 Children No of / Form N-400 (Rev. 05/31/01)N Page 3"
+}

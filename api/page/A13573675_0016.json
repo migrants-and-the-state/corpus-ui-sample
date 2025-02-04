@@ -1,0 +1,22 @@
+{
+	"anumber": "A13573675",
+	"id": "A13573675_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13573675_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Point Sal Growers and Packers California Vegetables, Form 4"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1962, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/10/2023 CARROTS CAULIFLOWER CELERY ENDIVE LETTUCE POTATOES POINT SAL GROWERS AND PACKERS CALIFORNIA VEGETABLES P. O. Box 906 - Phone 4184 GUADALUPE, CALIFORNIA November 10, 1962 American Consul Tijuana, Baja California Mexico This is to certify that MARGARITA FAUSTO has worked for us the past eight years. She averages $150.00 per month in wages during the year. Her work is very satisfactory and her chances to continue working are excellent. Very truly yours, Beliei KENNETH G. BELIER, Manager"
+}

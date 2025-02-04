@@ -1,0 +1,28 @@
+{
+	"anumber": "A17231918",
+	"id": "A17231918_0007",
+	"page_index": 7,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17231918_0007/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "AFFIDAVIT"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Canada", "India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1907, 1968]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CANADA ) PROVINCE OF QUEBEC ) ) DISTRICT OF MONTREAL ) AFFIDAVIT I, BERYL IRMA LEVOI, wife of ROY A. LEVOI, resid- ing and domiciled at 5475 Westminster avenue, Town of Cote St. Luc, Province of Quebec, being duly sworn, do depose and say: 1. THAT I was born in the City of Calcutta, Country of India, on the 25th day of March, 1907; 2. THAT my date of birth appears as March 25th, 1907, , on my former British passport No. 188,7379, and my Canadian passport No. KG-795321 shows such birth date as well; AND I HAVE SIGNED: Bample Inva Lever SWORN TO BEFORE ME AT ) THE CITY AND DISTRICT ) OF MONTREAL, PROVINCE ) OF QUEBEC, THIS DAY ) OF 23 Feb. , 1968: ) ) ) ) ) COMMISSIONER FOR OATHS ) DISTRICT OF MONTREAL ) Commissioner I and MCDOUGALL JOHN * LAIDLEY. HOWARD. STALKER, McDOUGALL. GRAHAM & STOCKS"
+}

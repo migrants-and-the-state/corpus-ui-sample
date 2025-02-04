@@ -1,0 +1,36 @@
+{
+	"anumber": "A21206025",
+	"id": "A21206025_0074",
+	"page_index": 74,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21206025_0074/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Biographic Information Form G-325C"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1915, 1976]
+		},
+		"g325a": {
+			"occupation": {
+				"occupation_llm_v1": "['n.a']"
+			},
+			"nationality": {
+				"nationality_llm_v1": "VIETNAM"
+			}
+		}
+	},
+	"is_g325a": true,
+	"is_cert_naturalization": false,
+	"full_text": "FORM G-325C (9-1-74) Y Screened by NARA, 7/28/2023 Form Approved BIOGRAPHIC UNITED STATES DEPARTMENT OF JUS OMB No. 43-R436 Immigration and Naturalization Service INFORMATION JUN M. 319 THIN (Fith name) (Middle/name) MALE BIRTHDATE (Mo.-Doy-Yr.) NATIONALITY LE THI FEMALE 1915 VIET NAM ALL OTHER NAMES USED CITY AND COUNTRY OF BIRTH NONE HANOI VIETNAM FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (if known) CITY AND COUNTRY OF RESIDENCE FATHER LE MAU (Dead) MOTHER (Maiden name) NGUYEN LIEN SAIGON VIETNAM HUSBAND or WIFE FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE (If none, so state) (For wife, give moiden name) Mis BUI n TVC Dead FORMER HUSBANDS or WIVES (Fill in the blocks below. If none, state \"none\".) FAMILY NAME (For wife, give moiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE None APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER $ CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 825 CALLE HAYA # 8 THOUSAN CA VSA 3 76 PRESENT TIME OKS 2271 CALLE CAMELIA 11 \" 11 / 76 3 76 8842 GRIMES CYN Rd Moozpark H 41 9 75 / 76 wermar Med center Weiman 11 4 6 75 9 75 CAMP PENDLE TON 11 11 5 75 6 75 6/2/18 LEVAN BUYET SAIGON SAIGON VIETNAM / 74 4 75 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (if none, so state) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION MONTH YEAR MONTH YEAR NONE PRESENT TIME IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS, WRITE YOUR NAME IN YOUR NATIVE ALPHABET BELOW: APPLICANT FOR CONDITIONAL ENTRY 4/14/76 Him is the of S PENALTIES: filos resd. SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGL AND WILLFULLY FALSIFYING OR CONOE ALING MATERIAL FACT. DATE (SIGNATURE OF APPLICANT OR PETITIONER) 10 COMPLETE THIS BOX (FAMILY NAME) (GIVEN NAME) the want this MIDDLE NAME LE THIN THIS A21 206 025 (OTHER AGENCY USE) of (INS USE) Cheese data CONDITIONAL ENTRY APPLICANT Return to: Immigration and Naturalization Service to arreen OFFICE CODE: SFR FBI TYPE OF CASE VIETNAMESE REFUGEE are DATE: JUNE 18, 1976 FORM G-325C (2) Rec. Br."
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A28688810",
+	"id": "A28688810_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28688810_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Title: Domestic Return Receipt, Form Number: PS Form 3811"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "SENDER: Complete items 1 and 2 when additional services are desired, and complete items 3 and 4. Put your address in the \"RETURN TO\" Space on the reverse side. Failure to do this will prevent this card from being returned to you. The return receipt fee will provide you the name of the person delivered to and the date of delivery. For additional fees the following services are available. Consult postmaster for fees and check box (es) for additional service(s) requested. 1. Show to whom delivered, date, and addressee's address. 2. Restricted Delivery (Extra charge)t t(Extra charge)t 3. Article Addressed to: 4 Article Number TeresA 0 Ro 2CO 306. 807 Type of Service: 335 NE 25 Th ST Registered Insured Certified COD MiAmi FL Express Mail 33137 Always obtain signature of addressee or agent and DATE DELIVERED. 5. Signature - Addressee 8. Addressee's Address ONLY if X requested and fee paid) 6. Signature - Agent X 7. Date of Delivery $ PS Form 3811, Mar. 1987 * U.S.G.P.O. 1987-178-268 DOMESTIC RETURN RECEIPT"
+}

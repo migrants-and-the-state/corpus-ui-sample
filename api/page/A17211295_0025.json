@@ -1,0 +1,28 @@
+{
+	"anumber": "A17211295",
+	"id": "A17211295_0025",
+	"page_index": 25,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17211295_0025/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "nanubhai"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Marriage Affidavit"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1924, 2023, 1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/10/2023 GUJARAI STATE 3R$50nP INDIAS HIGHTER PRINT LETTE GREENT FREE THREE.RUPEES FIFTY NAYE PAISE requised 2030 HIM oligin nigory ceul at John 227 Bata AFFIDA V I T. TO WHOM IT MAY CONCERN: I, the undersigned Nanumbahi Manibhai Desai, aged about 62 years, occupation business residing at Bulsar, Taluka and District Bulsar, Gujarat State, India solemnly affirm and state before Taluka Magistrate Bulsar that:- Mr. Dayaram Ranchhod ji Panchal and MES. Kamlaben Dayaran Panchal are husband and wife. Married on 10th February 1924 in accordance with Hindu Rites and Ceremony at Bulsar, Gujarat State, India in presence of relatives and friends. This statement is true and correct based upon my personal knowledge being present at the marraige ceremony. Dated:- xxxx -8-1967. I know the Dear deponent. (Signature) Dhal. Remaulal manhus Salamily affirmed before mis in darls 8 STREET monday BULSAR"
+}

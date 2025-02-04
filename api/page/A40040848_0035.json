@@ -1,0 +1,22 @@
+{
+	"anumber": "A40040848",
+	"id": "A40040848_0035",
+	"page_index": 35,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40040848_0035/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Petition to Classify Status of Alien Relative, G-28"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/25/2023 popkin,shamin & golan Aug. 29, 1986 LAW OFFICES richard C. popkin ruth shamir jack golan Immigration & Naturalization Service 300 North Los Angeles Street brian e. schield Los Angeles CA 90012 joseph I. feldun dorothy a. harper RE: BENEFICIARY: SHEN, Yu-Ling john m. levant PETITIONER: SHEN, Bob Chung Teh - Natz #12802948 Petition to Classify Status of Alien Relative russell 1. marshak charles I. mccutchan Gentlemen: Enclosed herewith, please find the following documents relative to the above-captioned matter: - Form G-28, executed by the petitioner indicating our representation; - Form I-130, executed by the petitioner; - Our check #7590 in the amount of $35 to cover costs; and - the following supporting documents: 1) Birth Certificate of petitioner and its translation; 2) Naturalization Certificate #12802948 of petitioner; and 3) Marriage Certificate of beneficiary. Please review and above documents and advise this office of your decision in this matter. Very truly yours, POPKIN, SHAMIR & GOLAN RUTH SHAMIR RS:gk Enc. / 3345 wilshire blvd., suite 318 . los angeles, ca 90010 . tel: (213) 388-8123 . 933-9562 . 938-3268 cable address-priority telex-215320-(popknur)"
+}

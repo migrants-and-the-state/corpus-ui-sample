@@ -1,0 +1,22 @@
+{
+	"anumber": "A71817091",
+	"id": "A71817091_0017",
+	"page_index": 17,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71817091_0017/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/13/2023 ITEDICO LABO ITORIES, INC. 2741 S. BRISTOL, SUITE 220, SANTA ANA, CA 92704, 714/751-6671 REPORTED ON: 01/21/93 NAME PKY, PHYSICIAN: MEDICAL GROUP OF CALIFORNIA ID # 435004 ADDRESS: 11227 VALLEY BLVD. AGE 82 SEX F EL MONTE, CA COLLECTED 01/18/93 PHONE # : (818)-442-70077 ORDERED: HIV-1 (AIDS SCREEN), RPR OR VDRL (STS) TEST NAME RESULT UNITS NORMAL RANGE LOW NORMAL HI SEROLOGY RPR (SYPHILIS) RPR (SYPHILIS) | NR NR. THIS TEST WAS ADDED BY YOUR OFFICE. DATE TEST ADDED: | 01-20 SPECIAL PROCEDURES HIV-1 (AIDS SCREEN) NEG NEG HIV-1 TESTING IS NOT A RELIABLE MEANS OF TESTING FOR HIV-2. COMMMENTS: = FINAL REPORT THIS REPRINTED REPORT IS TO COVER PENDING TESTS THAT WERE NOT REPORTED ON YOUR PREVIOUS REPORT-YOU MAY DISCARD THE PREVIOUS PARTIAL REPORT ON THIS PATIENT. OUT-OF-RANGE-TESTS NONE FOUND 57 ALLEN JAY, MD NOTE: State law requires the women tested to be DIRECTOR informed as to RHESUS (Rh) results."
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A34261850",
+	"id": "A34261850_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34261850_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet, I-90"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/3/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIIATION SERVICE Processing Sheet Application OF I-90 A 34261850 Petition Form No. File No. DATA COLLECTION FOR ALIEN DOCUMENTATION IDENTIFICATION & TELECOMMNICATION SYSTEM (ADIT) Please print or type information requested below: COMPLETE NAME TRINIDAD GOMEZ COMPLETE MAILING ADDRESS (Include Zip Code) FLORISEL DEPARTMENT 4430 L.A. CA VOTER'S FIRST NAME CRISTINA CARCIA FATHER'S FIRST NAME MARGARITO ALFARO CITY/TOW/VILLAGE OF BIRTH 2-17-12 JALISCO MEX. CITY OF RESIDENCE WHEN APPLYING FOR A VISA OR IMMIGRANT STATUS FLORISEL DEP. 4430 L.A. CA. CITY OF DESTINATION AI TIME OF ORIGINAL ADMISSION PERMANEN RECIDENT (CAL.) LOCATION OF CONSULATE WHERE DAIGRANT VISA OBTAINED (OR IMMIGRATION OFFICE WEERE ADJUSTED) L.A. CA. DATE OF BIRTH 2-17-12 PORT OF ENTRY WEEN ADMITTED AS IMMIGRANT OR OFFICE WHERE ADJUSTED TO LAWFUL PERMANENT RESIDENT SAN ISIDRO , CA. SYMBOL ADMITTED UNDER (CLASSIFICATION) DOUTHER REQUESTE MY ENTRY DATE ADMITTED OR ADJUSTED TO LAWFUL PERMANENT RESIDENT 9-29-72 COUNTRY OF BIRTH JALISCO MEX CARD NUMBER A 34261850 TRANSACTION NUMBER This for Day be overprinted or stimped to sbov instructions, items requested, items received, or other permission date which BY facilitate processing. X this above 20 top of all material La file until Lostial decision is ands Form I-4:53 (ADIT) (Rer. 11-1-70)"
+}

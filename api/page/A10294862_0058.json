@@ -1,0 +1,22 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0058",
+	"page_index": 58,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0058/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Memorandum, OPTIONAL FORM NO. 10"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 OPTIONAL FORM NO. 10 5010-103 UNITED STATES GOVERNMENT RECEIVED Memorandum JAN 1 01968 CO 244.15-C TO : District Director, Office of District DirectDATE: December 29, 1967 Boston, Massachusetts, Immigration and Naturalization Servico JFK Federal Building Boston, Mass. FROM : E. A. Loughran, Associate Commissioner, Do Management, Washington, D. C. SUBJECT Mar, Doo; aka, Mar Au Sang A-10 294 862 A report of the suspension of deportation in the subject's case was reported to the Congress during the second session of the 89th Congress. Since neither the Senate nor the House of Representatives passed a resolution stating in substance that it did not favor the suspension of such deportation, the case is considered approved as of December 18, 1967, following the adjournment of the first session of the 90th Congress."
+}

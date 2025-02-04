@@ -1,0 +1,25 @@
+{
+	"anumber": "A70027789",
+	"id": "A70027789_0017",
+	"page_index": 17,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A70027789_0017/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "FILIAción de Titular, 0194494"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1994, 1889]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "FILIACION DE TITULAR Sexo M F Estado Civil CASONA Antonio Arsuets Estatura 1.45 CMS. Solv. 128 lbs V F. Peso Color Piel MORENA. TERESA REGALAND Nombre Padre y nacionalidad CAFES Solv Color Ojos V F Color Pelo NEGRO CARLOS Airalso VALENUIA Nombre Madre y nacionalidad Senales Particulares Salu. V F Nombre Cónyuge y nacionalidad MENORES QUE LE ACOMPAÑAN NOMBRES EDAD PARENTESCO En caso de accidente 0 muerte del titular. avisar a Erick ORLANDO ZEISAN. Dirección : 2.0 Mismos, TEL. 23-8173 VITE REVALIDACION Renewal PROAPOR GENERAL DEPTO Regalado de Valencia Apellidos/Surnames Maria Orhelina Nombre/Given name Profesion u Oficio -actual Profesora Estado Civil easada Dirección actual Calvista Hemissa Orbelius de Salencia as Las cafetes t 242 S.S. Revalidase hasta 28 OCT 1994 worred to On to 4 DIC. 1889 Lugar y fecha are PORTER of Autoridad Migratoria ROWLY GARLOS ALBERTO CERNA 5 JEFE DEPTO. PASAPORTES Bar No 96869"
+}

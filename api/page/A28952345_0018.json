@@ -1,0 +1,22 @@
+{
+	"anumber": "A28952345",
+	"id": "A28952345_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28952345_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "HIV Test Report"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 CALIFORNIA ANALYTICAL \\BORATORY CLIENT: MILY MEDICAL CENTER 2217 EAST FIRST STREET STREET: 16 SOUTH STREET LOS ANGELES, CALIFORNIA 90033 CITY: LAKEWOOD STATE: CA (213) 262-1234 ZIP: 90805 PATIENT NAME: AISHA, BIBI CHART#: LAB ## A31781 RECEIVED: 07/26/88 REPORTED: 07/27/88 PHYSICIAN: DR. SHAH TEST (S) ORDERED: VDRL, HIV : VDRL: NON REACTIVE NORMAL NON REACTIVE HIV* NEGATIVE NORMAL : NEGATIVE ** THE GENETIC SYSTEM CORPORATION HIV TEST SENSITIVITY IS 100% BASED ON THE PREVALENCE OF THE ANTIBODY TO HTLVIII IN AIDS PATIENTS. GASTON HERRERA. M.D. DIRECTOR AND PATHOLOGIST"
+}

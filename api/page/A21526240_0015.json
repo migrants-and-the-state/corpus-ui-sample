@@ -1,0 +1,19 @@
+{
+	"anumber": "A21526240",
+	"id": "A21526240_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21526240_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "GIBRALTAR SAVINGS AND LOAN ASSOCIATION A Subsidiary of Gibraltar Financial Corporation of California August 27, 1976 To Whom it may concern: Kamille L. Mane has at this association two accounts the first opened on 8/2/74 has a balance as of this date of $3883.80 and the second opened 2/21/76 with a balance as of this date of $5,104.89. Sincerely, Emma Nuckols Branch Manager"
+}

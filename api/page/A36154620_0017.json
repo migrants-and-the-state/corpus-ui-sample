@@ -1,0 +1,22 @@
+{
+	"anumber": "A36154620",
+	"id": "A36154620_0017",
+	"page_index": 17,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A36154620_0017/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "STATE OF CALIFORNIA COUNTY OF LOS ANGELES"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1977, 1970, 2023, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/14/2023 STATE OF CALIFORNIA ) } SS COUNTY OF LOS ANGELES ) To whom it may concern: This is to certify that Robert L. Quan has been employed as a manager by Universal Sewing Contractors Company of 508 W. Ave. 28, Los Angeles, California, since April 1970. His monthly salary is $900.00. Yours faithfully, Hen Dear Han Chan Owner Subscribed and sworn to before me This 21st day of June, 1976. Grave Notary Public in and for said County and State My Commission expires June 5, 1977 SEAL OF OFFICIAL SEAL THE STATE ANGELINE WONG NOTARY PUBLIC-CALIFORNIA LOS ANGELES COUNTY CALIFORNIA My Commission Expires June 5, 1977"
+}

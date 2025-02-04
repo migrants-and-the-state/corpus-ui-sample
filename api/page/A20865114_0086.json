@@ -1,0 +1,25 @@
+{
+	"anumber": "A20865114",
+	"id": "A20865114_0086",
+	"page_index": 86,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20865114_0086/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 8/17/2923, FOIA(b)(6)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["France", "Germany", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1978]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service c/o American Consulate General Frankfurt am Main, Germany Date: : May 23, 1978 MEMORANDUM to: Agency USCC Location Paris, France In the case(s) of: HOANG, Thi Oanh, NGUYEN, Thi Kim Hoa File(s) # A20 865 114, FOIA (b)(6) , applicant (s) for conditional entry into the United States under Section 203 (a) (7) of the Immigration & Nationality Act. (x) Needs medical (s) which has (ve) to be taken with one of our panel doctors; ( ) Needs assurance, Form I-591 / needs SS-5 ( ) Needs three passport photos of applicant(s), full face front view, without hat; ( ) Closed for no show / lack of prosecution / lack of submitting medical (s) / lack of submitting assurance; ( ) Found eligible for conditional entry, but medical (s) is (are) expired/ will expire before next ICEM flight. Please submit new medical(s) ( ) Found eligible for conditional entry, case(s) given to ICEM/ retained in this office, waiting for your information regarding private travel arrangements; (x) Have been found tentatively O.K. Your cooperation in advising and assisting the applicant (s) will be appreciated. Sincerely, FKG -104(3-22-78)"
+}

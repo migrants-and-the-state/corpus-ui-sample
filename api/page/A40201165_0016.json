@@ -1,0 +1,22 @@
+{
+	"anumber": "A40201165",
+	"id": "A40201165_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40201165_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DETECCIÓN DE ANTICUERPOS ANTI- HIV. , 4 401"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/25/2023 MINISTERIO DE SALUD DE NICARAGUA CENTRO NACIONAL DE HIGIENE Y EPIDEMIOLOGIA No 401 DEPARTAMENTO DE VIROLOGIA DETECCION DE ANTICUERPOS ANTI - HIV. Nombre y Apellidos: Rodolfo O. Mefia Edad: 73anas Sexo: M Procedencia: MINSA Código: H1656 POSITIVO NEGATIVO FECHA ELISA 14/12/87 WESTERN BLOT XA OBSERVACIONES INGC. de Higtou B RESP. DEPTO DE VIROLOGIA M INSA , Verologia ) DIRECTOR DEL C.N.H. E. OR"
+}

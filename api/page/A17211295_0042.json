@@ -1,0 +1,22 @@
+{
+	"anumber": "A17211295",
+	"id": "A17211295_0042",
+	"page_index": 42,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17211295_0042/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, I-494"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1968]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/10/2023 JAY PANCHAL 2001 N. LINWOOD AVE SANTA ANA, CALIFORNIA FEB. 23, 1968 U. S. Department of Justice Immigration and Naturalization Service 300 North Les Angeles street Los Angeles, California 90012 Gentlemen, Per your instructions I am enclosing completed forms I-485 in behalf of my mother and father I an also attaching the following required documents 1. Passports - I 465086 and I 465088 2. Two photographs each of my mother and father 3. A check for #50 100 60 for both applications 4. Finger print chart for each application 5. form G-325A 6 form I - 134 7. form I-94 are attached in passports 8. Birth Certificates The original and me Copy Please return the original of birth certificates If there should be any documents that are additionally required please notify me And I will obtain them. I will appreciate it very much your approval of these petations Very trudy yours"
+}

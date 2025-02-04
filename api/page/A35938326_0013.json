@@ -1,0 +1,25 @@
+{
+	"anumber": "A35938326",
+	"id": "A35938326_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A35938326_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "bragg & smith realty"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 bragg & smith realty 5200 YORK BOULEVARD 1515 COLORADO BOULEVARD 4777 EAGLE ROCK BOULEVARD LOS ANGELES, CALIFORNIA 90042 LOS ANGELES, CALIFORNIA 90041 LOS ANGELES, CALIFORNIA 90041 254-5241 258-3111 254-7191 September 1, 1976 American Consulate Guadalajara, Mexico To Whom It May Concern: We have been requested to write to you in support of Mr. Rogelio Ramirez Madrigal. Such a request is a pleasure to fulfill. Mr. Madrigal has been employed by our firm since February 1, 1976. He is enjoying a good degree of success for his relatively short exposure here. We are assured that this success will expand with considerable earnings for Mr. Madrigal. Should you require any other statement on his behalf we will be happy to afford you what we can. Cordially, BRAGG & SMITH REALTORS Kenneth E. Pratt Office Coordinator KEP/j1"
+}

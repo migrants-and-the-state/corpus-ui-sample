@@ -1,0 +1,16 @@
+{
+	"anumber": "A42785993",
+	"id": "A42785993_0031",
+	"page_index": 31,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42785993_0031/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/2/2023 FDXFBID IMMIGRATION AND NATURALIZATION SERVICE 1/10/2000 FBI QUERY SYSTEM 17:43:39 SEARCH CRITERIA ANUM = 042785993 A-NUMBER: 042785993 LAST NAME: GUARDADO DE ZELAYA CIDN: A042785993 FIRST NAME: LEONOR ORI: CAINS2400 BIRTH DATE: 00/00/00 FBI STATUS: N PCN: 963145550505 NACS FLAG: RECEIVE DATE: 11/09/96 PROCESS DATE: 02/21/97 INS LOAD DATE: 03/05/97 CONTROL NUMBER: GU1405N PF1 PF2 PF6 PF8 PAGE FORWARD PAGE BACKWARD PRIOR SCREEN LOGOFF"
+}

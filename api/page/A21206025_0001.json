@@ -1,0 +1,42 @@
+{
+	"anumber": "A21206025",
+	"id": "A21206025_0001",
+	"page_index": 1,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21206025_0001/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF NATURALIZATION, N-570 ( (REV. 11-1-87)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1999, 1915]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "fair"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Widowed"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1999.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "Aristotle, Simi Valley, California"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "Screened by NARA, 7/28/2023 THE NMR No. 22557374 NRC copy INP. Registration No A21 206 025 Personaldescription of holderas of date ofissuanceoff this certificate; Date of birth June 21, 1915 sex Female ; complexion Fair coloroberges Brown colorofhair Black height 5 feel 00 inches: weight 107 pounds; visible distindive marks None Marital,states Widowed ;Country Vietnam / Complete and true signature of holder) Beitknown that THIN THI LE , residing as 202 Aristotle, Simi Valley, California , havingapplied by the Commissioner of Immigration and Naturalization for a Certificate of naturalization, and having proved the satisfaction ofthe Commissionerthal whe was naturalized by the United States District Court of California at Buena Park, California on January 22, 1999. Seal nom Therefore, inpursuance of theauthority containeding Section 343101 of the Immigration, and nationality Rob this Certificate of naturalization is issued this Twenty-Fourth day of May mineleon/hundred/ and Ninety-Nine and/shepealofshe Department IT IS PUNISHABLE BY U. S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE. WITHOUT LAWFUL AUTHORITY. Daris Meinine 590675 COMMISSIONER OF IMMIGRATION AND INATURALIZATION FORM N-570 (REV. 11-1-87)"
+}

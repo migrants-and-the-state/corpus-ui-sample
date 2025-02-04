@@ -1,0 +1,25 @@
+{
+	"anumber": "A34733884",
+	"id": "A34733884_0006",
+	"page_index": 6,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34733884_0006/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Registration Card for Indian Nationals in the United States of America, 1046024"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Cuba", "India", "United States", "Vietnam", "Pakistan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1980, 1907, 1981]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "2 NAME REGISTRATION NUMBER NARAINDAS TOLARAM SITLANI A 34 733 884 ADDRESS IN U. S. 35 NORTH WAY, CHAPPAQUA, N.Y. . 10514 DATE OF BIRTH COUNTRY OF BIRTH COUNTRY OF CLAIMED NATIONALITY AUGUST 30, 1907 PAKISTAN INDIA EYES HAIR HEIGHT BLACK BLACK/GRAY 5 FEET 0 INCHES VISIBLE SCARS AND MARKS MOLE ON FOREHEAD VALIDITY OF PERMIT PERMIT EXPIRES VALIDITY EXTENDED TO VALIDITY EXTENDED TO ABRIL 22 1981 LOCATION OF ISSUING OFFICE DATE AND LOCATION OF OFFICE DATE AND LOCATION OF OFFICE APRIL 24, 1980 NYC SIGNATURE DISTRICT DIRECTOR SIGNATURE REVALIDATING OFFICER SIGNATURE REVALIDATING OFFICER PHOTOGRAPH RESTRICTIONS ONE ENTRY ONLY VALID FOR MULTIPLE ENTRIES This document is not valid for return to the United States after a temporary absence which involves travel to, in or through any of the following countries unless this restriction is specifically waived with regard to any such country or countries by indorsement hereon: Communist portions of: Cuba Korea Viet-Nam The above restriction is waived as to the following:"
+}

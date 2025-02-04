@@ -1,0 +1,42 @@
+{
+	"anumber": "A20535147",
+	"id": "A20535147_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20535147_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Naturalization Certificate, A20 535 147"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1980, 1914]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "medium"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Married"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1980.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "Rowland Heights, Ca."
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "K AUTOE R CA a TO BE FORWARDED TO No. 11027991 IMMIGRATION AND NATURALIZATION SERVICE CARE Pelition No. 434163 DUPLICATE AlienRegalration ne A20 535 147 Personal description of holdoras, of date of naturalization: Date of birth December 25, 1914 sex Male ; complexion Medium coloropoyies Brown colorof hair Black height 5 feel 5 inches; weight 135 pounds; visible distinctive marks None Maritalstatus Married Country of formernationality China I certify that the description above given is true, and that thopholograph affixed hereto, is a likeness of me. Leo Kno Han Ying / Complete and true signature of holder) UNITED STATES OF AMERICA } SS: CENTRAL DIST. OF CALIFORNIA Beit known that at a termofthe District The United States Court of held pursuant to law al Los Angeles on July 18, 1980 the Court having foundthal LEO KUO-HAN YING then residing al 2221 S. Annadel Ave. Rowland Heights, Ca. intends loreside permanently in the United States when sorequired bythe Naturalization Laws ofthe United States), had in all other respects complied with the applicable provisions of such naturalization laws, and was onlilled lobe Seal admitted locitizenshiff thereupon ordered that such person be and (s)hewas admitted as a citizen of the United States of America. Indestimony whereof thesealof the courtis hereunto affixed this 18th day of July in the year ofour. Lord nineleen hundred and Eighty EDWARD M. KRITZMAN U. S. District IT IS PUNISHABLE BY U. S. LAW TO COPY, Court. PRINT OR PHOTOGRAPH THIS CERTIFICATE. By Deputy Glerk. DNSSIUCCE"
+}

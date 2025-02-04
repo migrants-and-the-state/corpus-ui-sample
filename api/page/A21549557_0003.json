@@ -1,0 +1,22 @@
+{
+	"anumber": "A21549557",
+	"id": "A21549557_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21549557_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, LOS 79-372"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "S. GOVERNMENT PRINTING OFFICE 1973-497-750 BILL NO. LOS 79-372 DATE UNITED STATES DEPARTMENT OF JUSTICE 5-24-79 ACCOUNT SYMBOL Immigration and Naturalization Service 151030 Terminal Island OBJECT San Pedro, California Liquidated Damages AMOUNT $500.00 TERMS: NET BILL TO : DRAW REMITTANCE TO ORDER OF: PAN AMERICAN WORLD AIRWAYS, INC. 200 WORLD WAY Immigration and Naturalization Service, LOS ANGELES, CA. 90045 Department of Justice TO INSURE CREDIT, PLEASE CITE BILL NUMBER ON YOUR REMITTANCE PERIOD DATE UNIT DESCRIPTION QUANTITY UNIT AMOUNT FROM TO PRICE 8-21-78 PA 002 Sec. 238 (d) of the INS Act. For Failure to transport directly through and out of the United States to a foreign destination under immediate and continuous transit agreement the following name alien: Chidambara T. Pillai A21 549 557 one e$500.00 $500.00"
+}

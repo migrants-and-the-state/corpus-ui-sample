@@ -1,0 +1,25 @@
+{
+	"anumber": "A40201785",
+	"id": "A40201785_0007",
+	"page_index": 7,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40201785_0007/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "SUMMARY TRANSLATION OF THE MARRIAGE CERTIFICATE, NARA 6/15/2023"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1987, 1991, 1974]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA 6/15/2023 SUMMARY TRANSLATION OF THE MARRIAGE CERTIFICATE HUSBAND'S NAME : PEDRO ANTONIO CACERES ROJAS AGE OR DATE OF BIRTH : PLACE OF BIRTH : FATHER'S NAME : MOTHER'S NAME : WIFE'S NAME : CONCEPCION TORUNO VASQUEZ AGE OR DATE OF BIRTH : PLACE OF BIRTH : FATHER'S NAME : MOTHER'S NAME : DATE OF MARRIAGE : JULY 12, 1974 PLACE OF MARRIAGE : LEON, LEON, NICARAGUA I Certify that the above is an accurate translation of the relevant information contained in the attached document. I am conversant in both English and Spanish. STATE OF CALIFORNIA symm COUNTY OF LOS ANGELES On MAY 26 1987 before the undersigned, a Notary Public for the STATE OF CALIFOR- NIA Personally appeared B. NAHUE known to me to be the person who se name is subscribed to the within instrument, and acknowledged that he ex- ecuted the same. Idilia Mahue Smith OFFICIAL SEAL ODILIA NAHUE SMITH NOTARY PUBLIC - CALIFORNIA LOS ANGELES COUNTY My comm. expires FEB 1, 1991"
+}

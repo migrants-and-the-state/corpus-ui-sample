@@ -1,0 +1,25 @@
+{
+	"anumber": "A18018390",
+	"id": "A18018390_0035",
+	"page_index": 35,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A18018390_0035/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Immigration Interview Questionnaire"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1965]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Q. What was the exact date of your last entry into the United States? A. December 19, 1965. Q. For how long were you admitted at that time? A. Six months. Q. Have you applied for an extension of your stay in the United States? A. I asked my attorney to file an application for an extension and I gave him my passport. However, through an error the forms were never submitted. Q. Have you been employed in the United States? A. Never. Q. What is your address in the United States? A. 28 Harvard Street, Boston, Mass. Q. Is your wife presently with you in the United States? A. Yes. Q. Do you know her status? A. The same as mine. She came with me and she is also an overstay. Q. If you are requested to depart from the United States, would you be willing and able to do so at your own expense? A. Yes. Q. Are you now or have you ever been a member of the Communist Party or any Communist organizations? A. No. -3-"
+}

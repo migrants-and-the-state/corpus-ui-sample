@@ -1,0 +1,22 @@
+{
+	"anumber": "A71817091",
+	"id": "A71817091_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71817091_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Departure Record, 02412286bb 01"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/13/2023 Departure Number 024128666 01 Immigration and Naturalization Service I-94 Departure Record B2 Family Name PO First (Given) Name Birth Date (Day/ Mo Yr) KAM YING 251111 Country of Citizenship HONG KCNG See Other Side STAPLE HERE WarningA nonimmigrant who accepts unauthorized employment is subject to deportation. Important - Retain this permit in your possession; you must surrender it when you leave the U.S. Failure to do so may delay your entry into the U.S. in the future. You are authorized to stay in the U.S. only until the date writteh on this form. To remain past this date, without permission from immigration authorities, is a violation of the law. Surrender this per ie when you leave the U.S.: - By sea or air, to the transportation line; Across the Canadian border, to a Canadian Official; Across the Mexican border, to a U.S. Official. Students planning to reenter the U.S. within 30 days to return to the same school, see \"Arrival-Departure\" on page 2 of Form I-20 prior to surrendering this permit. Record of Changes C Port: Departure Record Date: Carrier: Flight #/Ship Name:"
+}

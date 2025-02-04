@@ -1,0 +1,25 @@
+{
+	"anumber": "A21206025",
+	"id": "A21206025_0080",
+	"page_index": 80,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21206025_0080/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/28/2023, L-000"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 Family Name ital Letters) First Name Middle Initial LE TH THI L-000 Country of Citizenship Passport or Alien Registration Number Permit Number VIET NAM A21-206-C25 -064 61 04 United States Address (Number, Street, City and State) WEIMAR MEDICAL - CENTER, WEIMAR CA. 1-44 Airline and Flight No. or Vessel of Arrival Passenger Boarded at (Rev Number, Street, City, Province (State) and Country of Permanent Residence % FOOD FOR THE HUNGRY Month, Day and Year of Birth PAROLED PURSUANT TO SEC. 212(d)(5) 1915 OF THE I & N ACT TO: INDEF. PURPOSE: VIET NAM (Parole City, Province (State) and Country of Birth HANOI, VIET NAM REBUGEE Visa Issued at SND/P 6/13/75 (Port) (Date) (Officer) Month, Day and Year Visa Issued"
+}

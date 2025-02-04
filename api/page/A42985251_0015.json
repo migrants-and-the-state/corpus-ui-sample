@@ -1,0 +1,19 @@
+{
+	"anumber": "A42985251",
+	"id": "A42985251_0015",
+	"page_index": 15,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42985251_0015/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "The Aga Khan University Hospital, Karachi. SEROLOGY LAB REPORT (Page: 1) 2 CONSULTING PHYSICIAN: M.NAEEMUL HAQUE REQUESTED BY: M.NAEEMUL HAQUE L184940 CLINICAL INFORMATION/COMMENTS: MRS.SAB NOOR RAHEEM, Female 84 ACC# C253443 PASSPORT# C 679069 LOC: LAB STATUS: DSR 1807 : MS0006R - 659097 [COMP] : COLL: 18/07/91-UNK RECD: 18/07/91-0829 : : TEST : RESULT : NORMAL RANGES VDRL / RPR NON REACTIVE NORMAL: NON-REACTIVE CONSULTANT'S COMMENTS: R Stadium Road, P. O. Box 3500 Karachi-74800, Pakistan Tel 420051, Ext 2440 REPORTED BY: CONSUL TANT: DATE: 18/07/91 [15:03]"
+}

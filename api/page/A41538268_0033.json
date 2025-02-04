@@ -1,0 +1,22 @@
+{
+	"anumber": "A41538268",
+	"id": "A41538268_0033",
+	"page_index": 33,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41538268_0033/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Dean Witter Reynolds Inc. FOIA(b)(6) Response Letter, Screened by NARA, 8/14/2023"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/14/2023 DEAN WITTER REYNOLDS INC. 3077 Stevenson Boulevard, Fremont, CA 94538 Telephone (415) 490-0400 ABU FARUKH Vice President, Investments September 6, 1989 To whom it may concern: Dilipkumar FOIA (b)(6) Shah currently have two accounts here at the Fremont Dean Witter office. The account numbers for these accounts are 152-20379-17 and 152-23685-17. Between the two accounts there is an approximate balance of more than $20,000. The Shahs have been valuable clients of ours for years. Sincerely, a Saruka Abu Farukh Vice President, Investments AF:rm"
+}

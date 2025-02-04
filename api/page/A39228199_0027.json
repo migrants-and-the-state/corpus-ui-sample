@@ -1,0 +1,28 @@
+{
+	"anumber": "A39228199",
+	"id": "A39228199_0027",
+	"page_index": 27,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A39228199_0027/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "TAIPEI MUNICIPAL POLICE HEADQUARTERS, 378"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Taiwan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 1985, 2023, 1952]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Sreened by NARA, 9/25/2023 TAIPEI MUNICIPAL POLICE HEADQUARTERS TAIPEI. TAIWAN REPUBLIC OF CHINA Date: March 30, 1985 TO WHOM IT MAY CONCERN: This is to certify that Liu, Chi ( male a Chinese national, born on October 8, 1914 in Kuangtung Province, resided in Taiwan for a period from February 7, 1952 to March 26, 1985. We have found no criminal record in our police files concerning the aforesaid individual during his residence in this city and Taiwan Province. yer shih 74 Chief of police Taipei Municipal Police Hqs 4. 037877 73. 12. 5,000 1 a"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A17211293",
+	"id": "A17211293_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17211293_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "THE IRVINE COMPANY, 92664"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 1970, 2023, 1968]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/10/2023 THE IRVINE COMPANY IRVINE, CALIFORNIA 92664 714.544-0120 April 24, 1968 TO WHOM IT MAY CONCERN: Mr. Jay D. Panchal has been employed by The Irvine Company since March 1, 1966. Mr. Panchal's job title is Senior Program Engineer and his salary is $1,150 per month. Mr. Panchal is a licensed civil engineer, is extremely knowledgeable and competent in his field, is an individual of high character and reputation. We anticipate his employment will continue indefinitely. RuPurer R. W. Perkins Director of Personnel STATE OF CALIFORNIA) ) SS COUNTY OF ORANGE ) On the 24th day of April, 1968, before me came R. W. Perkins, to me known to be the individual who executed the foregoing instrument and acknowledged that he executed the same. Shirley a. Jankine SHIRLEY A. JENKINS NOTARY PUBLIC - CALIFORNIA SHIRLEY A. JENKINS PRINCIPAL OFFICE IN ORANGE COUNTY My Commission Expires July 21, 1970"
+}

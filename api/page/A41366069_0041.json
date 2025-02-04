@@ -1,0 +1,25 @@
+{
+	"anumber": "A41366069",
+	"id": "A41366069_0041",
+	"page_index": 41,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41366069_0041/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 8/17/2023, The Chase Manhattan Bank, N.A."
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988, 1977, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 The Chase Manhattan Bank, N.A. 1 Chase Manhattan Plaza New York, New York 10081 CHASE April 29, 1988 The Consul General Office of The Consulate General of The United States of America New Delhi - India To Whom It May Concern: This is to certify that Jagdish Sheila Sra has been a full-time employee of The Chase Manhattan Bank, N.A., New York since May 31, 1977. At the present time she is working in our Latin American Division as an Administrative Assistant drawing a salary of U.S. $32,756.00 per annum. Sincerely, Grazady Devis Magaly Denis Second Vice President Western Hemisphere Area Human Resources 19th Floor"
+}

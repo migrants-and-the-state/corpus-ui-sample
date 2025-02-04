@@ -1,0 +1,22 @@
+{
+	"anumber": "A10706964",
+	"id": "A10706964_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10706964_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INDEX CARD, G-361 (11-1-54)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Name NO. SOTO de Mota Filemon (Last) (First) (Middle) 120 706 964 Alias: Soundex Code Acc No. 08578 0009 $ -300 8 20 Type of action: 0-1 VISA BOX No. 162 685 Country of Date of Month Day Year Birth Birth MEXICO 12 2 10 Place of Date of Month Day Year Entry: P Entry BLP 10 31 56 FILE LOCATION ELP District 11-2-36 District Date C22-102 Required JRC 7/19/77 T-23-00 5-5-2 Form G-361 (11-1-54) TRIPLICATE INDEX CARD GPO-1956-360448"
+}

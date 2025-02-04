@@ -1,0 +1,25 @@
+{
+	"anumber": "A26271163",
+	"id": "A26271163_0094",
+	"page_index": 94,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26271163_0094/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Life Centers, Ltd. / Institutes for Learning"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 Life Centers, Ltd. / Institutes for Learning CUMBERLAND 2819 KENSINGTON AVE. PHILADELPHIA, PA 19134 (215) 426-5116 HOWARD H. WURTZEL M.D., DIRECTOR January 27, 1986 TO WHOM IT MAY CONCERN: Dear Sir/Madam: RE: Melania Munguia Melania has worked for us for about two years. During that time, she has demonstrated the capacity to work without much supervision and has been very dependable. The probability of continued employment is excellent. She gets paid on a fee for service basis and she sees an average of 30 clients per week. If we could be of further assistance, please do not hesitate to call us. Yours truly, Carmen m. nines Carmen M. Nieves Adminsitrative Director"
+}

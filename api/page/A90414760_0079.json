@@ -1,0 +1,22 @@
+{
+	"anumber": "A90414760",
+	"id": "A90414760_0079",
+	"page_index": 79,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90414760_0079/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/13/2023, (3), (OVER)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 rd. Have you taken any actions that you believe will result in persecution in your Home Country? Yes No If \"Yes\", explain: is only one Reason, very clear, I used to belong to Party 24. Has your family suffered or been intimidated in any way because of your absence or your actions? Yes No If \"Yes\", explain: all family left the country 25. Do you base your claim for asylum on the fact that you overstayed your leave abroad? Yes No If \"Yes\", explain: Political opinion 26. Has your request for asylum become known to the authorities of your Home Country? Yes No If \"Yes\", how has this become known? I am not able to Explain, but it is not a secret, that the actual goverment Rnotis, what eiser happen Here, Related with Hicaragnans What do you think would happen to you if you return? Be persecuted Why? Political reasons 27. Have you ever applied for asylum in any other country? Yes No If \"Yes\", explain what happened: (2 days in Gustemala to get the N.S. visa) (3) (OVER)"
+}

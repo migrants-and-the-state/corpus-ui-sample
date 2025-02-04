@@ -1,0 +1,19 @@
+{
+	"anumber": "A11138471",
+	"id": "A11138471_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11138471_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Revenue Receipt, Nº 75480"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Additional certificates may be secured for 50 cents each, provided the name, date and place of death, together with the REGISTRATION No. which appears on the front face of this certificate, is quoted. Unless the REGISTRATION No. is quoted, an additional fee of 50 cents is required for searching the records. Address your communications to the Director of Vital Statistics, Parliament Buildings, Victoria, B.C. Revenue Receipt No. 75480 For Treasury Use Only."
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A17180748",
+	"id": "A17180748_0037",
+	"page_index": 37,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17180748_0037/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/21/2023, ES-575"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "D. K. LUDWIG 360 LEXINGTON AVENUE NEW YORK, N.Y. 10017 April 28, 1967 Dear Sirs: Ref: Daniel K. Ludwig - Employer Yung Sing Lo - Alien Yuk Ying Sum The compensation is $575 per month for the above named employees plus room and board. There are separate living quarters attached to the main residence. Mr. Lo's main responsibility will be that of a cook and his wife will be the general housekeeper. This matter has been cleared by the California Department of Employment Office (556). Upon completion of Forms ES-575 please return them to: Mr. A. J. Dietsch American Hawaiian Land Company Westlake Village (91360) Thank you for your courtesies. Johnson Sincerely, Department of Employment Security United States Department of Labor 450 Golden Gate Avenue (R 10210) San Francisco, California 94102"
+}

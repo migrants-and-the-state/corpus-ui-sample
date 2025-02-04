@@ -1,0 +1,22 @@
+{
+	"anumber": "A10179278",
+	"id": "A10179278_0039",
+	"page_index": 39,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10179278_0039/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF READMISSION, HONG KONG"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1901, 2023, 1953, 1955]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/28/2023 CERTIFICATE OF READMISSION This is to certify that TUAN YEN MAI-LING born on 16TH. March 1901 at Shantung, China is guaranteed readmission to the Colony of Hong Kong if it is she XX subsequently found that he/she has obtained a visa under the United States Refugee Relief Act of 1953 by fraud or by misrepresenting a material fact. 2. This Certificate does not imply any acceptance on the part of the Hong Kong Government of any responsibility, financial or otherwise, for the repatriation of the said TUAN YEN MAI-LING Ow Buch (H.V. McC reton) t Immigration Officer HONG KONG 3rd. May, 1955 Date: A. J. Hausske, Esq., American Consulate General, Garden Road, HONG KONG."
+}

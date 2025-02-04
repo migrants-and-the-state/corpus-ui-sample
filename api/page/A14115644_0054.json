@@ -1,0 +1,25 @@
+{
+	"anumber": "A14115644",
+	"id": "A14115644_0054",
+	"page_index": 54,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14115644_0054/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "BAGGAGE AND PERSONAL EFFECTS OF DETAINED ALIEN, I-43"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/29/2023 BAGGAGE AND PERSONAL EFFECTS OF DETAINED ALIEN EQUIPAJE Y BIENES PERSONALES DEL EXTRANJERO DETENIDO Name Location Code \"A\" Number CORRALES. Mesa Lais EPT-CSB DECLARACION DEL EXTRANJERO Tengo en los Estados Unidos y no en posesión inmediata, los bienes personales que se describen a continuación: (Detalle equipaje, automoviles, dinero depositado en bancos, salario O sumas que le deban, y toda otra clase de bienes. Si ningunos, escriba \"NINGUNOS\".) Descripción: Ahora en Posesión de: Domiciliado en: None E1 pariente o amigo que se nombra más abajo cuidará de mi equipaje y bienes: Nombre Direccion Numero de Telefono Lo que antecede representa todos los bienes personales que poseo en los Estados Unidos y que no están en mi posesion inmediata. Fecha en que fue firmada 11-1-66 Firma XLuis@males ALIEN'S STATEMENT I have the following described personal property in the United States that is not in my immediate possession: (List baggage, automobiles, money on deposit in banks, salary or debts due you, and all other property. If none, write \"NONE\".) Description: Now in the Possession of: Located at: None The relative or friend named below will care for my baggage and property: Name Address Telephone Number The above represents all of the personal property owned by me in the United States except that in my immediate possession. Date Signed 11-1-66 Signature Form I-43 United States Department of Justice (Rev. 3-7-66) Immigration and Naturalization Service"
+}

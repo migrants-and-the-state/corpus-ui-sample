@@ -1,0 +1,25 @@
+{
+	"anumber": "A73964564",
+	"id": "A73964564_0112",
+	"page_index": 112,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A73964564_0112/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "ayran"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 2003]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 U.S. Department of Justice Immigration and Naturalization Service 1887 Monterey Highway San Jose, California 95112 MAY 13, 2003 JOSEFA MATILDE ROMANO File Number: A073964564 Officer: AYRAN Examination of your Application for Naturalization (Form N-400) shows that additional information, documents, or forms are needed before your application can be acted upon. Please provide requested information or documents AT YOUR NEXT SCHEDULED INTERVIEW. You will receive separate notification of appointment date and time. The Medical Form that you submitted does not meet the necessary criteria to grant a waiver. It is lacking in detail and/or information as noted on attached assessment. You will be expected to pass the civics test. You will be tested in English or your native language if you are exempt from the English language requirement. You may submit another Medical Form N-648 when you arrive for your next interview. If you choose to submit another Form N-648, take this letter and attached forms to a qualified and licensed physician, osteopath or clinical psychologist. When submitting an original N-648 the minimum information required includes a detailed explanation of the complete diagnosis and prognosis. These should be within a thorough discussion of the medical condition(s) detailing how said condition(s) and any other pertinent factor(s) affect(s) the applicant's skills and/or abilities. The Doctor's professional opinion should summarize how the medical condition(s) prevent(s) the applicant from learning and/or demonstrating a knowledge of civics and english, as well as, a discussion of the applicant's ability to understand the Oath of Allegiance. SEE ATTACHED FORMS FOR FURTHER CLARIFICATION OF REQUIREMENTS FOR FORM N-648. Form N-14"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A11138471",
+	"id": "A11138471_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11138471_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1962]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "November 20, 1962 Clerk of the Court United States District Court Phoenix, Arizona Re: Florence Cohen Dear Sir: There is forwarded herewith duplicate and triplicate copies of Immigration and Naturalization Service form N-455 (Application for Transfer of Petition for Natur- alization) in the above named case, who desires trans- fer of this petition to your Court. Upon approval by your Court, please transmit the triplicate copy to this Court; whereupon, you will be furnished with a certified copy of the petition and other papers relative thereto. Very truly yours, JOSEPH I. BOGART, CLERK William Jong two By Deputy Clerk encl: a/s cc. U. S. Dist, Ct., Phoenix I & N, Miami"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A10017891",
+	"id": "A10017891_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10017891_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/6/2023, A10 017 891"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Family Name (Capital Letters) Given Name Middle Name LEE Screened by NARA, 9/6/2023 SUEY GIN Nationality (Citizenship) Passport Number and Country of Issue File Number China - A10 017 891 United States Address (Number) (Street) (City) (State) 102m Norway St., Boston, Mass. Airline & Flight No. or Vessel of Arrival Passenger Boarded At 2/13/55 - Alaska - M-1 Hong Kong Number, Street, City, Province (State) and Country of Permanent Residence 108 102 Norway St., Boston, Mass. Birthdate Date of Action Location Code 9/20/10 8/4/66 BOS City, Province (State) and Country of Birth AR Form: (Type & No.) Lifted Yu A1 Hung Vil., SND,China Not Lifted Visa Issued At Social Security Account Name Hong Kong Date Visa Issued Social Security No. Send C. 0. Rec. Check 1/4/55 To: BOS-Inv"
+}

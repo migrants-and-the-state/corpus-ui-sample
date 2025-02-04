@@ -1,0 +1,25 @@
+{
+	"anumber": "A90413717",
+	"id": "A90413717_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90413717_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "AEROMEXICO, I-94"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1906, 1980, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Family Name (Capital Letters) First Name creened byNARA,7/17/2023 Middle Initial MELIDALAHAYA Asod Country of Citizenship Passport or Alien Registration Number Permit Number NICARAGUA 250/148 131.38 05 United States Address (Number, Street, City and State) HotEL PONCE DE LEON Airlina and Flight No. or Vessel of Arrival ** Passenger Boarded at MEROMEXICO Number, Street, City, Province (State) and Country of Permanent Residence MANAEUA - NICARAGUA Month, Day and Year of Birth 31MARZ0-1906 - U.S. IMMIGRATION 06B MIA 351 City, Province (State) and Country of Birth MANAGUAL NiCARAGUA Vis Issued at (If no visa, insert ticket number) MAY 11 1980 STAPLE Month, Day and Year Visa Issued MAY LIMITED 22,1980 FORM HERE CLASS I-94"
+}

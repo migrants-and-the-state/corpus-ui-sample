@@ -1,0 +1,42 @@
+{
+	"anumber": "A17180748",
+	"id": "A17180748_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17180748_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate of Naturalization, N-550"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1910, 1975]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "medium"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Married"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1975.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "601 S. Detroit Street, Los Angeles, Calif."
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "DUPLICATE STUB DUPLICATE DO NOT DETACH TO BE FORWARDED TO No. 10117818 IMMIGRATION AND NATURALIZATION SERVICE CERTIFUL 0 Pelilion No. 363939 AlienRegistration No A17 180 748 DUPLICATE Personal description, of holderas of Date of birth December 25, 1910 Male sex complexion Medium colorsheyes Brown color of hair Black height feet 9 inches; weight 160/pounds; None. Maritalstatus Married Country of formernationality China. I certify that the description thepholographieffords herelois, a likeness of me you / and Sing true signature go of holder) UNITED STATES OF AMERICA SS: CENTRAL DIST. OF CALIFORNIA Beit known, that lakatermofthe District Court of The United States held/pursuamblo lawal Los Angeles on September 19, 1975 the ***YUNG SING LO them residing at 601 S. Detroit Street, Los Angeles, Calif. inlends loreside, permanentlyin, the United. States when sorequired bythe naturalization Laws of he United States), had in all other respects, complied with the applicable, provisions, of such naturalization laws, and was entitled to be Seal admitted socilisenship, thereupon ordered that suchper son be and(s)hewas admilled as a citizen the United States of America. Investimony whereoy thesealofthe, courtis hereunto affixed, this 19th day of September in the year of our. and Seventy-five. EDWARD M. KRITZMAN Clerk of the U. S. District Court. IT IS PUNISHABLE BY U. S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE. By S. 1.7mg Deputy Glerk."
+}

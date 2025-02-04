@@ -1,0 +1,28 @@
+{
+	"anumber": "A17181791",
+	"id": "A17181791_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17181791_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PERSONAL DESCRIPTION FORM"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "PERSONAL -Screened by DESCRIPTION FORM (Type or Print) Date of birth OCT. 27,1914 ; sex FEMALE ; complexion BRAWN MF/D color of eyes mayba ; color of hair height inches; weight 13/ BLACK GREY 5 feet 0 pounds; visible distinctive marks NONE NONE ; marital status DIVOURCED DIVOURCED country of (If change nationality of name requested) change CHINA to: Betty Mao ALWAYS GIVE YOUR ALIEN REGISTRATION NUMBER WHEN COMMUNICATING WITH THIS SERVICE. ONITED ZLVIEZ GPO 316ca) - China - 9-30-70 880.170 -Housekeeper & Cook"
+}

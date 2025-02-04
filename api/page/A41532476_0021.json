@@ -1,0 +1,19 @@
+{
+	"anumber": "A41532476",
+	"id": "A41532476_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41532476_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/18/2023 BREACH CANDY HOSPITAL & RESEARCH CENTRE 60-A, Bhulabhai Desai Road, Bombay 400 026. DEPARTMENT OF PATHOLOGY AND MICROBIOLOGY Senior Pathologist Dr. FRAINY E. PALIA M.D. (Path) D.P.B. Date 28.11.88 Tel. No. : 822 36 51 - - 822 00 70 Name : DESAI HARIBHAI DAHYABHAI Specimen taken on : 28.11.88 Referred by Dr. H.R. MANCHANDA Lab. No. : 5626 Passport No. : C 414727 SEROLOGICAL EXAMINATION : NEGATIVE/BOSSTAKE OF BLOOD FOR KAHN TEST BM/mmj"
+}

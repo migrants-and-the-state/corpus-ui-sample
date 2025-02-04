@@ -1,0 +1,25 @@
+{
+	"anumber": "A19509771",
+	"id": "A19509771_0007",
+	"page_index": 7,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19509771_0007/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PERMIT TO REENTER THE UNITED STATES, I-1297"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1972]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 UNITED STATES OF AMERICA DEPARTMENT OF JUSTICE THIS DOES NOT Immigration and Naturalization Service RESIDENCE FOR PERMIT TO REENTER SEE THE UNITED STATES . Pursuant to the provisions of Section 223 of the Immigration and Nationality Act, this permit is issued to the person named herein, an alien previously law- fully admitted to the United States for permanent residence, to reenter the United States as a special immigrant if otherwise admissible. c 20536 expiration of the period surrendered to and Natural surrender the permit may issuance of future reentry THIS IS NOT A UNITED STATES PASSPORT 1 1972 Edition"
+}

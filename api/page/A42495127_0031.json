@@ -1,0 +1,25 @@
+{
+	"anumber": "A42495127",
+	"id": "A42495127_0031",
+	"page_index": 31,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42495127_0031/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. NATURALIZATION TEST, Form M-1000SC, USCIS Naturalization Test 65/20 Special Consideration Test-1"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2016, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/26/2023 Form M-1000SC, USCIS Naturalization Test Department of Homeland Security U.S. Citizenship and Immigration Services 65/20 Special Consideration Test-1 A-Number: FOIA (b)(6) Date: 07/28/2016 U.S. NATURALIZATION TEST U.S. History and Government (Civics) 65/20 Applicant Test Form 1 FOR OFFICIAL USE ONLY The USCIS Officer will read a civics item orally to the applicant and the applicant will respond orally. The USCIS Officer will write the applicant's answer in the space provided. If an interpreter is used because the applicant qualifies for an exemption from the English requirements, the USCIS Officer will write the applicant's response as stated by the interpreter in the space provided below. Civics Items Correct Incorrect *1. What is the capital of the United States? Answer: WASHINGTON DC 2. When is the last day you can send in federal income tax forms? Answer: 15-Apr *3. Who was the first President? Answer: GEORGE WASHINGTON *4. What is the capital of your state? Answer: TALLAHASSEE *5. When do we celebrate Independence Day? Answer: *6. What is the name of the President of the United States now? Answer: BARACK OBAMA **7. Name one war fought by the United States in the 1900s. Answer: 8. What is the economic system in the United States? Answer: 9. What was one important thing that Abraham Lincoln did? Answer: *10. What is one responsibility that is only for United States citizens? Answer: VOTE IN FEDERAL ELECTIONS Total correct answers: 6 Interpreter Used: No Result Pass Fail Yes (Language: CREOLE ) Form M-1000SC (10/11/10)"
+}

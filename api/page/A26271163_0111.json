@@ -1,0 +1,16 @@
+{
+	"anumber": "A26271163",
+	"id": "A26271163_0111",
+	"page_index": 111,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26271163_0111/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/1/2023 CIMFTR DEPARTMENT OF HOMELAND SECURITY - USCIS 09/23/13 COMMAND: CIS - ILE TRANSFER REQUEST (FTR 09:55:04 A#: 026271163 NAME: SANCHES MARGARITA DOB: 11081910 * A-NUMBER: 026271163 PERSON/ACTION: * FCO REQUESTING TRANSFER: (* = REQUIRED FIELDS) YOU MAY REQUEST TRANSFER OF ANOTHER A-FILE BY KEYING A DIFFERENT A-NUMBER. CLEAR EXIT PF3 REFRESH PF4 FTS MENU PF5 HELP PF6 CIS MAIN MENU IN NARA CUSTODY - CANNOT BE REQUESTED."
+}

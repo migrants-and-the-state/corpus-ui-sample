@@ -1,0 +1,42 @@
+{
+	"anumber": "A13573268",
+	"id": "A13573268_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13573268_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF NATURALIZATION, 922301440"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1969, 1913]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "medium"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Married"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1969.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "Bakersfield, California"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "TO BE FORWARDED TO No. 9230140 IMMIGRATION AND NATURALIZATION SERVICE 0 ) Petition no 5579 DUPLICATE Personal description, of holders of Date of birth July 15, 1913 sex Female ; complexion Medium colorsteries Brown color of hair Black height 5 feel inches; weight 102 pounds; visible None Maritalstatus Married Country of formernationality China I certify that the description above givenis, New dographic afficed herelois a likeness of me. King chim Jue ( Complete and true signature of holder) STATE OF CALIFORNIA } SS: County of Kern Beilknown, that ala termofthe Superior Court,of Kern County Bakersfield, California on November 19, 1969 the Court havingfound.,hav KING CHUN JUE them residing, at 1323 K Street, Apt. C, Bakersfield, California inlends loreside permanentlyin, the United States when sorequired, by the naturalizeation Laws of he United States), had in callother respects, complied with the applicant all provisions, of such naturalization laws, and was entilled lobe Seal admilled docilisenships thereupon,ordered that suchpersonbeand(shewas admilled as a cilizen o helmiled States of America. Investimony whereof thesealofthe,courtis 19th day of November in the year of our Lordnineeerhundredand sixty-nine IT IS A VIOLATION OF THE U. S. CODE (AND PUNISHABLE AS SUCH) TO Glerk of the Superior Court. COPY, PRINT. PHOTOGRAPH. OR OTHERWISE ILLEGALLY USE THIS CERTIFICATE. By Deputy Clerk. BURCAUOFENGRAVINGANDPRINTING,LITHO."
+}

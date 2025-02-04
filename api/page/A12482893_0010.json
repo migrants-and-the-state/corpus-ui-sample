@@ -1,0 +1,25 @@
+{
+	"anumber": "A12482893",
+	"id": "A12482893_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12482893_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "AFFIDAVIT"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Canada"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CANADA PROVINCE OF QUEBEC DISTRICT OF MONTREAL AFFIDAVIT I, SERGE WALDSTEIN, domiciled and residing at No. 3860 St. Hubert Street, in the City and District of Montreal, having been duly sworn do depose and say: 1. THAT the document annexed hereto is a true translation from Roumanian and Latin to the English language; AND I HAVE SIGNED. lerge Waldstein SWORN tp before me at the City of Montreal on this 6th day of November, 1961. COMMISSIONER of the Superior Court for the District of Montreal."
+}

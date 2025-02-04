@@ -1,0 +1,19 @@
+{
+	"anumber": "A17210305",
+	"id": "A17210305_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17210305_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/11/2023 Joy Lacks Financial Condition As of May 4, 1967 ASSETS: Cash: Checking - Balance per Bank $3,172.00 LESS: Outstanding checks - Miscellaneous $ 120.15 Transfer to Savings Account at Home Savings & Loan Assn. of L.A 1,800.00 ( 1,920.15)$ 1,251.85 Savings Account - United California Bank 425.98 Savings Account - Home Savings & Loan Assn. of Los Angeles 28,374.18 28,800.16 Securities: Stocks - Marketable - FMV 18,321.00 Bonds - U. S. Gov't Series \"E\" 2,500.00 20,821.00 Auto - FMV 950.00 Personal Effects, Insured for 10,000.00 Insurance, See Footnote (1) - 0 - Value of Retirement Fund, See Footnote (2) - o - TOTAL ASSETS $61,823.01 LIABILITIES: Current Expenses, Estimated 200.00 NET WORTH $61,623.01 NOTES: 1) Insurance: Term $9,000.00 Accident 43.000.00 Total $ 52.000.00 The total insurance is not included in the above assets. 2) I have been a civilian employee of the United States Government for over fifteen years. The value of my Civil Service Retirement Fund is not included in the above assets."
+}

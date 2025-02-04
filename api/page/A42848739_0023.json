@@ -1,0 +1,22 @@
+{
+	"anumber": "A42848739",
+	"id": "A42848739_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42848739_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "1ST Nationwide Bank Letter of Account Information,, S044 (R01/0986"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1990, 2023, 1993]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/27/2023 1ST NATIONWIDE BANK A FEDERAL SAVINGS BANK April 23, 1990 TO WHOM IT MAY CONCERN: This is to certify that as of this date the records at this office show the following: Account Title Gladys Or Raynald Laroche Account Number Account Type Opening Date Present Balance 3004299713 Savings 12-03-86 Checking $ 10,118.68 Branch Name and Address Coral Gables /2525 le jeune road Coral Gables F1 33134 Very truly yours, fished Isabel Morales Mirals Finacial Services Counselor State of FLORIDA County of DADE The foregoing instrument was acknowledged before me this 23rd day of April, 1990, by Isabel Morales. Notary Public NOTARY PUBLIC STATE OF FLORIDA AT LARGE MY COMMISSION EXPIRES AUGUST 15, 1993 S0441 (R01/0986)"
+}

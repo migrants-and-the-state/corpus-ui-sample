@@ -1,0 +1,22 @@
+{
+	"anumber": "A43136069",
+	"id": "A43136069_0058",
+	"page_index": 58,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43136069_0058/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "LABORATORIO CLINICO Y DE VIROLOGIA 'CENTRO MEDICO'"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/25/2023 LABORATORIO CLINICO Y DE VIROLOGIA \"CENTRO MEDICO\" T. M. Mauricio Robleto M. Tecnólogo Médico - UNAN Especialista en Inmunohematología Dr. Gustavo Huelva B. Médico y Cirujano Especialista en Virología Nombre y Apellidos: Gragoriana Alvarez Edad: 77 años Sexo: F EspecimenSangro Vanesa Médico: Dr. Edmundo Delcarmen POSITIVO NEGATIVO FECHA Anticuerpos Anti-VIH X 30/09/91 METODO USADO: SERODIA - HIV NO REACTIVO REACTIVO DILUCIONES V. D. R. L. X 30/09/91 Observaciones: Dr. Gustavo Huelva B. T.M. Mauricio Robleto"
+}

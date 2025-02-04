@@ -1,0 +1,22 @@
+{
+	"anumber": "A12994632",
+	"id": "A12994632_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12994632_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "50-20 Contact"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "English: RESULT OF EXAMINATION OK (Chinese) Date 50-20 Contested Screened by NARA, 9/18/2023 COURT ACTION Speaks Reads WA Write WA Classes No Govt. DENIED G-325 ID. nes G-325B Grounds G-325 Rec. Br. neg N-426 Examiner Cont'd G-325C Other Cont'd as Requested) Eligibility 101 (f): OK OK 6MOS RES O/C Action or documents still required: Documents presented: CDL#A 0290356 I-151 S/R 412 994 632 SFR 4-1-64 2-2 naz neg waived. oath all statements made the Recommendation Recommendation Investigation Petitioner GT GA under approved Preliminacy Preliminary at Examiner and preliminary Designated Examiner investigation (Date) (Date) 3/17 3-17 57 19 1987 BELLION"
+}

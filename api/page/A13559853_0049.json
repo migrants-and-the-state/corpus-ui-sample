@@ -1,0 +1,22 @@
+{
+	"anumber": "A13559853",
+	"id": "A13559853_0049",
+	"page_index": 49,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13559853_0049/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/24023, 604"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 604 When one parent's file is rec'd, no fee on it, but has other parent's file number, and page 4 of the file shows wishes Cert. of Citizenship for a child, then check Dot Lee's 600 box for record on child's name. Sometimes the other parent's application shows feed in, that's why you have to see if there is the other file. repart no from"
+}

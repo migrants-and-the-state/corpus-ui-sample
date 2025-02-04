@@ -1,0 +1,22 @@
+{
+	"anumber": "A17202075",
+	"id": "A17202075_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17202075_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEportation Docket Control Action Slip or Notice, 1-156"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1968]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/11/2023 DEPORTATION DOCKET CONTROL ACTION SLIP OR NOTICE TO: S.I.O. Travel Control Investigations Deportation Docket Control Notice of Action Notice of failure to submit action slip. (Last report dated ) Please execute this form and return it to Deportation Docket Control. Name File Number FRAMJEE, SHEHROO K. A17 202 075 Action Motion to reconsider filed and approved. Subject returned to valid visitor status with extension of stay to June 20, 1968. Action Date Reporting office or section Date this report submitted 1/25/68 LOS Airport 1/25/68 Form 1-156 United States Department of Justice (Rev. 7-2-62) Immigration and Naturalization Service"
+}

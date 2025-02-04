@@ -1,0 +1,22 @@
+{
+	"anumber": "A43274002",
+	"id": "A43274002_0048",
+	"page_index": 48,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43274002_0048/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "IMMIGRATION AND NATURALIZATION SERVICE, #30"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/27/2023 BY: INS -FRANKFURT, - GER 14-6-94 ; 11:55 ; 49697410971- :#14 U. #30 CIMSIN IMMIGRATION AND NATURALIZATION SERVICE 06/14/9 COMMAND: CENTRAL INDEX SYSTEM - DETAILED SEARCH DISPLAY 03:32:5 A#: 043274002 NAME: SIKRI NARAIN DOB: 1201 LAST: SIKRI\\ FIRST: NARAIN NATZ DATE: MIDDLE: DAS COURT: ALIASES: LOCATION: SEX: POE: WAS COB: PAKIS DOE: 032092 FCO: ICF COA: IR5 COC: FATHER: GHANSHAM PFCO: SFCO: DFO: 032092 BIN: MOTHER: MODAN SSN: CONSOLIDATED A-NOS --OTHER INFORMATION- I-94 ADM #: CARD-X PASSPORT FRT DRIVER FINGER CLEAR EXIT PF4 RETURN PF5 HELP PF6 CIS MAIN MENU PF7 NEXT SEARCH PF8 VIEW HISTORY PF9 VIEW EAD Status Confirmed as QPR"
+}

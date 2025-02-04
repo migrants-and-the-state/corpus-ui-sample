@@ -1,0 +1,25 @@
+{
+	"anumber": "A70396768",
+	"id": "A70396768_0020",
+	"page_index": 20,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A70396768_0020/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Family Relationship"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1895, 1993, 2023, 1934]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/20/2023 Y N CHECKED/DATE/INITIAL KA'S 1/2 SIBS/STEP CHILDREN ADOPTED SIBS/CHILDREN ADOPTED PARENTS Family Relationship MISSING SIBS/CHILDREN DECEASED SIBS/CHILDREN My name is Sex(M/F) Birthdate Age Osman Abdi Saed M 1895 98 LIST ALL IMMEDIATE FAMILY MEMBERS: PARENTS Name Sex(M/F) Birthdate Age Present location Abdi saed M unknown u deceased FATHER Fadumo MUXUMBD F unknown 4 deceased MOTHER BROTHERS, SISTERS, HUSBAND/WIFE, CHILDREN: 1. JILAL ABDI M unknown 4 deceased Brother 2. HIREY 14 r 4 a a n a u a 3. AjIE \" 4 n is a H It u u u 4. SAHAL u n h k in y be u U is < 5. SIRAAD CARAYSYusez F LINKNOW AF-MASOW wife 1- 6. Marinet Osman Abdi M 1934 59 deceased. Son 2 7. ? 8. 9. 4 FOIA (b)(6) 5- 10. 11. 6 Halimo 9 4 F 1961 32 Deceased 11. 12. 7 8- 13. 9 14. FOIA (b)(6) 04 15. 16. This is to verify that the information above is correct and complete to the best of my knowledge. 03 APR 1993 Signature Signed 03 APR Interpreter's Name: Date"
+}

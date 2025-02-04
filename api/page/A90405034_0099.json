@@ -1,0 +1,22 @@
+{
+	"anumber": "A90405034",
+	"id": "A90405034_0099",
+	"page_index": 99,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90405034_0099/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "QUIRANTES Bros. Orthopedic Appliances Inc., 1158 S W 1 STREET MIAMI, FL 33130 ( (305) 545-7765"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1988, 1989, 1981, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "QUIRANTES Bros. Orthopedic Appliances Inc. 1158 S W. 1 STREET MIAMI. FL. 33130 (305) 545-7765 courantes June 8, 1987 To Whom It May Concern: Bertha Arguello DeLaCayo has been a patient at our facilities since 1981 and has ever since visisted us once a year to have a Lumbo Sacral Orthosis made for herself. The last time which she had one done was today, June 8, 1987. Thank you for your cooperation. December Cordially, Quirantes Bros. Orthopedic Appliances Smoon to and signed before me this & day of June Ag 1989 OTHELLES Aug MOTARY PUBLIC STATE OF FLORIDA MY COMMISSION EXP. JUL 25,1988 BONDED THRU GENERAL INS. UND."
+}

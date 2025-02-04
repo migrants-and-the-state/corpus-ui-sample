@@ -1,0 +1,28 @@
+{
+	"anumber": "A21772021",
+	"id": "A21772021_0011",
+	"page_index": 11,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21772021_0011/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "MEMORANDUM FOR FILE, AR1722041"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1973, 1956, 2023, 1975]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/1/2023 MEMORANDUM FOR FILE RE: PIAR SINGH A21772071 Subject is an applicant for adjustment of status under the nonpreference classification for INDIA , the country of her/his birth. The applicant is seeking a waiver of the requirement of a labor certi- fication as set forth in section 212(a) (14) of the Immigration and Nationality Act, as amended, on the allegation that she/he does not intend to seek gainful employment in the United States. age male Retired as a in 1956 is 74 Son yrs of supported when they usided my India for arrived mus Subject son/daughter BHAGWAN SINGH CHAWLA is a permanent in any 1973 then sent money Had recent eye surgery resident of the United States and has submitted an affidavit of support in her/his behalf to establish subject's eligibility for a waiver of the labor certification requirement. The waiver of the labor certification is granted in accordance with 8 CFR 212.8. APR 4 1975 Supervisory Immigration Examiner Section 245 Unit"
+}

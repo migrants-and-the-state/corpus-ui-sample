@@ -1,0 +1,25 @@
+{
+	"anumber": "A22106234",
+	"id": "A22106234_0012",
+	"page_index": 12,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22106234_0012/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "MASSACHUSETTS COLLEGE OF PHARMACY"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Canada"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/31/2023 MASSACHUSETTS COLLEGE OF PHARMACY Office of the Dean April 12, 1976 American Consulate General U.S. Embassy Calgary, Alberta Canada Re: Shabir Z. Masih Dr. Shabir Z. Masih, a permanent full-time member of the Faculty of the Massachusetts College of Pharmacy, W holds the rank of Assistant Professor of Industrial Pharmacy. The annual salary for this position is $18,800. MASSACHUSETTS PHARMACY James James COLLEGE Mickles Micklea OF 'Dean ses 179 Longwood Avenue Boston. Massachusetts 02115 Phone (617) 734-6700"
+}

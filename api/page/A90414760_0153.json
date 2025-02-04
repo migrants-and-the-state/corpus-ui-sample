@@ -1,0 +1,25 @@
+{
+	"anumber": "A90414760",
+	"id": "A90414760_0153",
+	"page_index": 153,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90414760_0153/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "REvalidaciones, 7 71571"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Russia", "Cuba", "China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1969]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "6 7 71571 OBSERVACIONES REVALIDACIONES OBSERVATIONS REVALIDATIONS MIGR Revalidade este pasaporte de This passport is revallated from de Bolamas p Válido haster 20 ENE 1969 DE yalid ERICA firma Ambrizade EFAI Authorized Signature Revalidadó Revalidated S Válida hasta Valid unface FREE INTERT Finma Adroaxada AUTO UK AMERICA CENTER Revalidado el Revalidated on Válido hasta Valid until } ESTE PASAPORTE NO ES VALIDO PARA VIAJAR A CUBA, RUSIA, REPUBLICA Firma Autorizada POPULAR CHINA, POLONIA, CHECOES Authorized Signature LOVAQUIA, ALEMANIA ORIENTAL HUNGRIA, RUMANIA, BULGARIA ALBA Nia COREA DEL NORTH VIRT NAM DRE NORTE"
+}

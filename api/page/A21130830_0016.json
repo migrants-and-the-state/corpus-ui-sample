@@ -1,0 +1,22 @@
+{
+	"anumber": "A21130830",
+	"id": "A21130830_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21130830_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-468"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet Application or Petition Form No. File No. ATTENTION IMM. EXAMINER THIS FILE CREATED IN LIEU OF \"A\" FILE, ON INTERVIEW PLEASE REQUEST FOLLOWING INFORMATION FROM APPLICANT TO HELP LOCATE ORIGINAL \"A\" FILE. A 20 161323 (1) COPY OF I-94 (2) DESTINATION ON ARRIVAL 10 Hollin (3) NAME USED ON ARRIVAL (4) WHAT CITIES SUBJECT RESIDED IN OUTSIDE OF STATE OF FLA. (5) A #'S OF MEMBERS OF FAMILY ARRIVING AT SAME PORT OF ENTRY WITH SUBJECT IF KNOWN (6) WHAT OFFICE OF IMMIGRATION SERVICE HAD SUBJECT APPLIED FOR ANY ACTION EX: I-102, I-570, I-512 etc. This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which ray facilitate processing. Koop this ahood on 100 of all material is fils until Laltial decision La made Form I-468"
+}

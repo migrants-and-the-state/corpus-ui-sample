@@ -1,0 +1,25 @@
+{
+	"anumber": "A11638538",
+	"id": "A11638538_0037",
+	"page_index": 37,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11638538_0037/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF MARRIAGE., 664-54-R40"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Honduras", "Belize"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1960, 1944]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/31/2023 CERTIFICATE OF MARRIAGE. Under or above Rank or Residence at time Rank or Profession No. When and where married Name and Surname Condition the age of Profession Father's Name and Surname of Marriage of Father I8 years 283 July eight 1944 Whitfield Hugh Cain Above Bachelor Eletrical 851 Eve William Cain Planter Harvey Hall 18 Department Street ,Belize Belize Gladys Gwendolyn Above spinster Domestic 1238 Castle Albert Arnold Sanitary Arnold 18 St. Belize Inspector Married in the Harvey Hall, Belize according to law by me after declaration duly made as by Law required. Alfred G. Burnham Whitfield H. Cain Reuben Alexander Usher The marriage was solemnized between us in the presence of Gladys G. Arnold Doris A. Lee Date of Entry in the Register 10th July, ,1944 Certified to be a true copy of an entry in the Register of Marriages for the Colony of British Honduras. Given at Belize this 19th day of January, 1960 With 664-54-R40 Ag . De puty Registrar General"
+}

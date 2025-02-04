@@ -1,0 +1,28 @@
+{
+	"anumber": "A36154620",
+	"id": "A36154620_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A36154620_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "44"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/14/2023, G-361 (VISA 4-1-76)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. SHEN Screened by NARA, 7/14/2023 LING CHIH S-500 A-36-154-620 ALIAS NEE CHU, - AKA CHIH - WAIVER P.O.E. CODE DATE OF ENTRY CODE TYPE ADM QUOTA AREA CODE HHW 04-14-77 IR5 MO-DAY-YR OF BIRTH AGE COUNTRY OF BIRTH CODE OCCUPATION CODE CERT. CODE 03-25-14 63 CHINA 245 COUNTRY LAST RES. CODE MSWDSEP. CODE SEX NATIONALITY CODE STATE/AREA CODE 268 44 STREET ADDRESS (City, State, and Zip Code) 1430 PATWOOD DR., LA HABRA, CA. 90631 FCO DATE FCO DATE FCO DATE FCO DATE LOS 05-20-77 018 022 FCO DATE FCO DATE FCO DATE FCO DATE FORM G-361 (VISA 4-1-76) N INDEX CARD 01044 DUPLICATE"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A28952345",
+	"id": "A28952345_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28952345_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Original Certified a true and correct copy. Contact Representative, USING 2-4-88, Form No: 10356"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 and returned. cary.- correct original true and certified a 2-4-88 PC USINS w Contact Representative. 500 POTTEST- TO property HUSBUTS 2010 70 busing 1799 Marci BEPT stocupa 2607346 ou or MIRROUTH BOU or Busa] Kpan 85wg sports 00 AGELS 65142 can"
+}

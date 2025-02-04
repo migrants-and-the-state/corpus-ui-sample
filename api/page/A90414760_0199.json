@@ -1,0 +1,25 @@
+{
+	"anumber": "A90414760",
+	"id": "A90414760_0199",
+	"page_index": 199,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90414760_0199/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/13/2023, 23606 639"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1982]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME FUENTES Vda de BolANOS, FILE NO. CALL-UP DATE ALIAS (Last name first) Elsda 23606639 DOCKET OFFICE ENTRY DATE STATUS AT NATIONALITY DATE OF BIRTH ENTRY COUNTRY OF BIRTH MIA 9.29.79 B.2 NIC 9.19.06 NIC DEPORTATION Required Departure CHARGE To By SEMIB Authorized on: VD 12.31.79 TC-MIA Extended on To By Admitted to 71.30.79 -T589 filed 10.16.79 Extended on To By Extended on To By Extended on To By REMOVED FROM DOCKET PER MEMORANDUM THE FOLLOWING LOCAL RECORDS WERE CHECKED TO LOCATE OR VERIFY DEPARTURE Chgd TC T-589-9-20-22 CO 243-P dated August 9, 1982 TO INVESTIGATIONS DIVISION to locate or verify departure. (Date). Unable to verify departure. Please Initiate investigation Whereabouts unknown as of PV. (Date) Closeout procedures completed 7-21-83 (Date). Voluntary Departure Verified. DATE DEPARTED Status adjusted. Allen died. COUNTRY OF DESTINATION Unable to locate, alien's whereabouts unknown for 3 years. ALIAS (Last name first)"
+}

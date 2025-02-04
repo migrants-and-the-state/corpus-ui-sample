@@ -1,0 +1,25 @@
+{
+	"anumber": "A30506045",
+	"id": "A30506045_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30506045_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 5/8/2023, R-160"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Family Name (Capital Letters) Screened by NARA, 5/8/2023 First Name Middle Initial RIVERA-Rubio, Roberto R-160 Country of Citizenship Passport or Alien Registration Number Permit Number M-xico A30 506 045 359 75 08 United States Address (Number, Street, City and State) 506 Prosperity SE A-t 3, Albuquerque, NM 87102 Airline and Flight No. or Vessel of Arrival Passenger Boarded of Number, Street, City, Province (State) and Country of Permanent Residence Month, Day and Year of Birth 04/27/14 City, Province (State) and Country of Birth ELP 03/02/73 Cd Camargo CHIH Mexico Visa Issued at any 01,77 02/01/77 Month, Day and Year Visa Issued Banno #15"
+}

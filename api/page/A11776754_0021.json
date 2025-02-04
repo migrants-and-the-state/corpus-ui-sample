@@ -1,0 +1,28 @@
+{
+	"anumber": "A11776754",
+	"id": "A11776754_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11776754_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Affidavit"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Hungary", "Austria"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961, 1906, 1959]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "March 9, 1959 affidavit This is to certify that Gizella Schwarty, nee Gizella Weiss, arrived in the U.S. a from austria Hungary before the year of herida 1906 Mrs. Gizella Schwartz now in Los Angeles California Sandor B Weiss 4083 Junedo Detroit 4, Mich State of Michigan } SS County of Wayne on this 10th day of March, 1959, before me personally appeared Sandor B. Weiss to me known to be the person described in and who C 1 executed the foregoing instrument and acknowledged that he executed thebsame as his free act a nd deed. COUNTY FRANK K. POBLENZ Notary Public Notary Public, Wayne County, Mich. Wayne County My Commission Expires June 25, 1961"
+}

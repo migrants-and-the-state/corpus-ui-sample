@@ -1,0 +1,25 @@
+{
+	"anumber": "A41623672",
+	"id": "A41623672_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41623672_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, Screeneded by NARA, 5/5/2023"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1999]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/5/2023 UNIVERSITY 8 U.S. Department of Justice Immigration and Naturalization Service 300 North Los Angeles Street Los Angeles, CA 90012 Date: JAN 2 0 1999 File: I, olaya Mercedes Santos Vinda de Cubian , , do hereby authorize the following named individual, who has identified him/herself to me as Luis ARtiGA of the following address:> 11787 CRAW AVE CHINO, CA 91710 , , to act as my interpreter during my interview for naturalization. I fully understand that by requesting the above named individual to act as an interpreter between me and the Immigration Service, I may be breaching the confidentiality of this interview. The above named individual has assured me that he/she will act in good faith and has the ability to speak and understand both English and Spamin I hereby relieve the immigration Service of any responsibility associated with the translation of my interview. witness WCheony DAO mercedes Santas witness Luis Antiba Applicant I, x Luis ARtiGA , have acted as an interpreter in the above case. I am fluent in the Spanish and the English languages. I swear or affirm that my translation of these proceedings is true and correct to the best of my knowledge. X hay use Signature of Translator Alien Registration Number (If Appropriate) Co 160922 / 01 (272) 560-1249 (323) California (ID) (DL) Telephone Number wcheory Adjudications Officer"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0027",
+	"page_index": 27,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0027/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "BAMBOO HUT Restaurant, 02173"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 BAMBOO HUT Restaurant 177 MASS. AVE. LEXINGTON MASS. 02173 April 9, 1966 TO WHOM IT MAY CONCERN: This is to certify that MAR Doo (also known as MAR Gong Doo), Social Security No. 073-32-1196, has been in our employ since March 7, 1966. His work in our restaurant is that as general kitchen helper and dishwasher; his pay is $250.00 monthly, food included. We wish to state that since MAR Doo began working in our restaurant we have found him to be an excellent worker and a man of good moral character. We wish to further state that MAR Doo's job in our restaurant is his to keep for as long as he wish to keep it. Yours very truly, BAMBOO HUT by Chuck M. Yee, President lefly"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A41804438",
+	"id": "A41804438_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41804438_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Northern Service Center P.O. Box 82521 Lincoln, Nebraska 68501-2521, None"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1992, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/27/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Northern Service Center P.O. Box 82521 Lincoln, Nebraska 68501-2521 Refer to File No. NONE November 16, 1992 Joginder Singh Uppal 210 Circle Ave., #201 Forest Park, IL 60130 Dear J. Uppal: RE: I-130 for UPPAL, Dhian Singh: The documentation submitted is not sufficient to warrant favorable consideration of your petition/application. The following information is also required: I Furnish the birth certificate (s) of Joginder Singh Uppal which has/have been registered with the proper civil authorities. 2 Furnish the marriage certificate (s) of Dhian Singh Uppal and former, wife which has/have been registered with the proper civil authorities. RETURN THE PETITION/APPLICATION ALONG WITH THIS LETTER AND ALL ATTACHMENTS TOGETHER WITH THE INFORMATION REQUESTED. A DECISION WILL BE MADE BASED ON THE EVIDENCE PRESENTED. FAILURE TO COMPLY WITH THE ABOVE MAY RESULT IN DENIAL OF YOUR PETITION/APPLICATION. Sincerely, James M. Bailey NSC Director DDM/jkh"
+}

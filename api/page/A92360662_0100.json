@@ -1,0 +1,22 @@
+{
+	"anumber": "A92360662",
+	"id": "A92360662_0100",
+	"page_index": 100,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A92360662_0100/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1982, 2023, 1964, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA 6/29/2023 FOIA (b)(6) To whom it may concern: My name is FOIA (b)(6) permanent residence of the United States since September of 1964. I have known Mr./Mrs. Maria Magdalena Matus since August 4 of 1,979 to June 28 of 1987 when He/She came to our c church for the first time. During this period of time, he/she has been continuously residing in the United States.- He/she is a person of good moral character and I would support his/her applica- tion for permanent residence through the registration provision which requires a person to enter the United States before January First of 1982. Sincerely yours. FOIA (b)(6) Date: June 28 of 1,987 Executed in the City of Los Angeles, California c/f."
+}

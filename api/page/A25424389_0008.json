@@ -1,0 +1,25 @@
+{
+	"anumber": "A25424389",
+	"id": "A25424389_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A25424389_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "RDC BIO DATA AND REQUEST FOR VOLAG ASSURANCE, RP-27 DEC 84"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 RDC BIODATA AND REQUEST FOR VOLAG ASSURANCE (circle correct answer) 1. CASE NUMBER CUBA- 5193 2. FAMILY SIZE: 01 02 03 04 05 06 07 08 09 3 A. LESPERANCE Etienne C. (Problee) 8. FAMILY MEMBER NUMBER : 01 02 03 04 05 06 07 08 09 Surname First Name Middle Name C DATE OF BIRTH 19001 6 / 2 D PLACE OF BIRTH Haite Year Month Day City Country E ETHNIC AFFINITY Haitian F. RELIGION G SEX: M F H. MARITAL STATUS: Married Single Widow(er) Divorced I FAMILY STATUS: Head of Household Spouse Dep Son Dep Daughter Other Other J. EDUCATION None Primary Secondary University Technical DEGREES EARNED: K. OCCUPATION: Most Recent Job: Date: Type of Work: No. years experience Retired L. LANGUAGES: Primary sponich Literate Yes No gnerch Yes No Yes No M. ENGLISH ABILITY: Speaking None Some Functional Fluent Reading None Some Functional Fluent Writing None Some Functional Fluent N. GENERAL STATE OF HEALTH: Good Fair Poor If pregnant expected date of delivery Note any physical or mental handicaps: 4. INDIVIDUAL OR GROUP IN U.S. POTENTIALLY WILLING TO SPONSOR THE REFUGEE : Name of Individual: Address: Telephone: Name of group or VOLAG (if known) : Has Volag or individual expressed interest Y N 5. RELATIVES IN THE U.S. (even if relative cannot sponsor) Name : Relationship: Date of Last Contact: Address: Name : Relationship: Date of Last Contact Address: 6. Other Information: RP:27 DEC 84"
+}

@@ -1,0 +1,28 @@
+{
+	"anumber": "A71817091",
+	"id": "A71817091_0026",
+	"page_index": 26,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71817091_0026/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "KEI WAN CHURCH THE CHURCH OF CHRIST IN CHINA, Exhibit 3"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1941, 1992, 1910, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/13/2023 KEI WAN CHURCH THE CHURCH OF CHRIST IN CHINA TEL. 5-600086 63, SAI WAN HO ST., SHAUKIWAN, HONG KONG. To WHOM IT MAY CONCERN Dear Sir, I hereing Certify that Mrs. Po Kam Ying () officially gomed no church on the date 23th February, 1941 by a transference ceremony at the age of thirty. she likes born on 25th November, 1910 as recorded in our recod Her address was Sie Flet A, 10th fl., No.18-70, Fort Shiet wath point, thoughtang before left they (cag. minister-In-Chief V pale City Keilian church, the Church of Chris tin China, Rev. po (Po KAM (HEONT) 20-1-1992 Exhibit 3"
+}

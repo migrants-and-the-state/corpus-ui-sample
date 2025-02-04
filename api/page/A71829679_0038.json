@@ -1,0 +1,19 @@
+{
+	"anumber": "A71829679",
+	"id": "A71829679_0038",
+	"page_index": 38,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71829679_0038/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/25/2023 RESIDENT ALIEN tment of . UA alization LOPEZ, JULIA AMELIA NAME 05 22 12 DOB A071829679 ALIEN NUMBER 07 23 03 CARD EXPIRES India Lotez ALIEN REGISTRATION RECEIPT CARD USA PERSON IDENTIFIED BY THIS CARD IS ENTITLED TO RESIDE PERMANENTLY AND WORK IN THE U.S IRO LOS 930517 579 3189460081 A1USA071829679<01<9307<<<<<<<< 205226F0307237<<<<<<6E6D53660 LOPEZ<<JULIA<AMELIA<<<<<<<<<<<"
+}

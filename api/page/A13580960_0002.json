@@ -1,0 +1,25 @@
+{
+	"anumber": "A13580960",
+	"id": "A13580960_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13580960_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/18/2023, PLEASE PRINT IN BLOCK CAPITAL LETTERS"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Family Name LAD TURE Given Name Initial 360 LAUTURE GENIA L360 Nationality (Citizenship) Passport Number HAITIAN 5-2-61 United States Address G 4816 W 21 AI, ANGELES USA Airline & Flight PAA432 No. or Vessel of Arrival STREET Passenger PAP Boarded At NOTHSERVICE Permanent Birthdate Address RUE CUNDER 3-1909 APR BIZOTON ~ MAMI, WA 1 If FLA T 1961 T5 16 HAIRI Birthplace TACHEL HAITI CLASS B2 Visa Issued At TO PORT Av. PRINCE Date Visa Issued MAR - 28-1961 July 30,1961"
+}

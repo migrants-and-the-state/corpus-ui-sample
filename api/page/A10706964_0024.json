@@ -1,0 +1,19 @@
+{
+	"anumber": "A10706964",
+	"id": "A10706964_0024",
+	"page_index": 24,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10706964_0024/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "John T. Bean Farm Letter of Employment"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "John T. Bean Farm 7421 Dale Road El Paso, Texas To Whom It May Concern: This is to certify that Pedro Mota is employed on my Farm. He receives fifty cents (.50) per hour for a fifty hour week and receives fifty-five cents for overtime. The farm furnishes him a garden, house, and utilities. He does general farm work. Yours very truly John John T. Bean, Bean Owner"
+}

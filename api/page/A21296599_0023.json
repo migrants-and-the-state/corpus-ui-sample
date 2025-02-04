@@ -1,0 +1,25 @@
+{
+	"anumber": "A21296599",
+	"id": "A21296599_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21296599_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Title: UNITED STATES DEPARTMENT OF JUSTICE\\nForm Number: G-643, G-645, FD-258, G-325C"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1976]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "UNITED STATES Screened by NARA, 8/18/2023 I GRATION AND NATURALIZATION SERVICE PLUSI 25721 TO THE nex 573023 A 21 296 599 John F. Kennedy Federal Building Government Center June 14, 1976 Boston, Massachusetts 02203 Find address new poor Mr. Trieu Thuan Huynh reyood 12 Pope Street TO Salem, Mass. 01970 Dear Sir / Madam: In order to complete your processing as a refugee, it will be necessary for you to complete and submit the enclosed forms which are checked below. /X/ Form G-546 /X/ Form G-643 Your signature on the above must be witnessed by a notary public whose seal must be affixed to the form, or by an Officer of the Immigration and Service. Form FD-258. You must complete the biographical data on this form. Your fingerprints may be taken by your local police department. Form G-325C Return this letter and all attachments to the address listed at the top of this letter. Very truly yours. PATRICK F. COOMEY District Director"
+}

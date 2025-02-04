@@ -1,0 +1,25 @@
+{
+	"anumber": "A40199244",
+	"id": "A40199244_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40199244_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICADO DE CONDUCTA DE POLICIA, NARA, 6/8/2023"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Nicaragua"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/8/2023 REPUBLICA DE NICARAGUA THE MINISTERIO DEL INTERIOR POLICIA SANDINISTA NICARAGUA Oficina de Permisos y Licencias P. S. Jefatura Departamental de la P.S. de de 198 AÑO DE: CERTIFICADO DE CONDUCTA DE POLICIA Hacemos Constar que el Compañero (a) AURELIA ORTIZ JIMENEZ Originario del Municipio de LA TRINIDAD del departamento de ESTELI Nacido el 15 del mes de JULIO de 19 14 de Oficios COMERCIANTE de 73 años de edad, cuyo Estado Civil es CASADA y con domicilio actual LA TRINIDAD, DEL PARQUE 1C AL NORTE. ANTECEDENTES DELICTIVOS EN NUESTRO REGISTRO NO ANTECEDENTES solicitud de parte interesada y para fines PARA VIAJAR se le extiende el presente Certificado Policial de Conducta, a los 25 días del mes de MAYO de Mil Novecientos OCHENTA Y SIETE en la Ciudad de ESTELI DEL NOTA: ESTE CERTIFICADO ES VALIDO FOR SESENTA DIAS TNTE, PRO MARCOS A RUIZ RIZO IA SANDINISTA left Departmental de 1s P.S ESTELI de information"
+}

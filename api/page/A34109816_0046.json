@@ -1,0 +1,22 @@
+{
+	"anumber": "A34109816",
+	"id": "A34109816_0046",
+	"page_index": 46,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34109816_0046/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certification of Employment Offer"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1973, 1972]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "December 19, 1972 TO WHO M IT MAY CO NCERN: This is to certify that Mr. Yang-Wei Chang has accepted our offer as a Commercial Artist for our company Starting January 15, 1973. His annual salary will be (U. S.) $6,450.00. Anny assistance extended to Mr. Chang will be greatly Appreciated. Masment Stolers Naomi M. Stokes Jackson Advertising Agency Naomi M. Stokes, an individual appeared before me this day, December 19, 1972 NMS/dg u howev fourse Notary, in U. Louise Powers and for the Explice Jan 12,1075 state of Oregon U. S. A. 1520 S.E. 11th AVE. . PORTLAND, OREGON 97214 BELMONT 5-1285 PRODUCT PROMOTION . PUBLICITY"
+}

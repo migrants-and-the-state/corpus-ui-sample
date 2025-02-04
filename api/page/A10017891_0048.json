@@ -1,0 +1,22 @@
+{
+	"anumber": "A10017891",
+	"id": "A10017891_0048",
+	"page_index": 48,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10017891_0048/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "China House, 102"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1946]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/6/2023 China House TELEMONE BOSTON MASS HANCOCK 6-9836 L China House 146 BOYLSTON STREET BOSTON 16 MASSACHUSETTS 8 November 19 54 To Whom It May Concern: This is to advise that Henry Oi, 102 Norway Street, Boston, Mass. Social Security FOIA (b)(6) has been steadily employed at this restaurant since its inception, May 1946 - and is presently acting in capacity of assistant general manager. His salary consists of $280.00 monthly plus proceeds from profit sharing plan of company's net earnings. Mr. Oi is considered a key employee and permanency of position is assured. Sincerely, CHINA HOUSE, Inc. Jeremice Timmie Chin, Treas. Chin JC/ms"
+}

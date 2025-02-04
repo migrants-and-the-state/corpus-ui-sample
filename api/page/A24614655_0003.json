@@ -1,0 +1,19 @@
+{
+	"anumber": "A24614655",
+	"id": "A24614655_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A24614655_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DONSKA YA FANYA, 29 7 81"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Prof. GAETANO TRICOMI L. Doc. in Radiologia Primario Radiologo Ospedale S. Camillo - Roma ROMA - Via Nizza, 11 - Tel. 869718 (Abitazione: Tel. 3276142) 29 7 81 DONSKAYA FANYA rx emitorace sinistro (con griglia) e stratigrafia alta bilaterale Elementi sclero-calcificati,isolati e ben circoscritti, nelle regioni apico-sottoclaveari, da riferire a vecchi esiti di pr. miliarico regionale. NON segni di lesioni recenti o comunque attive."
+}

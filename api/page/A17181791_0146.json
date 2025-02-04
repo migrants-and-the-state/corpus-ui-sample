@@ -1,0 +1,25 @@
+{
+	"anumber": "A17181791",
+	"id": "A17181791_0146",
+	"page_index": 146,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17181791_0146/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEPARTURE RECORD, I-94 (4-1-65"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "You are required to retain this permit in your Screene by NARA 9/21/2023 possession and to surrender it to the transporta- tion line at the time of your departure unless you depart over the land border of the United States in which case you must surrender it to a Canadian immigration officer. on the Canadian border, or to a United States immigration officer on the Mexican border. DEPARTURE RECORD Port: Date: Manner: Country of Destination: UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service Form Approved Budget Bureau No. 43-R311.5 ARRIVAL-DEPARTURE RECORD Form I-94 (4-1-65) G"
+}

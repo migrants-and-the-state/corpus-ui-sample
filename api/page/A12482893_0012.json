@@ -1,0 +1,25 @@
+{
+	"anumber": "A12482893",
+	"id": "A12482893_0012",
+	"page_index": 12,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12482893_0012/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Extract din registrul penit, No 17"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Romania"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1929]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Dieceza rom. cat. a Bucovines Dioecesis rom.-cath. Parohia Saelegura ROMANIA Parochia Comuna Rohains BUCOVINA Commune Prefectura Cernanti No 30 Praefectura Extract din registrul penu na ROMAHIA Testimonium Ortus et Baptis In conficia mascupion a paronici rom.-cat. se aflä, precum urmeaza: Jadagura In libro natorum parochiae rom.-cath. 18.2 reperjuntur sequentia: Anul, luna si ziua Numele de botez Numele si starea nasterii si botezului parintilor Numele nasilor Annus, mensis, dies Parentes Nomen baptismi Patrini nativitatis et baptismi nomen et conditio nomen et conditio his mile your Tata (Pater) nonarrite Ana crt. for by Vrurogajto Puarmer doi 1912 Elia fielin Tacob live Netru 11 21 Julie Zofiei h hielinesk Gaster Inlis 1.26% Maica (Mater) Eufroims fries s'a botezat de lu Elis Sales 11 baptizat est a R. D. Al a Anci his Moasa (obstetrix) 2utust Gudrikowike Turk Rose Spre adeverire urmeaza subscrierea mea proprie si intipärirea sigilului bisericesc Y Quas teslimoniales manu propria subscrib et sigilla adventads muric badegure in f Marbie 1929 roy Carol hastinch flaxoly 25 calo) sragura."
+}

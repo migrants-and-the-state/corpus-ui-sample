@@ -1,0 +1,22 @@
+{
+	"anumber": "A18029489",
+	"id": "A18029489_0053",
+	"page_index": 53,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A18029489_0053/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "The Immigration and Naturalization Service, J.F. Kennedy Federal Buildings, Boston, Mass., File No, A 18 029 489"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1968]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "W Walch The Immigration and Naturalization Service, J.F.Kennedy Federal Buildings, Boston, Mass. Dear Sir, With reference to my petition in 3rd preference in File No, A 18 029 489 I submit herewith certified copy of GOVERNOR'S order declaring the certificate of \" Assistant Engineer\" of Thomason Civil - Engineering College Roorkee as a Civil Engineering degree together with letter No ACD/9655/D-13 dated Dec 1968 from the Registrar, University of Roorkee, confirming the same. Very truly yours, Vedya Department 12.26.68 ( Vidye Sagar Pahwa ) 6, Conant Street, West Concord, Mass, 01781. organis to be returned to applicant 12/21/68, you"
+}

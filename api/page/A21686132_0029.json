@@ -1,0 +1,22 @@
+{
+	"anumber": "A21686132",
+	"id": "A21686132_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21686132_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Pullman Kellogg"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1978]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Northeast Operations Center 433 Hackensack Avenue Hackensack, New Jersey 07601 Pullman Kellogg Telephone (201) 646-1000 Telex 134515 22 February 1978 To Whom It May Concern: This will certify that Ramachandra Rao is an employee of Pullman Kellogg. He is functioning as a Mechanical Engineer at a salary of $22,716.00 per year. He is eligible for all corporate benefits and we would appreciate any courtesies extended to him. Very truly yours, Donald R Klein Donald R. Klein Personnel Supervisor DRK/"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A70022932",
+	"id": "A70022932_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A70022932_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "TRANSLATION OF A ' DEATH CERTIFICATE ''' and "
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["El Salvador"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1990, 2023, 1991, 1979]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 TRANSLATION OF A \" DEATH CERTIFICATE 11 Name of the Deceased Person: ENEDINO SANCHEZ-MARTIR Date of Death : October 15 1979 Place of Death: San Marcos, San San Salvador, El Salvador. Spouse of the Deceased at the time of Death: Maria Isabel Nolasco Official who certified the certificate of Death: Chief of Civil Registry Doctor or Clerk: Not Stated Place : San Marcos, San Salvador, El Salvador. Date: October 15 1979 Book of Certificate found registered: Archive or Register Death Page 63/64 No. 67 IMPORTANT ANOTATIONS : (Cause of deatch, etc. ) HEART ATTACK Certificate issued by : ANA LUCIA CORTEZ V. ( CHIEF OF CIVIL REGISTRY ) in San Marcos, San Salvador, El Salvador. on (date) January 05 1990 CERTIFICATION OF TRANSLATOR'S COMPETENCE I, Maribel De La Torre , HEREBY CERTIFY: That the above is an accurante translation of the original DEATH CERTIFICATE in Spanish and that I am competent in both the English and Spanish Languages, to render such translation.- Date: March 20 1990 Agency: OFICINA CHAHIN, 1041 So. Olive St., , Los Angeles, Calif. 90015 748-4210 628-1881 628-6734 SUBSCRIBED AND SWORN TO BEFORE ME OFFICIAL SEAL on this the 20th day of March 19.90 . .- ENRIQUE HUIDOBRO NOTARY PUBLIC-CALIFORNIA . Henddy PRINCIPAL OFFICE IN LOS ANGELES COUNTY NOTARY PUBLIC My Commission Expires Jan. 7, 1991"
+}

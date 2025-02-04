@@ -1,0 +1,22 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0034",
+	"page_index": 34,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0034/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "City of Boston Police Department Identification Section Certificate for Immigration and Naturalization Purposes, Form Number: BR_xxxx"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 HEADQUARTERS 154 BERKELEY STREET BOSTON POLICE CITY OF BOSTON POLICE DEPARTMENT EDMUND L. McNAMARA COMMISSIONER BUREAU OF GENERAL SERVICES IDENTIFICATION SECTION May 4, 1966 BR XXXX Mar Doo 215 Harrison Avenue Boston, Mass. 02111 Dear Sir, Relative to your request for statement of police record for presentation to immigration and naturalization authorities, please be advised that a search of the files of this department fails to disclose any record against you either under your name or fingerprints. This certificate is issued for immigration and naturalization purposes only. Very truly yours Robert E. Bradley REB:gs Deputy Superintendent RIGHT THUMB PRINT Mar Doo (Signature of Applicant) que"
+}

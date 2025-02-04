@@ -1,0 +1,22 @@
+{
+	"anumber": "A46916529",
+	"id": "A46916529_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A46916529_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. Department of Justice, Immigration and Naturalization Service, G-56"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1990]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "U.S. Department or Justice A 4 Immigration and Naturalization Service File Number A70023 /20 TOLEDO, FRANCISCA Date HORTENGIA 03/26/96 Please come to the office shown below at the time and place indicated in connection with an official matter. OFFICE Room No. Floor No. LOCATION 8024 8th FL. DATE AND HOUR AUG. 01, 1990 11:00 A.M.#9 BUNDLE F ASK FOR IMMIGRATION EXAMINER REASON FOR APPOINTMENT ADJUSTMENT OF STATUS BRING WITH YOU IT IS IMPORTANT THAT YOU KEEP THIS APPOINTMENT AND BRING THIS LETTER WITH YOU. If you are unable to do so, state your reason, sign below and return this letter to this office at once. I am unable to keep the appointment because: Very truly yours, d#8 SIGNATURE DATE Form G-56 (Rev. 5-1-83)Y CHECK THIS BOX WHEN COPY MAILED TO ATTORNEY OR REPRESENTATIVE FILE COPY"
+}

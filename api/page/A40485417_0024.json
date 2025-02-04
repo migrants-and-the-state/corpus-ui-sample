@@ -1,0 +1,28 @@
+{
+	"anumber": "A40485417",
+	"id": "A40485417_0024",
+	"page_index": 24,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40485417_0024/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "REQUEST FOR IMMIGRANT VISA CLEARANCE"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Honduras", "Panama"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/2/2023 UNCLASSIFIED To FROM. EMBASSY TEGUCIGALPA, HONDURAS DATE: 20FEB87 from X AMCONSUL PANAMA CITY SUBJECT: VISAS : REQUEST FOR IMMIGRANT VISA CLEARANCER d EIVED CONSULAR SECTION AMERICAN EMBASYS NAME: MUNOZ, ISABEL 80 MAR 1987 ALIASES: ORELLANA, ISABEL Tegucigalpa, D: B& Honduras DOB: 06DEC06 POB : CORQUIN COPAN RECEIVED HONDURAS CASE NUMBER: 86332028 19 MAR 1987 COMMENTS: Consular Section Panama ATTACHMENTS: OPTIONAL FORM 179 ( ) OPTIONAL FORM 236 ( ) SUBJECT'S VISA FILE POST REPLY 3/20/87 DATE) HONOZ, ( NO ADVERSE INFORMATION. ( ) ADVERSE RECORD BEING FORWARDED SEPARATELY ( ) ADVERSE RECORD ENCLOSED. ( ) ALIEN'S FILE ENCLOSED. ( ) ALIEN'S RECORD HERE FAVORABLE COMMENTS: AMEMBASSY PANAMA (CONS - IV) REMINDS POST REQUESTING CLEARANCE C2 sent 3/00/87 cancelled THAT NO NAME CHECK IS NECESSARY FOR APPLICANTS 80 YEARS OVER. ENCLOSURES: AMERICAN VICE CONSUL GENERAL OSCAR G. DeSOTO Vice Consul UNCLASSIFIED"
+}

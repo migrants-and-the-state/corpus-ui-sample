@@ -1,0 +1,42 @@
+{
+	"anumber": "A17195429",
+	"id": "A17195429_0061",
+	"page_index": 61,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17195429_0061/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DUPLICATE OF NATURALIZATION CERTIFICATE, FORM N-550 ( (REV. 11-1-87)Y"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989, 2023, 1915]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "medium"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "MARRIED"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1989.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "1963 ROSE VILLA ST., PASADENA, CA.91107"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "Screened by NARA, 9/21/2023 FORM N-550 U.S. DEPARTMENT OF JUSTICE No. 13966070 IMMIGRATION AND NATURALIZATION SERVICE (REV. 11-1-87)Y Name NUI CHAN residing at 1963 ROSE VILLA ST. , PASADENA, CA. 91107 SIGNATURE OF HOLDER Date of birth 03/06/15 Date of order of admission 08/21/89 IS NOT REQUIRED ON THIS DUPLICATE STUB Date certificate issued AUGUST 21, 1989 by the DUPLICATE U, S. District Court at Los Angeles, California DO NOT DETACH Petition No. 00785611 INS Registration No. A17 195 429 TO BE FORWARDED TO No. 13966070 IMMIGRATION AND NATURALIZATION SERVICE CANEL O Pelilion No. 00785611 DUPLICATE INS. Registration ne A17 195 429 Personal description of holderas effection Date of birth MARCH 06, 1915 sex FEMALE ; complexion MEDIUM coloroleyes BROWN weight 110 pounds, visible distinctive/marks color of hair BLACK height 05 feel 05 inches; NONE Maritalstakes MARRIED Country of formernationality CHINA MAINLAND certify that the breen and thatther photograph a likeness of me. New chrom / Complete and true signature of holder) UNITED STATES OF AMERICA } SS: CENTRAL DIST. OF CALIFORNIA Beilknown, that ala termof the District Court of The United States Los Angeles AUGUST 21, 1989 on NUI CHAN the Gourheavingfoundshak then/residing, at 1963 ROSE VILLA STREET, PASADENA, CA. inlandstoreside, permanentlyin, the United States when sorequired by the Naturalization Laws oft the United. States), had in all other respects, complied with the applicable, provisions, of such naturalization laws, and was entilled lobe Seal admilled docilisenship.MhereuponorderedMhalsuch herson, be and(s)hewas admilled as a citizen of the United States of America, Indestimony whereof the esealofthe,courtis, hereuntorafficed.,this 21TH day of AUGUST EIGHTY-NINE LEONARD A. BROSNAN Glerk of the U.S. District Court. By Deputy Glerk. FORM N-550 (REV. 11-1-87)Y"
+}

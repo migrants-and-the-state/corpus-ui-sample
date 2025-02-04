@@ -1,0 +1,28 @@
+{
+	"anumber": "A14635169",
+	"id": "A14635169_0055",
+	"page_index": 55,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14635169_0055/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "STATE OF CALIFORNIA COUNTY OF LOS ANGELES"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 1970, 2023, 1963]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/20/2023 STATE OF CALIFORNIA SS COUNTY OF LOS ANGELES ) Anna Esteves, being first duly sworn according to law deposes and says: THAT she is a citizen of the United States by naturalizations that she has in possession of certificate of naturalization No. 5001642; that she is presently residing at 22404 So. Normandie, Torrance, Calif.; AFFIANT states that she has known Mr. Philip Chow and his wife May Ching Chow for many years; that she has a very close assiation and friendship with this family; to Hong Kong AFFIANT states that she has taken a trip during her vacation in July, 1963; that she went to visit May Ching Chow's mother Chow Soo King and May Ching's brothers and sisters on many occasions; AFFIANT states that the photographs she took with Mrs. Chow Soo King and her children were taken during that visit in Hong Kong: that due to the said association with May Ching's family she has every reason to believe that May Ching Chow and her brothers and sisters are all blood children of one and the same parents. x anna Estives Subscribed and sworn to before me at Los Angeles, California this 14th day fo July, 1966. Lothamu OFFICIAL SEAL My Commission Expires April 11. 1970 LOTUS MA NOTARY PUSLIC - CALL-ORNIA PRINCIPAL OFFICE 1: 1142 COUNTY OF LOS AND"
+}

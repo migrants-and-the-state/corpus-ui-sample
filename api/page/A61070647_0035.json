@@ -1,0 +1,22 @@
+{
+	"anumber": "A61070647",
+	"id": "A61070647_0035",
+	"page_index": 35,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A61070647_0035/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF TRANSLATION,, NARA-0123456789"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 PAUL QUERU DALENCOURT DIRECTOR GENERAL ai CERTIFICATE OF TRANSLATION: I, JEAN VOLCY, am competent to translate from the French Language into English, and I certify that this summary translation is true and accurate to the best of my abilities. Address: Paralegal & Notary Multi Services, 716 N. 15th Street, Immokalee, FL 34142. Telephone (239) 657-3677 Fax Number (239) 658-0800, Date: 8/28/09 Translator's Signature: June"
+}

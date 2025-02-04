@@ -1,0 +1,22 @@
+{
+	"anumber": "A61070647",
+	"id": "A61070647_0045",
+	"page_index": 45,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A61070647_0045/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "LABORATOIRE D'ANALYSES MÉDICALES, AA0121"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2009, 2023, 2003]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 LABORATOIRE D'ANALYSES MEDICALES 17 et 21 CHEMIN DES DALLES PHONES : 245-6315 -245-6329 DR J. BONCY Mme M. BONCY M. J. PERIERA DR V. PEAN BIOLOGIE CLINIQUE MICROBIOLOGIE BIOCHIMIE HISTO-PATHOLOGIE PATIENT CHARLESTON Charlesia Médecin DR BUTEAU ID. No Code No AAO11211 Recherche d'Anticorps ANTI VIH ELISA I NEGATIF ELISA II WESTERN BLOT P 17 P 24 P 31 P 51 P 55 P 66 P 41 P 120 GP 160 Absence de Bades RPR : Négatif DEC 02 2009 DEC 01 2003 Reçu le Fait le DEC 01 2009 Date Signature N.B.: Le Diagnostic de SIDA repose sur des critères stricts. II ne doit pas être porté sur une sérologie VIH positive. Un résultat négatif n'exclut pas la possibilité d'infection à VIH. En cas de Positivité répété à l'ELISA, une confirmation par d'autres tests biologiques est à faire, (WESTERN BLOT R.I.P.A)"
+}

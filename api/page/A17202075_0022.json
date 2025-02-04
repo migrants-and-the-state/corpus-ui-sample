@@ -1,0 +1,25 @@
+{
+	"anumber": "A17202075",
+	"id": "A17202075_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17202075_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "POST OFFICE DEPARTMENT UNITED STATES OF AMERICA, POD Form 2865"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/11/2023 C5 POST OFFICE DEPARTMENT (1) Postmark of the office returning the receipt UNITED STATES OF AMERICA Timbre du bureau renvoyant l'avis Administration des Postes des Etats-Unis d' Amérique POSTAL SERVICE RETURN RECEIPT Service des postes Avis de réception RETURN TO: A17 202 075 #42 Renvoyez à: (Name or firm) District Director (Nom ateraison sociale) (2) Immigration & Natzn. Service (Street and number) P.O. Box 9398 (Rue et numéro) at (à) El Paso l'exas 79964 UNITED STATES OF AMERICA (City, State, and ZIP Code) (Localité) Etats-Unis d' Amérique 1 If this receipt is to be returned by air mail, put on it the conspicuous notation \"Renvoi par avion\" (Return by air mail) and the blue \"Par avion\" (via air mail) label or impression. Si le présent avis doit être renvoyé par avion, le revêtir de la mention très apparente \"Renvoi par avion\" et de l'étiquette ou d'une empreinte de couleur bleue \"Par avion.\" 2 To be filled out by the sender, who will indicate his address for the return of this receipt. A remplir par l'expéditeur, qui indiquera son adresse pour le renvoi du présent avis. POD Form 2865, June 1966"
+}

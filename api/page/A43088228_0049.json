@@ -1,0 +1,22 @@
+{
+	"anumber": "A43088228",
+	"id": "A43088228_0049",
+	"page_index": 49,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43088228_0049/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "NOTICE, NARA-0123456789"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1991]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/18/2023 NOTICE Effective immediately, the U.S. Immigration and Naturalization Service no longer routinely requires submission of original documents or \"certified\" copies of original documents. Uncertified photocopies of such documents (including naturalization certificates and Alien Registration Cards) are accepted as long as the originals are available. Please read and sign the statement below and include it with your application/petition. \"COPIES OF DOCUMENTS SUBMITTED ARE EXACT PHOTOCOPIES OF UNALTERED ORIGINAL DOCUMENTS AND I UNDERSTAND THAT I MAY BE REQUIRED TO SUBMIT ORIGINAL DOCUMENTS TO AN IMMIGRATION OR CONSULAR OFFICIAL AT A LATER DATE.\" \" CHUN WING LEE Print Name Chem Wing the 4-30-1991 Signature Date"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A21681533",
+	"id": "A21681533_0019",
+	"page_index": 19,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21681533_0019/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CORRECTED INDEX CARD, G-361 (Rev. 4-1-76) N"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/26/2023 NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. NAIR , Sankaranaryanan N. A21 681 533 Alias --- P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH PHI 5/3/79 IRO 1/6/02 INDIA Type of Action: Name of Sponsor: ADJ OF STATUS SEC 245 Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, State, and Zip Code) 11 Woodsedge Road, Audubon, Pa. FCO Date 8/7/79 FCO Date FCO Date PHI Acession No. Box No. CORRECTED INDEX CARD Form G-361 (Rev. 4-1-76) N INDEX CARD Triplicate"
+}

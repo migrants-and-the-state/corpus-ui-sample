@@ -1,0 +1,22 @@
+{
+	"anumber": "A34698683",
+	"id": "A34698683_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34698683_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "REceIPT FOR CERTIFIED MAIL, P-478 648 108"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 P- - 478 648 108 RECEIPT FOR CERTIFIED MAIL NO INSURANCE COVERAGE PROVIDED NOT FOR INTERNATIONAL MAIL (See Reverse) abautmajidChaudhey to 11419 Spruce St Street and No. Lynwood,C490262 P State and ZIP Code S Postage Certified Fee Special Delivery Fee Restricted Delivery Fee Return Receipt showing to whom and Date Delivered Return Receipt showing to whom, Date. and Address of Delivery Fees s OF TO OTAL 1987 Date s nd A34698683"
+}

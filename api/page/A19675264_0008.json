@@ -1,0 +1,22 @@
+{
+	"anumber": "A19675264",
+	"id": "A19675264_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19675264_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "RADIOLOGY CONSULTANTS, P.A., LI 9-4241"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1971, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 DRS. BERGER, KREMENS & FORMAN RADIOLOGY CONSULTANTS, P.A. 5601 NORTH BROAD STREET PHILADELPHIA, PA. 19141 LI 9-4241 SIMON BERGER, M.D. VICTOR KREMENS, M.D. MYRON FORMAN, M.D. 48813 May 27,1971 Louis Margolis, M.D. Re: Phatak, Vinayak Cedarbrook Hill Chest Wyncote, Pa. 19095 5/27/71 D Dear Dr. Margolis: CHEST: Examination of the chest reveals minimal linear fibrotic scarring in the right infraclavicular region. This finding does not appear to be clinically significant. The lungs are otherwise entirely clear. The hilar shadows outline normally. The leaves of the diaphragm are in normal position. The heart is normal in size and shape; the bony thorax is intact. SUMMARY: Study of the chest is essentially negative. Cordially yours, Venton Victor Kremens, M.D. VK/1f"
+}

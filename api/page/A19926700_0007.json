@@ -1,0 +1,19 @@
+{
+	"anumber": "A19926700",
+	"id": "A19926700_0007",
+	"page_index": 7,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19926700_0007/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEPARTAMENTO DE JUSTICIA DE LOS ESTADOS UNIDOS, Form G-56"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "DEPARTAMENTO DE JUSTICIA DE LOS ESTADOS UNIDOS Servicio de Inmigración y Naturalización NUMERO DE EXPEDIENTE Sírvase presentarse a la oficina abajo indicada, en el lugar y a la hora señalados, para tratar un asunto oficial. DIRECCION DE LA OFICINA Despacho Piso Número Número FECHA Y HORA PREGUNTE POR RAZONES POR LA CITA TRAIGA CONSIGO Es importante que usted cumpla con esta cita y que traiga consigo esta carta. De no poder hacerlo, sirvase firmar abajo, devolviendo esta carta a esta oficina inmediatamente, y concertaremos otra cita. Atentamente, No puedo cumplir con esta cita. Tenga la bondad de concertar otra cita. FIRMA FECHA DIRECTOR DE DISTRITO Form G-56 (Rev. 5-31-72) N"
+}

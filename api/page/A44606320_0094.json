@@ -1,0 +1,22 @@
+{
+	"anumber": "A44606320",
+	"id": "A44606320_0094",
+	"page_index": 94,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44606320_0094/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "MARRIAGE CERTIFICATE"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1962, 2023, 1381, 1968]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 MARRIAGE CERTIFICATE Khankah Shareet, © RANDER. RANDER KAZI OF - District Surat. 30th May 1968 This is to certify that marriage of your son of Ahmed lisha aged about 22 years residing at America ab present at RenderDistrict Surat with Immin subedar daughter of thehmond this whereved aged about WALL years residing at Rander District Surat was performed at Rander Dist. Surat on Saturday the 13th of April 1962 Coresponding with the 8\" day of filled 1381 Hijei, Calender. layed Hrahim Befai Kazi of Rander BARBOTHAN, PAL & ADAJAN"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A12797485",
+	"id": "A12797485_0026",
+	"page_index": 26,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12797485_0026/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DURLACHER & COMPANY, 5300"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1962]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "AM 5300 with not 8 DURLACHER & COMPANY Incorporated with SCARFS FASHION ACCESSORIES 120 EAST 23.00 STREET NEW YORK 10, N Y June 27, 1962 To Whom It May Concern: This is to advise that Mercedes Moronto of 3762 - 101st Street, Corona 68, L.I., N. Y. has been in our employ since January 31, 1962 and has averaged about $90.00 per week. Cordially yours, DURLACHER & CO. INC. Albert DiConsiglio ad:so DURLYNE PRODUCTS"
+}

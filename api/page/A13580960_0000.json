@@ -1,0 +1,28 @@
+{
+	"anumber": "A13580960",
+	"id": "A13580960_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13580960_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/18/2023, A 13 580 960"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Haiti", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961, 1909]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "by Family Name Given Name Initial LATURE LAUTURE Genia L360 Nationality (Citizenship) Passport Number File Number Haiti 522-61 MYC A 13 580 960 United States Address 616 West 113 New York City Airline & Flight No. or B=2 Passenger Boarded At PAA 432 MIA Permanent Address SOCIETY Vessel of Arrival Haiti 113 Avenue St Antoine, Port-au-Prince, Haiti Birthdate winter Date of Action Location Code May 19, 1909 6/13/63 NYC Birthplace Alien Registration Jacmelde LaValle, Haiti Visa Issued At Port- Au-Prince-Haiti Form I-94 Lifted Not Lifted Date Visa Issued Send C. 0. Record Check To: March 28, 1961 NYC"
+}

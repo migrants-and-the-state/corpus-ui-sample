@@ -1,0 +1,25 @@
+{
+	"anumber": "A21681533",
+	"id": "A21681533_0017",
+	"page_index": 17,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21681533_0017/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate of Birth"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1931]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "This is to certify that Nagendran Thampi is the son of Mr. N. Sankaranarayanan Nair and his wife, R. Lalitham- bika Pilla Thankachi, and was born on the 9th February, 1931, in their residence known as Puthumana Amma Veedu in Karamana, Trivandrum, INDIA. Padmin Nam (Mrs.) Dr. Padmini Nair Vipanchika Vellayambalam, Trivandrum, INDIA Allishi 12-9-98 Rajappean. B.A.B.L. ADOLICCLASS MAGNSTRATS MOMILE COURT TRIVANDRUM \"I certify that I have compared this copy with original and it is a true and complete 09/3/79 Date: Signed: George Gershenfeld, Esquire Suite 715 Widener Building 1339 Chestnut Street Philadelphia, Pennsylvania 19107 Admitted to Practice in State of Pennsylvania\""
+}

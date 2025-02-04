@@ -1,0 +1,25 @@
+{
+	"anumber": "A17181791",
+	"id": "A17181791_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17181791_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/21/2023, G-361 ( (Rev.7-1-60)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Name (Last, in (CAPS) (First) (Middle) No. MAO, BETTY Screened by NARA, 9/21/2023 A 17 181 791 Alias Sndx Code (SPOUSE & CHILD ABROAD Entered: (Mo.) (Day) (Year) (Port) (Class) Born: (Country) (Mo.) (Day) (Year) CHINA 10-27-40 Type of Action: Name of Sponsor: VP LOS 05-18-67 MR. & MRS. HALLIBURTON, JR. Action 5n VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Naturalized: (Mo.) (Day) (Year) (Court No.) (Court Location) (Certificate No.) FCO Date FCO Date FCO Date LOS 05-24-67 Accession No. Box No. Form G-361 (Rev.7-1-60) INDEX CARD Triplicate"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0045",
+	"page_index": 45,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0045/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "U.S. TREASURY DEPARTMENT INTERNAL REVENUE SERVICE, UM:A-537"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1956, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 U.S. TREASURY DEPARTMENT INTERNAL REVENUE SERVICE DISTRICT DIRECTOR 484 LEXINGTON AVENUE NEW YORK 17, N. Y. IN REPLYING REFER TO: Alien Income Tax Section November 19,1956 MAR DOO a/k/a MAR AU SANG Soon Hing Farms Green Lawn, Long Island, N.Y. You are requested to call at the Alien Income Tax Section, 484 Lexington Avenue, New York 17, N.Y., Room 116, on November 27,1956 at 9:00 AM o'clock, to give evidence that you have complied with the obligations imposed by the Federal Income Tax Laws. It will be necessary to bring with you at such time your passport, United States income tax returns filed by you for the last three years, and records of income and tax withheld in the United States from January 1st of the current year to date. It is requested that you also bring cancelled checks, receipts or other records substantiating the deductions and dependents claimed on your returns. If you are unable to appear on the date specified, please call Plaza 1-2000, Extension 344, in order that another appointment may be arranged. KINDLY PRESENT THIS LETTER WHEN YOU CALL. Very truly yours, Hand B. Austean HAROLD B. A'HEARN District Director UM:A:537"
+}

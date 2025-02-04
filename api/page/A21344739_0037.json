@@ -1,0 +1,25 @@
+{
+	"anumber": "A21344739",
+	"id": "A21344739_0037",
+	"page_index": 37,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21344739_0037/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/22/2023, FORM I-94"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 Family Name (Capital Letters) First Name Middle Initial NGUYEN THi N250 Country of Citizenship Passport or Alien Registration Number Permit Number VIET NAM 139 56 64 # Leo United W. States PPO Monroe Address (Number, Jr. Surbanity Street City and of State) the USA. Defende attache office SF 96620 Airline and Flight No. or Vessel of Arrival Passenger Boarded of AiR FORCE SAigon Number, Street City, Province (State) and Country of Permanent Residence VIETNAM Month, Day and Year of Birth PAROLED PURSUANT 10 SEC 212( 2 OCTOBER - -21 1915 (5) OF THE ! & N ACT TO: City, Province (State) and Country of Birth VIETNAM PURPOSE Visa Issued at Month, Day and Year Viso Issued (Port) (Date) (Officer) FORM I-94"
+}

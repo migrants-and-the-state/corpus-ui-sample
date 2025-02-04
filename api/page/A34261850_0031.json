@@ -1,0 +1,22 @@
+{
+	"anumber": "A34261850",
+	"id": "A34261850_0031",
+	"page_index": 31,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34261850_0031/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Memorandum, G-2 Rev. 1-2-80"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/3/2023 Memorandum Spamsh Subject Date LOST APPOINTMENT NOTICE FOR A#: 24 261 850 9/30/97 To From DAO, EL MONTE OFFICE NAME: MARIA TRIN ALFARO UDA DE GOMEZ SCHEDULE APPOINTMENT DATE: 9-30-97 LOCATION: EL MONTE TIME: 8:20 APPLICANT'S PHONE #: ( ) (HOME) APPLICANT'S PHONE #: ( ) (WORK) APPLICANTS CURRENT ADDRESS: A# G034 261 850) ZIP CODE: (1-10) PASSED TEST 1 GOVERNMENT/ JOYY 1 * WRITTEN/READL... OFFICER: Glady form G-2 89.30.97, Rev. 1-2-80) ra"
+}

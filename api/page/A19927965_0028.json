@@ -1,0 +1,22 @@
+{
+	"anumber": "A19927965",
+	"id": "A19927965_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19927965_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INDEX CARD, G-361 (Rev. 10-1-70) N"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Pakistan"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (LAST IN CAPS) Screened by NARA 771372023 (FIRST) (MIDDLE) SNDX CODE NO. HUSSAIN, MAHMUDA 119 927 965 Alias P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH LOS 2-7-75 Z-2 10-10-10 PAKISTAN Type of Action: Name of Sponsor: Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, State, F Zip Code) 78 0037 and FCO Date FCO Date FCO Date LOS 2-11-75am Acession No. CORRECTED Box No. 54 Form G-361 (Rev. 10-1-70) N INDEX CARD Triplicate"
+}

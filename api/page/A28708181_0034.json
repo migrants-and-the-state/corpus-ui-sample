@@ -1,0 +1,22 @@
+{
+	"anumber": "A28708181",
+	"id": "A28708181_0034",
+	"page_index": 34,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28708181_0034/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ADVANTAGE CARE COMMERCE, 2633"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/22/2023 ADVANTAGE CARE COMMERCE PATIENT: BAKHSHI,SHEILA CASE NO: 2633 DOCTOR: IMM DATE: 7/10/87 PROCEDURE: CHEST AGE: 70 CHEST: The cardiomediastinal silhouette is normal. The aorta and pulmonary vascular patterns are unremarkable. The lungs are clear bilaterally. There are no bony abnormalities. IMPRESSION: Negative chest with heavy markings of benign character. F.D. VAN ZANDT, M.D. RADIOLOGIST FDVZ:flb INDUSTRIAL PRIVATE PHYSICAL CONTRACT"
+}

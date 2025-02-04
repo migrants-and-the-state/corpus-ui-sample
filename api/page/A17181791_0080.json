@@ -1,0 +1,25 @@
+{
+	"anumber": "A17181791",
+	"id": "A17181791_0080",
+	"page_index": 80,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17181791_0080/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "The Grand Hotel, Taipei, Taiwan, 660038"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Taiwan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "660038 1961 : we t 4 The Grand Hotel TAIPEI, TAIWAN To where it may Concern: Betty Mrs has house with us for a your dear lise never had a better more dypendaba Grugh. She has is delightful disposition, always willing to do anything to help. al ricomend her without reservation- - my entire family lonce her and will min all Jeannett Cainen (Mn R. 5. Camera)"
+}

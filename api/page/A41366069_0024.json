@@ -1,0 +1,25 @@
+{
+	"anumber": "A41366069",
+	"id": "A41366069_0024",
+	"page_index": 24,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41366069_0024/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INDIA, AFFIDAVIT"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 1Re IDIAS trank ace RCP RUDI ONERUPEE HRR ONERUPEE NOTARIAL AFFIDAVIT, I, Joginder Singh Jawandha son of Shri Mahan Singh Jawandha, aged 65 years, resident of Jawandha Colony, Rampura Phul, District Bhatinda, Punjab, India, do hereby soleumly affirm and declare Oil oath as under:- If. That . I have personally known Hardit Singh Jawandha since my birth, (Contd. . 2) Deponent, (Joginder Singh Jawandha)"
+}

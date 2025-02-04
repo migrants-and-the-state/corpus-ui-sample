@@ -1,0 +1,25 @@
+{
+	"anumber": "A17210305",
+	"id": "A17210305_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17210305_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "INSTRUCTIONS FOR USE OF ALIEN STATUS VERIFICATION FORM WR 6, FORM WR 6"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/11/2023 INSTRUCTIONS FOR USE OF ALIEN STATUS VERIFICATION FORM WR 6 A Form WR 6 shall be completed for each noncitizen in any case where the applicant checks \"No\" on Item 6 of Form WR 2 (Rev. 5/75). Complete Form WR 6 as follows CWD - In the address box at the upper left, enter the name and address of the appropriate INS office. In the address box at the lower left, enter the name and address of the county welfare department office where application is made. In the section labeled \"For County Use Only\" enter the case name, case number, status of referral to INS; enter date and initial to indicate that the documentation, certification or affidavits have been reviewed and the appropriate action initiated. APPLICANT - In the section labeled \"Alien Information,\" the applicant shall complete each item. a. If the name the alien was using upon entryxinto the United States is the same as he is presently using, write \"same\" in the box labeled \"Name at Time of Entry.\" b. If the alien has an Alien Registration Receipt Card or other entry permit, place the form designation (e.g., Form I-151) and registration number in the box labeled \"INS Form and Number.\" C. If the alien does not have INS documents, applicants must complete the section labeled \"Certification/Affidavit\" by checking the appropriate box. d. The person presenting the documentation affidavit or certifying the status of the alien shall sign the form, enter the date and place of execution, and state his relationship to the alien. (This should be the same person who signs the WR 2.) One copy of the WR 6 shall be retained in the case file. If a referral to INS for verification is indicated, two additional copies are to be sent to the appropriate INS office."
+}

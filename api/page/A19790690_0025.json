@@ -1,0 +1,22 @@
+{
+	"anumber": "A19790690",
+	"id": "A19790690_0025",
+	"page_index": 25,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19790690_0025/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1906, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "NAME (Exactly as it appears on the Nombree Screened art , 2/10/2023 FILE NO. Nguyen NhAT Th. A19790670 OTHER NAMES OR ALIASES DATE OF ADMISSION CLASS 12-17-69 NATIONALITY (As on N/I Document) DATE OF BIRTH DATE OF REPORT REPORTING 3/2 OFFICE Viet NAM 1906 1-24-72 DATE TO WHICH ADMITTED J-1 VISITOR (Current Program No/ & Institution) pro OR PREVIOUSLY EXTENDED: 2/17/72 EXTENSION OF STAY GRANTED TO: (date) 7/17/72 BOND POSTED APPLICANT FOR EXTENSION DENIED OSC ISSUED EXTENSION SECTION 245 V/D GRANTED w/o CHANGE OF NONIMMIGRANT STATUS ISSUANCE OF OSC STATUS ADJUSTED TO THAT OF PERMANENT RESIDENT ON: (date) I-530 (Rev. 11-15-64) REPORT OF ACTION_NONIMMIGRANT UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service"
+}

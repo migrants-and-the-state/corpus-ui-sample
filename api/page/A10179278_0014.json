@@ -1,0 +1,42 @@
+{
+	"anumber": "A10179278",
+	"id": "A10179278_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10179278_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Naturalization Certificate, N-550"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961, 1901]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "medium"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Married"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1961.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "446 W. Pierce Street, Maconb, Illinois"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "IS NOT REQUIRED ON THIS DUPLICATE STUB DUPLICATE DO NOT DETACH THE CA DUPLICATE TO BE FORWARDED TO No. 8125455 IMMIGRATION AND NATURALIZATION SERVICE CATE 1 Petition no. 6551 Personal description, of holderus, of date of naturalization: Date of birth March 16. 1901 sex Female ; complexion Medium colorobeyes Brown color of hair Grey height 5 feel 1 inches; weight 140 pounds; visible distinctive marks None Maritalstatus Married former pationality China I certify that the description above given is have and that hereto is a likeness of mi sign here you price king James yen Mei Ling Tuan / Complete and true signature of holder) United States of America SS: Sou.Dist of I11., Nor Division ala Termofthe U. S. District Court of the Southern District of Illinois, Northern Division held pursuant, to lawal Peoria, Illinois on September 12, 1961 the Gourthaving foundshad YEN MEI-LING TUAN then residing at 446 W. Pierce Street, Macomb, Illinois intends, loreside permanentlyin, the United. States when sorequired bythe naturalization Laws of the United. States), had in all other respects, complied with the applicable provisions, of such naturalizeation laws, and was entilled lobe Seal admilled socilizenship, thereupon ordered that such person be and (s)hewas admilled as a citizen of the United States of America, Indestimony whereof thesealofthe, courtis hereunto,affixed, this 12th day of September in the year of our Lord ninekeen hundred and Sixty-one and of our Independence the one hundred and Eighty-sixth. Hisaviolation of William Clerk U. S6 Thirtball District Court. of the punishable as such) to copy print, photograph. or otherwise illegally use this certificate. By"
+}

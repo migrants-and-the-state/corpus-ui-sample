@@ -1,0 +1,42 @@
+{
+	"anumber": "A42733525",
+	"id": "A42733525_0065",
+	"page_index": 65,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42733525_0065/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate of Naturalization, N-550-C ( (REV. 11-1-87)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1990, 2023, 1935]
+		},
+		"certificate_naturalization": {
+			"complexion": {
+				"complexion_llm_v1": "medium"
+			},
+			"marital_status": {
+				"marital_status_llm_v1": "Married"
+			},
+			"year_naturalization": {
+				"year_naturalization_llm_v1": 1990.0
+			},
+			"residence_naturlization": {
+				"residence_naturlization_llm_v1": "San Francisco, California"
+			}
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": true,
+	"full_text": "Screened by NARA, 9/26/2023 THE No. 14556161 Petition No. 400568 ORIGINAL INS Registration he FOIA (b)(6) Personal,description, of holders Date of birth JUNE 3, 1935 sex FEMALE complexion MEDIUM coloraboyes BROWN color frair BLACK height 5 feel 6 inches; weight 128 pounds; visibledishindivemark NONE Maritalstatus MARRIED Country of hormerpationality CHINA F certify that the description above givenis, Area and heretois, a likeness of m the / Complete-and true signature of holder) Pan UNITED STATES OF AMERICA SS: NORTHERN DIST. OF CALIF Beilknown,that ala formofthe DISTRICT Court of THE UNITED STATES SAN FRANCISCO on MAY 29, 1990 the Gouthavingfoundshal JING PAN them residing at SAN FRANCISCO, CALIFORNIA intends Moreside permanently in the United so required bythe Naturalization Laws of he United States), in allotherrespools, complied with had States when heapplicable provisions, of such naturalization laws, and was entitled lobe Seal admitted admilled as a cilixen of the United States of America, Intestimony whereof theseales,the court,'s herountoufficed 29TH day of MAY mineteen hundred,and NINETY Pachard W. Wishing Clerk of the U.S. DISTRICT Court. IT IS PUNISHABLE BY U.S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE, WITHOUT LAWFUL AUTHORITY. By Deputy Glerk. FJOSIUCCE FORM N-550-C (REV. 11-1-87)"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A28749561",
+	"id": "A28749561_0055",
+	"page_index": 55,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28749561_0055/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED STATES GOVERNMENT Memorandum"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/27/2023 UNITED STATES GOVERNMENT DATI: 12/22/89 memorandum REPLY TO ATTN CF: Moira Goodwin, General Attorney SUBJECT: 428 749 561 , TO: Immigration Judge The Service waives appearance in this case. The Service will appear and requests notice of hearing date. The Service does not desire to appeal the decision of the SIO. The Service does does not desire to file a brief in opposition to the appeal. The Service does does noe ossose the motion for reconsideracion or reopening. The Service does does not oppose the alien's application for discresionary reiief. The Service requests an extension of days co prepare its brief. Granted Desied Date SIO The Service requests that this case be set for a hearing CC: Efrain Jones magana 404 Hurstrein P.Moina Goodwin monrover, Cc 91016 Trial Attorney P. Moira Goodwin Buy U.S. Savings Bonds Regularly on the Payroll Savings Plan G-29 (Rev. 7-11-77)N"
+}

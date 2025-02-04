@@ -1,0 +1,22 @@
+{
+	"anumber": "A44606320",
+	"id": "A44606320_0111",
+	"page_index": 111,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44606320_0111/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Record of IBIS Query ( (ROIQ), 606 320"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1994, 2023, 2002]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 Record of IBIS Query (ROIQ) A-Number or Receipt Number: Ansy 606320 Form Type: NYGO Batch No. NAME (person / business) DOB Number/Date IBIS OK IBIS DNR IBIS Ref. 1 IMAM Mahmoud mian 12/2/1994 10/6/104 CATEGORY M x F A P : B D 2nd Check Resolution Memorandum Completed 3rd Check 2 CATEGORY M F A P B D 2nd Check- Resolution Memorandum Completed 3rd Check 3 CATEGORY M F A P B D 2nd Check Resolution Memorandum Completed 3rd Check- 4 CATEGORY M F A P B D 2nd Check- Resolution Memorandum Completed 3rd Check 5 CATEGORY M F A P B D 2nd Check Resolution Memorandum Completed 3rd Check A-Applicant P-Petitioner M-Male IBIS OK-No match for search criteria listed B-Beneficiary D-Derivative/ F-Female IBIS DNR-Match exists but does not relate to queried subject Household Member IBIS REF-Case referred for resolution of positive result(s) Immigration and Naturalization Service Section I: General Guidelines for IBIS Queries IBIS SOP November 21, 2002 Page 22"
+}

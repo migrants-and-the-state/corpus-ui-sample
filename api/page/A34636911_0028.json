@@ -1,0 +1,25 @@
+{
+	"anumber": "A34636911",
+	"id": "A34636911_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34636911_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "American Citizen Certification"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Mexico"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1975]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/27/2023 April 17, 1975 Santa Ana, California American Consulate General Mexico This is to certify that I, Minoru Nitta of 928 W. Buffalo St., Santa Ana, California am an American Citizen of the United States of America. I am D. B. A. \"Green Spear Farms\" of Santa Ana, Cal- ifornia. That Mr. Hernan Cortez Solorio has been in my employment for the past three years. His wages are $2.55 per hour, 8 hours daily, 6 days per week. He is very good in his work and a hard worker. His attendance has been excellent. His employment is considered to be of a permanent nature. Minum Hell STATE OF CALIFORNIA ) ) SS. COUNTY OF ORANGE ) Minoru Nitta, first being duly sworn, deposes and says that the foregoing statement is true and of his own writing. Subscribed and sworn to before me this 17thday of april 1975. OFFICIAL SEAL NOTARY PUBLIC SANDRA K. ORTIZ NOTARY PUBLIC - CALIFORNIA PRINCIPAL OFFICE IN ORANGE COUNTY My Commission Expires April 19, 1975"
+}

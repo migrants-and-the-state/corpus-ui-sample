@@ -1,0 +1,22 @@
+{
+	"anumber": "A29030253",
+	"id": "A29030253_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29030253_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CLINICAL MICROBIOLOGY LABORATORIES CUMULATIVE SUMMARY"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 922/2023 RUN: JUL 21, 1989 (NICAL MICROBIOLOGY LABORA RIES PAGE: 1 8:28 AM CUMULATIVE SUMMARY FOR: JUL 21, 1989 CHHIBBER,MEHKASTAPACASH B:H512887 82 M PA BERTONI,ALESSANDRO 07/17/89 TIME? --BLOOD-- IMMIGRATION 0720:M9028 -HD RAPID PLASMA REAGIN FINAL REC'D: 07/20/89 10:43 AM RAPID PLASMA REAGIN TEST NONREACTIVE Michael UNIVERSITY OF ROCHESTER/STRONG MEMORIAL HOSPITAL/CLINICAL LABORATORIES 601 ELMWOOD AVENUE PO BOX 608, ROCHESTER, NEW YORK 14642 ADDRESS INQUIRIES TO CLINICAL MICROBIOLOGY LABORATORIES PO BOX 710 PATIENT'S CHART COPY"
+}

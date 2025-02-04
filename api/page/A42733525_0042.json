@@ -1,0 +1,22 @@
+{
+	"anumber": "A42733525",
+	"id": "A42733525_0042",
+	"page_index": 42,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42733525_0042/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "女"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/26/2023 petitions * E 81-8845 4 8 1P35 6 3 8 # F 19 8 FI 8 18 8 # 19 # 12 35 3 $ 12 jh 1986.5.6. 12) 18.12.19 Agent 83.9.7. # is -6 -7"
+}

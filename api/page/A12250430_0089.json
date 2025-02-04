@@ -1,0 +1,22 @@
+{
+	"anumber": "A12250430",
+	"id": "A12250430_0089",
+	"page_index": 89,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12250430_0089/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Port of San Pedro, Calif., 7402/99"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1932]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 7402/99 Port of San Pedro, Calif. November 7. 1932 Commissioner of Immigration, Angel Island, San Francisco, Calif. Subject: WONG GUCK ON, applicant. With reference to your letter of the 24th ultimo there are returned herewith the following filesof your office, used in connection with the application for admission of the above named: 25421/3-17 Wong Sick Hong 27487/8-25 Wong Kwock Fay E. M. Dold hbh Acting Inspector in Charge. cc to DD/LA, file number unknown."
+}

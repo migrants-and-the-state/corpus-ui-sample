@@ -1,0 +1,22 @@
+{
+	"anumber": "A14366479",
+	"id": "A14366479_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14366479_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Translation from Russian: Excerpt from a Russian Foreign Passport, 5034A-1"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1910]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Translation from Russian: 5034A-1 Excerpt from a Russian Foreign Passport EMBLEM OF THE RUSSIAN STATE 24 pages No. 2934 FOREIGN PASSPORT Page 1 Signature of the holder Page 2 The bearer Mrs. Chaia Iserovna Choron, 43 years old, with children: Isor, 10 years old and Aron, 8 years old, are departing abroad; this passport was issued as witness thereof and also as to insure Page 3 her free passage. Town Minsk, May 29, 1910. Governor (signature illegible) Round Seal of the Governor of Minsk Stamp: Secretary of the Governor Office of the District of Minsk Page 15 Remarks by Rubber Stamp Departure abroad Rectangular Rubber stamp: Departure from port Libava, June 22, 1910. Continued on next page."
+}

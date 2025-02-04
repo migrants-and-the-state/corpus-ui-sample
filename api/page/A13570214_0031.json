@@ -1,0 +1,25 @@
+{
+	"anumber": "A13570214",
+	"id": "A13570214_0031",
+	"page_index": 31,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13570214_0031/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Affidavit for the Issuance of an Immigration Visa"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1961, 2023, 1965]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 towns, municipalities and districts thereof harmless against any losses or damages which may be suffered by reason of the fact that said alien named in this affidavit during her alienage shall become a public charge in the United States; That affiants make this affidavit for the specific purpose of facilitating the issuance of an immigration visa to said SAU GHAN CHAU; that they have read and verified the accuracy of the foregoing statements which they believe to be true and correct and they hereby affix their signatures and swear to this statement without any mental reservations whatsoever; that said affidavit is made with the knowledge that swearing to any false statement in any way affecting or relating to the right of any alien to admission into the United States constitutes the crime of perjury; WHEREFORE, affiants respectfully pray that the said SAU GHAN CHAU be issued an immigration visa and that she be allowed to proceed to the United States at the earliest possible time. Donald Fory Hee Jue Subscribed and sworn to before me this 9th day of November, , 1961. NOTARY PUBLIC, in and for the County 1 milly of Ventura, State of California L. MELBY, Notary Public in and for the County of Los Angeles, State of California My Commission Expires October 16, 1965"
+}

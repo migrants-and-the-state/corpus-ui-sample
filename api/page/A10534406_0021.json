@@ -1,0 +1,25 @@
+{
+	"anumber": "A10534406",
+	"id": "A10534406_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10534406_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Non Resident Alien's Border Crossing Identification Card"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1953]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "U. S. DEPARTMENT OF JUSTICE IMMIGRATION AND INATURALIZATION SERVICE THIS CARD PRESENTED TO ANY U. S. IMMIGRATION OFFICER AT A PORT OF ENTRY OF THE UNITED T WILL BE ACCEPTED AS PRIMA FACIE EVIDENCE FACT THAT THE PERSON NAMED HEREIN WAS ED THE BORDER CROSSING PRIVILEGE. the in OF THIS CARD IS ISSUED UPON THE CONDITION THAT: GOOD SECURITY JUSTITIA THE HOLDER WILL DEPART FROM THE UNITED & NATURALIZATION STATES AT THE EXPIRATION OF SUCH HOLDER'S AUTHORIZED STAY: THE HOLDER WILL NOT ACCEPT EMPLOYMENT NON RESIDENT ALIEN'S IN THE UNITED STATES. BORDER CROSSING IDENTIFICATION CARD This card is good for (6) years from date of issuance, provided it is reval- idated every (2) years by an officer of the Immigration and Naturalization Service. KASO TEXAS BANK ADMITTED AT ISSUED AT: (OFFICE) ON AUG BA 1953 (DATE) Blet OWilm IMMIGRATION OFFICER (SIGNATURE OF ISSUING OFFICER) FORM I-186 (REV. 7-1-51) FORM APPROVED BUDGET BUR. No. 43-R-360 AND PRINTING LITHD"
+}

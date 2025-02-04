@@ -1,0 +1,25 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0235",
+	"page_index": 235,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0235/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/18/2023, File No. 910-294-862"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1956, 2023, 1955]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 3-2122 10-27-55 UNITED STATES DLPARTMENT OF JUSTICE Immigration and Naturalization Service 70 Columbus Avenue, New York 23, N. Y. File N 890 294 862 DATE: September 26,1956 Supervisor Security Unit Re: MAR DOO aka MAR AU SANG Nationality Chinese Age 48 Arrived at Boston, Mass Via SS - Date Apr 30, 1955 This is your authority to release the above named alien whose release was authorized by Jos. C. Dernetz, Supervisory Deportation and Parole Officer Bond for $ $1000.00 was posted in his behalf. This alien is to depart from the United States not later than A. J. Salturelli Chief, Parole Section R LEASED ON September 26, 1956 at (Date) (Hour) TO PROCED TO Soon Hing Farms, Green Lawn, Long Island, N. Y. SUPERVISOR Security Unit"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A12250430",
+	"id": "A12250430_0073",
+	"page_index": 73,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12250430_0073/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Inspector in Charge Immigration Service Los Angeles, Calif., 9407/125"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1933, 1983]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 9407/125 September 14, 1933 Inspector in Charge Immigration Service Los Angeles, Calif. As requested in your letter of the 12th inst. No. 8407/51 certificate of identity No. 57692 in the name of WONG SICK HONG is returned herewith accompanied by an affidavit purporting to show Won Sick Hong's birth in this city. These documents are returned in view of the fact that Wong Sick Hong has decided not to bring his alleged wife, Gong Shee, to the United States at this time. The two San Francisco files referred to in your letter of August 29th last, and the three San Pedro files referred to in the same letter have been returned to the appropriate ports. RECEIVED Harry B. Blee SEP 1 5 1983 Aest. District Director of Immigration Los Angeles District. Enc. It AUGHATION SERVICE 898/80 SAN FLUBU, CALIF. OFFICIAL COPY of this letter referred to Inspector in Charge SAN PEDRO Calif returning his files 30160/1, 30160/129 and 7402/99 OFFICIAL COPY of this letter referred to the Commissioner of Immigration SAN FRANCISCO Calif accompanied by his files 25421/3-17 and 27487/8.25 which files were transmitted to our Local office under cover of San Francisco letter 12025/02 of Aug. 12, 1933. Asst, Dist. Director of Immigration Los Angeles Dist."
+}

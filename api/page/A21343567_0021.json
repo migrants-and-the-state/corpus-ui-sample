@@ -1,0 +1,25 @@
+{
+	"anumber": "A21343567",
+	"id": "A21343567_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21343567_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 8/17/2023, T-000"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 Family Name (Capital Letters) First Name Middle Initial TO LUONG THI T-000 Country of Citizenship Passport or Alien Registration Number Republic of Viet Nam 09474442 Enited States Address / Number, Street, City and State) 4414 Montair Ave., Long seach, , Calif. Airline and Flight No. or Vessel of Arrival Passenger Boarded at Military Saigon Viet Nam Number, Street, City, Province State) and Country of Permanent Residence Hoa-An, sien-Hoa, Vietnam Month. Day and Year of Birth PAROLED PURSUANT TO (5) Saigon OF THE I & N ACT TO: 1915 @ City, Province (State) and Country of Birth PURPOSE: Cho-Lon, Viet Nam Visa Issued at (Port) (Date) (Officer) Month, Day and Year Visa Issued"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A28743491",
+	"id": "A28743491_0034",
+	"page_index": 34,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28743491_0034/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/23/2023 zusa Family Healthcare & Urgicenter X-RAY REPORT 810 ALOSTA AVENUE AZUSA, CA 91702 818 969 9651 AFTER HOURS (818) 449-3881 MEDICAL DIRECTOR AMRIT SINGH, M.D. INTERNAL MEDICINE & CARDIOLOGY NAME: Singh ) Joswont SEX: m CASE NO: 1695 AGE: 91 DATE: 03/30/88 CHEST: Arteriosclerotic cardiovascular changes are present with normal vascularity and slightly prominent basilar markings. The bony and soft tissue structures are unremarkable for age. IMPRESSION: No active process is identified. Singh AMRIT SINGH, M.D."
+}

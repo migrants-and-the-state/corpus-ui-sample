@@ -1,0 +1,19 @@
+{
+	"anumber": "A90417818",
+	"id": "A90417818_0085",
+	"page_index": 85,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90417818_0085/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 No. 1 U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service Y TEMPO 90417818 A MARTINEZ CRUZ, ISABEL RESID Name Signature (her Mark) 06/16/87 01/31/10 578 Issue Date DOB COB 01/11/90 EXPIRES BEARER ENTITLED TO RE- SIDE AND WORK IN U.S. UNTIL CARD EXPIRES. NOT ELIGIBLE FOR FEDERALLY FUNDED ASSISTANCE PROGRAMS EXCEPT AS PROVIDED BY P.L. 99-603-SEC. 245A"
+}

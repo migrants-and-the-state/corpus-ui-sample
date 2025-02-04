@@ -1,0 +1,25 @@
+{
+	"anumber": "A43194558",
+	"id": "A43194558_0086",
+	"page_index": 86,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43194558_0086/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "C cortes de cuentas, 120214"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["El Salvador"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1971, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/13/2023 CORTE DE CUENTAS ORIGNAL.- Para el Contribuyente SERIE U. DE EC ALCALDIAS MUNICIPALES DE EL SALVADOR 120214 No 112984 CORTE CUENTAS RECIBO DE INGRESO DE Quezaltepeque, 12 Marzo Alcoldia Municipal de de 1971 Por q 2.08 CARGO EN CAJA, RUBROS o CUENTAS AFECTADAS CONCEPTO o MANDAMIENTO DE INGRESO Julio César Zepeda. Fendo Municipal Especies Mpis. Especif. Fiscale, Certificación Registro Civil 2.00 Imp. F.F.P. 0.08 (Membro del Contribuyrate) ENTREGO EM ESTA OFICINA LA CANTIDAD DE: DOS COLONES OCHO CENTAVO Going Alcalde Menicipal 25th STRESSTEF DEPTO 2.08 TOTALES as. 1-1-SAM"
+}

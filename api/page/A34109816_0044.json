@@ -1,0 +1,22 @@
+{
+	"anumber": "A34109816",
+	"id": "A34109816_0044",
+	"page_index": 44,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34109816_0044/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 9/22/2023"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1972]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Paul C. Chang Jacqueline C. Chang 458 N. E. Royal Court Portland, Oregon 97232 U.S.A. December 18, 1972 To Whom It May Concern: This is to certify that the undersigned, Paul C. Chang and Jacqueline C. Chang, husband and wife, will provide the maintenance and physical needs of their parents, Mr. Win-Yin Chang and Mrs. Ho-Lin Chang. We guarantee that these relatives will not become public wards. Any courtesies or assistance extended to Mr. and Mrs. Chang will be greatly appreciated. Respectfully, Paul Paule C. Chang than Jequitive Jacqueline C. Chang Chang Paul C. Chang and Jacqueline C. Charig as individuals before me 12/18/7 w Lunce fourse W. Louise Powers"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A42130030",
+	"id": "A42130030_0006",
+	"page_index": 6,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42130030_0006/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "WITHdrewal of n-400 application"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/7/2023 U.S. DEP RTMENT OF JUSTICE Immigration and Naturalization Service Room T-8011 701 Lovola Avenue New Orleans. Louisiana 70113 WITHDRAWAL OF N-400 APPLICATION I, Calixto Urbina have been advised by the Designated Examiner whose name appears below that I do not appear to be eligible for naturalization at this time for the following reason (s): applicant is unable to read, write or understand English I therefore elect to withdraw my Application for Naturalization at this time and understand that I must submit a new Application for Naturalization (Form N-400) should I desire to seek naturalization at a later date. Ple.alache Verbire Applicant/Date freatment A 42130030 Alien Registration No. FOIA (b)(6) 8/4/97"
+}

@@ -1,0 +1,28 @@
+{
+	"anumber": "A43194558",
+	"id": "A43194558_0002",
+	"page_index": 2,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43194558_0002/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate of Naturalization, N-550"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "El Salvador"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2007, 2023, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, O/ 13/2023 No. 30765504 Personal description of holder CFS Registration No. A043194558 as of date of naturalization: I certify that the description given is true, and that the photograph affixced Date of birth: JUNE 11, 1915 hereto is a likeness of me. Sex: MALE Height: 5 feet 7 inches (Complete and true signature of holder) Marital status: MARRIED Be it known that, pursuant to an application filed with the Secretary of Homeland Security Country of former nationality: EL SALVADOR at: LOS ANGELES, CALIFORNIA The Secretary having found that: JULIO CESAR ZEPEDA FUENTES then residing in the United States, intends to reside in the United States when so required by the Naturalization Laws of the United States, and had in all other respects complied with the applicable provisions of such naturalization laws and was entitled to be admitted to citizenship, such person having taken the oath of allegiance in a ceremony conducted by the US DISTRICT COURT CENTRAL DISTRICT at: LOS ANGELES, CALIFORNIA on: SEPTEMBER 14, 2007 that such person is admitted as a citizen of the United States of America. IT IS PUNISHABLE BY U. S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE, Emihitti WITHOUT LAWFUL AUTHORITY. Director, U. S. Citizenship and Immigration Services OF HOMELAND SECURITY FORM N-550 REV 4/04"
+}

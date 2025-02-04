@@ -1,0 +1,28 @@
+{
+	"anumber": "A29152365",
+	"id": "A29152365_0019",
+	"page_index": 19,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29152365_0019/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Passport of the Republic of El Salvador, 0352023"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["El Salvador"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1913]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/12/2023 preates 9-1688 BARRIENTOS DE MENENDEZ LUCILA DEAL TRANSFIO Numbre/Given Name u SALVADORENO POR NACIMIENTO IZALCO, SONSONATE Nacionalidad Nationality Lugar_de Nacimiento/Birthplace 07 DE AGOSTO DE 1913 128481 Fecha de Nacimiento/ Birth Date DEL HOGAR No. Ficha Migratoria Profesion u Oficio/Occupation BO. EL NINO DE SANTA ISABEL Direccion Permanente/Permanent Address DIRECCION GENERAL DE MIGRACION Lugar de Expedicion 02-05-86 01-05-91 a echa Expedicion/Issue Date Expire Expires on K Modificaciones (Amendments Ver página 6 page 6 Firma y Huella LONSOLOPEZSOLORZANO del Titular Jafe de Secolda con autorización del Sr. Difector Grall REPUBLICA DE EL SALVADOR AMERICA CENTRAL ISALVADOR PASAPORTE DE AMERICA ORDINARIO ES 0352023 EL MINISTERIO DEL INTERIOR, expide el presente PASAPORTE a favor de LUCILA DEL TRANSITO BARRIENTOS DE LENENDEZ El Gobierno de la República de El Salvador, solicita a los Funcionarios Extranjeros, permitir al titular de este Pasaporte, su libre paso y estadía, sin que tenga obstáculos; y otorgarle la ayuda y protección necesarias, ofreciendo reciprocidad. EL SALVADOR Government hereby requests all whom it may concern, keeping reciprocity, to permit the citizen(s) national(s) of EL SALVADOR nemed herein to pass without delay or hindrance and in case of need to give all lawful aid and protection. )"
+}

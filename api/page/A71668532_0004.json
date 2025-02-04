@@ -1,0 +1,25 @@
+{
+	"anumber": "A71668532",
+	"id": "A71668532_0004",
+	"page_index": 4,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71668532_0004/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Naturalization Application"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 4/18/2023 OMB No. 1615-0052 Department of Homeland Security N-400 Application U.S Citizenship and Immigration Services for Naturalization Print clearly or type your answers using CAPITAL letters. Failure to print clearly may delay your application. Use black ink. Part 1. Your Name. (The Person Applying for Naturalization) Write your USCIS \"A\"- number here: A. Your current legal name. A 071668532 Family Name (Last Name) For USCIS Use Only D O Y O W Date Stamp Given Name (First Name) Full Middle Name (If applicable) Yarey aliyow B. Your name exactly as it appears on your Permanent Resident Card. Family Name (Last Name) Remarks Given Name (First Name) Full Middle Name (If applicable) Yarey A C. If you have ever used other names, provide them below. None Family Name (Last Name) Given Name (First Name) Middle Name D. Name change (optional) Please read the Instructions before you decide whether to change your name 1. Would you like to legally change your name? Yes No 2. If \"Yes,\" print the new name you would like to use. Do not use initials or abbreviations when writing your new name. Action Block Family Name (Last Name) ADMIN CLOSURE N/A Given Name (First Name) Full Middle Name N/A N/A Part 2. Information About Your Eligibility. (Check Only One) I am at least 18 years old AND A. I have been a Lawful Permanent Resident of the United States for at least five years. B. I have been a Lawful Permanent Resident of the United States for at least three years, and I have been married to and living with the same U.S. citizen for the last three years, and my spouse has been a U.S. citizen for the last three years. C. I am applying on the basis of qualifying military service. D. Other (Please explain) Form N-400 (Rev. 10/26/05)Y"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A10943354",
+	"id": "A10943354_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10943354_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Verification of Record of Naturalization, Form N-25"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Russia", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1841, 1901, 1957, 1891]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Copied at the National Archives at Kansas City Form N-25 UNITEDSTATES DEPARTMENT OF JUSTICE Form approved Immigration and Naturalization Service Budget Bureau No. 43-R073.4 (Rev. 8-29-56) VERIFICATION OF RECORD OF NATURALIZATION Date , 19 , File No. Name of applicant Name of naturalized person entval Record of naturalization of the person named below has been verified as follows: Name of naturalized person as shown in court record Simon Lavine Petition No. Certificate No. a Court (title and location) Inferior Court of Common Pleas in and for the County of Mercer, in the State of New Jersey Date of naturalization May 3, 1901. Date and place of birth (or age) Born in Russia 1841 - Age 60 years. Place of residence 71 Decatur Street, Trenton, N. @ J. Former allegiance Czar of Russia Occupation Assorter Date, place, and manner of arrival in United States on July 14, 1891 at New York. Names of witnesses Ike Goldman and Henry Goldston Names of children, dates and places of birth Marital status Name of spouse Other information appearing on record Above record verified by me on March 28, 1957. ,119 RECEIVED MOR 29 1957 Immigration Will (Signature and title of H. Jalcey person verifying the record) Nature County Clerk of Mercer County NE (MAKE ONE TRACING OF THE NATURALIZED PERSON'S SIGNATURE TO THE NATURALIZATION RECORD, ON THIN PAPER, AND ATTACH IT TO THIS REPORT.) (Over)"
+}

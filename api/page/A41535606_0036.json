@@ -1,0 +1,22 @@
+{
+	"anumber": "A41535606",
+	"id": "A41535606_0036",
+	"page_index": 36,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41535606_0036/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Kinetics Technology International Corporation, FOIA (b)(6)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1989, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/13/2023 KHO Kinetics Technology International Corporation 1333 SOUTH MAYFLOWER AVENUE . MONROVIA, CA 91016-4099 PHONE (818) 303-4711 . TELEX 675570 . FAX (818) 447-4009 January 20, 1989 TO WHOM IT MAY CONCERN: This letter is to verify the full time employment of Mr. Suresh P. Tendulkar, social security number FOIA (b)(6) to Kinetics Technology International Corp. Mr. . Tendulkar is in the position of Staff Engineer Materials, earning a salary of $45,000.00 per year. If you have any questions, please feel free to contact me. Sincerely, , Lynne Wright Personnel"
+}

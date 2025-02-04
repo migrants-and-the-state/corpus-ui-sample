@@ -1,0 +1,25 @@
+{
+	"anumber": "A41623672",
+	"id": "A41623672_0060",
+	"page_index": 60,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41623672_0060/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Affidavit of Support"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1990, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/5/2023 to place a bond, if necessary, with the United States Immigration authorities to guarantee that such prospective immigrants will not become a public charge during their stay in the United States. THAT I have previously submitted Affidavit of Support in behalf NONE of I am conscious of the responsibility assumed by this Affidavit of Support and well able and willing to undertake it. Ana b. mosinson ANA CLARIBEL MORRISON Subscribed and sworn to before me this 27th day of April 19 87 OFFICIAL SEAL NORMA E. AYALA aysler NOTARY PUBL CALIFORNIA Notary Public LCS ANGELES COUNTY in and for said County and State. My Commission Expires Aug. 3, 1990"
+}

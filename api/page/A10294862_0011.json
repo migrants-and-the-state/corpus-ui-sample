@@ -1,0 +1,22 @@
+{
+	"anumber": "A10294862",
+	"id": "A10294862_0011",
+	"page_index": 11,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10294862_0011/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "POST OFFICE DEPARTMENT, POD Form 3811"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/18/2023 POST OFFICE DEPARTMENT PENALTY FOR PRIVATE USE TO AVOID OFFICIAL BUSINESS PAYMENT OF POSTAGE, $300 POSTMARK OF DELIVERING OFFICE A 10 294 862 SIU MAR DOO APR MASS 25 INSTRUCTIONS: Show name and address below and COP ete instructions on other side, where applicable. M 1 gummed ends, attach and hold firmly to back RETURN 1066 960 of icle. Print on front of article RETURN RECEIPT REQUESTED. TO ASION NAME OF SENDER U. S. DEPARTMENT OE JUSTICE STREET AND NO. OR P.O. BOX IMMIGRATION AND NATURALIZATION SERVICE 150 TREMONT STREET CITY, STATE, AND ZIP CODE BOSTON, MASSACHUSETTS 02111"
+}

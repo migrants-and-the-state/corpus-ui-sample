@@ -1,0 +1,25 @@
+{
+	"anumber": "A19320867",
+	"id": "A19320867_0166",
+	"page_index": 166,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19320867_0166/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Commissioner, Central Office Congressional Mail Unit, CO 703.540"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1973, 1974]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Commissioner, Central Office January 3, 1974 Congressional Mail Unit Francis P. Murphy, Officer-in Charge, Albany, N. Y. 12201 Your CO 703.540 dated December 20, 1973; Julian J. WU Dr. Julian J. Wu, a naturalized citizen of the United States submitted a visa petition on July 2, 1973 to accord immediate relative status to his mother, Wu, Chi-Su. The petition was approved on January 2, 1974 and the appropriate forms for the beneficiary's adjustment were furnished."
+}

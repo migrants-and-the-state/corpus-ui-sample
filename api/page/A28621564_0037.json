@@ -1,0 +1,22 @@
+{
+	"anumber": "A28621564",
+	"id": "A28621564_0037",
+	"page_index": 37,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28621564_0037/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DIPLOMA"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1969, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/28/2023 agriense de Nicar OMNE VIVUM EX OVO Machine DEPARTMENT Hace constar: Que el Senor JOSE ANTONIO ROMAN A. ha sido admitido como Socia Activo de esta Entidad con todos los derechos y privilegios correspondientes, en consideración a sus calidades que satisfacen los requisitos exigidos por Estatutos y Reglamentos de esta Asociacion.- En fe de lo cual le extiende el presente DIPLOMA En la Ciudad de Managua a los 22 días del mes de marzo de mil novecientos 1969. Presidente ANTM Secretario General A NTM Rx"
+}

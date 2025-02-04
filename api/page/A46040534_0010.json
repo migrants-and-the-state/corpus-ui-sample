@@ -1,0 +1,22 @@
+{
+	"anumber": "A46040534",
+	"id": "A46040534_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A46040534_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CONSULAR RECORD OF FEES, A-151"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1996]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/15/2023 12 NOV. 1996 Attachment 2 A-151 CONSULAR RECORD OF FEES CASHIER ENTRY NAME: IV CONS. NATIONALITY VISA REFUSAL Unit Fee Total Fee SER. CLASS GROUNDS QTY. $ / LC $/LC OF 112 230B 1/120 114/5 Hi 30 30 30"
+}

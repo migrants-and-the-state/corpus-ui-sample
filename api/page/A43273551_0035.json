@@ -1,0 +1,22 @@
+{
+	"anumber": "A43273551",
+	"id": "A43273551_0035",
+	"page_index": 35,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43273551_0035/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEPARTMENT OF PATHOLOGY THE NAIROBI HOSPITAL, 722160"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/13/2023 THIS REPORT IS NOT VALID DEPART NT OF PATHOLOGY UNLESS STAMFED AND COUNTERSIGNED THE NAIR I HOSPITAL oY ThE FATHOLOGIST OR DMINISTRATOR P. o 30026, NAIR TEL: 722160 FULL NAME Warsme Ali Godane DOCTOR Maniar ADDRESS Box 48094 Nbi DATE RECEIVED 4/5/93 WARD OUT / PATIENT OP DATE TAKEN LABORATORY REFERENCE 27807/93 DATE REPORTED SEROLOGY AND MISCELLANEOUS Antinuclear Factor (ANA) Infectious Mononucleosis (Monotest) Alpha Feto Protein C - Reactive Protein Rheumatoid Arthritis Latex Test A.S.O.T. V.D.R.L. Titre Kahn FTA - ABS Schistosomiasis Haemagglution Test Seramoeba Haemagglutination Test Urine Human Chorionic Gonadotrophine (PDT) Serum hcG Miscellaneous HIV (Elisa) Sweening Test- NEGATIVE DR. MALKIT S. RIYA PATHOLOGIST/HAEMATOR GIST NAIROBI HOSPITAL R PATHOLOGIST SIGNATURE TECHNOLOGIST SIGNATURE Wepter"
+}

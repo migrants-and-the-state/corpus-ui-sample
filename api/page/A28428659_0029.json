@@ -1,0 +1,25 @@
+{
+	"anumber": "A28428659",
+	"id": "A28428659_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28428659_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Administrative Office: 75 Greene Avenue, P.O. Box 'C' - Brooklyn, N.Y. 11202, Very truly yours,"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Haiti"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "(2) Father De Louis is a priest from Haiti who speaks Creole. Not only is the Diocese in need of priests to celebrate mass and take care of the spiritual needs of the people, it parti- culary needs priests who can like Father De Louis celebrate mass in other tongues. Few priests can celebrate mass in Creole. Presently, Father De Louis celebrates mass in Creole at both St. Joachim and Anne, Queens Village and my own parish of St. Bar- tholomew's, Elmhurst. The Catholic community would be deprived of his needed spiritual and religious ministry, if he had to leave at this time. (3) Father De Louis is over eighty (80) years of age and is of frail health. He receives medical attention. Letters from his doctor could be provided to verify this medical fact. This request also is made on anhumanitarian basis. Therefore, we plead for an extension of voluntary departure for Father De Louis until we have an interview date at the appropriate U. S. Consul. Thank you for kind consideration to this matter. Very truly yours, REV. JOHN J. GARKOWSKI, Attorney at Law ADMINISTRATIVE OFFICE: 75 GREENE AVENUE, P.O. BOX \"C\" - BROOKLYN, N.Y .11202"
+}

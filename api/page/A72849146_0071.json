@@ -1,0 +1,25 @@
+{
+	"anumber": "A72849146",
+	"id": "A72849146_0071",
+	"page_index": 71,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A72849146_0071/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PASSENGER TICKET AND BAGGAGE CHECK PASSENGER COUPON"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Canada", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1955, 2023, 1929]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/11/2023 NOT FOR US PASSENGER TICKET AND BAGGAGE CHECK PASSENGER COUPON If the passenger's journey involves an ultima and the Convention governs and in most ca See also notice headed \"Advice to Internati 1. As used in this contract \"ticket\" means this passenger ticket and the notices form part, \"carriage\" is equivalent to \"transportation undertake to carry the passenger or his baggage hereunder or pe carriage, \"WARSAW CONVENTION\" means the Convention for International Carriage by Air signed at Warsaw, 12th October 1929, 28th September 1955, whichever may be applicable. 2. Carriage hereunder is subject to the rules and limitations né Convention unless such carriage is not \"international carriage 3. To the extent not in conflict with the foregoing carriage and subject to: (I) provisions contained in this ticket, (II) applicable tariffs, regulations which are made part hereof (and are available on a transportation between a place in the United States or Canada an force in those countries apply. 4. Carrier's name may be abbreviated in the ticket, the full name tariffs, conditions of carriage, regulations or timetables; carrier's ad opposite the first abbreviation of carrier's name in the ticket: the agr in this ticket or as shown in carrier's timetables as scheduled stopp to be performed hereunder by several successive carriers is regard 5. An air carrier issuing a ticket for carriage over the lines of and"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A20216306",
+	"id": "A20216306_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20216306_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "COLLECTION OF SPECIMEN"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/18/2023 COLLECTI OF SPECIMEN Collect blood efore meals. Draw -8cc. Use DRY syringe and neeund. Disconnect needle and expel blood slowly and gently into tube. Let blood stand at room tempera - ture until clot forms. Then place in refrigerator (avoid freezing) until mail time. INTERPRETATION OF FINDINGS Qualitative Test ( VDRL performed routinely): Laboratory findings must be interpreted by the physician in the light of clinical findings. Repeated tests for confirmation are indicated if an initial serological reac- tive is not supported by clinical findings. A confirmed reactive in an individual with negative clinical findings indicates latent syphilis or a **false positive** reaction. The (FTA-ABS) test is indicated in problem cases previously studied by the VDRL test and will be performed on request when submitted with completed clinical data form L-566. Quantitative Test ( VDRL): This gives a relative measure of the amounts of reagin in the patient's serum. A higher titer gives more significance to reactive findings. In treatment follow up, changes in titer in repeat (monthly interval ) examinations will indicate response to treatment. 3VA REPORTING OF REACTIVES MAIM State regulations require reporting of all cases of syphilis to the local county health departments or State Division of Health. This information is utilized epidem- iologically. ALL REPORTS ARE HELD IN STRICT CONFIDENCE - Patients contacted only through and with the knowledge of their physician."
+}

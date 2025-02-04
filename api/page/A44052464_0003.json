@@ -1,0 +1,22 @@
+{
+	"anumber": "A44052464",
+	"id": "A44052464_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44052464_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "LETTER OF INSTRUCTION, 83 STATE 056383 OF 3/2/83"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States", "India"]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "CONSULATE GENERAL OF THE UNITED STATES OF AMERICA MUMBAI, 400 026. INDIA LETTER OF INSTRUCTION TO : All Immigrants and Refugee FROM : Social Security Administration SUBJECT : Social Security Numbers for All Family Members We are pleased to welcome you to the United States. By law, each immigrant or refugee admitted to the United States must obtain a Social Security Number. You will need a Social Security Number to work in the United States, to open a bank account, to pay taxes, and for many other purposes. When you are settled in your new home, please telephone the Social Security Office to find out where to apply for Social Security Number. The telephone number is listed in the local telephone directory under 'United States Government'. Take the passport or travel document, \"Alien Registration Receipt Card\" (Form 1-551) if any, and the birth certificate (if you have one) for each member to the Social Security Office. A Social Security Representative will help you complete the Social Security Number Application Form. A Social Security Card for each individuals will be mailed to your home within two weeks from the date of application. Tum over for additional useful information Social Security and Income Tax in the United States. 83 STATE 056383 OF 3/2/83 BMB 6 5,000 / 7-96"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A12495368",
+	"id": "A12495368_0059",
+	"page_index": 59,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12495368_0059/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "FBI Fingerprint Card, 64-10-73826-3"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1962, 1903, 1986]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "LEAVE THIS SPACE BLANK SEX F FBI No. DIAZ BARCENAS, Mar Ane de Jesus RACE LAST NAME FIRST NAME MIDDLE NAME W SIGNATURE OF PERSON FINGERPRINTED CONTRIBUTOR AND ADDRESS ALIASES HT. (Inches) WT. 64 180 USTNS 3915 Biscayne Boulevard DATE OF BIRTH YoHaria OF PERSON FINGERPRINTED Ana Dinz Miami 37, Florida 26 Dec 1903 RESIDENCE HAIR EYES 1986 N.W. 22 Ct. Miami, F1a. Gry Brn CITY & STATE OCCUPATION Housewife CONTRIBUTOR'S NO. LEAVE THIS SPACE BLANK A12 495 368 SCARS AND MARKS AMPUTATION PLACE OF BIRTH CLASS. - P.del Rib,Cuba CITIZENSHIP SIGNATURE OF OFFICIAL FP Clerk DATE TAKING FINGERPRINTS 6 Cuban CHECK IF NO RECORD FEB 23 1962 IS DESIRED BETTER REF. PRINTIONS 3 RIGHT CANNOT OF TO BE HANDS 105.1.181. OBTAIN RIGHT THEPRINTS LITTLE 1. RIGHT THUMB 2. RIGHT INDEX 3. RIGHT MIDDLE DUE NO TO RINGION PER 01. is 6. LEFT THUMB 7. LEFT INDEX 8. LEFT MIDDLE 9. LEFT RING 10. LEFT LITTLE No Better Prints ob tainable due to Age and skin condition LEFT FOUR FINGERS TAKEN SIMULTANEOUSLY LEFT THUMB RIGHT THUMB RIGHT FOUR FINGERS TAKEN SIMULTANEOUSLY c48-16-73826-3"
+}

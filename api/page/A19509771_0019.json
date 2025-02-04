@@ -1,0 +1,25 @@
+{
+	"anumber": "A19509771",
+	"id": "A19509771_0019",
+	"page_index": 19,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19509771_0019/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Individual Register Receipt, FORM NE 353(R)"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "FORM NE 353(R) Screened by NARA, 7/13/2023 FILE COPY (ED. 4-1-66) Individual Register Receipt UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service FEEPAID NUMBER BOS 043192 (M) APPLICANT DATE Mochanlal Trivedi 9/29/22 REMITTER - IF OTHER THAN APPLICANT APPLICATION FORM NUMBER (CIRCLE) 1.17 1. 140 1-196 I - 290 B I - 600 N - 565 1-90 1-143 I - 212 | - 485 [ - 601 N - 577 I. 129 B 1-191 - 246 | - 506 1.612 N - 580 1 - 130 I - 192 I - 256 A I - 539 N - 455 N - 585 1-131 1 - - 193 I - 290 A I - 550 N - 470 N - 600 OTHER TYPE OF REMITTANCE PC BC MO IMO C (CIRCLE) OTHER (ABBR.) ISSUING SECTION INF T C M & F (CIRCLE) REC D BY (INITIALS) gb AMOUNT 00 $ 10 STAPLE TO TOP RIGHT EDGE OF APPLICATION"
+}

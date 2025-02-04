@@ -1,0 +1,22 @@
+{
+	"anumber": "A28417099",
+	"id": "A28417099_0039",
+	"page_index": 39,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28417099_0039/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "ORDER OF THE IMMIGRATION JUDGE, FILE A 28-417-099"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/7/2023 UNITED CATES DEPARTMENT OF JUSTIC EXECUTIVE OFFICE FOR IMMIGRATION REVIEW OFFICE OF THE IMMIGRATION JUDGE NEWARK, NEW JERSEY FONSECA, TERENCIO 599 MONROE AVENUE, APT 3 ELIZABETH NJ 07201 FILE A 28-417-099 IN DEPORTATION PROCEEDINGS IN THE MATTER OF FONSECA, TERENCIO ORDER OF THE IMMIGRATION JUDGE THE RESPONDENT HAVING FAILED TO APPEAR AT THE DEPORTATION PROCEEDING ON 10/18/88 AT 08:30AM, IT IS HEREBY ORDERED THAT THE ORDER TO SHOW CAUSE BE RETURNED TO THE IMMIGRATION & NATURALIZATION SERVICE FOR APPROPRIATE ACTION. John K. speer JOHN K. SPEER IMMIGRATION JUDGE 10/18/88"
+}

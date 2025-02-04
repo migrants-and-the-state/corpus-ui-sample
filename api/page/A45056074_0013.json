@@ -1,0 +1,19 @@
+{
+	"anumber": "A45056074",
+	"id": "A45056074_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A45056074_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 Department of Justice Immigration and Naturalization Service Certificate Preparation Sheet And Oath Declaration A # A 045 056 074 Daytime Phone # (323) 938-1808 NAME (If name Change, ENTER new Name): Check BOX if there is a change of name: ABELINA (FIRST) (MIDDLE) MEDINA RIVERA (LAST) (Check Sex) MALE: Date of birth: 02/25/1914 FEMALE: X Month/Day/Complete Year Height: 5 2 Marital Status; Enter \"S\" Single, \"M\" Married, \"D\" Divorced, or \"W\" Widow(er): W (Feet) (Inches) Country of Former Nationality: Honduras (Enter Actual name of Country) Form N-649 (Rev. 11/1/98)"
+}

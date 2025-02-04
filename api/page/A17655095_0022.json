@@ -1,0 +1,22 @@
+{
+	"anumber": "A17655095",
+	"id": "A17655095_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17655095_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "HOME OFFICE, 522 016-3"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1966, 1968, 1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "HOME OFFICE 522 University Avenue, Toronto 2, Ontario/EM 6-2211 February 28, 1967. Mrs. Eleanor Klein, 855 Alexis Nihon Blvd., St. Laurent 9, Quebec. Dear Mrs. Klein: Re: Mortgage Loan # 09-175 855-857 Alexis Nihon Blvd. St. Laurent 9, Quebec We thank you for the 12 postdated cheques covering payments on this loan from March 1, 1967 to February 1, 1968 inclusive. In reply to your request, the total amount of payments made from March 1, 1966 to February 28, 1967 was $1, 974.84. of this total $1,173.94 was applied to interest and $800.90 to principal. The balance outstanding as at March 1, 1967, assuming that the March 1, 1967 instalment will be paid and honoured will be $17,127.26. Yours very truly, Walker (Miss) B. Walker, Mortgage Department. aa NATIONAL LIFE ASSURANCE COMPANY OF CANADA"
+}

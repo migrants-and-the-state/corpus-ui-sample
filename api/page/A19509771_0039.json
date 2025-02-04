@@ -1,0 +1,22 @@
+{
+	"anumber": "A19509771",
+	"id": "A19509771_0039",
+	"page_index": 39,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19509771_0039/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "SPRINGFIELD INSTITUTION FOR SAVINGS, 628205"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1971, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 1459 MAIN STREET SPRINGFIELD MASS. 01101 SPRINGFIELD INSTITUTION FOR SAVINGS TEL. 734-6411 SIS Dec. 24,1971 TO WHOM IT MAY CONCERN: This is to certify that there is a Savings Account # 628205 on deposit in this Institution in the name (s) of Pravin M. Trivedi or Jashvanti P. Trivedi This account was opened Aug. 13, 1971 with a deposit of $ 139.16 The present balance is $ 285.01 which is an accumulation of successive deposits. Very truly yours, Assistant Treasurer Dante a. Fensle natary Public Original document seen compared & found to be a true & complete copy. 515 Madison Avenue I OW York N. Y. 10022 An attorney admitted to practice in the state of New York (See Sec. 2105, CPLR)"
+}

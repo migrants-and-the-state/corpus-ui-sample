@@ -1,0 +1,28 @@
+{
+	"anumber": "A43088228",
+	"id": "A43088228_0000",
+	"page_index": 0,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43088228_0000/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate of Naturalization, N-550"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1914, 2023, 1998]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/18/2023 No. 24236540 Personal description of holder as of date of natur ralization: VSRegistrationNo. A 43 088 228 Date of birth: AUGUST 21, 1914 I certify that the description given is true, and that the photograph affixced hereto is a likeness ofme. Sexo: FEMALE Height: 5 feet 1 inches Complete and true signature of holder) Marital status: WIDOWED Be it known that, pursuant to an application filed with the Attorney General Country of former nationality: at: LOS ANGELES, CA CHINA, PEOPLE'S REPUBLI The Attorney General having found that: WAI CHING LEE FONG then residing in the United States, intends to reside in the United States when so required by the Naturalization Laws of the United States, and had in all other respects complied with the applicable provisions of such naturalization laws and was entitled to be admitted to citizenship, such person having taken the oath of allegiance in a ceremony conducted by the U.S. DISTRICT COURT FOR THE CENTRAL DIST. OF CALIFORNIA at: LOS ANGELES, CA on: NOVEMBER 24, 1998 that such person is admitted as a citizen of the United States of America. IT IS PUNISHABLE BY U. S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE, Daris Meissay WITHOUT LAWFUL AUTHORITY. Commissioner of Immigration and Naturalization FORM N-550 REV. 6-91"
+}

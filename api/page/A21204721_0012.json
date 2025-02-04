@@ -1,0 +1,22 @@
+{
+	"anumber": "A21204721",
+	"id": "A21204721_0012",
+	"page_index": 12,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21204721_0012/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screeneded by NARA, 8/25/2023, 001-35501-007 ( (11-1-77)"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1978]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/25/2023 CITY OF FORT WORTH, TEXAS POLICE DEPARTMENT CITY HALL FORT WORTH TEXAS 76102 335-7211 / AREA CODE 817 May 25, 1978 TO WHOM IT MAY CONCERN: This is to state that this department has no record of Do, Than Thi - D.O.B. - 1915 having been convicted of or sentenced to imprisonment for any offense in this city within the past five (5) years or at any other time, or of having been taken into custody on the charge of being insane or for vagrancy. Neither has this department any record of the above person ever having been arrested for any antagonism against the form of government of the United States of America Yours very truly, H. Z. Hoque, Cept H. L. Hogue, Captain Record & Identification 9667 001-35501-007 (11-1-77)"
+}

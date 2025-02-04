@@ -1,0 +1,22 @@
+{
+	"anumber": "A36578904",
+	"id": "A36578904_0011",
+	"page_index": 11,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A36578904_0011/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificado de Matrimonio, 01234456789"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1949, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/5/2023 EL C. LIC. FRANCISCO CARDENAS ELIZONDO, DIRECTOR ESTATAL USL REGISTRO CIVIL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COA. HUILA DE ZARAGOZA, CERTIFICA:-Que la presente copia 'ntostatica concuerda fielmen- to \"con su original que tuve a le vista y el cual obra en el Archivo General de esta Dependencia, en el Tomo I. Libro IV de Actos de MATRIMONTO de la Officialfa ONICA Civil de 24 GAS del Registral GILITA,COAH. a fajo(s) No. pondiente al año de 1949 mil novecientos cuarenta nueve. SUPRAGIO EFECTIVOL NO REPLECCION Saltillo, Coal. 30 A AGOSTO 77. ESTADO DE COAHUILA DE ZARAGOZA PODER EJECUTIVO"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A11638538",
+	"id": "A11638538_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11638538_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Kenneth E. Bruce - Counsellor at Law, 1-485"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1960]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "COUNSELLOR AT LAW TRI-BOROUGH BUILDING UNIVERSITY 5-8910 101 WEST 125TH STREET NEW YORK 27, N.Y. MARCH 8, 1960 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION & INATURALIZATION SERVICE 20 WEST BROADWAY NEW YORK 7, NEW YORK RE: FILE No. CAIN, HUGH WHITFIELD A11 638 538 APP: AS DEAR SIR: PURSUANT TO YOUR REQUEST DATED MARCH 2, 1960 AND IN REFERENCE TO OUR I -485, I SUBMIT HEREWITH BIRTH CERT 1- FICATE, POLICE CERTIFICATE, MARRIAGE CERTIFICATE, AND AFFIDAVIT OF SUPPORT OF THE BROTHER OF MY`CLIENT, APPLICANT FOR PERMANENT RESIDENCE IN THE UNITED STATES. ANY FURTHER INQUIRY, KINDLY DIRECT TO MY OFFICE. Good YOURS VERY TRULY, KENNETH E. BRUCE KEB/VC"
+}

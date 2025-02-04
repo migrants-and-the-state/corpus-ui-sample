@@ -1,0 +1,25 @@
+{
+	"anumber": "A18018390",
+	"id": "A18018390_0023",
+	"page_index": 23,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A18018390_0023/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Immigration Form, PAA 220"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["China", "United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1964, 1900, 1965]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Family Name Given Name Initial YEE WO. James yymo Y-000 Nationality (Citizenship) Passport Number British D. 614882 United States Address * Airline & Flight No. or Vessel of Arrival Passenger Boarded At PAA 220 Piarco Permanent Address 53, Main Road, Point Fortin, Trinidad, W.I SERVICE Birthdate NEW YORK, N. Y. 119 20th January, 1900. ADMITTED Birthplace Canton, China. DEC 19 1965 Visa Issued At Date Visa Issued TO JunE 1, 1964 CLASS B-2 Port of Spain, Trinidad. 9th December, 1965."
+}

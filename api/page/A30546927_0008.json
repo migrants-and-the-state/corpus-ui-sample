@@ -1,0 +1,25 @@
+{
+	"anumber": "A30546927",
+	"id": "A30546927_0008",
+	"page_index": 8,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A30546927_0008/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "AÑO DE JUAREZ"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1920, 2023, 1909, 1972]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/5/2023 SECURITY UNIDOS SECURITY 1972 \"AÑO DE JUAREZ\". GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE SONORA EL C. RENE ESQUER, OFICIAL PRIMERO DE LA SECRETARIA - DE GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE SONORA, CERTIFICA: - Que habiéndose efectuado una minuciosa - búsqueda del Registro de Nacimiento de ANGELA MACIAS HURTA DO, en los Libros de Copias de Actas de la Oficina del Re- gistro Civil de Cananea, Sonora, México, correspondientes- a los años de 1909 (mil novecientos nueve) a 1920 (mil - novecientos veinte), que existen en el Archivo General de- este Gobierno, no se localizó asentado el registro de re-- g ferencia. Y a solicitud de parte interesada, se expide la presen te en la ciudad de Hermosillo, Sonora, México, a los vein- te días describes BEL lio del año de mil novecientos seten- UNIDOS del ta y dos SECURITY saf.-"
+}

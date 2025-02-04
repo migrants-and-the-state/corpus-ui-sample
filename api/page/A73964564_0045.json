@@ -1,0 +1,22 @@
+{
+	"anumber": "A73964564",
+	"id": "A73964564_0045",
+	"page_index": 45,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A73964564_0045/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "FEE WAIVER REQUEST"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/24/2023 SURHYVALL JOSEFA MATILDE ROMANO JAM 2 3 02 in 363 Avenida Manzanos 1,72 San Jose, CA 95123-1413 as 3012397 First Class Mail \"FEE WAIVER REQUEST\" US POSTAL SERVICE USINS CALIFORNIA SERVICE CENTER Attention N-400 Unit 2100170 P.O. Box 10400 Laguna Miguel, CA 92607-0400"
+}

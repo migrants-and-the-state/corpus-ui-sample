@@ -1,0 +1,19 @@
+{
+	"anumber": "A92037324",
+	"id": "A92037324_0120",
+	"page_index": 120,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A92037324_0120/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "AA Los Angeles City Unified School District Division of Career and Continuing Education Arhievement Award Candelaria Ange / having received 87.5 hours of instruction in ESL I is awarded this certificate in recognition of creditable achievement Given at Los Angeles, California this 27th day of January nineteen hundred and 83 RESEDA COMMUNITY ADULT SCHOOL cuffler Instructor Principal DRIVER SEEN"
+}

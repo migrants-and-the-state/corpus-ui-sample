@@ -1,0 +1,28 @@
+{
+	"anumber": "A21348654",
+	"id": "A21348654_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21348654_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PERSONAL DESCRIPTION FORM"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Vietnam"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1915]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/22/2023 PERSONAL DESCRIPTION FORM (Type or print) Date of birth 01-01-1915 ; place of birth VietNam ; sex F ; complexion YELLOW need color of eyes BLACK ; color of hair BLACK height 5 feet 4 inches; weight 95 pounds; visible distinctive marks ; marital status WIDOW country of nationality VIETNAM (If change of name requested) change to: ALWAYS GIVE YOUR ALIEN REGISTRATION NUMBER WHEN COMMUNICATING WITH THIS SERVICE 31kn 7-2-75 retried (Page 2)"
+}

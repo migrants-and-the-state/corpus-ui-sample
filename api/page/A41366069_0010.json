@@ -1,0 +1,25 @@
+{
+	"anumber": "A41366069",
+	"id": "A41366069_0010",
+	"page_index": 10,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41366069_0010/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 116 adid , THE Municipal Corp. No. Rampura Phul Date: 26th Dec '86 327/86 TH31 TO WHOM so EVER IT MAY CONCERN. This is to state that we do not have any Birth Date record of Mrs. JAGDISH SHEILA SRA ( Maiden name Jagdish Kaur D/o Mr. Hardit Singh Jawandha r/o Rampuraphul, Dist. Bhatinda, Punjab, India) due to the non existence of this Municipality at that time. Sample Registrar Birth & Death Rampuraphul Bhatinda."
+}

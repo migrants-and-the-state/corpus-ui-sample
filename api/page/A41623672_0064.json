@@ -1,0 +1,22 @@
+{
+	"anumber": "A41623672",
+	"id": "A41623672_0064",
+	"page_index": 64,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41623672_0064/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "SECURITY PACIFIC NATIONAL BANK, Screened by NARA, 5/5/2023"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1979, 2023, 1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/5/2023 S SECURITY PACIFIC NATIONAL BANK HUNTINGTON PARK OFFICE, 6125 PACIFIC BLVD., HUNTINGTON PARK . (213) 603-2107 MAILING ADDRESS: POST OFFICE BOX 518, HUNTINGTON PARK, CALIFORNIA 90255 April 24,1987 To whom it may concern: At the request of our customer Ana Morrison, we are writing this letter to confirm a Regular Checking Account carried at this office. The Regular Checking Account was opened July 1979, with a present balance of $618.03. We make no comments concerning prior balances, or the possi- bility of the balance remaining the same. If you have any more questions regarding this account, please feel free to contact us at (213) 603-2107 Sincerely, orthe Martha E. Giusto Branch Secretary S"
+}

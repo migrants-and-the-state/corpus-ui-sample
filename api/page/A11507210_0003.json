@@ -1,0 +1,22 @@
+{
+	"anumber": "A11507210",
+	"id": "A11507210_0003",
+	"page_index": 3,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11507210_0003/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PHS-124 REV. 8-49, CLASS__MEDICAL CERTIFICATE"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1958]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "PHS-124 REV. 8-49 B CLASS MEDICAL CERTIFICATE STATION Houslula DATE 2/21/19 NAME SANITRIK Louis AGE SEX DATE OF ARRIVAL 62 M 2/21 PORT OF ARRIVAL HONO LUCY CARRIER (Identifying marks) QUAR - UHEAA CLASS / MANIFEST NO. LINE The above-described person has this day been examined and found to be afflicted with (diagnosis, including statutory classification when applicable) : PULMONARY FIBROSIS 250 Type of disease or defect, or organ affected (when appropriate) : LUNGS Substantiating data : 1. Laboratory reports: 2. Other medical data, including results of special diagnostic pro- cedures : EXAMINERS: NAME Memory TITLE of for Moc GPO 1958 o 474624"
+}

@@ -1,0 +1,25 @@
+{
+	"anumber": "A56064388",
+	"id": "A56064388_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A56064388_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 8/11/2023, PTP20017344012"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Haiti"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1906, 2023, 2002]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/11/2023 AMBASSADE DES ETAS-UNIS D'AMERIQUE PORT-AU-PRINCE HAITI Date: 04 Jun 2002 CHARITE MILEON RUELLE ASSAD 6 # 2 BIZOTON CARREFOUR PORT-AU-PRINCE HAITI Dear MILEON, CHARITE: This office is ready to begin final processing of the immigrant visa applicant (s) named below in this case. We have scheduled an appointment for a visa interview in the Immigrant Visa section on the date printed below. This letter must be presented upon your arrival at this office on the appointment date. Please see the enclosed information for further instruction about the medical examination required for all intending immigrants. Be sure to read all of the enclosed information and follow the instructions very carefully. When communicating with this office either by telephone or letter, please provide your name and case number exactly as shown in this letter. Sincerely, Chief, Immigrant Visa Branch Visa Appointment Medical Appointment Date Time Date Time 18-Jul-2002 07:00 Case Number: PTP2001734012 Name (P) : MILEON, CHARITE Traveling Applicants: (P) MILEON, CHARITE 12-May-1906 Preference Category: IR5 - HAT Encl: Packet 4"
+}

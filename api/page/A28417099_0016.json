@@ -1,0 +1,22 @@
+{
+	"anumber": "A28417099",
+	"id": "A28417099_0016",
+	"page_index": 16,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28417099_0016/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "WARRANT FOR DEPORTATION OF"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/7/2023 WARRANT FOR DEPORTATION OF (Name of Deportee) Deported at Port of on (port of departure from the U.S.) (date of departure) via (manner of departure; identify airline or ship; if other, state: afoot, car, etc.) Departure witnessed by: (signature and title of officer) If actual departure not witcessed, fully identify source or means of departure verification: If self-deportation pursuant to 8CFR 243.5, check here Officer Executing Warrant: (signature and title) Date Form Completed: Comments: (signature of person fingerprinted (signature of official taking prin right thumb print (title of official taking print"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A43151489",
+	"id": "A43151489_0021",
+	"page_index": 21,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43151489_0021/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DEPARTMENT OF RADIOLOGY, 2472/26/8/91"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1973]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "EAST WEST MEDICAL CENTER PVT. LTD. aveyin 38, GOLF LINKS, NEW DELHI-110003 Phones : 699229-623738-690955 SINCE 1973 DEPARTMENT OF RADIOLOGY KASTURI DEVI 2472/26/8/91 CHEST : PA. Cardiac size is normal. Left lung is clear. Inhomogenous opacities arepresent in tight upper and lower zone. Calcified lesions are present in the right hilar region. :? XX calcified Lymph nodes. ostophrenic angles are clear. DEAA AGRAWAY M.B.B.S.,M.D."
+}

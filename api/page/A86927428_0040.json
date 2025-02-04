@@ -1,0 +1,28 @@
+{
+	"anumber": "A86927428",
+	"id": "A86927428_0040",
+	"page_index": 40,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A86927428_0040/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Birth Certificate, 13091229"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Honduras"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2004, 1937, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/17/2023 THIS IS THE TRANSLATION OF A DOCUMENT WRITTEN IN SPANISH AND PRESENTED TO THE UNDERSIGNED FOR ITS TRANSLATION INTO ENGLISH REPUBLIC OF HODURAS RNP NATIONAL ELECTORAL COURT No. 1309129 BUREAU OF VITAL STATISTICS DIVISIÓN OF THE CIVIL REGISTRY BIRTH CERTIFICATE The undersigned Municipal Civil Registrar CERTIFIES that a record is kept in this office bearing Birth Deed No. 0801 - 1937 - 00357, which was entered in Folio No. 276 of Book No. 00048 for Year 1937 and belongs to: a) VELASQUEZ b) ROVELO First Family Name Second Family Name c) VILMA GLORIA Sex: F Given Names And whose information is as follows: 1.) Birthplace, D.O.B. and Order of Birth a) DISTRITO CENTRAL b) FRANCISCO MORAZAN c) HONDURAS Town Department Country d) NINTH e) JULY f) 1937 g) First Day Month Year Order in a Multiple Birth 2.) Father's Full Name and Nationality: a) VELASQUEZ b) FLORES First Family Name Second Family Names c) FRANCISCO G. d) HONDURAS Given Names A National of 3.) Mother's Full Name and Nationality: a) ROVELO b) SAUCEDA First Family Name Second Family Names c) ELA d) HONDURAS Given Names A National of 4.) authorized margin annotations: (12/07/2004) A rectification note appears."
+}

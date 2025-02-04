@@ -1,0 +1,25 @@
+{
+	"anumber": "A10430675",
+	"id": "A10430675_0013",
+	"page_index": 13,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10430675_0013/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Canadian Immigration Service"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Canada"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1955]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Noyes, Minnesota September 8, 1955 Canadian Immigration Service Emerson, Manitoba, Canada Gentlemen: This is of to assurance from this Service dated September 2, United to advise that the alien, MAO LING LIU who presented 1955, a letter office upon entry to Canada, was readmitted to the your States at this port on September 7, 1955. Yours very truly, Clarence B. McConnell Acting Supervisory Immigrant Inspector CC to St. Paul, Minnesota In"
+}

@@ -1,0 +1,16 @@
+{
+	"anumber": "A70370800",
+	"id": "A70370800_0030",
+	"page_index": 30,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A70370800_0030/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/21/2023 PAT. NAME: MOHAMED HADJI AHMED DATE: 19/12/92 REF. DOCTOR: C.S.S LAB. REF. NR. : MEDICAL PARASITOLOGY STOOL ROUTINE FORMED SAMPLE Wet prep: no pus cells no rbcs no trophozoites conc : no ova or cysts TECHNOLOGIST Joe"
+}

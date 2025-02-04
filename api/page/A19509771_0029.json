@@ -1,0 +1,25 @@
+{
+	"anumber": "A19509771",
+	"id": "A19509771_0029",
+	"page_index": 29,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19509771_0029/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "MEMORANDUM FOR FILE A19 509 771"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["India"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1906, 2023, 1972]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 May 18, 1972 MEMORANDUM FOR FILE A19 509 771 Re: Mohanlal Trivedi The above named subject is an applicant for adjustment of his immigration status under the nonpreference portion of the country of his birth, India. The applicant is seeking a waiver of the requirement of a labor certification set forth in section 212( (a) (14) of the Immigration & Nationality Act, as amended, on the allegation that he will not seek gainful employment due to his advanced age (born 1906). This allegation is supported by the affidavit of support submitted by his son, Subodh Bhatt, which is contained in his file. RECOMMENDATION: In view of the foregoing, it is felt that the subject WILL NOT seek gainful employment and shall continue to be supported by his son. It is therefore recommended that the labor certification required by section 212 (a) (14) of the Immigration & Nationality Act, as amended, be waived. Immigration John J Groth Examiner APPROVED Sol Mark WHC DISAPPEACED"
+}

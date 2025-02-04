@@ -1,0 +1,22 @@
+{
+	"anumber": "A21202301",
+	"id": "A21202301_0026",
+	"page_index": 26,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21202301_0026/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "DCII REPLY, NEC/HP-23079"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/22/2023 NAME DATE OF BIRTH POB SOCIAL SECURITY N M S N REQUEST R QUESTER DCII REPLY TR NGNC LOCATOR NUMBER I DO TOAI DINH 150622 VS NAME 3 NG DATE OF BIRTH POB SOCIAL SECURITY 10 MSN INSNYC 01 1202301 DDIS REQUEST DEPT. SPECIAL I ISTR. COL T REQUEST N REQUEST R A2 / 202301 DCII REQUEST / REPLY CARD 1 DIAGNOSTIC MESSAGE DIS ADP FORM II REV. SEPT 71 FILE 2 N YR LOCATOR NUMBER 10001 NEW LOCATION A 26023 DATE 3 COMPLETED AGENCI'S CHECKED RQSTR 4 OF NAC CASE NO. N * OR DOB LIMITER 5 S NAC TRF SERVICE DATE OF TRANSFER FILE NAME DOB POB SSN MSN RQSTR RQST NO. 6 S YR LOCATOR NUMBER LOCATION NAME DOB POB S SN MSN RQ TR DEPT RQST. NO. 500 SPECIAL : INSTR. : use"
+}

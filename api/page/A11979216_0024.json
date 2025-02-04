@@ -1,0 +1,22 @@
+{
+	"anumber": "A11979216",
+	"id": "A11979216_0024",
+	"page_index": 24,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11979216_0024/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Emanuel Braude Immigration and Naturalization Attorney, LOS 60-3751 Bond # 409771A"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1964]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/29/2023 OK S return Emanuel Braude 356 S. BROADWAY, SUITE 206-207 . LOS ANGELES I3, CALIFORNIA . MAdison 9-2148 Immigration and Naturalization Attorney June 22, 1964 RE\" Delia Isabel Delgado AFOIA (b)(6) encorrect file LOS: 60-3751 Bond # 409771A U. S. I. & N. Service 510 South Vermont Ave., Los Angeles, California. Gentlemen: It will be appreciated if you would remove the earned interest coupons from the above captioned bond, and return same to me. Thanks very much for your courtesy in this matter. Sincerely yours, histrach Emanuel Braude EB/edr. file ug 7/5/64"
+}

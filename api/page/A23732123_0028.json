@@ -1,0 +1,22 @@
+{
+	"anumber": "A23732123",
+	"id": "A23732123_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A23732123_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "LOS ANGELES POLICE DEPARTMENT, 10.4.3"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1980, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 2/10/2023 LOS ANGELES POLICE DEPARTMENT P.O. Box 30158 DARYL F. GATES Los Angeles, Calif. 90030 Chief of Police SECURITY Telephone: (213)-485-2617 Ref#: 10.4.3 TOM BRADLEY July 15, 1980 Mayor To Whom It May Concern: This is to certify that on this date a search was made of the Criminal Index Files of the Los Angeles Police Department against the name Luong Ping Kong with the following results: XXX No criminal record indicated. No felony convictions within the past five years. This is a local search only. The absence of criminal records with any other municipal, county, state or federal jurisdiction should not be implied. This letter is to be used for passport or immigration purposes only and is not a personal recommendation or identification of the above named individual. DARYLOSEIC GATES Chief Police R. BATSON3 Captain Commanding Officer Records - and Identification Division AN EQUAL EMPLOYMENT OPPORTUNITY-AFFIRMATIVE ACTION EMPLOYER"
+}

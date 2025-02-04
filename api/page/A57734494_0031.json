@@ -1,0 +1,25 @@
+{
+	"anumber": "A57734494",
+	"id": "A57734494_0031",
+	"page_index": 31,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A57734494_0031/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Certificate Preparation Sheet, Form N-649"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Haiti"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [2011, 2023, 1913]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 DEPARTMENT Certificate Preparation Sheet is USCIS HOMELAND LAND SECURITY Department of Homeland Security Form N-649 U.S. Citizenship and Immigration Services Internal Use A # A 057 734 494 Daytime Phone # (617) 942-7912 NAME (If name Change, ENTER new Name): Check BOX if there is a change of name: PALMESOIS (FIRST) (MIDDLE) BENOIT (LAST) (Check Sex) MALE: X Date of birth: 03/24/1913 FEMALE: (MM/DD/YYYY) Height: 5 6 Marital Status: Widowed (Feet) (Inches) Country of Former Nationality: Haiti (Enter Actual Name of Country) WEST ROXBURY (RESIDENTIAL CITY) MASSACHUSETTS (RESIDENTIAL STATE/COUNTRY) Form N-649 (Rev. 2011)"
+}

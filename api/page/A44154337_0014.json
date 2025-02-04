@@ -1,0 +1,25 @@
+{
+	"anumber": "A44154337",
+	"id": "A44154337_0014",
+	"page_index": 14,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44154337_0014/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Information for Criminal Records Search"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1993, 2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 8/17/2023 Part 5. Information for Criminal Records Search Write your INS \"A\"- number here: AC44154337 Note: The categories below are those required by the FBI. See Instructions for more information. A. Gender B. Height C. Weight Male Female 5 Feet 6 Inches 174 Pounds D. Race White Asian or Pacific Islander Black American Indian or Alaskan Native Unknown E. Hair color Black Brown Blonde Gray White Red Sandy Bald (No Hair) F. Eye color Brown Blue Green Hazel Gray Black Pink Maroon Other Part 6. Information About Your Residence and Employment A. Where have you lived during the last 5 years? Begin with where you live now and then list every place you lived for the last 5 years. If you need more space, use a separate sheet of paper. Dates (Month/Year) Street Number and Name, Apartment Number, City, State, Zip Code and Country From To Current Home Address - Same as Part 4.A 09/1993 Present B. Where have you worked (or, if you were a student, what schools did you attend) during the last 5 years? Include military service. Begin with your current or latest employer and then list every place you have worked or studied for the last 5 years. If you need more space, use a separate sheet of paper. Employer or Employer or School Address Dates (Month/Year) Your School Name (Street, City and State) From To Occupation RETIRED Form N-400 (Rev. 05/31/01)N Page 3"
+}

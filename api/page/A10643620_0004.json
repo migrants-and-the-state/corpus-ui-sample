@@ -1,0 +1,25 @@
+{
+	"anumber": "A10643620",
+	"id": "A10643620_0004",
+	"page_index": 4,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10643620_0004/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1911, 1957]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "G-14 (3-5-56) UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service Initials: Date: Your communication is returned, as this office is unable to identify your case. Please fill in the blanks below and send this letter, together with your attached communication, back to this office. Any other file Your \"A-\" (Alien Registration) No. No., if known Your Full Name Concepeion Valdey Complete Present Address 230 So Into Ht. L.A. Former Address in U. S. Birthdate 1911-2-5 Birthplace Rivas, Njcaragna o.An Date of Entry June 25 Place of entry In Angeles Ealif- Type of Entry (Temporary Residence Visa, Reentry Permit, etc.) Visitor, Student, Permanent Residente Destination in U.S. as Shown on Entry Document Name Used at Time of Arrival fame Other Names Used at Any Time - If you filed an application, please also fill in below: Type of Application no - I- 15/ Date of Application Address you showed on application BERAICE HVL FORM I-151 JAN rem Issued 25 1957 railed pron 8 2 GPO 971271"
+}

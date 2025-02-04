@@ -1,0 +1,22 @@
+{
+	"anumber": "A11799647",
+	"id": "A11799647_0018",
+	"page_index": 18,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11799647_0018/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "BEVERLYy WILSHIRE, GW:lt"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1958]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 5/9/2023 BEVERIY WILSHIIRK November 21, 1958 TO WHOM IT MAY CONCERN: This is to verify that Julien Plancarte Aranda, Social Security No. 568-56-005, who resides at 1651 West 22nd Street, Los Angeles 7, California has been employed as a dishwasher at the Beverly Wilshire Hotel since July 7, 1958. During that time he has always performed his work satisfactoryily and his employment with us is of a permanent nature. His salary is $10.35 per day, in addition to meals, 40 hours per week. Very truly yours, BEVERLY WILSHIRE HOTEL George White georgilitate Auditor GW:1t Sharp Lid HOTELS THE BEVERLY WILSHIRE, Beverly Hills, Calif.. phone Crestview 5-4282. cable Bevshire. teletype BV 6644. RCA tex NY 4244 THE GOTHAM, New York THE STANHOPE. New York . THE SARANAC INN. on Upper Saranae Lake. N. Y."
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A13833785",
+	"id": "A13833785_0028",
+	"page_index": 28,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13833785_0028/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "POST OFFICE DEPARTMENT, POD Form 3811"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1985]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "POST OFFICE DEPARTMENT PINALTY FOR PRIVATE USE TO AVOID OFFICIAL BUSINESS PAYMENT OF POSTAGE $300 POSTMARK o NET A13 833 785 44600 rjw PR CONVENING OFFICE MAY 18 -PM FOR 1985 PEACE 07666 INSTRUCTIONS: Fill in items below and complete instructions on other side, if applicable. Moisten gummed ends, attach and hold firmly to Back of article. Print on RETURN front of article RETURN RECEIPT REQUESTED. TO REGISTERED NO. NAME OF SENDER IMMIGRATION and NATURALIZATION SERVICE CERTIFIED NO. STREET AND NO. OR P. O. BOY 25770 1060 BROAD STREET INSURED NO. CITY, STATE, AND ZIP CODE NEWARK, (2) NEW JERSEY (55-10-71548-6-F"
+}

@@ -1,0 +1,22 @@
+{
+	"anumber": "A44606320",
+	"id": "A44606320_0092",
+	"page_index": 92,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44606320_0092/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "MARRIAGE CERTIFICATE, OLPAD ATODRA BARBODAN PAL & ADagan"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1325, 2023, 1927]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/14/2023 MARRIAGE CERTIFICATE C RANDER KAZI OF RLIAS FRANCY Khanka Shareef Rander, District Surat. & assive 20th Hebrungl061 This is to certify that the marriage of Mahmoodmian son of Mohamed kaged about 22 years residing Image at Rander District Surat wich Flatina BiBi Mirga Mahmood daughter of Mirga Abdulla kayed about 16 years residing at Rander District Sural was performed at Rander District Surat on Monday the 27 of is guns 1927 Corresponding with the 26th day of filhaj 1325 Hagri years layed Ibrahim Refai Kazi of Rander OLPAD ATODRA BARBODAN PAL & ADAGAN"
+}

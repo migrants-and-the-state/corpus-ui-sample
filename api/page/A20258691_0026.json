@@ -1,0 +1,25 @@
+{
+	"anumber": "A20258691",
+	"id": "A20258691_0026",
+	"page_index": 26,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20258691_0026/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "THE WICHITA RADIOLOGICAL GROUP P.A., 22648"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/21/2023 S.E. HERSHORN, M.D. W.T. BRAUN 111, M.D. I.E. RHODES, M.D. THE WICHITA RADIOLOGICAL GROUP P.A. PAUL A. BAUMANN, M.D. PETER TORBEY, M.D. 1148 S. HILLSIDE . SUITE 114 BRADFORD F. REEVES, M.D. TED. W. WOLFE, M.D. 686-9173 NAME SEX AGE DATE DOCTOR X-RAY NO. LEANG, YUE TSI M 63 8-24-73 Lindley 22648 PA CHEST: PA film of the chest. The lung fields are clear. The heart, diaphragms and mediastinal structures appear normal. IMPRESSION: Normal chest. IER: Amo I. E. Rhodes, M. D. Evant RhodenME"
+}

@@ -1,0 +1,16 @@
+{
+	"anumber": "A20873001",
+	"id": "A20873001_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20873001_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "British JAMAICA U.S. SEP 19'78 POSTAGE airways John F. Kennedy International Airport NY H 15 Jamaica, N. .Y. 11430 Mr. Richard F. Hamm, , Acting Supervisory Deportation Officer US Department of Justice Immigration & Naturalization Service US Court House Buffalo, New York 14202"
+}

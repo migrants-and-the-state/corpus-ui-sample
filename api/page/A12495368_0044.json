@@ -1,0 +1,25 @@
+{
+	"anumber": "A12495368",
+	"id": "A12495368_0044",
+	"page_index": 44,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12495368_0044/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Title: United States Department of Justice, Immigration and Naturalization Service\\nForm Number: I-485"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["United States"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1967]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service Officer's Review and Action Sheet Form No. I-485 File No. A12495368 The following documents or actions are required before decision may be made in this case: V/P FILED APPROVED PRIORITY DATE PREFERENCE Officer's Requested Received Date Document as Action Required DATE Initials Fee Signature (Check) (Check) Fingerprints Photographs Birth Record = Financial Record Passport Information I-94 / EXT. OF STAY G-325A (1) (2) (3) I-483 (1) (2) I-484 Hearing Sched. for (1) (2) Medical Sched. for (1) (2) I-181 (non quota) (quota) G-601 Letter I-530 I-161 I-156 QUOTA INFORMATION NATIONALITY CODE DECISION: (Approved) (Denied) RECOMMEND Approom and REMARKS: (If denied, state reasons) COMPLETION OF FBI CHELIS For the District Director: FEB 1 6 1967 Date of Decision Samuel with Signature of Officer Keep this sheet on top of all material in file until initial decision is made Form I=468 (Rev. 5-10-60) GPO 907-012"
+}

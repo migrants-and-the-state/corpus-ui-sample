@@ -1,0 +1,22 @@
+{
+	"anumber": "A22497006",
+	"id": "A22497006_0073",
+	"page_index": 73,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22497006_0073/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 6/8/2023"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1978, 1985, 2023, 1979]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 6/8/2023 January 10, 1979 To whom it may concers This is to state that Maria Flores is currently employed by El Semaforo Plastic Covers, as and operator. Mrs. Flores has been with us since September 1978 with a wage of $150 a week. S Incerely Luis De La Rosa Owner lr Luis De La Rosa Subscribe and sworn to before me by ** this 10th day of january 1979 Jaime C. Santa Notary Public My comm. exp. May 3, 1985"
+}

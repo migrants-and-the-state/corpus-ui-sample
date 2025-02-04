@@ -1,0 +1,22 @@
+{
+	"anumber": "A17181791",
+	"id": "A17181791_0037",
+	"page_index": 37,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17181791_0037/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "PHYSICIAN'S DIAGNOSIS"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 9/21/2023 PHYSICIAN'S DIAGNOSIS (Complete appropriately below and forward to local Health Officer) SYPHILIS - UNDER TREATMENT (Provided patient is COMPLETELY identified on reverse side, checking below constitutes a CONFIDENTIAL morbidity report) INFECTIOUS * NON-INFECTIOUS Primary (chancre present, serology Late Latent (asymptomatic infection of positive or negative) two or more years duration) Secondary (skin, mucosal or other Neurosyphilis, asymptomatic general manifestations present) Early Latent (asymptomatic infection Neurosyphilis, clinical of less than two years duration) Immediate contact interview of infectious Cardiovascular cases is imperative for venereal disease control. Check below: Other Late (specify type) Health Department Interviewer has been requested by telephone Please telephone me regarding confidential contact interview with patient Congenital (Maternal infection confirmed) DATE of PRESENT treatment TREATMENT NOT INDICATED Previous adequate treatment Not syphilis. DATE of PREVIOUS treatment PHYSICIAN'S SIGNATURE"
+}

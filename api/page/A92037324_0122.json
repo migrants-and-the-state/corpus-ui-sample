@@ -1,0 +1,19 @@
+{
+	"anumber": "A92037324",
+	"id": "A92037324_0122",
+	"page_index": 122,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A92037324_0122/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "male"
+		},
+		"doctype": {
+			"ms_doctype_v1": "misc"
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "ORIGINAL SEEN & RETURNED UMV CALIFORNIA IDENT IFICATION ARD A1786040 EXPIRES: 02-02-97 CANDELARIA ESPINOZA 17928 INGOMAR ST RESEDA CA 91335 SEX:M HAIR : BLN EYES:BRN HT:5-00 WT : 154 DOB:02-02-14 H SENIOR CITIZEN Camilaba Es renome X 07-03-87 637 40 nn NOT AMINATE"
+}

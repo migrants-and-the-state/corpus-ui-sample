@@ -1,0 +1,22 @@
+{
+	"anumber": "A34698683",
+	"id": "A34698683_0009",
+	"page_index": 9,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34698683_0009/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "Screened by NARA, 7/29/2023, G-361"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Sereened by NARA 7/28/2023 NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. CHAUDHRY, ABDUL MAJID C-360 - A-34-698-683 ALIAS - WAIVER P.O.E. CODE DATE OF ENTRY CODE TYPE ADM QUOTA AREA CODE NYC 02-21-78 IR5 MO-DAY-YR OF BIRTH AGE COUNTRY OF BIRTH CODE OCCUPATION CODE CERT CODE 04-15-12 65 PAKIS 258 COUNTRY LAST RES. CODE M-S-W-D-SEP. CODE SEX NATIONALITY CODE STATE/AREA CODE 258 77 STREET ADDRESS (City, State, and Zip Code) 306 BRUCE ST., YREKA, CALIF. 9609 FCO DATE FCO DATE FCO DATE FCO DATE SFR 04-10-78 105 072 FCO DATE FCO DATE FCO DATE FCO DATE FORM G-361 (VISA 4-1-76) N INDEX CARD 01295 DUPLICATE"
+}

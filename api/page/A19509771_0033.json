@@ -1,0 +1,25 @@
+{
+	"anumber": "A19509771",
+	"id": "A19509771_0033",
+	"page_index": 33,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19509771_0033/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "letter"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "THE GREEN POINT SAVINGS BANK, NA No. 40"
+		},
+		"countries": {
+			"ms_countries_nlp_v1": ["Sudan"]
+		},
+		"years": {
+			"ms_years_nlp_v1": [1971, 2023, 1972]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/13/2023 THE GREEN POINT SAVINGS BANK CHARTERED 1868 BROOKLYN, NEW YORK Office At: Flushing New York Date December 24, 1971 CITY AND STATE OF NEW YORK ) COUNTY OF SS Queens ) To the American Consul, Khartoum , Sudan Dear Sir: This is to certify that Mr. Subodh H. Bhatt whose signature appears below, opened account # 7-2149 on , which account shows a balance of $6,787.99 at the present time. The title of this account is Mrs. Ranjan S. Bhatt or Mr. Subodh H. Bhatt No considerable portion of the present balance has been deposited during the past year except: For a period of three months , the average balance of said account has been in excess of $ 4,500.00 Very truly yours, THE GREEN POINT SAVINGS BANK Officer Sworn to before me this 24th day of Sender H. Bhatt December in the year 1971 Signature Ein R niel EINAR R. MALAND Notary Public, State of New York No. 30-7677750 Term Expires March 30. 1972 Qualified in Nassau County MEMBER FEDERAL DEPOSIT INSURANCE CORPORATION NA No. 40"
+}

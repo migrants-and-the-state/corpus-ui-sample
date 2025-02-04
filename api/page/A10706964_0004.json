@@ -1,0 +1,22 @@
+{
+	"anumber": "A10706964",
+	"id": "A10706964_0004",
+	"page_index": 4,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10706964_0004/full/max/0/default.jpg"
+	},
+	"fields": {
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "RESULT OF EXAMINATION, 325B"
+		},
+		"years": {
+			"ms_years_nlp_v1": [1987]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "RESULT OFEXAMINATION COURT ACTION English: Speaks Reads Write Classes Govt. ok Date DENIED G-325 ID. G-325B Grounds G-325 Rec. Br. N-426 Examiner Cont'd G-325C Other Cont'd (If Requested) Eligibility 101 (f): OK Action or documents still required: Documents presented: Apc-I Investigation waived. Petitioner under oath approved all the preliminaryinvestgation. Dadagant statements made at MAY 11 1987 Recommendation , 19 Preliminary and Designated Examiner (Date) Recommendation , 19 Preliminary Examiner (Date)"
+}

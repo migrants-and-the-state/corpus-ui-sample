@@ -1,0 +1,25 @@
+{
+	"anumber": "A41539277",
+	"id": "A41539277_0022",
+	"page_index": 22,
+	"resources": {
+		"full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41539277_0022/full/max/0/default.jpg"
+	},
+	"fields": {
+		"sex": {
+			"ms_sex_llm_v1": "female"
+		},
+		"doctype": {
+			"ms_doctype_v1": "form"
+		},
+		"form_title": {
+			"ms_form_title_llm_v1": "CERTIFICATE OF BAPTISM"
+		},
+		"years": {
+			"ms_years_nlp_v1": [2023, 1930, 1927, 1928]
+		}
+	},
+	"is_g325a": false,
+	"is_cert_naturalization": false,
+	"full_text": "Screened by NARA, 7/31/2023 CERTIFICATE OF BAPTISM. 1930 Christian Name Sex Date of Birth Sugra Henratic female 15th ma 1927 Place of Birth Date of Baptism Place of Baptism muttre 21st non 1928 m. E. church mutina Name of Parents Abode Occuptionor Profession Theodou A-Razzaq m. E. m. comfound math Sinnice Certified that this Buptism was performed by the undersigned, and that a record corresponding to the entries herein is recorded in the Register kept in connection with the M. E. Church at muth Minister S. S. Budden Witnesses I. mam Name of D. S. 31.8.1930 Ong Seent Retenna pact ) 110"
+}
