@@ -1,4 +1,4 @@
-import{a as e,t as m,b as o}from"../chunks/C_4h4-BJ.js";import"../chunks/C_mu5TK4.js";import{f as l,s as f,n as a}from"../chunks/b7WM4A5n.js";import{b as g}from"../chunks/X4V7u1JQ.js";import{B as h,a as n}from"../chunks/D_B8LB_B.js";var $=m("<!> <!>",1),q=m(`<!> <h1 class="mb-4">About + Credits</h1> <p class="py-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend diam orci, sed aliquet
+import{a as e,t as m,b as o}from"../chunks/C_4h4-BJ.js";import"../chunks/C_mu5TK4.js";import{f as l,s as f,n as a}from"../chunks/b7WM4A5n.js";import{b as g}from"../chunks/BeZKp-6M.js";import{B as h,a as n}from"../chunks/D_B8LB_B.js";var $=m("<!> <!>",1),q=m(`<!> <h1 class="mb-4">About + Credits</h1> <p class="py-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend diam orci, sed aliquet
 	enim malesuada sit amet. Sed sollicitudin viverra elit, non vehicula lacus posuere ut. Suspendisse
 	et porttitor mauris. Nam at convallis leo. Vestibulum cursus, magna vitae venenatis porttitor,
 	ipsum mi posuere est, at accumsan dolor tellus vitae purus. Suspendisse porttitor gravida laoreet.
